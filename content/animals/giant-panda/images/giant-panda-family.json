@@ -1,0 +1,35 @@
+{
+  "id": "giant-panda-family",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-family",
+  "fileName": "giant-panda-family-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Panda_Mom_and_cub_play_%2825114209140%29.jpg",
+  "width": 2030,
+  "height": 2410,
+  "alt": "Mother giant panda playing with her cub on grass",
+  "caption": "A mother panda cares for her cub alone, teaching it to climb and eat bamboo.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "behavior"
+  ],
+  "location": "China",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
+  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "attributionText": "Photo by J. Young P via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Mom_and_cub_play_(25114209140).jpg\">J. Young P</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Mom_and_cub_play_(25114209140).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panda_Mom_and_cub_play_(25114209140).jpg",
+    "creatorName": "J. Young P",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panda_Mom_and_cub_play_(25114209140).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-21T17:10:50.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

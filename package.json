@@ -6,12 +6,28 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "content:validate": "tsx scripts/validate-content.ts",
+    "new-animal": "tsx scripts/new-animal.ts",
+    "create-animal": "tsx scripts/create-animal.ts",
+    "import-animal": "tsx scripts/import-animal.ts",
+    "import-bulk": "tsx scripts/import-bulk.ts",
+    "refresh-animal": "tsx scripts/refresh-animal.ts"
   },
   "dependencies": {
+    "@mdx-js/react": "^3.1.1",
+    "@next/mdx": "^16.2.9",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^1.21.0",
     "next": "16.2.9",
+    "next-mdx-remote": "^6.0.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "remark-gfm": "^4.0.1",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -21,6 +37,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4",
+    "tsx": "^4.20.3",
     "typescript": "^5"
   }
 }

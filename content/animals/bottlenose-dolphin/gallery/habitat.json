@@ -1,0 +1,12 @@
+{
+  "id": "dolphin-gallery-habitat",
+  "animalSlug": "bottlenose-dolphin",
+  "galleryType": "topic",
+  "slug": "habitat",
+  "title": "Bottlenose Dolphin Habitat Gallery",
+  "metaTitle": "Bottlenose Dolphin Habitat Gallery",
+  "metaDescription": "See bottlenose dolphin habitat photos from bays, coasts, and open water.",
+  "intro": "Habitat images help explain the marine environments dolphins use.",
+  "imageSlugs": ["dolphin-habitat", "dolphin-hero"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

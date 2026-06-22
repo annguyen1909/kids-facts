@@ -1,0 +1,34 @@
+{
+  "id": "red-panda-diet",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-diet",
+  "fileName": "red-panda-diet.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ailurus_fulgens_eating.JPG",
+  "width": 3400,
+  "height": 3400,
+  "alt": "Red panda eating bamboo leaves",
+  "caption": "Red pandas spend much of their day eating bamboo leaves and shoots.",
+  "attributionText": "Photo by Ericj via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_eating.JPG\">Ericj</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_eating.JPG",
+    "creatorName": "Ericj",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:44:18.785Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "diet"
+  ],
+  "location": "Bamboo forest",
+  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
+  "updatedAt": "2026-06-21T16:44:18.785Z"
+}

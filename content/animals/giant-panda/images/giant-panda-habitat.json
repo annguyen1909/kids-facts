@@ -1,0 +1,35 @@
+{
+  "id": "giant-panda-habitat",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-habitat",
+  "fileName": "giant-panda-habitat-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Pandas%21%21_%28GIANT_PANDA-WOLONG-SICHUAN-CHINA%29_%282150600169%29.jpg",
+  "width": 4124,
+  "height": 2912,
+  "alt": "Giant pandas in bamboo forest habitat at Wolong Nature Reserve, Sichuan, China",
+  "caption": "Wild giant pandas live in cool, misty bamboo forests on mountain slopes in central China.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "habitat"
+  ],
+  "location": "Wolong Nature Reserve, Sichuan, China",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
+  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "attributionText": "Photo by Chi King via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pandas!!_(GIANT_PANDA-WOLONG-SICHUAN-CHINA)_(2150600169).jpg\">Chi King</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pandas!!_(GIANT_PANDA-WOLONG-SICHUAN-CHINA)_(2150600169).jpg",
+    "creatorName": "Chi King",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T17:10:50.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

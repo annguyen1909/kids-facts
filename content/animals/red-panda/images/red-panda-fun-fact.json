@@ -1,0 +1,34 @@
+{
+  "id": "red-panda-fun-fact",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-fun-fact",
+  "fileName": "red-panda-fun-fact.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Red_panda_feeding_using_false_thumb%2C_Bratislava%2C_Jan_2023.jpg",
+  "width": 6016,
+  "height": 4012,
+  "alt": "Red panda using its false thumb to hold bamboo while feeding",
+  "caption": "A red panda's extra wrist bone works like a thumb, helping it grasp bamboo stems and branches.",
+  "attributionText": "Photo by Soggy Pandas via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_panda_feeding_using_false_thumb,_Bratislava,_Jan_2023.jpg\">Soggy Pandas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_panda_feeding_using_false_thumb,_Bratislava,_Jan_2023.jpg",
+    "creatorName": "Soggy Pandas",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:44:18.785Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact",
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Bratislava Zoo",
+  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
+  "updatedAt": "2026-06-21T16:44:18.785Z"
+}

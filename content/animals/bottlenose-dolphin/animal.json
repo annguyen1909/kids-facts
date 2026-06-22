@@ -1,0 +1,75 @@
+{
+  "id": "animal-bottlenose-dolphin",
+  "slug": "bottlenose-dolphin",
+  "name": "Bottlenose Dolphin",
+  "commonNames": ["Common bottlenose dolphin"],
+  "scientificName": "Tursiops truncatus",
+  "summary": "Bottlenose dolphins are intelligent marine mammals that use sound to explore the ocean, find food, and communicate with their pod.",
+  "heroTitle": "Bottlenose Dolphin Facts for Kids",
+  "metaTitle": "Bottlenose Dolphin Facts for Kids",
+  "metaDescription": "Bottlenose dolphin facts for kids with photos, ocean habitat, diet, pod behavior, and supporting learning pages.",
+  "searchIntents": ["bottlenose dolphin facts for kids", "what do dolphins eat", "where do dolphins live"],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Delphinidae",
+    "genus": "Tursiops",
+    "species": "T. truncatus"
+  },
+  "classificationLabels": ["mammal", "carnivore", "medium"],
+  "habitats": ["ocean", "coast", "bay"],
+  "continents": ["Worldwide"],
+  "countries": ["United States", "Australia", "South Africa"],
+  "biomes": ["marine"],
+  "dietType": "Carnivore",
+  "dietItems": ["fish", "squid"],
+  "lifespan": {
+    "wild": "40 to 60 years"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "13 feet"
+  },
+  "weight": {
+    "min": "300 pounds",
+    "max": "1400 pounds"
+  },
+  "speed": "Up to 20 mph",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": ["pod living", "echolocation", "surface breathing"],
+  "adaptations": ["blowhole", "streamlined body", "echolocation"],
+  "predators": ["sharks", "orcas"],
+  "prey": ["fish", "squid"],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 12 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "Dolphins sleep with one half of the brain at a time.",
+    "They use echolocation underwater.",
+    "A group of dolphins is called a pod.",
+    "Dolphins breathe air through a blowhole."
+  ],
+  "faq": [
+    {
+      "question": "Are dolphins fish?",
+      "answer": "No. Dolphins are mammals because they breathe air and feed milk to their young.",
+      "targetPage": "core"
+    },
+    {
+      "question": "What do bottlenose dolphins eat?",
+      "answer": "They eat fish, squid, and other small sea animals.",
+      "targetPage": "diet"
+    }
+  ],
+  "relatedAnimals": ["lion", "african-elephant"],
+  "comparisonCandidates": ["lion"],
+  "galleryIds": ["dolphin-gallery-main", "dolphin-gallery-habitat"],
+  "supportingPageIds": ["dolphin-diet", "dolphin-habitat", "dolphin-behavior"],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "publishedAt": "2026-06-21T00:00:00.000Z"
+}

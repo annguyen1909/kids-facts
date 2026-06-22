@@ -1,0 +1,12 @@
+{
+  "id": "lion-gallery-diet",
+  "animalSlug": "lion",
+  "galleryType": "topic",
+  "slug": "diet",
+  "title": "Lion Diet & Hunting Gallery",
+  "metaTitle": "Lion Diet & Hunting Gallery for Kids",
+  "metaDescription": "See lion hunting and feeding photos that show how carnivores catch prey and eat on the savanna.",
+  "intro": "Diet galleries connect teeth, teamwork, and prey to what lions eat in the wild.",
+  "imageSlugs": ["lion-hunting", "lion-eating", "lion-closeup"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

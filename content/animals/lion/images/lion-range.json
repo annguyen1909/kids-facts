@@ -1,0 +1,36 @@
+{
+  "id": "lion-range",
+  "animalSlug": "lion",
+  "slug": "lion-range",
+  "fileName": "lion-open-country-range.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/African-landscape-lion_%28Unsplash%29.jpg/1920px-African-landscape-lion_%28Unsplash%29.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Lion in wide African grassland landscape",
+  "caption": "Open country shows the kind of spaces wild lions patrol.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "range",
+  "galleryTopics": [
+    "range",
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "habitat"
+  ],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "attributionText": "Photo by Unsplash contributor via Wikimedia Commons, CC0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African-landscape-lion_(Unsplash).jpg",
+    "creatorName": "Unsplash contributor",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+}

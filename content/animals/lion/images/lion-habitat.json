@@ -1,0 +1,36 @@
+{
+  "id": "lion-habitat",
+  "animalSlug": "lion",
+  "slug": "lion-habitat",
+  "fileName": "lion-walking-savanna-grass.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Male_lion_on_savanna.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Male lion standing in African savanna grassland",
+  "caption": "Lions live in open savannas where grass and scattered trees provide cover.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "habitat"
+  ],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "attributionText": "Photo by McD22 via Wikimedia Commons, CC BY 2.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_lion_on_savanna.jpg",
+    "creatorName": "McD22",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+}

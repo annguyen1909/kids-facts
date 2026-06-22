@@ -1,0 +1,18 @@
+{
+  "id": "elephant-baby",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-baby",
+  "fileName": "african-elephant-calf-walking.webp",
+  "src": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1200&q=80",
+  "width": 1200,
+  "height": 800,
+  "alt": "Young elephant calf walking near adults",
+  "caption": "Baby elephants stay in the middle of the herd where it is safer.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "baby",
+  "galleryTopics": ["baby", "family"],
+  "featuredOnPages": ["gallery", "behavior"],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lion-gallery-habitat",
+  "animalSlug": "lion",
+  "galleryType": "topic",
+  "slug": "habitat",
+  "title": "Lion Habitat Gallery",
+  "metaTitle": "Lion Habitat Gallery",
+  "metaDescription": "See lion habitat photos showing savannas, grasslands, and open country.",
+  "intro": "Habitat galleries help children connect land, cover, and prey to where lions live.",
+  "imageSlugs": ["lion-habitat", "lion-range", "lion-asiatic", "lion-hero"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

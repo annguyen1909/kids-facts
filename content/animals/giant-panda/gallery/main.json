@@ -1,0 +1,22 @@
+{
+  "id": "giant-panda-gallery-main",
+  "animalSlug": "giant-panda",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Giant Panda Photo Gallery",
+  "metaTitle": "Giant Panda Photo Gallery",
+  "metaDescription": "Browse a giant panda photo gallery with wildlife images for kids.",
+  "intro": "Explore giant panda photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "giant-panda-hero",
+    "giant-panda-habitat",
+    "giant-panda-diet",
+    "giant-panda-baby",
+    "giant-panda-family",
+    "giant-panda-range",
+    "giant-panda-size",
+    "giant-panda-closeup",
+    "giant-panda-fun-fact"
+  ],
+  "updatedAt": "2026-06-21T17:07:06.031Z"
+}

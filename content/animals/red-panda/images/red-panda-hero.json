@@ -1,0 +1,35 @@
+{
+  "id": "red-panda-hero",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-hero",
+  "fileName": "red-panda-hero.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Red_Panda7.jpg",
+  "width": 7808,
+  "height": 5204,
+  "alt": "Red panda resting on a mossy branch in Langtang National Park, Nepal",
+  "caption": "Wild red pandas live in cool, forested mountains where they climb and rest in trees.",
+  "attributionText": "Photo by Mildeep via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Panda7.jpg\">Mildeep</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda7.jpg",
+    "creatorName": "Mildeep",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:44:18.785Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero",
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core",
+    "gallery"
+  ],
+  "location": "Langtang National Park, Nepal",
+  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
+  "updatedAt": "2026-06-21T16:44:18.785Z"
+}

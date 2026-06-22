@@ -1,0 +1,33 @@
+{
+  "id": "tiger-closeup",
+  "animalSlug": "tiger",
+  "slug": "tiger-closeup",
+  "fileName": "tiger-closeup.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg",
+  "width": 2112,
+  "height": 1408,
+  "alt": "Close-up of an Amur tiger eye and face with whiskers and stripes",
+  "caption": "A tiger's whiskers, sharp teeth, and night vision help it hunt in forest shadows.",
+  "attributionText": "Photo by Keven Law via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg\">Keven Law</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg",
+    "creatorName": "Keven Law",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:58:28.827Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
+  "updatedAt": "2026-06-21T16:58:28.827Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tiger-habitat",
+  "animalSlug": "tiger",
+  "slug": "tiger-habitat",
+  "fileName": "tiger-habitat.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg",
+  "width": 4057,
+  "height": 2705,
+  "alt": "Bengal tiger standing in dry forest habitat at Tadoba Andhari Tiger Reserve, India",
+  "caption": "Wild tigers live in forests, grasslands, and wetlands across Asia.",
+  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg",
+    "creatorName": "Yathin S Krishnappa",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:58:28.827Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "habitat"
+  ],
+  "location": "Tadoba Andhari Tiger Reserve, India",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
+  "updatedAt": "2026-06-21T16:58:28.827Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "lion-family",
+  "animalSlug": "lion",
+  "slug": "lion-family",
+  "fileName": "lion-pride-resting-together.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lions_%28Panthera_leo%29_pride_..._%2852742147651%29.jpg/1920px-Lions_%28Panthera_leo%29_pride_..._%2852742147651%29.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Lion pride resting together on the savanna",
+  "caption": "Prides spend many hours resting together when the day is hot.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "life-cycle"
+  ],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lions_(Panthera_leo)_pride_..._(52742147651).jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "giant-panda-baby",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-baby",
+  "fileName": "giant-panda-baby-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Panda_Cub_from_Wolong%2C_Sichuan%2C_China.JPG",
+  "width": 1728,
+  "height": 1152,
+  "alt": "Seven-month-old giant panda cub at Wolong Nature Reserve in Sichuan, China",
+  "caption": "Panda cubs are born tiny and pink, growing their black-and-white fur over several weeks.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wolong Nature Reserve, Sichuan, China",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
+  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "attributionText": "Photo by Sheila Lau via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG\">Sheila Lau</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG",
+    "creatorName": "Sheila Lau",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-21T17:10:50.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

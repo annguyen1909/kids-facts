@@ -1,0 +1,12 @@
+{
+  "id": "elephant-gallery-main",
+  "animalSlug": "african-elephant",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "African Elephant Photo Gallery",
+  "metaTitle": "African Elephant Photo Gallery",
+  "metaDescription": "Browse African elephant photos showing herds, trunks, habitat, and calves.",
+  "intro": "This gallery supports both the core page and image search visibility.",
+  "imageSlugs": ["elephant-hero", "elephant-family", "elephant-diet", "elephant-baby"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

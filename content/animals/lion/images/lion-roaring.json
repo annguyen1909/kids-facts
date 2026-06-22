@@ -1,0 +1,35 @@
+{
+  "id": "lion-roaring",
+  "animalSlug": "lion",
+  "slug": "lion-roaring",
+  "fileName": "male-lion-roaring-savanna.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lion%2C_Mid-Roar.jpg/1920px-Lion%2C_Mid-Roar.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Male lion roaring with mouth wide open",
+  "caption": "A lion's roar can carry for miles across open savanna.",
+  "attributionText": "Photo by Ross Elliott via Wikimedia Commons, CC BY 2.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion,_Mid-Roar.jpg",
+    "creatorName": "Ross Elliott",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact",
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "behavior",
+    "adaptations"
+  ],
+  "location": "Savanna",
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "red-panda-gallery-main",
+  "animalSlug": "red-panda",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Red panda Photo Gallery",
+  "metaTitle": "Red panda Photo Gallery",
+  "metaDescription": "Browse a red panda photo gallery with wildlife images for kids.",
+  "intro": "Explore red panda photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "red-panda-hero",
+    "red-panda-habitat",
+    "red-panda-diet",
+    "red-panda-baby",
+    "red-panda-family",
+    "red-panda-range",
+    "red-panda-size",
+    "red-panda-closeup",
+    "red-panda-fun-fact"
+  ],
+  "updatedAt": "2026-06-21T16:39:27.613Z"
+}

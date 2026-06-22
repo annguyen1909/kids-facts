@@ -1,0 +1,128 @@
+{
+  "id": "animal-tiger",
+  "slug": "tiger",
+  "name": "Tiger",
+  "commonNames": [
+    "Tiger",
+    "Bengal Tiger",
+    "Siberian Tiger",
+    "Amur Tiger"
+  ],
+  "scientificName": "Panthera tigris",
+  "summary": "Tigers are the largest wild cats in the world. They live alone in Asian forests and grasslands, hunt large prey at night, and are famous for their orange fur and black stripes.",
+  "heroTitle": "Tiger Facts for Kids",
+  "metaTitle": "Tiger Facts for Kids | Habitat, Diet, Stripes & Photos",
+  "metaDescription": "Discover tiger facts for kids with photos, Asian habitat, hunting diet, cub life, and conservation. Learn where tigers live, what they eat, and why stripes help them hide.",
+  "searchIntents": [
+    "tiger facts for kids",
+    "what do tigers eat",
+    "where do tigers live",
+    "how big is a tiger",
+    "are tigers endangered",
+    "why do tigers have stripes"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "species": "P. tigris"
+  },
+  "classificationLabels": ["mammal", "carnivore", "large"],
+  "habitats": ["tropical forest", "grassland", "mangrove", "temperate forest"],
+  "continents": ["Asia"],
+  "countries": ["India", "Nepal", "Bangladesh", "Bhutan", "China", "Russia", "Indonesia", "Malaysia", "Thailand"],
+  "biomes": ["tropical forest", "temperate forest", "savanna", "mangrove"],
+  "dietType": "Carnivore",
+  "dietItems": ["deer", "wild pig", "buffalo", "antelope", "sambar", "gaur"],
+  "lifespan": {
+    "wild": "10 to 15 years",
+    "captivity": "Up to 20 years in zoos"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "10 feet",
+    "heightMin": "2.5 feet",
+    "heightMax": "3.5 feet"
+  },
+  "weight": {
+    "min": "220 pounds",
+    "max": "660 pounds"
+  },
+  "speed": "Up to 40 mph in short bursts",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary living",
+    "ambush hunting",
+    "scent marking",
+    "swimming",
+    "cub rearing"
+  ],
+  "adaptations": [
+    "striped camouflage",
+    "night vision",
+    "powerful jaws",
+    "retractable claws",
+    "silent stalking"
+  ],
+  "predators": ["humans"],
+  "prey": ["deer", "wild pig", "buffalo", "antelope"],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 103 days",
+    "offspringCount": "Usually 2 to 4 cubs"
+  },
+  "funFacts": [
+    "Every tiger has a unique stripe pattern—like a fingerprint.",
+    "Tigers are strong swimmers and often rest in rivers to cool off.",
+    "A tiger's roar can be heard up to 2 miles (3 km) away.",
+    "Tigers usually hunt alone at night, using stealth rather than long chases.",
+    "A tiger can eat up to 88 pounds (40 kg) of meat in one meal after a big hunt.",
+    "Tiger cubs are born with blue eyes and stay with their mother for about two years."
+  ],
+  "faq": [
+    {
+      "question": "What is a tiger?",
+      "answer": "A tiger is a large wild cat and the biggest member of the cat family. Tigers live in Asia and hunt animals such as deer and wild pigs.",
+      "targetPage": "core"
+    },
+    {
+      "question": "Where do tigers live?",
+      "answer": "Wild tigers live in forests and grasslands across Asia, including India, Nepal, Russia, and Southeast Asia. Most live in protected reserves.",
+      "targetPage": "habitat"
+    },
+    {
+      "question": "What do tigers eat?",
+      "answer": "Tigers are carnivores that eat meat. They hunt deer, wild pigs, buffalo, and other large animals.",
+      "targetPage": "diet"
+    },
+    {
+      "question": "Are tigers endangered?",
+      "answer": "Yes. Tigers are listed as Endangered because their numbers dropped sharply due to habitat loss and poaching.",
+      "targetPage": "core"
+    },
+    {
+      "question": "Do tigers live in groups?",
+      "answer": "Adult tigers usually live alone. Mothers raise cubs until the young tigers can hunt on their own.",
+      "targetPage": "behavior"
+    },
+    {
+      "question": "Why do tigers have stripes?",
+      "answer": "Stripes break up a tiger's outline in tall grass and forest shadows, helping it hide while hunting.",
+      "targetPage": "core"
+    }
+  ],
+  "relatedAnimals": ["lion", "red-panda", "african-elephant"],
+  "comparisonCandidates": ["lion"],
+  "galleryIds": ["tiger-gallery-main"],
+  "supportingPageIds": [
+    "tiger-diet",
+    "tiger-habitat",
+    "tiger-behavior"
+  ],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "publishedAt": "2026-06-21T00:00:00.000Z"
+}

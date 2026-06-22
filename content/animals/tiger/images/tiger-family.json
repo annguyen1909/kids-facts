@@ -1,0 +1,35 @@
+{
+  "id": "tiger-family",
+  "animalSlug": "tiger",
+  "slug": "tiger-family",
+  "fileName": "tiger-family-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Panthera_tigris_tigris_Tigress_with_cubs_Tadoba_India.jpg",
+  "width": 720,
+  "height": 480,
+  "alt": "Tigress with her cubs at Tadoba Andhari Tiger Reserve, India",
+  "caption": "A mother tiger raises her cubs alone, teaching them to hunt over two years.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "behavior"
+  ],
+  "location": "Tadoba Andhari Tiger Reserve, India",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
+  "updatedAt": "2026-06-21T16:58:28.827Z",
+  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tigress_with_cubs_Tadoba_India.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tigress_with_cubs_Tadoba_India.jpg",
+    "creatorName": "Yathin S Krishnappa",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:58:28.827Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

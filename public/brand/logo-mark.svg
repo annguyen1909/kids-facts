@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Animal Facts for Kids logo</title>
+  <desc id="desc">A playful golden paw print inside a dark navy circle.</desc>
+  <circle cx="64" cy="64" r="64" fill="#0f172a"/>
+  <circle cx="42" cy="42" r="12" fill="#fbbf24"/>
+  <circle cx="64" cy="30" r="12" fill="#f59e0b"/>
+  <circle cx="86" cy="42" r="12" fill="#fbbf24"/>
+  <circle cx="52" cy="72" r="12" fill="#f59e0b"/>
+  <circle cx="76" cy="72" r="12" fill="#f59e0b"/>
+  <path d="M40 84c0-13.255 10.745-24 24-24s24 10.745 24 24c0 12.15-10.745 20-24 20s-24-7.85-24-20Z" fill="#fbbf24"/>
+</svg>

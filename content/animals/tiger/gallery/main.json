@@ -1,0 +1,22 @@
+{
+  "id": "tiger-gallery-main",
+  "animalSlug": "tiger",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Tiger Photo Gallery",
+  "metaTitle": "Tiger Photo Gallery",
+  "metaDescription": "Browse a tiger photo gallery with wildlife images for kids.",
+  "intro": "Explore tiger photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "tiger-hero",
+    "tiger-habitat",
+    "tiger-diet",
+    "tiger-baby",
+    "tiger-family",
+    "tiger-range",
+    "tiger-size",
+    "tiger-closeup",
+    "tiger-fun-fact"
+  ],
+  "updatedAt": "2026-06-21T16:56:11.097Z"
+}

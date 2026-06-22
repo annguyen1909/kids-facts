@@ -1,0 +1,77 @@
+{
+  "id": "animal-african-elephant",
+  "slug": "african-elephant",
+  "name": "African Elephant",
+  "commonNames": ["Savanna elephant"],
+  "scientificName": "Loxodonta africana",
+  "summary": "African elephants are the largest land animals on Earth and use their trunks for smelling, touching, drinking, and gathering food.",
+  "heroTitle": "African Elephant Facts for Kids",
+  "metaTitle": "African Elephant Facts for Kids",
+  "metaDescription": "African elephant facts for kids with photos, habitat, diet, family behavior, and classroom-ready supporting pages.",
+  "searchIntents": ["african elephant facts for kids", "what do elephants eat", "where do elephants live"],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Proboscidea",
+    "family": "Elephantidae",
+    "genus": "Loxodonta",
+    "species": "L. africana"
+  },
+  "classificationLabels": ["mammal", "herbivore", "large"],
+  "habitats": ["savanna", "forest", "wetland"],
+  "continents": ["Africa"],
+  "countries": ["Kenya", "Botswana", "Zimbabwe"],
+  "biomes": ["savanna", "forest"],
+  "dietType": "Herbivore",
+  "dietItems": ["grasses", "leaves", "bark", "fruit"],
+  "lifespan": {
+    "wild": "60 to 70 years"
+  },
+  "size": {
+    "lengthMin": "18 feet",
+    "lengthMax": "24 feet",
+    "heightMin": "8 feet",
+    "heightMax": "13 feet"
+  },
+  "weight": {
+    "min": "6000 pounds",
+    "max": "13000 pounds"
+  },
+  "speed": "Up to 25 mph",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": ["herd living", "trunk communication", "memory-based travel"],
+  "adaptations": ["trunk", "large ears", "thick skin"],
+  "predators": ["humans"],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 22 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "An elephant trunk has thousands of muscles.",
+    "Elephants use mud like sunscreen.",
+    "Large ears help release body heat.",
+    "Families are led by experienced females called matriarchs."
+  ],
+  "faq": [
+    {
+      "question": "Why is an elephant trunk useful?",
+      "answer": "The trunk helps an elephant smell, touch, drink, and gather food.",
+      "targetPage": "core"
+    },
+    {
+      "question": "What do African elephants eat?",
+      "answer": "They eat plants such as grasses, bark, leaves, and fruit.",
+      "targetPage": "diet"
+    }
+  ],
+  "relatedAnimals": ["lion", "bottlenose-dolphin"],
+  "comparisonCandidates": ["lion"],
+  "galleryIds": ["elephant-gallery-main", "elephant-gallery-family"],
+  "supportingPageIds": ["elephant-diet", "elephant-habitat", "elephant-behavior"],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "publishedAt": "2026-06-21T00:00:00.000Z"
+}

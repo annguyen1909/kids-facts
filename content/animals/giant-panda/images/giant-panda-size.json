@@ -1,0 +1,33 @@
+{
+  "id": "giant-panda-size",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-size",
+  "fileName": "giant-panda-size-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+  "width": 1024,
+  "height": 768,
+  "alt": "Full-body view of a giant panda showing its round shape and size",
+  "caption": "Adult giant pandas weigh 200 to 300 pounds and have a thick, round body built for eating bamboo.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Chengdu Research Base of Giant Panda Breeding, China",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
+  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "attributionText": "Photo by Colegota via Wikimedia Commons, CC BY-SA 2.5 es",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg\">Colegota</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5/es/deed.en\">CC BY-SA 2.5 es</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg",
+    "creatorName": "Colegota",
+    "licenseName": "CC BY-SA 2.5 es",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T17:10:50.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

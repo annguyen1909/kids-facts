@@ -1,0 +1,129 @@
+{
+  "id": "animal-red-panda",
+  "slug": "red-panda",
+  "name": "Red Panda",
+  "commonNames": [
+    "Red Panda",
+    "Lesser Panda",
+    "Firefox",
+    "Red Cat-Bear",
+    "Himalayan Red Panda"
+  ],
+  "scientificName": "Ailurus fulgens",
+  "summary": "Red pandas are small, tree-climbing mammals of the Himalayan mountains. They eat mostly bamboo, use a thumb-like wrist bone to grip stems, and rest in cool forest trees.",
+  "heroTitle": "Red Panda Facts for Kids",
+  "metaTitle": "Red Panda Facts for Kids | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Discover red panda facts for kids with photos, Himalayan habitat, bamboo diet, tree-climbing behavior, and conservation. Learn where red pandas live and how they survive.",
+  "searchIntents": [
+    "red panda facts for kids",
+    "what do red pandas eat",
+    "where do red pandas live",
+    "are red pandas bears",
+    "are red pandas endangered",
+    "red panda habitat"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ailuridae",
+    "genus": "Ailurus",
+    "species": "A. fulgens"
+  },
+  "classificationLabels": ["mammal", "omnivore", "small"],
+  "habitats": ["temperate forest", "montane forest", "bamboo forest"],
+  "continents": ["Asia"],
+  "countries": ["Nepal", "India", "Bhutan", "China", "Myanmar"],
+  "biomes": ["temperate broadleaf forest", "montane forest"],
+  "dietType": "Omnivore",
+  "dietItems": ["bamboo leaves", "bamboo shoots", "berries", "fruit", "eggs", "insects"],
+  "lifespan": {
+    "wild": "8 to 10 years",
+    "captivity": "Up to 23 years in zoos"
+  },
+  "size": {
+    "lengthMin": "20 inches",
+    "lengthMax": "26 inches",
+    "heightMin": "12 inches",
+    "heightMax": "16 inches"
+  },
+  "weight": {
+    "min": "8 pounds",
+    "max": "17 pounds"
+  },
+  "speed": "Slow on ground; agile climber in trees",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "tree climbing",
+    "solitary living",
+    "bamboo feeding",
+    "scent marking",
+    "cub rearing"
+  ],
+  "adaptations": [
+    "false thumb for gripping bamboo",
+    "bushy tail for balance",
+    "thick fur for cold mountains",
+    "retractable claws",
+    "heat-sensitive nose"
+  ],
+  "predators": ["snow leopards", "martens", "humans"],
+  "prey": ["bamboo", "berries", "insects", "bird eggs"],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 130 days",
+    "offspringCount": "Usually 1 to 4 cubs"
+  },
+  "funFacts": [
+    "Red pandas are not closely related to giant pandas—they belong to their own family, Ailuridae.",
+    "A red panda's long, ringed tail helps it balance on branches high in the forest.",
+    "Red pandas have a special wrist bone that works like a thumb for holding bamboo.",
+    "Red pandas were once called \"firefox\" because of their reddish fur and bushy tail.",
+    "A red panda can eat up to one third of its body weight in bamboo every day.",
+    "Red pandas are most active at dawn and dusk, when they search for food."
+  ],
+  "faq": [
+    {
+      "question": "What is a red panda?",
+      "answer": "A red panda is a small tree-climbing mammal from the Himalayas. It has reddish fur, a ringed tail, and eats mostly bamboo.",
+      "targetPage": "core"
+    },
+    {
+      "question": "Is a red panda a bear?",
+      "answer": "No. Red pandas are not bears and are not closely related to giant pandas. They belong to their own family called Ailuridae.",
+      "targetPage": "core"
+    },
+    {
+      "question": "Where do red pandas live?",
+      "answer": "Red pandas live in cool mountain forests in Nepal, India, Bhutan, China, and Myanmar. They need bamboo and tall trees.",
+      "targetPage": "habitat"
+    },
+    {
+      "question": "What do red pandas eat?",
+      "answer": "Red pandas eat mostly bamboo leaves and shoots. They also sometimes eat fruit, berries, eggs, and insects.",
+      "targetPage": "diet"
+    },
+    {
+      "question": "Are red pandas endangered?",
+      "answer": "Yes. Red pandas are listed as Endangered because their forest homes are shrinking and they face hunting and habitat loss.",
+      "targetPage": "core"
+    },
+    {
+      "question": "Do red pandas live in groups?",
+      "answer": "Adult red pandas usually live alone. Mothers raise cubs until the young pandas can survive on their own.",
+      "targetPage": "behavior"
+    }
+  ],
+  "relatedAnimals": ["lion", "african-elephant", "bottlenose-dolphin"],
+  "comparisonCandidates": [],
+  "galleryIds": ["red-panda-gallery-main"],
+  "supportingPageIds": [
+    "red-panda-diet",
+    "red-panda-habitat",
+    "red-panda-behavior"
+  ],
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "publishedAt": "2026-06-21T00:00:00.000Z"
+}

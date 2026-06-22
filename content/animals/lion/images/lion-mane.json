@@ -1,0 +1,34 @@
+{
+  "id": "lion-mane",
+  "animalSlug": "lion",
+  "slug": "lion-mane",
+  "fileName": "male-lion-mane-closeup.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Male lion with a full dark mane",
+  "caption": "A male lion's mane grows fuller with age and signals maturity.",
+  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 3.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg",
+    "creatorName": "Yathin S Krishnappa",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup",
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "adaptations"
+  ],
+  "location": "Savanna",
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

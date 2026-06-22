@@ -1,0 +1,35 @@
+{
+  "id": "lion-closeup",
+  "animalSlug": "lion",
+  "slug": "lion-closeup",
+  "fileName": "lion-face-closeup.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lioness_%28Panthera_leo%29_%286871765268%29.jpg/1920px-Lioness_%28Panthera_leo%29_%286871765268%29.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Close-up portrait of a lioness face",
+  "caption": "Close-up views reveal whiskers, eyes, and powerful jaw muscles.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "diet"
+  ],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z",
+  "attributionText": "Photo by flowcomm via Wikimedia Commons, CC BY 2.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg",
+    "creatorName": "flowcomm",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+}

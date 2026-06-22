@@ -1,0 +1,25 @@
+{
+  "id": "lion-gallery-main",
+  "animalSlug": "lion",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Lion Photo Gallery",
+  "metaTitle": "Lion Photo Gallery",
+  "metaDescription": "Browse a lion photo gallery with wildlife images of prides, cubs, hunting, manes, roaring, and savanna habitat.",
+  "intro": "Explore lions through photos organized for learning, image search, and classroom observation—from cubs and manes to hunts on the savanna.",
+  "imageSlugs": [
+    "lion-hero",
+    "lion-family",
+    "lion-habitat",
+    "lion-hunting",
+    "lion-baby",
+    "lion-mane",
+    "lion-roaring",
+    "lion-eating",
+    "lion-closeup",
+    "lion-size",
+    "lion-range",
+    "lion-asiatic"
+  ],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

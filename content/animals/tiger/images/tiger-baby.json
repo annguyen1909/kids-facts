@@ -1,0 +1,34 @@
+{
+  "id": "tiger-baby",
+  "animalSlug": "tiger",
+  "slug": "tiger-baby",
+  "fileName": "tiger-baby-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Amur_Tiger_Panthera_tigris_altaica_Cub_Walking_1500px.jpg",
+  "width": 1500,
+  "height": 1000,
+  "alt": "Young Amur tiger cub walking on grass",
+  "caption": "Tiger cubs are born blind and depend on their mother for food and protection.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
+  "updatedAt": "2026-06-21T16:58:28.827Z",
+  "attributionText": "Photo by Keven Law via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Cub_Walking_1500px.jpg\">Keven Law</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Cub_Walking_1500px.jpg",
+    "creatorName": "Keven Law",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:58:28.827Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

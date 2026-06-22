@@ -1,0 +1,34 @@
+{
+  "id": "lion-hunting",
+  "animalSlug": "lion",
+  "slug": "lion-hunting",
+  "fileName": "lioness-stalking-prey-grass.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lion_%28Panthera_leo%29_on_zebra_remains_..._%2852153558417%29.jpg/1920px-Lion_%28Panthera_leo%29_on_zebra_remains_..._%2852153558417%29.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Lion feeding at zebra remains on the savanna",
+  "caption": "Lions hunt large hoofed animals such as zebra and wildebeest.",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_on_zebra_remains_..._(52153558417).jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "diet",
+    "behavior"
+  ],
+  "location": "Savanna",
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

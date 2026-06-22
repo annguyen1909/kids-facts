@@ -1,0 +1,38 @@
+{
+  "id": "lion-hero-01",
+  "animalSlug": "lion",
+  "slug": "lion-hero-01",
+  "fileName": "lion-hero-01-1600.webp",
+  "originalFileName": "source-original-name.jpg",
+  "src": "/images/animals/lion/web/lion-hero-01-1600.webp",
+  "srcSet": {
+    "original": "/images/animals/lion/original/lion-hero-01.jpg",
+    "web1600": "/images/animals/lion/web/lion-hero-01-1600.webp",
+    "web1200": "/images/animals/lion/web/lion-hero-01-1200.webp",
+    "web800": "/images/animals/lion/web/lion-hero-01-800.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-hero-01-400.webp"
+  },
+  "width": 1600,
+  "height": 1067,
+  "alt": "Male lion resting on a rock in open savanna",
+  "caption": "A resting male lion can still watch over the area around him.",
+  "attributionText": "Photo by Photographer Name via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/User:Example\">Photographer Name</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Example.jpg",
+    "creatorName": "Photographer Name",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Example",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "editor@example.com"
+  },
+  "imageType": "hero",
+  "galleryTopics": ["hero", "habitat"],
+  "featuredOnPages": ["core", "gallery", "habitat"],
+  "location": "Savanna",
+  "acquisitionNotes": "Approved as the primary hero image because the animal is clearly visible and biologically accurate.",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

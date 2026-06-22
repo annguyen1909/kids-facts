@@ -1,0 +1,33 @@
+{
+  "id": "tiger-fun-fact",
+  "animalSlug": "tiger",
+  "slug": "tiger-fun-fact",
+  "fileName": "tiger-fun-fact.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Swimming_Panthera_tigris_altaica_Leipzig_Zoo_2013.jpg",
+  "width": 4552,
+  "height": 3035,
+  "alt": "Amur tiger swimming through water",
+  "caption": "Unlike many cats, tigers are strong swimmers and often cool off in rivers and lakes.",
+  "attributionText": "Photo by Keven Law via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Swimming_Panthera_tigris_altaica_Leipzig_Zoo_2013.jpg\">Keven Law</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swimming_Panthera_tigris_altaica_Leipzig_Zoo_2013.jpg",
+    "creatorName": "Keven Law",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:58:28.827Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Leipzig Zoo, Germany",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
+  "updatedAt": "2026-06-21T16:58:28.827Z"
+}

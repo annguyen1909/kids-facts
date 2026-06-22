@@ -1,0 +1,33 @@
+{
+  "id": "lion-eating",
+  "animalSlug": "lion",
+  "slug": "lion-eating",
+  "fileName": "lions-feeding-at-kill.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lioness_at_kill.jpg",
+  "width": 1920,
+  "height": 1280,
+  "alt": "Lioness feeding at a prey carcass",
+  "caption": "After a hunt, pride members gather to feed on the kill.",
+  "attributionText": "Photo by Clément Bardot via Wikimedia Commons, CC BY-SA 3.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lioness_at_kill.jpg",
+    "creatorName": "Clément Bardot",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T00:00:00.000Z",
+    "reviewedBy": "content-team"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "diet"
+  ],
+  "location": "Savanna",
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

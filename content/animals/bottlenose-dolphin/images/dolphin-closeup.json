@@ -1,0 +1,18 @@
+{
+  "id": "dolphin-closeup",
+  "animalSlug": "bottlenose-dolphin",
+  "slug": "dolphin-closeup",
+  "fileName": "bottlenose-dolphin-closeup-above-water.webp",
+  "src": "https://images.unsplash.com/photo-1551884831-bbf3cdc6469e?auto=format&fit=crop&w=1200&q=80",
+  "width": 1200,
+  "height": 800,
+  "alt": "Dolphin face close-up above the waterline",
+  "caption": "The blowhole sits on top of the head so dolphins can breathe quickly.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "closeup",
+  "galleryTopics": ["closeup", "fun-fact"],
+  "featuredOnPages": ["gallery", "behavior"],
+  "location": "Ocean surface",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

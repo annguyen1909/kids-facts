@@ -1,0 +1,12 @@
+{
+  "id": "elephant-gallery-family",
+  "animalSlug": "african-elephant",
+  "galleryType": "topic",
+  "slug": "family",
+  "title": "African Elephant Family Gallery",
+  "metaTitle": "African Elephant Family Gallery",
+  "metaDescription": "See African elephant family photos showing herd life and calf protection.",
+  "intro": "Family galleries support behavior and baby-animal learning intent.",
+  "imageSlugs": ["elephant-family", "elephant-baby"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

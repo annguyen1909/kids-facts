@@ -1,0 +1,12 @@
+{
+  "id": "lion-gallery-baby",
+  "animalSlug": "lion",
+  "galleryType": "topic",
+  "slug": "baby",
+  "title": "Lion Cub Gallery",
+  "metaTitle": "Lion Cub Gallery",
+  "metaDescription": "Browse lion cub photos that support learning about the lion life cycle.",
+  "intro": "Baby galleries are built to support life-cycle and classroom pages.",
+  "imageSlugs": ["lion-baby", "lion-family", "lion-size"],
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

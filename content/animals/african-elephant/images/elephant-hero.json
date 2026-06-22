@@ -1,0 +1,18 @@
+{
+  "id": "elephant-hero",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-hero",
+  "fileName": "african-elephant-savanna-walk.webp",
+  "src": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?auto=format&fit=crop&w=1400&q=80",
+  "width": 1400,
+  "height": 933,
+  "alt": "African elephant walking across a golden savanna",
+  "caption": "Elephants travel long distances to find food and water.",
+  "credit": "Unsplash",
+  "license": "Editorial sample",
+  "imageType": "hero",
+  "galleryTopics": ["hero", "habitat"],
+  "featuredOnPages": ["core", "gallery", "habitat"],
+  "location": "Savanna",
+  "updatedAt": "2026-06-21T00:00:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "red-panda-family",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-family",
+  "fileName": "red-panda-family.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Curious_Red_Panda_Siblings_in_Langtang_National_Park.jpg",
+  "width": 9068,
+  "height": 6045,
+  "alt": "Two young red pandas in a tree in Langtang National Park, Nepal",
+  "caption": "Young red pandas learn to climb and explore the forest under their mother's care.",
+  "attributionText": "Photo by Sunuwargr via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Curious_Red_Panda_Siblings_in_Langtang_National_Park.jpg\">Sunuwargr</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curious_Red_Panda_Siblings_in_Langtang_National_Park.jpg",
+    "creatorName": "Sunuwargr",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-21T16:44:18.785Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery",
+    "behavior"
+  ],
+  "location": "Langtang National Park, Nepal",
+  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
+  "updatedAt": "2026-06-21T16:44:18.785Z"
+}

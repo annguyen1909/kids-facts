@@ -1,0 +1,33 @@
+{
+  "id": "giant-panda-fun-fact",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-fun-fact",
+  "fileName": "giant-panda-fun-fact-1600.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/NZP-20091222-189MM-000002.jpg",
+  "width": 800,
+  "height": 533,
+  "alt": "Giant panda rolling and playing in fresh snow",
+  "caption": "Giant pandas love to roll in snow—even though their wild homes are usually mild mountain forests.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Smithsonian National Zoo, United States",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
+  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "attributionText": "Photo by Smithsonian's National Zoo via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:NZP-20091222-189MM-000002.jpg\">Smithsonian's National Zoo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NZP-20091222-189MM-000002.jpg",
+    "creatorName": "Smithsonian's National Zoo",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-21T17:10:50.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}
