@@ -3,6 +3,7 @@ import { Leaf, Salad } from "lucide-react";
 import { HubClusterCard } from "@/components/animals/hub-cluster-card";
 import { LandingSection } from "@/components/ui/landing-section";
 import type { HubCluster } from "@/lib/hub-clusters";
+import { buildUniqueHubFeaturedMap } from "@/lib/unique-featured-animals";
 
 type ExploreTrailsSectionProps = {
   habitatClusters: HubCluster[];
@@ -13,6 +14,8 @@ export function ExploreTrailsSection({
   habitatClusters,
   dietClusters,
 }: ExploreTrailsSectionProps) {
+  const featuredByCluster = buildUniqueHubFeaturedMap([...habitatClusters, ...dietClusters]);
+
   return (
     <LandingSection id="explore-trails" tint="sky" pattern="sky">
       <div className="explore-trails">
@@ -52,7 +55,12 @@ export function ExploreTrailsSection({
           </div>
           <div className="mt-4 grid items-stretch gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {habitatClusters.map((cluster) => (
-              <HubClusterCard key={cluster.slug} cluster={cluster} type="habitats" />
+              <HubClusterCard
+                key={cluster.slug}
+                cluster={cluster}
+                type="habitats"
+                featuredAnimal={featuredByCluster.get(cluster.slug)}
+              />
             ))}
           </div>
         </div>
@@ -66,7 +74,12 @@ export function ExploreTrailsSection({
           </div>
           <div className="mt-4 grid items-stretch gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {dietClusters.map((cluster) => (
-              <HubClusterCard key={cluster.slug} cluster={cluster} type="diets" />
+              <HubClusterCard
+                key={cluster.slug}
+                cluster={cluster}
+                type="diets"
+                featuredAnimal={featuredByCluster.get(cluster.slug)}
+              />
             ))}
           </div>
         </div>

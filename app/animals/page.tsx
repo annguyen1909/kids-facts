@@ -5,6 +5,7 @@ import { AnimalCategoryCard } from "@/components/animals/animal-category-card";
 import { PageHeroShell } from "@/components/animals/page-hero-shell";
 import { JsonLd } from "@/components/layout/json-ld";
 import {
+  ANIMAL_CATEGORIES,
   getCategoryCardImage,
   getPublishedAnimalsGroupedByCategory,
 } from "@/lib/animal-categories";
@@ -12,7 +13,8 @@ import { getPublishedAnimals } from "@/lib/content";
 import { filterAnimalsBySearchQuery } from "@/lib/animal-search";
 import { buildCollectionPageSchema, buildBreadcrumbSchema } from "@/lib/schema";
 import { buildPageMetadata } from "@/lib/metadata";
-import { getAbsoluteUrl } from "@/lib/images";
+import { getAbsoluteUrl, getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
+import { buildUniqueCategoryFeaturedMap } from "@/lib/unique-featured-animals";
 
 export const metadata: Metadata = buildPageMetadata({
   title: "Animals",
@@ -35,6 +37,7 @@ export default async function AnimalsPage({
     ? filterAnimalsBySearchQuery(animals, normalizedQuery)
     : animals;
   const groupedCategories = getPublishedAnimalsGroupedByCategory();
+  const categoryFeatured = buildUniqueCategoryFeaturedMap(ANIMAL_CATEGORIES);
 
   return (
     <div>
@@ -110,14 +113,21 @@ export default async function AnimalsPage({
                   </div>
                 </div>
                 <div className="grid gap-2.5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
-                  {groupedCategories.map(({ category, animals: categoryAnimals }) => (
+                  {groupedCategories.map(({ category, animals: categoryAnimals }) => {
+                    const featuredAnimal = categoryFeatured.get(category.slug);
+                    const image = featuredAnimal
+                      ? getAnimalImageForDisplay(getAnimalPrimaryImage(featuredAnimal))
+                      : getCategoryCardImage(category, animals);
+
+                    return (
                     <AnimalCategoryCard
                       key={category.slug}
                       category={category}
                       animalCount={categoryAnimals.length}
-                      image={getCategoryCardImage(category, animals)}
+                      image={image}
                     />
-                  ))}
+                    );
+                  })}
                 </div>
               </div>
 

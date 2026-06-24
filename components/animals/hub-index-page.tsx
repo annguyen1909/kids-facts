@@ -4,6 +4,7 @@ import { JsonLd } from "@/components/layout/json-ld";
 import type { HubCluster } from "@/lib/hub-clusters";
 import { getAbsoluteUrl } from "@/lib/images";
 import { buildBreadcrumbSchema, buildCollectionPageSchema } from "@/lib/schema";
+import { buildUniqueHubFeaturedMap } from "@/lib/unique-featured-animals";
 
 export function HubIndexPage({
   type,
@@ -18,6 +19,7 @@ export function HubIndexPage({
 }) {
   const path = `/${type}`;
   const label = type === "habitats" ? "Habitats" : "Diets";
+  const featuredByCluster = buildUniqueHubFeaturedMap(clusters);
 
   return (
     <div>
@@ -49,7 +51,12 @@ export function HubIndexPage({
         <div className="section-shell">
           <div className="grid gap-2.5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
             {clusters.map((cluster) => (
-              <HubClusterCard key={cluster.slug} cluster={cluster} type={type} />
+              <HubClusterCard
+                key={cluster.slug}
+                cluster={cluster}
+                type={type}
+                featuredAnimal={featuredByCluster.get(cluster.slug)}
+              />
             ))}
           </div>
         </div>

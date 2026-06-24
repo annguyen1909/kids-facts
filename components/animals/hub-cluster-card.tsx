@@ -2,17 +2,22 @@ import Image from "next/image";
 import Link from "next/link";
 import type { HubCluster } from "@/lib/hub-clusters";
 import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
+import type { AnimalRecord } from "@/lib/types";
 
 export function HubClusterCard({
   cluster,
   type,
+  featuredAnimal,
 }: {
   cluster: HubCluster;
   type: "habitats" | "diets";
+  featuredAnimal?: AnimalRecord;
 }) {
   const pathPrefix = `/${type}` as const;
-  const featuredAnimal = cluster.animals[0];
-  const image = getAnimalImageForDisplay(getAnimalPrimaryImage(featuredAnimal));
+  const animal = featuredAnimal ?? cluster.animals[0];
+  if (!animal) return null;
+
+  const image = getAnimalImageForDisplay(getAnimalPrimaryImage(animal));
 
   return (
     <Link

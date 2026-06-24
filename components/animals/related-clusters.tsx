@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { AnimalRecord } from "@/lib/types";
 import { getRelatedAnimals } from "@/lib/content";
 import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
+import { createFeaturedUsage, pickUniqueFeaturedAnimals } from "@/lib/unique-featured-animals";
 
 type ClusterConfig = {
   title: string;
@@ -50,7 +51,7 @@ function ClusterRow({ title, animals }: ClusterConfig) {
     <div>
       <h3 className="text-lg font-semibold text-[var(--forest-deep)]">{title}</h3>
       <ul className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
-        {animals.slice(0, 3).map((entry) => (
+        {animals.map((entry) => (
           <li key={entry.core.slug}>
             <RelatedAnimalTile animal={entry} />
           </li>
@@ -71,7 +72,15 @@ export function RelatedClusters({ animal }: { animal: AnimalRecord }) {
     { title: "Similar size", animals: related.similarSize },
   ];
 
-  const visibleClusters = clusters.filter((cluster) => cluster.animals.length > 0).slice(0, 3);
+  const usage = createFeaturedUsage();
+  const visibleClusters = clusters
+    .filter((cluster) => cluster.animals.length > 0)
+    .slice(0, 3)
+    .map((cluster) => ({
+      ...cluster,
+      animals: pickUniqueFeaturedAnimals(cluster.animals, 3, usage),
+    }))
+    .filter((cluster) => cluster.animals.length > 0);
 
   if (!visibleClusters.length) return null;
 

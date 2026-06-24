@@ -21,6 +21,7 @@ import {
 import { getAnimalImageForDisplay, getAnimalPrimaryImage, getAbsoluteUrl } from "@/lib/images";
 import { buildPageMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema } from "@/lib/schema";
+import { buildUniqueCategoryFeaturedMap } from "@/lib/unique-featured-animals";
 
 export const revalidate = 86400;
 
@@ -44,6 +45,7 @@ export default function HomePage() {
   const animalOfTheDayImage = getAnimalImageForDisplay(getAnimalPrimaryImage(animalOfTheDay));
   const habitatClusters = getHabitatClusters();
   const dietClusters = getDietClusters();
+  const categoryFeatured = buildUniqueCategoryFeaturedMap(ANIMAL_CATEGORIES);
 
   return (
     <div className="landing-page">
@@ -104,14 +106,21 @@ export default function HomePage() {
             </p>
           </div>
           <div className="mt-6 grid items-stretch gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-            {ANIMAL_CATEGORIES.map((category) => (
+            {ANIMAL_CATEGORIES.map((category) => {
+              const featuredAnimal = categoryFeatured.get(category.slug);
+              const image = featuredAnimal
+                ? getAnimalImageForDisplay(getAnimalPrimaryImage(featuredAnimal))
+                : getCategoryCardImage(category, animals);
+
+              return (
               <AnimalCategoryCard
                 key={category.slug}
                 category={category}
                 animalCount={getAnimalsForCategory(category).length}
-                image={getCategoryCardImage(category, animals)}
+                image={image}
               />
-            ))}
+              );
+            })}
           </div>
       </LandingSection>
 
