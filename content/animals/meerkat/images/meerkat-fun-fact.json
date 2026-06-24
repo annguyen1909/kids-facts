@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-fun-fact",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-fun-fact",
+  "fileName": "Zoo praha enrichment surikata.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zoo_praha_enrichment_surikata.jpg",
+  "width": 2500,
+  "height": 1669,
+  "alt": "Meerkat standing upright on hind legs",
+  "caption": "One meerkat often stands guard on hind legs while the group forages.",
+  "attributionText": "Photo by Petr Hamerník via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zoo_praha_enrichment_surikata.jpg\">Petr Hamerník</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zoo_praha_enrichment_surikata.jpg",
+    "creatorName": "Petr Hamerník",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Prague, Czech Republic",
+  "acquisitionNotes": "Manually curated meerkat fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:13.126Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "leopard-gallery-main",
+  "animalSlug": "leopard",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Leopard Photo Gallery",
+  "metaTitle": "Leopard Photo Gallery",
+  "metaDescription": "Browse a leopard photo gallery with wildlife photos.",
+  "intro": "Explore leopard photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "leopard-hero",
+    "leopard-habitat",
+    "leopard-diet",
+    "leopard-baby",
+    "leopard-family",
+    "leopard-range",
+    "leopard-size",
+    "leopard-closeup",
+    "leopard-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T07:58:10.562Z"
+}

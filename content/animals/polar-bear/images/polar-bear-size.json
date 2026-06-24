@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-size",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-size",
+  "fileName": "DSC02179 - Polar Bear (43016685980).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/DSC02179_-_Polar_Bear_%2843016685980%29.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Large polar bear standing on sea ice showing its massive size",
+  "caption": "Adult male polar bears can weigh over 1,500 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arctic",
+  "acquisitionNotes": "Manually curated polar bear size image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by Dennis G. Jarvis via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:DSC02179_-_Polar_Bear_(43016685980).jpg\">Dennis G. Jarvis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DSC02179_-_Polar_Bear_(43016685980).jpg",
+    "creatorName": "Dennis G. Jarvis",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

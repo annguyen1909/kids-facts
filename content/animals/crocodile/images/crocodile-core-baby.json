@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-core-baby",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-core-baby",
+  "fileName": "Crocodylus niloticus MHNT REP 392.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Crocodylus_niloticus_MHNT_REP_392.jpg",
+  "width": 5669,
+  "height": 3307,
+  "alt": "Young Nile crocodile specimen showing body shape",
+  "caption": "Hatchlings are vulnerable to birds, fish, and other predators.",
+  "attributionText": "Photo by Roger Culos via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_392.jpg\">Roger Culos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_392.jpg",
+    "creatorName": "Roger Culos",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "France",
+  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set.",
+  "updatedAt": "2026-06-24T10:01:15.558Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "salmon-size",
+  "animalSlug": "salmon",
+  "slug": "salmon-size",
+  "fileName": "Salmo salar.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg",
+  "width": 2472,
+  "height": 807,
+  "alt": "Atlantic salmon showing full body length",
+  "caption": "Adult Atlantic salmon can grow more than 3 feet long and weigh over 30 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Manually curated salmon size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by Knepp, Timothy via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg\">Knepp, Timothy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
+    "creatorName": "Knepp, Timothy",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

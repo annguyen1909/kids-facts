@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-core-habitat",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-core-habitat",
+  "fileName": "Coral reef life near Akajima 13.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Coral_reef_life_near_Akajima_13.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Colorful coral reef habitat in tropical ocean water",
+  "caption": "Healthy coral reefs give clownfish shelter, food, and places to lay eggs.",
+  "attributionText": "Photo by keiyac via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Coral_reef_life_near_Akajima_13.jpg\">keiyac</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coral_reef_life_near_Akajima_13.jpg",
+    "creatorName": "keiyac",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Akajima, Japan",
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

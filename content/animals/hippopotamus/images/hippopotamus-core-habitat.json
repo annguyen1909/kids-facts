@@ -1,0 +1,33 @@
+{
+  "id": "hippopotamus-core-habitat",
+  "animalSlug": "hippopotamus",
+  "slug": "hippopotamus-core-habitat",
+  "fileName": "Hippopotamus Rwindi 18.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_18.jpg",
+  "width": 2369,
+  "height": 1572,
+  "alt": "Hippopotamus resting in muddy river water",
+  "caption": "Rivers, lakes, and wetlands give hippos water to cool off and escape the hot sun.",
+  "attributionText": "Photo by Ad Meskens via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippopotamus_Rwindi_18.jpg\">Ad Meskens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippopotamus_Rwindi_18.jpg",
+    "creatorName": "Ad Meskens",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:55.330Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Rwindi, Democratic Republic of the Congo",
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
+  "updatedAt": "2026-06-24T08:02:55.330Z"
+}

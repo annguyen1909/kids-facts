@@ -1,0 +1,33 @@
+{
+  "id": "zebra-habitat",
+  "animalSlug": "zebra",
+  "slug": "zebra-habitat",
+  "fileName": "Masai Plains Zebra (8455653534).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Plains_Zebra_%288455653534%29.jpg",
+  "width": 3072,
+  "height": 2304,
+  "alt": "Zebra standing in dry savanna habitat",
+  "caption": "Zebras thrive in open habitat with grass to graze and room to run.",
+  "attributionText": "Photo by shankar s. from Dubai, united arab emirates via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Masai_Plains_Zebra_(8455653534).jpg\">shankar s. from Dubai, united arab emirates</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masai_Plains_Zebra_(8455653534).jpg",
+    "creatorName": "shankar s. from Dubai, united arab emirates",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Manually curated zebra habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:33.994Z"
+}

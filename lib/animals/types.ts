@@ -36,7 +36,7 @@ export type ImportedSpeciesData = {
   classificationLabels: string[];
   countries: string[];
   continents: string[];
-  habitats: string[];
+  habitat: string;
   biomes: string[];
   conservationStatus?: string;
   referenceSummary?: string;

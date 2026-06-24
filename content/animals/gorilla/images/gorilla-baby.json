@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-baby",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-baby",
+  "fileName": "Female gorilla with 8 months old baby boy gorilla in SF zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg",
+  "width": 2143,
+  "height": 1700,
+  "alt": "Mother western lowland gorilla holding her infant",
+  "caption": "Baby gorillas stay close to their mothers for years while learning forest skills.",
+  "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg",
+    "creatorName": "Brocken Inaglory",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "San Francisco Zoo, USA",
+  "acquisitionNotes": "Manually curated gorilla infant image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:05.825Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "koala-range",
+  "animalSlug": "koala",
+  "slug": "koala-range",
+  "fileName": "Koala (Phascolarctos cinereus), Sídney, Australia18.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Koala_%28Phascolarctos_cinereus%29%2C_S%C3%ADdney%2C_Australia18.JPG",
+  "width": 3196,
+  "height": 2355,
+  "alt": "Koala in coastal Australian woodland habitat",
+  "caption": "Wild koalas live in eastern and southeastern Australia, mainly near eucalyptus forests.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)%2C_S%C3%ADdney%2C_Australia18.JPG\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)%2C_S%C3%ADdney%2C_Australia18.JPG",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Sydney, Australia",
+  "acquisitionNotes": "Manually curated koala range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z"
+}

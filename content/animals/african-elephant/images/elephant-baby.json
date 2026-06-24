@@ -2,17 +2,33 @@
   "id": "elephant-baby",
   "animalSlug": "african-elephant",
   "slug": "elephant-baby",
-  "fileName": "african-elephant-calf-walking.webp",
-  "src": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=1200&q=80",
-  "width": 1200,
-  "height": 800,
-  "alt": "Young elephant calf walking near adults",
-  "caption": "Baby elephants stay in the middle of the herd where it is safer.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/African_bush_elephant_%28Loxodonta_africana%29_baby_6_weeks.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Six-week-old African bush elephant calf standing on grass",
+  "caption": "Baby elephants stay close to their mothers for years while learning to survive.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.191Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "baby",
-  "galleryTopics": ["baby", "family"],
-  "featuredOnPages": ["gallery", "behavior"],
-  "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.191Z"
 }

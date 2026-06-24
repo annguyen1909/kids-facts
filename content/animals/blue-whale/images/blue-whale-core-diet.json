@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-core-diet",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-core-diet",
+  "fileName": "Sri Lanka Blue Whale (16566108879).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sri_Lanka_Blue_Whale_%2816566108879%29.jpg",
+  "width": 3440,
+  "height": 2293,
+  "alt": "Blue whale swimming at the surface in feeding waters off Sri Lanka",
+  "caption": "During feeding season, a blue whale may eat several tons of krill in a single day.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sri Lanka",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Peyman Zehtab Fard via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sri_Lanka_Blue_Whale_(16566108879).jpg\">Peyman Zehtab Fard</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_Blue_Whale_(16566108879).jpg",
+    "creatorName": "Peyman Zehtab Fard",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

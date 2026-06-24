@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-family",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-family",
+  "fileName": "Flamingo and offspring.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flamingo_and_offspring.jpg",
+  "width": 574,
+  "height": 863,
+  "alt": "Adult flamingo standing beside its chick",
+  "caption": "Both parents feed chicks with a special milk-like fluid from their crop.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Caribbean",
+  "acquisitionNotes": "Manually curated flamingo family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "attributionText": "Photo by Steve from washington, dc, usa via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Flamingo_and_offspring.jpg\">Steve from washington, dc, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamingo_and_offspring.jpg",
+    "creatorName": "Steve from washington, dc, usa",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

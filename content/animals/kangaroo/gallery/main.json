@@ -1,0 +1,22 @@
+{
+  "id": "kangaroo-gallery-main",
+  "animalSlug": "kangaroo",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Red Kangaroo Photo Gallery",
+  "metaTitle": "Red Kangaroo Photo Gallery",
+  "metaDescription": "Browse a red kangaroo photo gallery with wildlife photos.",
+  "intro": "Explore red kangaroo photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "kangaroo-hero",
+    "kangaroo-habitat",
+    "kangaroo-diet",
+    "kangaroo-baby",
+    "kangaroo-family",
+    "kangaroo-range",
+    "kangaroo-size",
+    "kangaroo-closeup",
+    "kangaroo-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:58:20.647Z"
+}

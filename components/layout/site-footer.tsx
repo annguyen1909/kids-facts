@@ -1,22 +1,31 @@
 import Link from "next/link";
+import { siteConfig } from "@/lib/site-config";
 
 const footerGroups = [
   {
     title: "Explore",
     links: [
       { href: "/animals", label: "All animals" },
-      { href: "/habitats/savanna", label: "Habitats" },
-      { href: "/diets/carnivore", label: "Diets" },
-      { href: "/topics/social-animals", label: "Topics" },
+      { href: "/habitats", label: "Habitats" },
+      { href: "/diets", label: "Diets" },
     ],
   },
   {
     title: "Featured paths",
     links: [
       { href: "/animals/lion", label: "Lion facts" },
-      { href: "/animals/african-elephant/behavior", label: "Elephant behavior" },
-      { href: "/animals/bottlenose-dolphin#gallery", label: "Dolphin photos" },
-      { href: "/animals/compare/lion-vs-african-elephant", label: "Compare animals" },
+      { href: "/animals/african-elephant", label: "Elephant facts" },
+      { href: "/habitats/savanna", label: "Savanna animals" },
+      { href: "/diets/carnivore", label: "Carnivore animals" },
+    ],
+  },
+  {
+    title: "Site",
+    links: [
+      { href: "/about", label: "About" },
+      { href: "/contact", label: "Contact" },
+      { href: "/privacy", label: "Privacy Policy" },
+      { href: "/terms", label: "Terms of Use" },
     ],
   },
 ];
@@ -25,16 +34,15 @@ export function SiteFooter() {
   return (
     <footer className="mt-20 border-t border-[rgba(23,49,39,0.08)] bg-[var(--forest-deep)] text-white">
       <div className="section-shell py-14">
-        <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr]">
+        <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr_0.8fr]">
           <div>
-            <div className="eyebrow bg-[rgba(255,255,255,0.1)] text-[var(--warm-soft)]">
-              Animal Facts for Kids
-            </div>
+            <div className="eyebrow eyebrow--dark">{siteConfig.name}</div>
             <h2 className="mt-5 max-w-lg text-3xl font-extrabold tracking-tight">
-              A digital encyclopedia built for curious readers, classrooms, and family browsing.
+              A digital encyclopedia built for readers of every age — at home, in class, or on the go.
             </h2>
             <p className="mt-4 max-w-xl text-base leading-8 text-[rgba(255,255,255,0.72)]">
-              Explore wildlife through large images, quick facts, supporting pages, and related topics that keep children moving from one discovery to the next.
+              Explore wildlife through large images, quick facts, and habitat and diet trails that
+              keep you moving from one discovery to the next.
             </p>
           </div>
 
@@ -57,6 +65,23 @@ export function SiteFooter() {
               </ul>
             </div>
           ))}
+        </div>
+
+        <div className="mt-12 flex flex-col gap-4 border-t border-white/10 pt-8 sm:flex-row sm:items-center sm:justify-between">
+          <p className="text-sm text-[rgba(255,255,255,0.62)]">
+            © {new Date().getFullYear()} {siteConfig.organizationName}. All rights reserved.
+          </p>
+          <div className="flex flex-wrap gap-x-5 gap-y-2 text-sm">
+            <Link href="/privacy" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+              Privacy
+            </Link>
+            <Link href="/terms" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+              Terms
+            </Link>
+            <Link href="/contact" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+              Contact
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

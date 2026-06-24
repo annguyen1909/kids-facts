@@ -1,0 +1,33 @@
+{
+  "id": "wolf-core-range",
+  "animalSlug": "wolf",
+  "slug": "wolf-core-range",
+  "fileName": "Canis lupus arctos howling.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Canis_lupus_arctos_howling.jpg",
+  "width": 2337,
+  "height": 2375,
+  "alt": "Arctic wolf howling on open snowy tundra",
+  "caption": "Wolves are protected in many countries, but habitat loss and conflict with people remain threats.",
+  "attributionText": "Photo by plenty.r. via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_arctos_howling.jpg\">plenty.r.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canis_lupus_arctos_howling.jpg",
+    "creatorName": "plenty.r.",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Arctic tundra",
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
+  "updatedAt": "2026-06-24T08:52:45.879Z"
+}

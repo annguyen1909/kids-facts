@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState, type TouchEvent } from "react";
+import { useCallback, useEffect, useMemo, useState, type CSSProperties, type TouchEvent } from "react";
 import { createPortal } from "react-dom";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
@@ -9,6 +9,19 @@ import { getDisplayImageSrc, isWikimediaCommonsUrl } from "@/lib/images";
 import type { AnimalImage, AnimalImageKind } from "@/lib/types";
 
 const LIGHTBOX_WIDTH = 1280;
+
+const GALLERY_TYPE_ACCENTS: Record<AnimalImageKind, { bg: string; fg: string }> = {
+  hero: { bg: "#ede9fe", fg: "#7c3aed" },
+  habitat: { bg: "#dbeafe", fg: "#2563eb" },
+  diet: { bg: "#dcfce7", fg: "#16a34a" },
+  baby: { bg: "#fce7f3", fg: "#db2777" },
+  family: { bg: "#ffedd5", fg: "#ea580c" },
+  range: { bg: "#ccfbf1", fg: "#0d9488" },
+  size: { bg: "#e0e7ff", fg: "#4f46e5" },
+  closeup: { bg: "#fef9c3", fg: "#ca8a04" },
+  "fun-fact": { bg: "#ffe4e6", fg: "#e11d48" },
+  gallery: { bg: "#f3f4f6", fg: "#4b5563" },
+};
 
 const IMAGE_TYPE_LABELS: Record<AnimalImageKind, string> = {
   hero: "Featured",
@@ -210,43 +223,51 @@ export function AnimalGallery({
         className="overflow-hidden rounded-[1.75rem] border border-[var(--line)] bg-white shadow-[var(--shadow)] scroll-mt-24"
       >
         <div className="border-b border-[var(--line)] px-5 py-5 sm:px-7 sm:py-6">
-          <p className="eyebrow">Photo gallery</p>
+          <p className="eyebrow eyebrow--light">Photo gallery</p>
           <h2 className="section-title mt-3 text-[var(--forest-deep)]">{title}</h2>
           {intro ? (
-            <p className="mt-2 max-w-2xl text-sm leading-7 text-[var(--muted)] sm:text-base">{intro}</p>
+            <p className="mt-2 max-w-2xl text-base leading-7 text-[var(--muted)] sm:text-lg">{intro}</p>
           ) : null}
         </div>
 
-        <div className="p-4 sm:p-5">
-          <p className="mb-4 text-sm text-[var(--muted)]">
-            Tap any photo to view it larger. {safeImages.length} images.
+        <div className="gallery-grid p-4 sm:p-6">
+          <p className="mb-5 text-base text-[var(--muted)]">
+            Click any photo to view it larger. {safeImages.length} images.
           </p>
 
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {safeImages.map((image, index) => {
               const label = IMAGE_TYPE_LABELS[image.imageType] ?? image.imageType;
+              const accent = GALLERY_TYPE_ACCENTS[image.imageType] ?? GALLERY_TYPE_ACCENTS.gallery;
+              const tiltClass = `gallery-card--tilt-${(index % 3) + 1}`;
 
               return (
                 <button
                   key={image.id}
                   type="button"
                   onClick={() => openLightbox(index)}
-                  className="overflow-hidden rounded-[1rem] border border-[var(--line)] bg-white text-left shadow-[0_8px_20px_rgba(23,49,39,0.05)] transition-all duration-200 hover:-translate-y-0.5 hover:border-[rgba(36,83,65,0.35)]"
+                  className={`gallery-card gallery-card--${image.imageType} ${tiltClass} group text-left`}
+                  style={
+                    {
+                      "--gallery-accent-bg": accent.bg,
+                      "--gallery-accent-fg": accent.fg,
+                    } as CSSProperties
+                  }
                 >
-                  <AnimalImageFrame
-                    src={image.src}
-                    alt={image.alt}
-                    aspect="card"
-                    sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 280px"
-                    className="rounded-none pointer-events-none"
-                  />
-                  <div className="px-3 py-3">
-                    <p className="text-[0.65rem] font-bold uppercase tracking-[0.06em] text-[var(--forest)]">
-                      {label}
-                    </p>
-                    <p className="mt-1 line-clamp-2 text-sm leading-5 text-[var(--forest-deep)]">
-                      {image.caption}
-                    </p>
+                  <div className="gallery-card__tape" aria-hidden />
+                  <div className="gallery-card__frame">
+                    <AnimalImageFrame
+                      src={image.src}
+                      alt={image.alt}
+                      aspect="card"
+                      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 280px"
+                      className="gallery-card__image pointer-events-none"
+                    />
+                    <div className="gallery-card__shine" aria-hidden />
+                  </div>
+                  <div className="gallery-card__footer">
+                    <p className="gallery-card__label">{label}</p>
+                    <p className="gallery-card__caption">{image.caption}</p>
                   </div>
                 </button>
               );

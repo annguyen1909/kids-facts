@@ -1,0 +1,33 @@
+{
+  "id": "orca-range",
+  "animalSlug": "orca",
+  "slug": "orca-range",
+  "fileName": "A small pod of Killer Whales (Orcinus orca) amongst the bergs E of Hope bay & the Antarctic Peninsula. (25973169906).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/A_small_pod_of_Killer_Whales_%28Orcinus_orca%29_amongst_the_bergs_E_of_Hope_bay_%26_the_Antarctic_Peninsula._%2825973169906%29.jpg",
+  "width": 2311,
+  "height": 1541,
+  "alt": "Small pod of orcas in cold ocean habitat",
+  "caption": "Orcas live from polar seas to temperate coasts around the world.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Near the Antarctic Peninsula",
+  "acquisitionNotes": "Manually curated orca range image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by Murray Foubister via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_small_pod_of_Killer_Whales_(Orcinus_orca)_amongst_the_bergs_E_of_Hope_bay_%26_the_Antarctic_Peninsula._(25973169906).jpg\">Murray Foubister</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_small_pod_of_Killer_Whales_(Orcinus_orca)_amongst_the_bergs_E_of_Hope_bay_%26_the_Antarctic_Peninsula._(25973169906).jpg",
+    "creatorName": "Murray Foubister",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

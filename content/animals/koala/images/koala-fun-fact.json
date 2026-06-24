@@ -1,0 +1,33 @@
+{
+  "id": "koala-fun-fact",
+  "animalSlug": "koala",
+  "slug": "koala-fun-fact",
+  "fileName": "Koala climbing tree.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
+  "width": 1132,
+  "height": 1113,
+  "alt": "Koala climbing up a eucalyptus tree trunk",
+  "caption": "Koalas sleep up to 20 hours a day to save energy from their leafy diet.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Manually curated koala fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by Diliff via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg\">Diliff</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_climbing_tree.jpg",
+    "creatorName": "Diliff",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

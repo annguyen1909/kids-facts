@@ -1,0 +1,33 @@
+{
+  "id": "snake-core-family",
+  "animalSlug": "snake",
+  "slug": "snake-core-family",
+  "fileName": "Python regius in the Antalya Aquarium.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Python_regius_in_the_Antalya_Aquarium.jpg",
+  "width": 3872,
+  "height": 2592,
+  "alt": "Ball python resting in a coiled position",
+  "caption": "Mothers shiver their muscles to warm eggs during incubation.",
+  "attributionText": "Photo by Хомелка via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python_regius_in_the_Antalya_Aquarium.jpg\">Хомелка</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Python_regius_in_the_Antalya_Aquarium.jpg",
+    "creatorName": "Хомелка",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Antalya, Turkey",
+  "acquisitionNotes": "Core article image curated separately from the snake gallery set.",
+  "updatedAt": "2026-06-24T10:01:26.092Z"
+}

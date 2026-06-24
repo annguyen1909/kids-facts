@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-family",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-family",
+  "fileName": "Orangutan with infant.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Orangutan_with_infant.jpg",
+  "width": 1733,
+  "height": 1300,
+  "alt": "Adult orangutan with a young infant close by",
+  "caption": "Mother orangutans carry and protect infants as they move through the canopy.",
+  "attributionText": "Photo by Brett Jordan via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_with_infant.jpg\">Brett Jordan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_with_infant.jpg",
+    "creatorName": "Brett Jordan",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Manually curated orangutan family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z"
+}

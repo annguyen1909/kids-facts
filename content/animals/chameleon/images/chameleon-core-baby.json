@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-core-baby",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-core-baby",
+  "fileName": "Chameleon changes the color.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chameleon_changes_the_color.jpg",
+  "width": 2200,
+  "height": 3989,
+  "alt": "Small chameleon showing color change on a branch",
+  "caption": "Young chameleons must learn to hunt insects on their own.",
+  "attributionText": "Photo by Madugrero via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chameleon_changes_the_color.jpg\">Madugrero</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chameleon_changes_the_color.jpg",
+    "creatorName": "Madugrero",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set.",
+  "updatedAt": "2026-06-24T10:01:20.803Z"
+}

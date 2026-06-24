@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-range",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-range",
+  "fileName": "Wild Grizzly Bear.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Wild_Grizzly_Bear.jpg",
+  "width": 4286,
+  "height": 6142,
+  "alt": "Grizzly bear in open North American wilderness",
+  "caption": "Grizzly bears once ranged across much of western North America.",
+  "attributionText": "Photo by Ashley98lee via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wild_Grizzly_Bear.jpg\">Ashley98lee</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_Grizzly_Bear.jpg",
+    "creatorName": "Ashley98lee",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated grizzly bear range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:00.723Z"
+}

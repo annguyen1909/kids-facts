@@ -1,0 +1,33 @@
+{
+  "id": "koala-closeup",
+  "animalSlug": "koala",
+  "slug": "koala-closeup",
+  "fileName": "Phascolarctos cinereus Bonorong.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Phascolarctos_cinereus_Bonorong.jpg",
+  "width": 1121,
+  "height": 1732,
+  "alt": "Close-up of a koala face with large nose and fluffy ears",
+  "caption": "A koala's big nose helps it sniff out the best eucalyptus leaves to eat.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Bonorong, Tasmania, Australia",
+  "acquisitionNotes": "Manually curated koala close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by JJ Harrison ( https://www.jjharrison.com.au/ ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phascolarctos_cinereus_Bonorong.jpg\">JJ Harrison ( https://www.jjharrison.com.au/ )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phascolarctos_cinereus_Bonorong.jpg",
+    "creatorName": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-hero",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-hero",
+  "fileName": "Giraffa camelopardalis (181091671).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Giraffa_camelopardalis_%28181091671%29.jpg",
+  "width": 2048,
+  "height": 1366,
+  "alt": "Tall giraffe standing above dry grass and shrubs",
+  "caption": "Giraffes are the tallest land animals and can browse high tree leaves.",
+  "attributionText": "Photo by Daniel Aufgang via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181091671).jpg\">Daniel Aufgang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181091671).jpg",
+    "creatorName": "Daniel Aufgang",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Manually curated giraffe hero image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.575Z"
+}

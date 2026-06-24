@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-core-family",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-core-family",
+  "fileName": "White rhino and young.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/White_rhino_and_young.jpg",
+  "width": 1024,
+  "height": 683,
+  "alt": "White rhinoceros with young calf in habitat",
+  "caption": "Mothers guard calves carefully because predators may target the young.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Hein waschefort via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhino_and_young.jpg\">Hein waschefort</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_rhino_and_young.jpg",
+    "creatorName": "Hein waschefort",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

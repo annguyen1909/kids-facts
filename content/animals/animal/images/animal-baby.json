@@ -1,0 +1,21 @@
+{
+  "id": "animal-baby",
+  "animalSlug": "animal",
+  "slug": "animal-baby",
+  "fileName": "animal-baby-1600.webp",
+  "src": "https://placehold.co/1600x1067/png?text=Replace+Me",
+  "width": 1600,
+  "height": 1067,
+  "alt": "Animal baby image TBD",
+  "caption": "Animal baby caption TBD.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Location TBD",
+  "acquisitionNotes": "Replace placeholder image and metadata before publishing.",
+  "updatedAt": "2026-06-24T07:57:34.489Z"
+}

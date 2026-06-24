@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-core-diet",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-core-diet",
+  "fileName": "Cape Agulhas white shark JF2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cape_Agulhas_white_shark_JF2.jpg",
+  "width": 2740,
+  "height": 1836,
+  "alt": "Great white shark turning near the surface during a hunt",
+  "caption": "Great white sharks often attack from below with a fast upward burst.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Cape Agulhas, South Africa",
+  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Wolves201 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cape_Agulhas_white_shark_JF2.jpg\">Wolves201</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Agulhas_white_shark_JF2.jpg",
+    "creatorName": "Wolves201",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-baby",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-baby",
+  "fileName": "Crocodylus niloticus - Rancho Texas Park - Tías - Lanzarote -PC15.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Crocodylus_niloticus_-_Rancho_Texas_Park_-_T%C3%ADas_-_Lanzarote_-PC15.jpg",
+  "width": 5616,
+  "height": 3094,
+  "alt": "Young Nile crocodile hatchling",
+  "caption": "Baby crocodiles hatch from eggs and are guarded by their mother.",
+  "attributionText": "Photo by Luis Miguel Bugallo Sánchez (Lmbuga) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_-_Rancho_Texas_Park_-_T%C3%ADas_-_Lanzarote_-PC15.jpg\">Luis Miguel Bugallo Sánchez (Lmbuga)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_-_Rancho_Texas_Park_-_T%C3%ADas_-_Lanzarote_-PC15.jpg",
+    "creatorName": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Lanzarote, Spain",
+  "acquisitionNotes": "Manually curated crocodile hatchling image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z"
+}

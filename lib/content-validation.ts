@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import { ZodError } from "zod";
+import { MIN_GALLERY_IMAGES } from "@/lib/animal-page-images";
+import { matchSectionConfig, splitMdxSections } from "@/lib/core-article";
 import {
   readAnimalDirectory,
   readComparisonDirectory,
@@ -12,7 +14,6 @@ import type {
   ComparisonResolvedRecord,
   HubRecord,
   HubType,
-  SupportingPageSlug,
 } from "@/lib/types";
 
 const rootDirectory = path.join(process.cwd(), "content");
@@ -40,11 +41,22 @@ export const REQUIRED_IMAGE_TYPES: AnimalImageKind[] = [
   "fun-fact",
 ];
 
-export const DEFAULT_SUPPORTING_PAGE_SLUGS: SupportingPageSlug[] = [
-  "diet",
-  "habitat",
-  "behavior",
-];
+export const MIN_CORE_SECTIONS = 5;
+
+function isMainGallery(gallery: AnimalRecord["galleries"][number]) {
+  return gallery.galleryType === "main" || gallery.slug === "gallery";
+}
+
+function resolveMainGallerySrcs(animal: AnimalRecord): Set<string> {
+  const mainGallery =
+    animal.galleries.find((gallery) => isMainGallery(gallery)) ?? animal.galleries[0];
+
+  return new Set(
+    (mainGallery?.imageSlugs ?? [])
+      .map((imageSlug) => animal.images.find((entry) => entry.slug === imageSlug)?.src)
+      .filter((src): src is string => Boolean(src)),
+  );
+}
 
 export type ValidationSeverity = "error" | "warning";
 
@@ -58,7 +70,7 @@ export type AnimalCompleteness = {
   slug: string;
   name: string;
   images: { present: number; required: number; missing: string[] };
-  supportingPages: { present: number; expected: number; missing: string[] };
+  coreSections: number;
   hasCoreBody: boolean;
   hasHeroImage: boolean;
 };
@@ -203,9 +215,7 @@ function validateAnimalCrossReferences(
   issues: ValidationIssue[],
 ) {
   const scope = `animals/${animal.core.slug}`;
-  const supportingSlugs = new Set(animal.supportingPages.map((page) => page.slug));
   const galleryIds = new Set(animal.galleries.map((gallery) => gallery.id));
-  const pageIds = new Set(animal.supportingPages.map((page) => page.id));
   const imageSlugs = new Set(animal.images.map((image) => image.slug));
 
   for (const relatedSlug of animal.core.relatedAnimals) {
@@ -241,39 +251,6 @@ function validateAnimalCrossReferences(
     }
   }
 
-  for (const pageId of animal.core.supportingPageIds) {
-    if (!pageIds.has(pageId)) {
-      pushIssue(
-        issues,
-        "error",
-        scope,
-        `supportingPageIds references missing page "${pageId}"`,
-      );
-    }
-  }
-
-  for (const page of animal.supportingPages) {
-    if (page.animalSlug !== animal.core.slug) {
-      pushIssue(
-        issues,
-        "error",
-        `${scope}/pages/${page.slug}`,
-        `animalSlug "${page.animalSlug}" does not match "${animal.core.slug}"`,
-      );
-    }
-
-    for (const relatedPageSlug of page.relatedPageSlugs) {
-      if (!supportingSlugs.has(relatedPageSlug)) {
-        pushIssue(
-          issues,
-          "warning",
-          `${scope}/pages/${page.slug}`,
-          `relatedPageSlugs references missing page "${relatedPageSlug}"`,
-        );
-      }
-    }
-  }
-
   for (const gallery of animal.galleries) {
     if (gallery.animalSlug !== animal.core.slug) {
       pushIssue(
@@ -281,6 +258,43 @@ function validateAnimalCrossReferences(
         "error",
         `${scope}/gallery/${gallery.slug}`,
         `animalSlug "${gallery.animalSlug}" does not match "${animal.core.slug}"`,
+      );
+    }
+
+    if (!isMainGallery(gallery)) {
+      for (const imageSlug of gallery.imageSlugs) {
+        if (!imageSlugs.has(imageSlug)) {
+          pushIssue(
+            issues,
+            "error",
+            `${scope}/gallery/${gallery.slug}`,
+            `imageSlugs references missing image "${imageSlug}"`,
+          );
+        }
+      }
+      continue;
+    }
+
+    const resolvedGalleryImages = gallery.imageSlugs
+      .map((imageSlug) => animal.images.find((image) => image.slug === imageSlug))
+      .filter((image): image is NonNullable<typeof image> => Boolean(image));
+    const uniqueGallerySrcs = new Set(resolvedGalleryImages.map((image) => image.src));
+
+    if (resolvedGalleryImages.length < MIN_GALLERY_IMAGES) {
+      pushIssue(
+        issues,
+        "error",
+        `${scope}/gallery/${gallery.slug}`,
+        `gallery resolves to ${resolvedGalleryImages.length} images; requires at least ${MIN_GALLERY_IMAGES}`,
+      );
+    }
+
+    if (uniqueGallerySrcs.size < resolvedGalleryImages.length) {
+      pushIssue(
+        issues,
+        "error",
+        `${scope}/gallery/${gallery.slug}`,
+        "gallery contains duplicate image src values",
       );
     }
 
@@ -307,26 +321,55 @@ function validateAnimalCrossReferences(
     }
 
     for (const featuredPage of image.featuredOnPages) {
-      if (featuredPage === "core" || featuredPage === "gallery") continue;
-      if (!supportingSlugs.has(featuredPage)) {
+      if (featuredPage !== "core" && featuredPage !== "gallery") {
         pushIssue(
           issues,
           "warning",
           `${scope}/images/${image.slug}`,
-          `featuredOnPages references missing page "${featuredPage}"`,
+          `featuredOnPages has unsupported value "${featuredPage}"`,
+        );
+      }
+    }
+
+    if (image.featuredOnPages.includes("core")) {
+      const gallerySrcs = resolveMainGallerySrcs(animal);
+
+      if (gallerySrcs.has(image.src)) {
+        pushIssue(
+          issues,
+          "error",
+          `${scope}/images/${image.slug}`,
+          `core image src duplicates a gallery image`,
         );
       }
     }
   }
 
-  for (const faq of animal.core.faq) {
-    if (faq.targetPage === "core") continue;
-    if (!supportingSlugs.has(faq.targetPage)) {
+  const gallerySrcs = resolveMainGallerySrcs(animal);
+
+  const [, ...topicSections] = splitMdxSections(animal.coreBody);
+  for (const section of topicSections) {
+    const config = matchSectionConfig(section.title);
+    if (!config.imageType || config.imageType === "hero") continue;
+
+    const hasCoreImage = animal.images.some(
+      (entry) =>
+        entry.featuredOnPages.includes("core") &&
+        !gallerySrcs.has(entry.src) &&
+        (entry.imageType === config.imageType ||
+          (config.imageType === "family" && entry.slug.includes("roaring")) ||
+          (config.imageType === "diet" &&
+            ["eating", "hunting", "prowling", "stalking"].some((term) =>
+              entry.slug.includes(term),
+            ))),
+    );
+
+    if (!hasCoreImage) {
       pushIssue(
         issues,
-        "error",
+        "warning",
         scope,
-        `FAQ "${faq.question}" targetPage "${faq.targetPage}" does not exist`,
+        `core section "${section.title}" has no dedicated core-only image`,
       );
     }
   }
@@ -388,13 +431,15 @@ function validateHubs(hubs: HubRecord[], animalSlugs: Set<string>, issues: Valid
   }
 }
 
+function countCoreSections(coreBody: string): number {
+  return (coreBody.match(/^## /gm) ?? []).length;
+}
+
 function buildCompleteness(animals: AnimalRecord[]): AnimalCompleteness[] {
   return animals.map((animal) => {
     const presentImageTypes = new Set(animal.images.map((image) => image.imageType));
     const missingImages = REQUIRED_IMAGE_TYPES.filter((type) => !presentImageTypes.has(type));
-    const missingPages = DEFAULT_SUPPORTING_PAGE_SLUGS.filter(
-      (slug) => !animal.supportingPages.some((page) => page.slug === slug),
-    );
+    const coreSections = countCoreSections(animal.coreBody);
 
     return {
       slug: animal.core.slug,
@@ -404,11 +449,7 @@ function buildCompleteness(animals: AnimalRecord[]): AnimalCompleteness[] {
         required: REQUIRED_IMAGE_TYPES.length,
         missing: missingImages,
       },
-      supportingPages: {
-        present: DEFAULT_SUPPORTING_PAGE_SLUGS.length - missingPages.length,
-        expected: DEFAULT_SUPPORTING_PAGE_SLUGS.length,
-        missing: missingPages,
-      },
+      coreSections,
       hasCoreBody: animal.coreBody.trim().length > 0,
       hasHeroImage: animal.images.some((image) => image.imageType === "hero"),
     };

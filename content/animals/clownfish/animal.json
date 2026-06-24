@@ -1,0 +1,155 @@
+{
+  "id": "animal-clownfish",
+  "slug": "clownfish",
+  "name": "Clownfish",
+  "commonNames": [
+    "Clownfish",
+    "Ocellaris Clownfish",
+    "Common Clownfish",
+    "False Percula Clownfish"
+  ],
+  "scientificName": "Amphiprion ocellaris",
+  "summary": "Ocellaris clownfish are small, colorful reef fish that live with sea anemones. They hide among stinging tentacles, care for eggs, and thrive on warm coral reefs.",
+  "heroTitle": "Clownfish Facts",
+  "metaTitle": "Clownfish Facts | Reef Habitat, Anemones & Photos",
+  "metaDescription": "Discover ocellaris clownfish facts with photos, coral reef habitat, anemone partners, egg care, and fun facts. Learn where clownfish live and how they avoid stings.",
+  "searchIntents": [
+    "clownfish facts",
+    "what do clownfish eat",
+    "where do clownfish live",
+    "why do clownfish live in anemones",
+    "what is a baby clownfish called",
+    "are clownfish real"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacentridae",
+    "genus": "Amphiprion",
+    "species": "A. ocellaris"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "Asia",
+    "Australia"
+  ],
+  "countries": [
+    "Australia",
+    "Indonesia",
+    "Philippines",
+    "Malaysia",
+    "Japan",
+    "Thailand"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "algae",
+    "plankton",
+    "small crustaceans",
+    "leftover anemone food"
+  ],
+  "lifespan": {
+    "wild": "6 to 10 years",
+    "captivity": "Up to 15 years in aquariums"
+  },
+  "size": {
+    "lengthMin": "3 inches",
+    "lengthMax": "4 inches"
+  },
+  "weight": {
+    "min": "1 ounce",
+    "max": "2 ounces"
+  },
+  "speed": "Quick darting swimmer near reef cover",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "anemone living",
+    "egg guarding",
+    "reef darting",
+    "pair bonding",
+    "symbiosis"
+  ],
+  "adaptations": [
+    "mucus coating against stings",
+    "bright warning colors",
+    "small size for hiding",
+    "reef navigation",
+    "nest guarding"
+  ],
+  "predators": [
+    "larger fish",
+    "eels",
+    "humans"
+  ],
+  "prey": [
+    "plankton",
+    "small crustaceans",
+    "algae"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Eggs hatch in about 6 to 10 days",
+    "offspringCount": "Hundreds of tiny eggs per clutch"
+  },
+  "funFacts": [
+    "Clownfish are immune to their host anemone's sting because of a special mucus coating.",
+    "All clownfish are born male, and the largest fish in a group can become the female.",
+    "Male clownfish guard eggs and fan them to keep them clean and oxygenated.",
+    "Ocellaris clownfish rarely swim far from their anemone home.",
+    "Baby clownfish drift in the open ocean as larvae before settling on a reef.",
+    "Their bright orange and white bands help them hide among anemone tentacles."
+  ],
+  "faq": [
+    {
+      "question": "What is a clownfish?",
+      "answer": "A clownfish is a small colorful reef fish that often lives with a stinging sea anemone for shelter and protection."
+    },
+    {
+      "question": "Where do clownfish live?",
+      "answer": "Ocellaris clownfish live on warm coral reefs in the Indo-Pacific, from Australia through Southeast Asia."
+    },
+    {
+      "question": "What do clownfish eat?",
+      "answer": "Clownfish are carnivores that eat algae, plankton, tiny crustaceans, and leftover food near their anemone."
+    },
+    {
+      "question": "Why do clownfish live in anemones?",
+      "answer": "Sea anemones give clownfish shelter from predators. The fish gain protection while the anemone may benefit from food scraps and cleaning."
+    },
+    {
+      "question": "Are clownfish real animals?",
+      "answer": "Yes. Ocellaris clownfish are real reef fish. Popular movies made them famous, but wild clownfish live on coral reefs, not in every ocean habitat shown in fiction."
+    },
+    {
+      "question": "How do clownfish avoid anemone stings?",
+      "answer": "A mucus layer on their skin helps clownfish avoid being stung by the anemone they live in."
+    },
+    {
+      "question": "Are clownfish endangered?",
+      "answer": "Ocellaris clownfish are listed as Least Concern, but reef damage and warming oceans can harm the anemones they need."
+    }
+  ],
+  "relatedAnimals": [
+    "bottlenose-dolphin",
+    "sea-turtle",
+    "great-white-shark"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "clownfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

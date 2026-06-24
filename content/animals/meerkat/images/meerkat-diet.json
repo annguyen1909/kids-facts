@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-diet",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-diet",
+  "fileName": "Meerkat (8455328234).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Meerkat_%288455328234%29.jpg",
+  "width": 4288,
+  "height": 2848,
+  "alt": "Meerkat holding food in its paws",
+  "caption": "Meerkats eat insects, scorpions, small reptiles, eggs, and roots.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated meerkat diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:13.126Z",
+  "attributionText": "Photo by shankar s. from Dubai, united arab emirates via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Meerkat_(8455328234).jpg\">shankar s. from Dubai, united arab emirates</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meerkat_(8455328234).jpg",
+    "creatorName": "shankar s. from Dubai, united arab emirates",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "orca-diet",
+  "animalSlug": "orca",
+  "slug": "orca-diet",
+  "fileName": "Killer Whales Hunting a Seal.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Killer_Whales_Hunting_a_Seal.jpg",
+  "width": 6720,
+  "height": 4411,
+  "alt": "Orcas working together during a hunt",
+  "caption": "Orcas often cooperate to catch prey in the sea.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Antarctic waters",
+  "acquisitionNotes": "Manually curated orca diet image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by Callan Carpenter via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Killer_Whales_Hunting_a_Seal.jpg\">Callan Carpenter</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Killer_Whales_Hunting_a_Seal.jpg",
+    "creatorName": "Callan Carpenter",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-family",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-family",
+  "fileName": "BlueWhaleWithCalfDiving.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/BlueWhaleWithCalfDiving.jpg",
+  "width": 2900,
+  "height": 1868,
+  "alt": "Blue whale mother and calf diving together beneath the surface",
+  "caption": "A mother blue whale stays close to her calf for months while it learns to swim and feed.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated blue whale family image with verified species identification.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Andreas Tille via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalfDiving.jpg\">Andreas Tille</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalfDiving.jpg",
+    "creatorName": "Andreas Tille",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wolf-core-diet",
+  "animalSlug": "wolf",
+  "slug": "wolf-core-diet",
+  "fileName": "Mexican wolf sniffing ground - DPLA - 115a89ae698706689b5e8157ad29696a.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mexican_wolf_sniffing_ground_-_DPLA_-_115a89ae698706689b5e8157ad29696a.jpg",
+  "width": 1576,
+  "height": 1064,
+  "alt": "Wolf sniffing the ground while tracking scent",
+  "caption": "Wolves often hunt as a pack, chasing and surrounding large prey.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mexican_wolf_sniffing_ground_-_DPLA_-_115a89ae698706689b5e8157ad29696a.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mexican_wolf_sniffing_ground_-_DPLA_-_115a89ae698706689b5e8157ad29696a.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

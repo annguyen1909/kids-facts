@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-closeup",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-closeup",
+  "fileName": "Chamaeleo calyptratus Esapolis 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chamaeleo_calyptratus_Esapolis_02.jpg",
+  "width": 3738,
+  "height": 2804,
+  "alt": "Close-up of a veiled chameleon face and casque",
+  "caption": "Each eye can move separately to watch for insects and predators.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Italy",
+  "acquisitionNotes": "Manually curated chameleon close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Syrio via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_Esapolis_02.jpg\">Syrio</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_Esapolis_02.jpg",
+    "creatorName": "Syrio",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fox-core-diet",
+  "animalSlug": "fox",
+  "slug": "fox-core-diet",
+  "fileName": "Red Fox, Vulpes vulpes (14913352991).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Red_Fox%2C_Vulpes_vulpes_%2814913352991%29.jpg",
+  "width": 4000,
+  "height": 2672,
+  "alt": "Red fox watching for prey in grassland",
+  "caption": "They hunt alone, listening for rodents moving under leaves or snow.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by The Forest Vixen's CC Photo Stream via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox%2C_Vulpes_vulpes_(14913352991).jpg\">The Forest Vixen's CC Photo Stream</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Fox%2C_Vulpes_vulpes_(14913352991).jpg",
+    "creatorName": "The Forest Vixen's CC Photo Stream",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

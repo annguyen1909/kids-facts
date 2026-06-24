@@ -1,0 +1,33 @@
+{
+  "id": "koala-size",
+  "animalSlug": "koala",
+  "slug": "koala-size",
+  "fileName": "Cape Otway (AU), Lighthouse Road, Koala -- 2019 -- 1254.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cape_Otway_%28AU%29%2C_Lighthouse_Road%2C_Koala_--_2019_--_1254.jpg",
+  "width": 2052,
+  "height": 2052,
+  "alt": "Koala sitting in a tree showing body size",
+  "caption": "Adult koalas are about 2 to 3 feet long and can weigh up to 30 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Cape Otway, Australia",
+  "acquisitionNotes": "Manually curated koala size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by Dietmar Rabich via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cape_Otway_(AU)%2C_Lighthouse_Road%2C_Koala_--_2019_--_1254.jpg\">Dietmar Rabich</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Otway_(AU)%2C_Lighthouse_Road%2C_Koala_--_2019_--_1254.jpg",
+    "creatorName": "Dietmar Rabich",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-fun-fact",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-fun-fact",
+  "fileName": "Beautiful camouflage Chameleon - reptile ~ colour changing Chameleon.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Beautiful_camouflage_Chameleon_-_reptile_~_colour_changing_Chameleon.jpg",
+  "width": 3096,
+  "height": 4128,
+  "alt": "Chameleon showing green coloration on a branch",
+  "caption": "Chameleons change color with mood, temperature, and light—not just background matching.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated chameleon fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Rizzey Rhazes via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Beautiful_camouflage_Chameleon_-_reptile_~_colour_changing_Chameleon.jpg\">Rizzey Rhazes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_camouflage_Chameleon_-_reptile_~_colour_changing_Chameleon.jpg",
+    "creatorName": "Rizzey Rhazes",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

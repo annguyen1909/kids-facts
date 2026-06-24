@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-fun-fact",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-fun-fact",
+  "fileName": "Bornean Orangutan at Night-time Nest (15026373952).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bornean_Orangutan_at_Night-time_Nest_%2815026373952%29.jpg",
+  "width": 2048,
+  "height": 1536,
+  "alt": "Orangutan resting in a leafy nest high in the trees",
+  "caption": "Orangutans build fresh leafy nests in trees to sleep in almost every night.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Manually curated orangutan fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "attributionText": "Photo by Mike Prince from Bangalore, India via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_at_Night-time_Nest_(15026373952).jpg\">Mike Prince from Bangalore, India</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_at_Night-time_Nest_(15026373952).jpg",
+    "creatorName": "Mike Prince from Bangalore, India",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

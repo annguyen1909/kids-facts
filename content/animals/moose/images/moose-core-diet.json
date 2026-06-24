@@ -1,0 +1,33 @@
+{
+  "id": "moose-core-diet",
+  "animalSlug": "moose",
+  "slug": "moose-core-diet",
+  "fileName": "Alce (Alces alces), Potter marsh, Alaska, Estados Unidos, 2017-08-22, DD 139.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Alce_%28Alces_alces%29%2C_Potter_marsh%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_139.jpg",
+  "width": 5883,
+  "height": 4359,
+  "alt": "Moose browsing vegetation in a marsh",
+  "caption": "They may eat more than 50 pounds of plants in a single day.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Potter Marsh, Alaska",
+  "acquisitionNotes": "Core article image curated separately from the moose gallery set.",
+  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces)%2C_Potter_marsh%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_139.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces)%2C_Potter_marsh%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_139.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:11.790Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

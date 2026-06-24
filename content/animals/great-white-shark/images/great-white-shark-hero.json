@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-hero",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-hero",
+  "fileName": "Great White Shark (14730796397).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Great_White_Shark_%2814730796397%29.jpg",
+  "width": 3024,
+  "height": 2268,
+  "alt": "Great white shark swimming just below the surface",
+  "caption": "Great white sharks are powerful ocean fish with streamlined bodies and sharp teeth.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated great white shark hero image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Elias Levy via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730796397).jpg\">Elias Levy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730796397).jpg",
+    "creatorName": "Elias Levy",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "snake-hero",
+  "animalSlug": "snake",
+  "slug": "snake-hero",
+  "fileName": "Python Regius (163596247).jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Python_Regius_%28163596247%29.jpeg",
+  "width": 2048,
+  "height": 1365,
+  "alt": "Ball python coiled on a branch",
+  "caption": "Ball pythons are calm snakes with beautiful patterns and a habit of curling into a ball.",
+  "attributionText": "Photo by Sandro De Sousa via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python_Regius_(163596247).jpeg\">Sandro De Sousa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Python_Regius_(163596247).jpeg",
+    "creatorName": "Sandro De Sousa",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python hero image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z"
+}

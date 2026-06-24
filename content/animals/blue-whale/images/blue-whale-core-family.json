@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-core-family",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-core-family",
+  "fileName": "Mirissa, whale watching, blue whale (6917912897).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mirissa%2C_whale_watching%2C_blue_whale_%286917912897%29.jpg",
+  "width": 4272,
+  "height": 2848,
+  "alt": "Blue whale gliding through calm ocean water off Mirissa Sri Lanka",
+  "caption": "Blue whales are usually solitary but may feed near others where krill swarms are dense.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Mirissa, Sri Lanka",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Arian Zwegers via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mirissa%2C_whale_watching%2C_blue_whale_(6917912897).jpg\">Arian Zwegers</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirissa%2C_whale_watching%2C_blue_whale_(6917912897).jpg",
+    "creatorName": "Arian Zwegers",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

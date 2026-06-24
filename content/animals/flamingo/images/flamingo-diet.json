@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-diet",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-diet",
+  "fileName": "Phoenicopterus ruber - 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Phoenicopterus_ruber_-_02.jpg",
+  "width": 2432,
+  "height": 3648,
+  "alt": "American flamingo with head upside down filter feeding in water",
+  "caption": "Flamingos filter tiny shrimp and algae from the water with their bent beaks.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Caribbean",
+  "acquisitionNotes": "Manually curated flamingo diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "attributionText": "Photo by Carlos Delgado via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_02.jpg\">Carlos Delgado</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_02.jpg",
+    "creatorName": "Carlos Delgado",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

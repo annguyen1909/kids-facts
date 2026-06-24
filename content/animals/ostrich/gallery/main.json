@@ -1,0 +1,22 @@
+{
+  "id": "ostrich-gallery-main",
+  "animalSlug": "ostrich",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Common Ostrich Photo Gallery",
+  "metaTitle": "Common Ostrich Photo Gallery",
+  "metaDescription": "Browse a common ostrich photo gallery with wildlife photos.",
+  "intro": "Explore common ostrich photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "ostrich-hero",
+    "ostrich-habitat",
+    "ostrich-diet",
+    "ostrich-baby",
+    "ostrich-family",
+    "ostrich-range",
+    "ostrich-size",
+    "ostrich-closeup",
+    "ostrich-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:37:32.873Z"
+}

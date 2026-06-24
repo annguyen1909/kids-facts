@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-core-range",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-core-range",
+  "fileName": "Komodo Island from a boat.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Komodo_Island_from_a_boat.jpg",
+  "width": 4608,
+  "height": 3456,
+  "alt": "View of Komodo Island shoreline from the sea",
+  "caption": "Protected national park islands give the last wild Komodo dragons room to survive.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Komodo Island, Indonesia",
+  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Hotel Kaesong via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Island_from_a_boat.jpg\">Hotel Kaesong</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_Island_from_a_boat.jpg",
+    "creatorName": "Hotel Kaesong",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

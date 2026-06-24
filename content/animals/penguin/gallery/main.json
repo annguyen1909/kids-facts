@@ -1,0 +1,22 @@
+{
+  "id": "penguin-gallery-main",
+  "animalSlug": "penguin",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Penguin Photo Gallery",
+  "metaTitle": "Penguin Photo Gallery",
+  "metaDescription": "Browse a penguin photo gallery with wildlife photos.",
+  "intro": "Explore penguin photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "penguin-hero",
+    "penguin-habitat",
+    "penguin-diet",
+    "penguin-baby",
+    "penguin-family",
+    "penguin-range",
+    "penguin-size",
+    "penguin-closeup",
+    "penguin-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T07:14:46.286Z"
+}

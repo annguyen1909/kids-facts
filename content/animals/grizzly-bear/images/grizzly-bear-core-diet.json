@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-core-diet",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-core-diet",
+  "fileName": "Grizzly Bear Yellowstone.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Grizzly_Bear_Yellowstone.jpg",
+  "width": 1050,
+  "height": 750,
+  "alt": "Grizzly bear foraging in Yellowstone habitat",
+  "caption": "Before hibernation, grizzlies eat heavily to build fat reserves.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Yellowstone National Park, USA",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
+  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "attributionText": "Photo by Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg\">Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg",
+    "creatorName": "Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

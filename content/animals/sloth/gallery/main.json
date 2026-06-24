@@ -1,0 +1,22 @@
+{
+  "id": "sloth-gallery-main",
+  "animalSlug": "sloth",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Brown-throated Sloth Photo Gallery",
+  "metaTitle": "Brown-throated Sloth Photo Gallery",
+  "metaDescription": "Browse a brown-throated sloth photo gallery with wildlife photos.",
+  "intro": "Explore brown-throated sloth photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "sloth-hero",
+    "sloth-habitat",
+    "sloth-diet",
+    "sloth-baby",
+    "sloth-family",
+    "sloth-range",
+    "sloth-size",
+    "sloth-closeup",
+    "sloth-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:24:27.808Z"
+}

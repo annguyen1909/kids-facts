@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-family",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-family",
+  "fileName": "Wild Komodo dragon - Komodo island (17118478512) (2).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wild_Komodo_dragon_-_Komodo_island_%2817118478512%29_%282%29.jpg",
+  "width": 4288,
+  "height": 2848,
+  "alt": "Wild Komodo dragon moving across open island ground",
+  "caption": "Adult Komodo dragons usually live alone, but several may gather where food is plentiful.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Komodo Island, Indonesia",
+  "acquisitionNotes": "Manually curated Komodo dragon behavior image with verified species identification.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Jorge Láscar from Australia via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wild_Komodo_dragon_-_Komodo_island_(17118478512)_(2).jpg\">Jorge Láscar from Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wild_Komodo_dragon_-_Komodo_island_(17118478512)_(2).jpg",
+    "creatorName": "Jorge Láscar from Australia",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

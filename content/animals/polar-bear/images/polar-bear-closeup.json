@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-closeup",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-closeup",
+  "fileName": "Polar Bear with its tongue sticking out.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Polar_Bear_with_its_tongue_sticking_out.jpg",
+  "width": 7360,
+  "height": 4912,
+  "alt": "Close-up polar bear face with tongue visible",
+  "caption": "A polar bear's keen sense of smell helps it find seals beneath the snow.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arctic",
+  "acquisitionNotes": "Manually curated polar bear close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by Christopher Michel via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Polar_Bear_with_its_tongue_sticking_out.jpg\">Christopher Michel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_Bear_with_its_tongue_sticking_out.jpg",
+    "creatorName": "Christopher Michel",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

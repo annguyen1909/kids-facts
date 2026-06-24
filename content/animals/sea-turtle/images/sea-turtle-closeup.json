@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-closeup",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-closeup",
+  "fileName": "Total internal reflection of Chelonia mydas.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg",
+  "width": 2000,
+  "height": 1500,
+  "alt": "Close-up green sea turtle face underwater",
+  "caption": "Sea turtles breathe air and have hard shells that protect their bodies.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical ocean",
+  "acquisitionNotes": "Manually curated sea turtle close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg",
+    "creatorName": "Brocken Inaglory",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

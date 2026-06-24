@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-core-range",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-core-range",
+  "fileName": "Blue Whale Tail Fluke, Indian Ocean.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Blue_Whale_Tail_Fluke%2C_Indian_Ocean.JPG",
+  "width": 2244,
+  "height": 1178,
+  "alt": "Blue whale tail fluke above Indian Ocean water before a deep dive",
+  "caption": "Blue whale populations span the Atlantic, Pacific, and Indian oceans.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Indian Ocean",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Arvindkumarn via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_Tail_Fluke%2C_Indian_Ocean.JPG\">Arvindkumarn</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Whale_Tail_Fluke%2C_Indian_Ocean.JPG",
+    "creatorName": "Arvindkumarn",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-hero",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-hero",
+  "fileName": "Komodo Dragon (Varanus Komodoensis).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Komodo_Dragon_%28Varanus_Komodoensis%29.jpg",
+  "width": 3888,
+  "height": 2592,
+  "alt": "Adult Komodo dragon standing on dry ground in Indonesia",
+  "caption": "Komodo dragons are the largest living lizards on Earth.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Komodo National Park, Indonesia",
+  "acquisitionNotes": "Manually curated Komodo dragon hero image with verified species identification.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Alibasdaysar via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Dragon_(Varanus_Komodoensis).jpg\">Alibasdaysar</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_Dragon_(Varanus_Komodoensis).jpg",
+    "creatorName": "Alibasdaysar",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

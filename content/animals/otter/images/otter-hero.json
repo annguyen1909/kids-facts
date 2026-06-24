@@ -1,0 +1,33 @@
+{
+  "id": "otter-hero",
+  "animalSlug": "otter",
+  "slug": "otter-hero",
+  "fileName": "Sea-otter-morro-bay 13.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sea-otter-morro-bay_13.jpg",
+  "width": 3504,
+  "height": 2336,
+  "alt": "Sea otter floating on its back in calm water",
+  "caption": "Sea otters float on their backs and spend much of life near the coast.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Morro Bay, California",
+  "acquisitionNotes": "Manually curated otter hero image with verified sea otter identification.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Mike Baird from Morro Bay, USA ( bairdphotos.com ) via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea-otter-morro-bay_13.jpg\">Mike Baird from Morro Bay, USA ( bairdphotos.com )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea-otter-morro-bay_13.jpg",
+    "creatorName": "Mike Baird from Morro Bay, USA ( bairdphotos.com )",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

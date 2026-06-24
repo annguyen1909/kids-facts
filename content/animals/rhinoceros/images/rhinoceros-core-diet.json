@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-core-diet",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-core-diet",
+  "fileName": "White Rhinoceros (Ceratotherium simum) female grazing ... - Flickr - berniedup.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/White_Rhinoceros_%28Ceratotherium_simum%29_female_grazing_..._-_Flickr_-_berniedup.jpg",
+  "width": 4683,
+  "height": 2913,
+  "alt": "Female white rhinoceros grazing on savanna grass",
+  "caption": "Their wide, square lips are perfect for cropping short grasses close to the ground.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_female_grazing_..._-_Flickr_-_berniedup.jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_female_grazing_..._-_Flickr_-_berniedup.jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

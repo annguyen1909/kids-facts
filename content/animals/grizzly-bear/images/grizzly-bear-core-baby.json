@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-core-baby",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-core-baby",
+  "fileName": "Standing Grizzly Bear Cub (Ursus arctos horribilis) (51556280998).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Standing_Grizzly_Bear_Cub_%28Ursus_arctos_horribilis%29_%2851556280998%29.jpg",
+  "width": 3152,
+  "height": 4640,
+  "alt": "Young grizzly bear cub standing on hind legs",
+  "caption": "Cubs are born tiny in winter dens while the mother is in deep sleep.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
+  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "attributionText": "Photo by Gregory Smith via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Standing_Grizzly_Bear_Cub_(Ursus_arctos_horribilis)_(51556280998).jpg\">Gregory Smith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Standing_Grizzly_Bear_Cub_(Ursus_arctos_horribilis)_(51556280998).jpg",
+    "creatorName": "Gregory Smith",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

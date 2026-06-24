@@ -1,0 +1,168 @@
+{
+  "id": "animal-wolf",
+  "slug": "wolf",
+  "name": "Wolf",
+  "commonNames": [
+    "Wolf",
+    "Gray Wolf",
+    "Grey Wolf",
+    "Timber Wolf"
+  ],
+  "scientificName": "Canis lupus",
+  "summary": "Wolves are wild dogs that live and hunt in packs across forests, tundra, and mountains. They communicate with howls, chase large prey together, and raise pups as a family group.",
+  "heroTitle": "Wolf Facts",
+  "metaTitle": "Wolf Facts | Habitat, Diet, Packs & Photos",
+  "metaDescription": "Discover wolf facts with photos, pack behavior, forest habitat, hunting diet, pup life, and conservation. Learn where wolves live, what they eat, and why they howl.",
+  "searchIntents": [
+    "wolf facts",
+    "what do wolves eat",
+    "where do wolves live",
+    "how big is a wolf",
+    "why do wolves howl",
+    "are wolves endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Canidae",
+    "genus": "Canis",
+    "species": "C. lupus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Russia",
+    "Spain",
+    "Italy",
+    "Poland",
+    "India",
+    "Mongolia"
+  ],
+  "biomes": [
+    "forest",
+    "tundra",
+    "temperate forest",
+    "savanna",
+    "mountain"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "deer",
+    "elk",
+    "moose",
+    "bison",
+    "caribou",
+    "wild boar"
+  ],
+  "lifespan": {
+    "wild": "6 to 8 years",
+    "captivity": "Up to 16 years in human care"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "6.5 feet",
+    "heightMin": "2 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "50 pounds",
+    "max": "175 pounds"
+  },
+  "speed": "Up to 37 mph in short chases",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "pack living",
+    "cooperative hunting",
+    "howling",
+    "scent marking",
+    "den rearing"
+  ],
+  "adaptations": [
+    "keen sense of smell",
+    "endurance running",
+    "strong jaws",
+    "thick winter coat",
+    "pack cooperation"
+  ],
+  "predators": [
+    "humans",
+    "bears"
+  ],
+  "prey": [
+    "deer",
+    "elk",
+    "moose",
+    "bison",
+    "caribou"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 63 days",
+    "offspringCount": "Usually 4 to 6 pups"
+  },
+  "funFacts": [
+    "A wolf's howl can carry for miles on a quiet night.",
+    "Wolf packs are usually led by a breeding pair and their offspring.",
+    "Pups are born in underground dens in spring.",
+    "Wolves can eat up to 20 pounds of meat in one meal after a big hunt.",
+    "Each wolf has a unique howl that pack members can recognize.",
+    "Wolves use body language, scent, and sound to communicate."
+  ],
+  "faq": [
+    {
+      "question": "What is a wolf?",
+      "answer": "A wolf is a wild member of the dog family. Wolves live in packs and hunt animals such as deer and elk."
+    },
+    {
+      "question": "Where do wolves live?",
+      "answer": "Wolves live in forests, mountains, and tundra across North America, Europe, and Asia. They need large wild areas with prey."
+    },
+    {
+      "question": "What do wolves eat?",
+      "answer": "Wolves are carnivores that eat meat. They hunt deer, elk, moose, bison, and other large animals, often working as a pack."
+    },
+    {
+      "question": "Why do wolves howl?",
+      "answer": "Wolves howl to keep in touch with pack members, warn rivals, and strengthen social bonds."
+    },
+    {
+      "question": "Are wolves dangerous to people?",
+      "answer": "Healthy wild wolves usually avoid people. Conflicts are rare, but wolves should always be watched from a safe distance."
+    },
+    {
+      "question": "How are wolves different from dogs?",
+      "answer": "Dogs descended from wolves, but wolves remain wild animals with stronger instincts to hunt and defend territory in packs."
+    },
+    {
+      "question": "Are wolves endangered?",
+      "answer": "Gray wolves are listed as Least Concern overall, but some local populations were wiped out and later reintroduced through conservation programs."
+    }
+  ],
+  "relatedAnimals": [
+    "fox",
+    "tiger",
+    "lion"
+  ],
+  "comparisonCandidates": [
+    "fox"
+  ],
+  "galleryIds": [
+    "wolf-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T10:00:00.000Z",
+  "publishedAt": "2026-06-24T10:00:00.000Z",
+  "habitat": "forest"
+}

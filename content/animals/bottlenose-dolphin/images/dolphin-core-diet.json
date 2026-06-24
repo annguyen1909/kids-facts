@@ -1,0 +1,33 @@
+{
+  "id": "dolphin-core-diet",
+  "animalSlug": "bottlenose-dolphin",
+  "slug": "dolphin-core-diet",
+  "fileName": "Barrier_feeding_in_bottlenose_dolphins.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Barrier_feeding_in_bottlenose_dolphins.jpg",
+  "width": 1446,
+  "height": 1745,
+  "alt": "Bottlenose dolphins cooperating during barrier feeding near shoreline",
+  "caption": "Bottlenose dolphins can cooperate to trap fish before taking turns to feed.",
+  "attributionText": "Photo by BIO267 F13 03 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Barrier_feeding_in_bottlenose_dolphins.jpg\">BIO267 F13 03</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barrier_feeding_in_bottlenose_dolphins.jpg",
+    "creatorName": "BIO267 F13 03",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Coastal waters",
+  "acquisitionNotes": "Core article diet image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

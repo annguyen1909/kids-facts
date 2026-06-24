@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-fun-fact",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-fun-fact",
+  "fileName": "Chimpanzee Gombe Tanzania.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chimpanzee_Gombe_Tanzania.jpg",
+  "width": 3024,
+  "height": 4032,
+  "alt": "Chimpanzee sitting in forest holding food",
+  "caption": "Chimpanzees use sticks and other tools to reach insects and honey.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Gombe, Tanzania",
+  "acquisitionNotes": "Manually curated chimpanzee fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by AmyAbroad via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee_Gombe_Tanzania.jpg\">AmyAbroad</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimpanzee_Gombe_Tanzania.jpg",
+    "creatorName": "AmyAbroad",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

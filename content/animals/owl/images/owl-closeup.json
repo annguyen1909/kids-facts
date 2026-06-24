@@ -1,0 +1,33 @@
+{
+  "id": "owl-closeup",
+  "animalSlug": "owl",
+  "slug": "owl-closeup",
+  "fileName": "0 Bubo virginianus - Grand-duc d'Amérique (1).JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/0_Bubo_virginianus_-_Grand-duc_d%27Am%C3%A9rique_%281%29.JPG",
+  "width": 5184,
+  "height": 3456,
+  "alt": "Close-up great horned owl face with yellow eyes and ear tufts",
+  "caption": "Large eyes and facial disks help owls gather sound and see in low light.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated owl close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Jean-Pol GRANDMONT via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:0_Bubo_virginianus_-_Grand-duc_d'Am%C3%A9rique_(1).JPG\">Jean-Pol GRANDMONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Bubo_virginianus_-_Grand-duc_d'Am%C3%A9rique_(1).JPG",
+    "creatorName": "Jean-Pol GRANDMONT",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

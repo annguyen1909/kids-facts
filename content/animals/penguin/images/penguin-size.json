@@ -1,0 +1,33 @@
+{
+  "id": "penguin-size",
+  "animalSlug": "penguin",
+  "slug": "penguin-size",
+  "fileName": "King penguin Aptenodytes patagonicus-4932.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/King_penguin_Aptenodytes_patagonicus-4932.jpg",
+  "width": 4162,
+  "height": 2775,
+  "alt": "King penguin standing upright showing full body height on grass",
+  "caption": "King penguins stand about three feet tall, smaller than emperor penguins.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "South Georgia",
+  "acquisitionNotes": "Manually curated penguin size image with verified species identification.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Isiwal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:King_penguin_Aptenodytes_patagonicus-4932.jpg\">Isiwal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_penguin_Aptenodytes_patagonicus-4932.jpg",
+    "creatorName": "Isiwal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "penguin-hero",
+  "animalSlug": "penguin",
+  "slug": "penguin-hero",
+  "fileName": "2007 Snow-Hill-Island Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+  "width": 2735,
+  "height": 1429,
+  "alt": "Emperor penguin standing on snowy ice at Snow Hill Island, Antarctica",
+  "caption": "Emperor penguins are the tallest penguin species and live in Antarctica.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Snow Hill Island, Antarctica",
+  "acquisitionNotes": "Manually curated emperor penguin hero image with verified species identification.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Denis Luyten via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg\">Denis Luyten</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+    "creatorName": "Denis Luyten",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

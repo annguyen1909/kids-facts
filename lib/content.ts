@@ -10,8 +10,15 @@ import type {
   HubRecord,
   HubType,
   ResolvedEntity,
-  SupportingPageSlug,
 } from "@/lib/types";
+import { formatDisplayLabel } from "@/lib/format-display";
+import {
+  buildDietClusters,
+  buildHabitatClusters,
+  clusterToHubRecord,
+  mergeHubWithCluster,
+  type HubCluster,
+} from "@/lib/hub-clusters";
 
 const isoDateString = z.preprocess(
   (value) => (value instanceof Date ? value.toISOString() : value),
@@ -20,6 +27,13 @@ const isoDateString = z.preprocess(
 
 const rootDirectory = path.join(process.cwd(), "content");
 const animalsDirectory = path.join(rootDirectory, "animals");
+
+/** Scaffold/template folders — excluded from the public site and sitemap. */
+export const UNPUBLISHED_ANIMAL_SLUGS = new Set(["animal"]);
+
+export function isPublishedAnimal(slug: string) {
+  return !UNPUBLISHED_ANIMAL_SLUGS.has(slug);
+}
 const comparisonsDirectory = path.join(rootDirectory, "comparisons");
 const hubsDirectory = path.join(rootDirectory, "hubs");
 
@@ -89,26 +103,7 @@ const imageSchema = z.object({
       "fun-fact",
     ]),
   ),
-  featuredOnPages: z.array(
-    z.union([
-      z.literal("core"),
-      z.literal("gallery"),
-      z.enum([
-        "diet",
-        "habitat",
-        "lifespan",
-        "size",
-        "behavior",
-        "life-cycle",
-        "babies",
-        "predators-and-threats",
-        "adaptations",
-        "conservation-status",
-        "where-does-it-live",
-        "what-does-it-eat",
-      ]),
-    ]),
-  ),
+  featuredOnPages: z.array(z.enum(["core", "gallery"])),
   location: z.string(),
   acquisitionNotes: z.string().optional(),
   updatedAt: isoDateString,
@@ -135,7 +130,7 @@ const animalCoreSchema = z.object({
     species: z.string(),
   }),
   classificationLabels: z.array(z.string()),
-  habitats: z.array(z.string()),
+  habitat: z.string(),
   continents: z.array(z.string()),
   countries: z.array(z.string()),
   biomes: z.array(z.string()),
@@ -174,93 +169,38 @@ const animalCoreSchema = z.object({
     z.object({
       question: z.string(),
       answer: z.string(),
-      targetPage: z.union([
-        z.literal("core"),
-        z.enum([
-          "diet",
-          "habitat",
-          "lifespan",
-          "size",
-          "behavior",
-          "life-cycle",
-          "babies",
-          "predators-and-threats",
-          "adaptations",
-          "conservation-status",
-          "where-does-it-live",
-          "what-does-it-eat",
-        ]),
-      ]),
     }),
   ),
   relatedAnimals: z.array(z.string()),
   comparisonCandidates: z.array(z.string()),
   galleryIds: z.array(z.string()),
-  supportingPageIds: z.array(z.string()),
   updatedAt: isoDateString,
   publishedAt: isoDateString,
 });
 
-const supportingPageFrontmatterSchema = z.object({
-  id: z.string(),
-  animalSlug: z.string(),
-  pageType: z.literal("supporting"),
-  slug: z.enum([
-    "diet",
-    "habitat",
-    "lifespan",
-    "size",
-    "behavior",
-    "life-cycle",
-    "babies",
-    "predators-and-threats",
-    "adaptations",
-    "conservation-status",
-    "where-does-it-live",
-    "what-does-it-eat",
-  ]),
-  title: z.string(),
-  metaTitle: z.string(),
-  metaDescription: z.string(),
-  intro: z.string(),
-  intentKeywords: z.array(z.string()),
-  faq: z.array(
-    z.object({
-      question: z.string(),
-      answer: z.string(),
-    }),
-  ),
-  galleryTopics: z.array(
-    z.enum([
-      "hero",
-      "habitat",
-      "diet",
-      "baby",
-      "family",
-      "range",
-      "size",
-      "closeup",
-      "fun-fact",
-    ]),
-  ),
-  relatedPageSlugs: z.array(
-    z.enum([
-      "diet",
-      "habitat",
-      "lifespan",
-      "size",
-      "behavior",
-      "life-cycle",
-      "babies",
-      "predators-and-threats",
-      "adaptations",
-      "conservation-status",
-      "where-does-it-live",
-      "what-does-it-eat",
-    ]),
-  ),
-  updatedAt: isoDateString,
-});
+type AnimalCore = z.infer<typeof animalCoreSchema>;
+
+function normalizeDisplayList(values: string[]): string[] {
+  return values.map(formatDisplayLabel);
+}
+
+function normalizeAnimalCore(core: AnimalCore): AnimalCore {
+  const habitat = core.habitat.trim().toLowerCase();
+
+  return {
+    ...core,
+    habitat,
+    biomes: normalizeDisplayList(core.biomes),
+    classificationLabels: normalizeDisplayList(core.classificationLabels),
+    dietType: formatDisplayLabel(core.dietType),
+    conservationStatus: formatDisplayLabel(core.conservationStatus),
+    populationTrend: formatDisplayLabel(core.populationTrend),
+    taxonomy: {
+      ...core.taxonomy,
+      class: formatDisplayLabel(core.taxonomy.class),
+    },
+  };
+}
 
 const gallerySchema = z.object({
   id: z.string(),
@@ -346,18 +286,8 @@ function readMdx<T>(filePath: string, schema: z.ZodType<T>): T & { body: string 
 
 export function readAnimalDirectory(animalSlug: string): AnimalRecord {
   const directory = path.join(animalsDirectory, animalSlug);
-  const core = readJson(path.join(directory, "animal.json"), animalCoreSchema);
+  const core = normalizeAnimalCore(readJson(path.join(directory, "animal.json"), animalCoreSchema));
   const coreBody = fs.readFileSync(path.join(directory, "core.mdx"), "utf8").trim();
-  const supportingPages = fs
-    .readdirSync(path.join(directory, "pages"))
-    .filter((file) => file.endsWith(".mdx"))
-    .map((file) =>
-      readMdx(
-        path.join(directory, "pages", file),
-        supportingPageFrontmatterSchema,
-      ),
-    )
-    .sort((a, b) => a.title.localeCompare(b.title));
   const galleries = fs
     .readdirSync(path.join(directory, "gallery"))
     .filter((file) => file.endsWith(".json"))
@@ -371,7 +301,6 @@ export function readAnimalDirectory(animalSlug: string): AnimalRecord {
   return {
     core,
     coreBody,
-    supportingPages,
     galleries,
     images,
   };
@@ -389,8 +318,31 @@ export function getAllAnimals() {
   return getAllAnimalsCached();
 }
 
+export function getPublishedAnimals() {
+  return getAllAnimals().filter((animal) => isPublishedAnimal(animal.core.slug));
+}
+
 export function getAnimalBySlug(slug: string) {
   return getAllAnimals().find((animal) => animal.core.slug === slug);
+}
+
+export function getPublishedAnimalBySlug(slug: string) {
+  const animal = getAnimalBySlug(slug);
+  return animal && isPublishedAnimal(slug) ? animal : undefined;
+}
+
+export function formatFeaturedPageLabel(pagePath: string): string {
+  const animalMatch = pagePath.match(/^\/animals\/([^/]+)$/);
+  if (animalMatch) {
+    const animal = getAnimalBySlug(animalMatch[1]);
+    if (animal) return animal.core.name;
+  }
+
+  const segments = pagePath.split("/").filter(Boolean);
+  const lastSegment = segments.at(-1);
+  if (!lastSegment) return pagePath;
+
+  return formatDisplayLabel(lastSegment.replace(/-/g, " "));
 }
 
 export function getAnimalCorePagePath(slug: string) {
@@ -399,10 +351,6 @@ export function getAnimalCorePagePath(slug: string) {
 
 export function getAnimalPrimaryImage(animal: AnimalRecord) {
   return animal.images.find((image) => image.imageType === "hero") ?? animal.images[0];
-}
-
-export function getSupportingPage(animal: AnimalRecord, slug: SupportingPageSlug) {
-  return animal.supportingPages.find((page) => page.slug === slug);
 }
 
 export function getGallery(animal: AnimalRecord, slug: "gallery" | GalleryTopicSlug) {
@@ -420,9 +368,7 @@ export function getRelatedAnimals(animal: AnimalRecord) {
     editorial: others.filter((entry) =>
       animal.core.relatedAnimals.includes(entry.core.slug),
     ),
-    sameHabitat: others.filter((entry) =>
-      entry.core.habitats.some((habitat) => animal.core.habitats.includes(habitat)),
-    ),
+    sameHabitat: others.filter((entry) => entry.core.habitat === animal.core.habitat),
     sameDiet: others.filter((entry) => entry.core.dietType === animal.core.dietType),
     sameFamily: others.filter(
       (entry) => entry.core.taxonomy.family === animal.core.taxonomy.family,
@@ -508,19 +454,6 @@ export function getHub(type: HubType, slug: string) {
   return getAllHubs().find((hub) => hub.type === type && hub.slug === slug);
 }
 
-export function resolveAnimalRoute(
-  animalSlug: string,
-  pageSlug?: string,
-): ResolvedEntity | null {
-  const animal = getAnimalBySlug(animalSlug);
-  if (!animal) return null;
-
-  if (!pageSlug) return { type: "animal", animal };
-
-  const page = getSupportingPage(animal, pageSlug as SupportingPageSlug);
-  return page ? { type: "supporting", animal, page } : null;
-}
-
 export function resolveGalleryRoute(
   animalSlug: string,
   gallerySlug?: string,
@@ -539,7 +472,7 @@ export function resolveGalleryRoute(
 }
 
 export function resolveImageRoute(animalSlug: string, imageSlug: string): ResolvedEntity | null {
-  const animal = getAnimalBySlug(animalSlug);
+  const animal = getPublishedAnimalBySlug(animalSlug);
   if (!animal) return null;
 
   const image = getImage(animal, imageSlug);
@@ -565,30 +498,52 @@ export function resolveComparisonRoute(
     : null;
 }
 
+function getClusterHubs(type: "habitats" | "diets"): HubCluster[] {
+  const animals = getPublishedAnimals();
+  return type === "habitats" ? buildHabitatClusters(animals) : buildDietClusters(animals);
+}
+
+export function getHabitatClusters() {
+  return getClusterHubs("habitats");
+}
+
+export function getDietClusters() {
+  return getClusterHubs("diets");
+}
+
+function resolveClusterHubRoute(type: "habitats" | "diets", hubSlug: string): ResolvedEntity | null {
+  const cluster = getClusterHubs(type).find((entry) => entry.slug === hubSlug);
+  if (!cluster) return null;
+
+  const editorial = getHub(type, hubSlug);
+  const hub = editorial
+    ? mergeHubWithCluster(editorial, cluster)
+    : clusterToHubRecord(cluster, type);
+
+  return { type: "hub", hub, animals: cluster.animals };
+}
+
 export function resolveHubRoute(type: HubType, hubSlug: string): ResolvedEntity | null {
+  if (type === "habitats" || type === "diets") {
+    return resolveClusterHubRoute(type, hubSlug);
+  }
+
   const hub = getHub(type, hubSlug);
   if (!hub) return null;
 
   const animals = hub.animalSlugs
-    .map((slug) => getAnimalBySlug(slug))
+    .map((slug) => getPublishedAnimalBySlug(slug))
     .filter((animal): animal is AnimalRecord => Boolean(animal));
 
   return { type: "hub", hub, animals };
 }
 
 export function getStaticAnimalRoutes() {
-  return getAllAnimals().flatMap((animal) => [
-    { animalSlug: animal.core.slug },
-    ...animal.supportingPages.map((page) => ({
-      animalSlug: animal.core.slug,
-      pageSlug: page.slug,
-    })),
-  ]);
+  return getPublishedAnimals().map((animal) => ({ animalSlug: animal.core.slug }));
 }
 
-
 export function getStaticImageRoutes() {
-  return getAllAnimals().flatMap((animal) =>
+  return getPublishedAnimals().flatMap((animal) =>
     animal.images.map((image) => ({
       animalSlug: animal.core.slug,
       imageSlug: image.slug,
@@ -613,4 +568,12 @@ export function getStaticHubRoutes() {
     type: hub.type,
     hubSlug: hub.slug,
   }));
+}
+
+export function getStaticHabitatHubRoutes() {
+  return getHabitatClusters().map((cluster) => ({ hubSlug: cluster.slug }));
+}
+
+export function getStaticDietHubRoutes() {
+  return getDietClusters().map((cluster) => ({ hubSlug: cluster.slug }));
 }

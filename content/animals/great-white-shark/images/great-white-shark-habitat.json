@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-habitat",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-habitat",
+  "fileName": "Guadalupe Island Great White Shark Underwater.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guadalupe_Island_Great_White_Shark_Underwater.jpg",
+  "width": 4641,
+  "height": 3121,
+  "alt": "Great white shark gliding through clear blue ocean water",
+  "caption": "Great white sharks patrol coastal seas and offshore waters in many parts of the world.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Guadalupe Island, Mexico",
+  "acquisitionNotes": "Manually curated great white shark habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Sharkcrew via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Guadalupe_Island_Great_White_Shark_Underwater.jpg\">Sharkcrew</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guadalupe_Island_Great_White_Shark_Underwater.jpg",
+    "creatorName": "Sharkcrew",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

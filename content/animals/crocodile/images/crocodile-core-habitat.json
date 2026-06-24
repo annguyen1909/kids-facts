@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-core-habitat",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-core-habitat",
+  "fileName": "Nile Crocodiles, Mara River, Kenya (50149919253).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nile_Crocodiles%2C_Mara_River%2C_Kenya_%2850149919253%29.jpg",
+  "width": 4188,
+  "height": 2686,
+  "alt": "Nile crocodiles along the Mara River in Kenya",
+  "caption": "River crossings used by migrating animals are famous crocodile hunting spots.",
+  "attributionText": "Photo by Ray in Manila via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_Crocodiles%2C_Mara_River%2C_Kenya_(50149919253).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_Crocodiles%2C_Mara_River%2C_Kenya_(50149919253).jpg",
+    "creatorName": "Ray in Manila",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Mara River, Kenya",
+  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set.",
+  "updatedAt": "2026-06-24T10:01:15.558Z"
+}

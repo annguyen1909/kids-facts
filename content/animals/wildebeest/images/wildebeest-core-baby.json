@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-core-baby",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-core-baby",
+  "fileName": "039 Juvenile blue wildebeest covered in mud running in the Serengeti National Park Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "width": 6666,
+  "height": 4444,
+  "alt": "Juvenile wildebeest running through mud on the savanna",
+  "caption": "Most calves are born during the same few weeks each year.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Serengeti, Tanzania",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

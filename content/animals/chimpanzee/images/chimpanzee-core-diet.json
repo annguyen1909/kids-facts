@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-core-diet",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-core-diet",
+  "fileName": "Young chimpanzee eating - DPLA - 92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
+  "width": 3500,
+  "height": 2407,
+  "alt": "Young chimpanzee eating fruit in a tree",
+  "caption": "Fruit makes up much of the diet, especially when trees are in season.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

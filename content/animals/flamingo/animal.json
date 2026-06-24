@@ -1,0 +1,158 @@
+{
+  "id": "animal-flamingo",
+  "slug": "flamingo",
+  "name": "Flamingo",
+  "commonNames": [
+    "Flamingo",
+    "American Flamingo",
+    "Caribbean Flamingo"
+  ],
+  "scientificName": "Phoenicopterus ruber",
+  "summary": "American flamingos are tall pink birds with long legs and curved beaks. They wade in shallow lagoons, filter tiny food from the water, and often stand gracefully on one leg.",
+  "heroTitle": "Flamingo Facts",
+  "metaTitle": "Flamingo Facts | Habitat, Pink Color & Photos",
+  "metaDescription": "Discover American flamingo facts with photos, lagoon habitat, filter feeding, chicks, and flocks. Learn why flamingos are pink and where they live.",
+  "searchIntents": [
+    "flamingo facts",
+    "why are flamingos pink",
+    "what do flamingos eat",
+    "where do flamingos live",
+    "how tall is a flamingo",
+    "why do flamingos stand on one leg"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Phoenicopteriformes",
+    "family": "Phoenicopteridae",
+    "genus": "Phoenicopterus",
+    "species": "P. ruber"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Bahamas",
+    "Cuba",
+    "Mexico",
+    "Colombia",
+    "Venezuela",
+    "Ecuador",
+    "United States"
+  ],
+  "biomes": [
+    "coastal lagoon",
+    "wetland",
+    "salt flat"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "brine shrimp",
+    "blue-green algae",
+    "small crustaceans",
+    "insects",
+    "mollusks"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years",
+    "captivity": "Up to 50 years in human care"
+  },
+  "size": {
+    "lengthMin": "47 inches",
+    "lengthMax": "57 inches"
+  },
+  "weight": {
+    "min": "4 pounds",
+    "max": "8 pounds"
+  },
+  "speed": "Strong flier over long distances",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "filter feeding",
+    "colony nesting",
+    "one-leg standing",
+    "synchronized flocking",
+    "mud nest building"
+  ],
+  "adaptations": [
+    "curved filter beak",
+    "long legs for wading",
+    "pink feather color",
+    "reverse knees",
+    "webbed feet"
+  ],
+  "predators": [
+    "jaguars",
+    "coyotes",
+    "birds of prey",
+    "humans"
+  ],
+  "prey": [
+    "brine shrimp",
+    "algae",
+    "small invertebrates"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 28 to 32 days of incubation",
+    "offspringCount": "1 egg per nesting attempt"
+  },
+  "funFacts": [
+    "Flamingos are pink because of pigments in the shrimp and algae they eat.",
+    "They feed with their heads upside down in the water.",
+    "Flamingo chicks hatch gray and turn pink as they grow.",
+    "Flamingos often stand on one leg to save body heat.",
+    "They nest in huge colonies on mud mounds.",
+    "American flamingos live in the Caribbean and Galápagos Islands."
+  ],
+  "faq": [
+    {
+      "question": "What is a flamingo?",
+      "answer": "A flamingo is a tall wading bird with pink feathers, long legs, and a curved beak. The American flamingo lives in the Caribbean and Galápagos."
+    },
+    {
+      "question": "Where do flamingos live?",
+      "answer": "American flamingos live in shallow lagoons and coastal wetlands in the Caribbean, Galápagos Islands, and northern South America."
+    },
+    {
+      "question": "What do flamingos eat?",
+      "answer": "Flamingos filter tiny brine shrimp, algae, and small animals from the water with their specialized beaks."
+    },
+    {
+      "question": "Why are flamingos pink?",
+      "answer": "Natural pigments called carotenoids in their food build up in their feathers, turning them pink."
+    },
+    {
+      "question": "Why do flamingos stand on one leg?",
+      "answer": "Standing on one leg may help flamingos keep warm by tucking one leg close to their body."
+    },
+    {
+      "question": "How tall is a flamingo?",
+      "answer": "American flamingos stand about 4 to 5 feet tall, taller than most children."
+    },
+    {
+      "question": "Are flamingos endangered?",
+      "answer": "American flamingos are listed as Least Concern, but habitat loss and pollution can threaten nesting colonies."
+    }
+  ],
+  "relatedAnimals": [
+    "penguin",
+    "eagle",
+    "otter"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "flamingo-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "coast"
+}

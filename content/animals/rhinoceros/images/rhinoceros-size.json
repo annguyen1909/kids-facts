@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-size",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-size",
+  "fileName": "081 White rhinoceros (male) in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/081_White_rhinoceros_%28male%29_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "width": 3845,
+  "height": 2563,
+  "alt": "Large male white rhinoceros showing massive body size",
+  "caption": "Adult white rhinos can weigh more than 5,000 pounds and stand over 6 feet tall.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kalahari Desert, Namibia",
+  "acquisitionNotes": "Manually curated rhinoceros size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:081_White_rhinoceros_(male)_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:081_White_rhinoceros_(male)_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

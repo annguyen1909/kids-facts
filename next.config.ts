@@ -21,6 +21,12 @@ const nextConfig: NextConfig = {
         destination: "/animals/:slug#gallery",
         permanent: true,
       },
+      {
+        source:
+          "/animals/:slug/:page(diet|habitat|behavior|life-cycle|babies|predators-and-threats|adaptations|lifespan|size|conservation-status|where-does-it-live|what-does-it-eat)",
+        destination: "/animals/:slug",
+        permanent: true,
+      },
     ];
   },
   images: {

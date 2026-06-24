@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-baby",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-baby",
+  "fileName": "Great white aqurium.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Great_white_aqurium.jpg",
+  "width": 1944,
+  "height": 1296,
+  "alt": "Young great white shark swimming in an aquarium",
+  "caption": "Young great white sharks usually hunt smaller prey than full-grown adults do.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Monterey Bay Aquarium, California",
+  "acquisitionNotes": "Manually curated young great white shark image used for the baby slot.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_white_aqurium.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_white_aqurium.jpg",
+    "creatorName": "Brocken Inaglory",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

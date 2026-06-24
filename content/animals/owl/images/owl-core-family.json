@@ -1,0 +1,33 @@
+{
+  "id": "owl-core-family",
+  "animalSlug": "owl",
+  "slug": "owl-core-family",
+  "fileName": "Great horned owl chicks (85725).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Great_horned_owl_chicks_%2885725%29.jpg",
+  "width": 1170,
+  "height": 1461,
+  "alt": "Great horned owl chicks in a nest waiting for food",
+  "caption": "Both parents bring food to the nest while chicks grow flight feathers.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the owl gallery set.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chicks_(85725).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chicks_(85725).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

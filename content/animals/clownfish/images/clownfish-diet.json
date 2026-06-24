@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-diet",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-diet",
+  "fileName": "Amphiprion ocellaris (Clown anemonefish) by Nick Hobgood.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+  "width": 2200,
+  "height": 1499,
+  "alt": "Ocellaris clownfish swimming near reef cover",
+  "caption": "Clownfish eat algae, tiny crustaceans, and leftover food near their anemone.",
+  "attributionText": "Photo by Nick Hobgood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg\">Nick Hobgood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
+    "creatorName": "Nick Hobgood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Manually curated clownfish diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

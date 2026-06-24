@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-range",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-range",
+  "fileName": "Polar bear standing in distance - DPLA - 7c0a87275543ae6e897e3840e1a80712.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Polar_bear_standing_in_distance_-_DPLA_-_7c0a87275543ae6e897e3840e1a80712.jpg",
+  "width": 1500,
+  "height": 975,
+  "alt": "Polar bears on sea ice in the high Arctic",
+  "caption": "Polar bears live in the Arctic across Canada, Alaska, Greenland, Norway, and Russia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "High Arctic",
+  "acquisitionNotes": "Manually curated polar bear range image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Polar_bear_standing_in_distance_-_DPLA_-_7c0a87275543ae6e897e3840e1a80712.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_bear_standing_in_distance_-_DPLA_-_7c0a87275543ae6e897e3840e1a80712.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

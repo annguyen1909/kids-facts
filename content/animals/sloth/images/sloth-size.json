@@ -1,0 +1,33 @@
+{
+  "id": "sloth-size",
+  "animalSlug": "sloth",
+  "slug": "sloth-size",
+  "fileName": "Brown-throated sloth (Bradypus variegatus) female.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Brown-throated_sloth_%28Bradypus_variegatus%29_female.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Adult three-toed sloth hanging from a branch showing body size",
+  "caption": "Adult three-toed sloths are about 2 feet long and weigh 6 to 10 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Manually curated sloth size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown-throated_sloth_(Bradypus_variegatus)_female.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown-throated_sloth_(Bradypus_variegatus)_female.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

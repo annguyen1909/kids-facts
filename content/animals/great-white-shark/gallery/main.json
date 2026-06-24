@@ -1,0 +1,22 @@
+{
+  "id": "great-white-shark-gallery-main",
+  "animalSlug": "great-white-shark",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Great White Shark Photo Gallery",
+  "metaTitle": "Great White Shark Photo Gallery",
+  "metaDescription": "Browse great white shark photos showing ocean habitat, hunting behavior, close-up teeth, and marine life features.",
+  "intro": "Explore great white shark photos for learning and classroom observation, from surface swimming to close-up shark features.",
+  "imageSlugs": [
+    "great-white-shark-hero",
+    "great-white-shark-habitat",
+    "great-white-shark-diet",
+    "great-white-shark-baby",
+    "great-white-shark-family",
+    "great-white-shark-range",
+    "great-white-shark-size",
+    "great-white-shark-closeup",
+    "great-white-shark-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

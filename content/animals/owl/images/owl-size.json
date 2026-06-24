@@ -1,0 +1,33 @@
+{
+  "id": "owl-size",
+  "animalSlug": "owl",
+  "slug": "owl-size",
+  "fileName": "Great horned owl at ACES (11799).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Great_horned_owl_at_ACES_%2811799%29.jpg",
+  "width": 2339,
+  "height": 3126,
+  "alt": "Great horned owl showing its large body and broad wings",
+  "caption": "Great horned owls are one of the largest owls in the Americas.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Aspen, Colorado, USA",
+  "acquisitionNotes": "Manually curated owl size image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_at_ACES_(11799).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_at_ACES_(11799).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "blue-whale-gallery-main",
+  "animalSlug": "blue-whale",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Blue Whale Photo Gallery",
+  "metaTitle": "Blue Whale Photo Gallery",
+  "metaDescription": "Browse a blue whale photo gallery with wildlife photos.",
+  "intro": "Explore blue whale photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "blue-whale-hero",
+    "blue-whale-habitat",
+    "blue-whale-diet",
+    "blue-whale-baby",
+    "blue-whale-family",
+    "blue-whale-range",
+    "blue-whale-size",
+    "blue-whale-closeup",
+    "blue-whale-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T08:59:59.463Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-core-family",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-core-family",
+  "fileName": "Racoon family blackwater nwr 7.8.22 DSC 9370.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Racoon_family_blackwater_nwr_7.8.22_DSC_9370.jpg",
+  "width": 5568,
+  "height": 3712,
+  "alt": "Raccoon mother with kits in wetland habitat",
+  "caption": "Kits learn to climb and hunt by following their mother at night.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Maryland, USA",
+  "acquisitionNotes": "Core article image curated separately from the raccoon gallery set.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by lwolfartist via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Racoon_family_blackwater_nwr_7.8.22_DSC_9370.jpg\">lwolfartist</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Racoon_family_blackwater_nwr_7.8.22_DSC_9370.jpg",
+    "creatorName": "lwolfartist",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

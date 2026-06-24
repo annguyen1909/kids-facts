@@ -1,0 +1,151 @@
+{
+  "id": "animal-gorilla",
+  "slug": "gorilla",
+  "name": "Gorilla",
+  "commonNames": [
+    "Gorilla",
+    "Western Gorilla",
+    "Western Lowland Gorilla"
+  ],
+  "scientificName": "Gorilla gorilla",
+  "summary": "Gorillas are huge gentle apes that live in African forests. They eat plants, travel in family troops led by a silverback, and are among our closest living relatives.",
+  "heroTitle": "Gorilla Facts",
+  "metaTitle": "Gorilla Facts | Habitat, Diet, Troops & Photos",
+  "metaDescription": "Discover gorilla facts with photos, forest habitat, plant diet, infant life, and conservation. Learn where gorillas live, what they eat, and how troops behave.",
+  "searchIntents": [
+    "gorilla facts",
+    "what do gorillas eat",
+    "where do gorillas live",
+    "how big is a gorilla",
+    "are gorillas endangered",
+    "how do gorillas live in groups"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Hominidae",
+    "genus": "Gorilla",
+    "species": "G. gorilla"
+  },
+  "classificationLabels": [
+    "mammal",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Gabon",
+    "Republic of the Congo",
+    "Cameroon",
+    "Central African Republic",
+    "Equatorial Guinea",
+    "Nigeria",
+    "Angola"
+  ],
+  "biomes": [
+    "tropical forest",
+    "swamp forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "leaves",
+    "stems",
+    "fruit",
+    "shoots",
+    "bark"
+  ],
+  "lifespan": {
+    "wild": "35 to 40 years",
+    "captivity": "Up to 50 years in human care"
+  },
+  "size": {
+    "lengthMin": "4 feet",
+    "lengthMax": "6 feet",
+    "heightMin": "4.5 feet",
+    "heightMax": "5.5 feet"
+  },
+  "weight": {
+    "min": "150 pounds",
+    "max": "440 pounds"
+  },
+  "speed": "Up to 25 mph in short bursts on ground",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "troop living",
+    "nest building",
+    "plant foraging",
+    "chest beating displays",
+    "infant care"
+  ],
+  "adaptations": [
+    "powerful arms",
+    "opposable thumbs",
+    "large molars for plants",
+    "knuckle walking",
+    "strong social bonds"
+  ],
+  "predators": [
+    "leopards",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 8.5 months",
+    "offspringCount": "Usually 1 infant"
+  },
+  "funFacts": [
+    "Gorillas share about 98 percent of their DNA with humans.",
+    "A dominant male gorilla is called a silverback because of the gray hair on his back.",
+    "Gorillas build a new leafy nest to sleep in almost every night.",
+    "Adult gorillas eat dozens of pounds of vegetation each day.",
+    "Gorillas usually beat their chests to warn rivals, not to start a fight.",
+    "Infants learn by watching mothers and other troop members."
+  ],
+  "faq": [
+    {
+      "question": "What is a gorilla?",
+      "answer": "A gorilla is a large ape that lives in African forests. Gorillas are plant-eaters and live in family groups called troops."
+    },
+    {
+      "question": "Where do gorillas live?",
+      "answer": "Western lowland gorillas live in tropical forests and swampy lowlands in central and western Africa."
+    },
+    {
+      "question": "What do gorillas eat?",
+      "answer": "Gorillas are mostly herbivores. They eat leaves, stems, fruit, and other forest plants."
+    },
+    {
+      "question": "Are gorillas dangerous?",
+      "answer": "Gorillas are usually calm, but a silverback will defend his troop if he feels threatened. Wild gorillas should never be approached."
+    },
+    {
+      "question": "Are gorillas endangered?",
+      "answer": "Yes. Western gorillas are listed as Critically Endangered because of habitat loss, disease, and hunting."
+    },
+    {
+      "question": "How do gorillas live together?",
+      "answer": "Gorillas live in troops led by one dominant silverback male, along with females and young gorillas."
+    },
+    {
+      "question": "How are gorillas related to humans?",
+      "answer": "Gorillas are great apes and are closely related to humans and chimpanzees."
+    }
+  ],
+  "relatedAnimals": [
+    "african-elephant",
+    "lion",
+    "giant-panda"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "gorilla-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

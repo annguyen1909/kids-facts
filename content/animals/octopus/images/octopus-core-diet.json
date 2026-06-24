@@ -1,0 +1,33 @@
+{
+  "id": "octopus-core-diet",
+  "animalSlug": "octopus",
+  "slug": "octopus-core-diet",
+  "fileName": "Pulpo (Octopus vulgaris), isla de Mouro, Santander, España, 2019-08-14, DD 33.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pulpo_%28Octopus_vulgaris%29%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_33.jpg",
+  "width": 2787,
+  "height": 4180,
+  "alt": "Common octopus hunting on the seafloor",
+  "caption": "They pounce on prey and may use venom to subdue crabs and shellfish.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Santander, Spain",
+  "acquisitionNotes": "Core article image curated separately from the octopus gallery set.",
+  "updatedAt": "2026-06-24T10:39:21.349Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pulpo_(Octopus_vulgaris)%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_33.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulpo_(Octopus_vulgaris)%2C_isla_de_Mouro%2C_Santander%2C_Espa%C3%B1a%2C_2019-08-14%2C_DD_33.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:39:21.349Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

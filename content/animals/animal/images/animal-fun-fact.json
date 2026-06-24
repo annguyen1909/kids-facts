@@ -1,0 +1,21 @@
+{
+  "id": "animal-fun-fact",
+  "animalSlug": "animal",
+  "slug": "animal-fun-fact",
+  "fileName": "animal-fun-fact-1600.webp",
+  "src": "https://placehold.co/1600x1067/png?text=Replace+Me",
+  "width": 1600,
+  "height": 1067,
+  "alt": "Animal fun-fact image TBD",
+  "caption": "Animal fun-fact caption TBD.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Location TBD",
+  "acquisitionNotes": "Replace placeholder image and metadata before publishing.",
+  "updatedAt": "2026-06-24T07:57:34.489Z"
+}

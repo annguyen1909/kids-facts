@@ -1,0 +1,33 @@
+{
+  "id": "pufferfish-fun-fact",
+  "animalSlug": "pufferfish",
+  "slug": "pufferfish-fun-fact",
+  "fileName": "Botete negro (Arothron meleagris), Los Cabos, Baja California, México, 2024-12-17, DD 65.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Botete_negro_%28Arothron_meleagris%29%2C_Los_Cabos%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-17%2C_DD_65.jpg",
+  "width": 5812,
+  "height": 3875,
+  "alt": "Guinea fowl pufferfish with spotted dark color pattern",
+  "caption": "Pufferfish can puff up with water to look too big for predators to swallow.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Los_Cabos%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-17%2C_DD_65.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Los_Cabos%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-17%2C_DD_65.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:10.621Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Los Cabos, Mexico",
+  "acquisitionNotes": "Manually curated pufferfish fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:10.621Z"
+}

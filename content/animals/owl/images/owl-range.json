@@ -1,0 +1,33 @@
+{
+  "id": "owl-range",
+  "animalSlug": "owl",
+  "slug": "owl-range",
+  "fileName": "Bubo virginianus -Canada-6.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Bubo_virginianus_-Canada-6.jpg",
+  "width": 1350,
+  "height": 1456,
+  "alt": "Great horned owl in snowy Canadian habitat",
+  "caption": "Great horned owls live from Canada and Alaska south through the Americas.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Canada",
+  "acquisitionNotes": "Manually curated owl range image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by brendan.lally via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bubo_virginianus_-Canada-6.jpg\">brendan.lally</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bubo_virginianus_-Canada-6.jpg",
+    "creatorName": "brendan.lally",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

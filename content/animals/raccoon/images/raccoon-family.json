@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-family",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-family",
+  "fileName": "Racoon family blackwater nwr 7.8.22 DSC 9365.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Racoon_family_blackwater_nwr_7.8.22_DSC_9365.jpg",
+  "width": 5568,
+  "height": 3712,
+  "alt": "Raccoon family group traveling together",
+  "caption": "A mother raccoon may lead several kits while teaching them to find food.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Maryland, USA",
+  "acquisitionNotes": "Manually curated raccoon family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by lwolfartist via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Racoon_family_blackwater_nwr_7.8.22_DSC_9365.jpg\">lwolfartist</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Racoon_family_blackwater_nwr_7.8.22_DSC_9365.jpg",
+    "creatorName": "lwolfartist",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

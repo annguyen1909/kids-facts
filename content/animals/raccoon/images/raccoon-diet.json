@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-diet",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-diet",
+  "fileName": "Raccoon (Procyon lotor) eating II.png",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Raccoon_%28Procyon_lotor%29_eating_II.png",
+  "width": 1004,
+  "height": 650,
+  "alt": "Raccoon holding food with its front paws while eating",
+  "caption": "Raccoons eat fruit, nuts, insects, fish, and food they find near people.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated raccoon diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_eating_II.png\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_eating_II.png\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_eating_II.png",
+    "creatorName": "Unknown creator",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_eating_II.png",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

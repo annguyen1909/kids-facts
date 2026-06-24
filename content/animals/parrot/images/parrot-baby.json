@@ -1,0 +1,33 @@
+{
+  "id": "parrot-baby",
+  "animalSlug": "parrot",
+  "slug": "parrot-baby",
+  "fileName": "Scarlet Macaw (Ara macao) -nest -Henry Doorly Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Scarlet_Macaw_%28Ara_macao%29_-nest_-Henry_Doorly_Zoo.jpg",
+  "width": 800,
+  "height": 533,
+  "alt": "Scarlet macaw at a nest box",
+  "caption": "Macaw chicks hatch in tree cavities and depend on parents for months.",
+  "attributionText": "Photo by richie graham via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_Macaw_(Ara_macao)_-nest_-Henry_Doorly_Zoo.jpg\">richie graham</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_Macaw_(Ara_macao)_-nest_-Henry_Doorly_Zoo.jpg",
+    "creatorName": "richie graham",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:09.537Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Omaha, Nebraska",
+  "acquisitionNotes": "Manually curated macaw nest image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:09.537Z"
+}

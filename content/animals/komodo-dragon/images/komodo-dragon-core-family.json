@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-core-family",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-core-family",
+  "fileName": "Komodo dragon (Varanus komodoensis) 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Komodo_dragon_%28Varanus_komodoensis%29_2.jpg",
+  "width": 4954,
+  "height": 3648,
+  "alt": "Komodo dragon walking through dry island vegetation",
+  "caption": "Most adults keep to themselves, but they may share feeding areas when carrion is nearby.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Komodo National Park, Indonesia",
+  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis)_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis)_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

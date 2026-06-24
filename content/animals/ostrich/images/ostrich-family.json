@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-family",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-family",
+  "fileName": "Ostrich (Struthio camelus) female with chicks (6865184870).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ostrich_%28Struthio_camelus%29_female_with_chicks_%286865184870%29.jpg",
+  "width": 4320,
+  "height": 3240,
+  "alt": "Female ostrich leading her chicks across open ground",
+  "caption": "Parents guard chicks together and teach them to find food and water.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated ostrich family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_female_with_chicks_(6865184870).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_female_with_chicks_(6865184870).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

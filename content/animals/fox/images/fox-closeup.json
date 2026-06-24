@@ -1,0 +1,33 @@
+{
+  "id": "fox-closeup",
+  "animalSlug": "fox",
+  "slug": "fox-closeup",
+  "fileName": "Red Fox drinking from a lake in Gennevilliers, France.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Red_Fox_drinking_from_a_lake_in_Gennevilliers%2C_France.jpg",
+  "width": 6291,
+  "height": 4194,
+  "alt": "Close-up red fox drinking water at a lake edge",
+  "caption": "A fox's pointed ears and keen hearing help it detect prey underground.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Gennevilliers, France",
+  "acquisitionNotes": "Manually curated fox close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Alexis Lours via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox_drinking_from_a_lake_in_Gennevilliers%2C_France.jpg\">Alexis Lours</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Fox_drinking_from_a_lake_in_Gennevilliers%2C_France.jpg",
+    "creatorName": "Alexis Lours",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

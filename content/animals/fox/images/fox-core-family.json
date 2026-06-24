@@ -1,0 +1,33 @@
+{
+  "id": "fox-core-family",
+  "animalSlug": "fox",
+  "slug": "fox-core-family",
+  "fileName": "Red fox cub, Québec, Canada (6329287458).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_%286329287458%29.jpg",
+  "width": 291,
+  "height": 291,
+  "alt": "Red fox kit near cover in Canadian woodland",
+  "caption": "Fox families use dens to raise kits safely away from larger predators.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Québec, Canada",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Christian Holland via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_(6329287458).jpg\">Christian Holland</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_(6329287458).jpg",
+    "creatorName": "Christian Holland",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

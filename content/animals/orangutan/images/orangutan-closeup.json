@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-closeup",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-closeup",
+  "fileName": "Pongo pygmaeus in Ouwehands Dierenpark 01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg",
+  "width": 2684,
+  "height": 3474,
+  "alt": "Close-up of an orangutan face with thoughtful expression",
+  "caption": "Orangutans have expressive faces and use many sounds and gestures to communicate.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rhenen, Netherlands",
+  "acquisitionNotes": "Manually curated orangutan close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "attributionText": "Photo by FakirNL via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg\">FakirNL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg",
+    "creatorName": "FakirNL",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

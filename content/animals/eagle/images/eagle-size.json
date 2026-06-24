@@ -1,0 +1,33 @@
+{
+  "id": "eagle-size",
+  "animalSlug": "eagle",
+  "slug": "eagle-size",
+  "fileName": "Eagle Wingspan Flkr1828 (22037081651).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eagle_Wingspan_Flkr1828_%2822037081651%29.jpg",
+  "width": 740,
+  "height": 1100,
+  "alt": "Bald eagle with wings fully spread showing wide wingspan",
+  "caption": "An adult bald eagle's wings can span more than six feet from tip to tip.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated bald eagle size image with verified species identification.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Gillfoto from Juneau, Alaska, United States via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eagle_Wingspan_Flkr1828_(22037081651).jpg\">Gillfoto from Juneau, Alaska, United States</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagle_Wingspan_Flkr1828_(22037081651).jpg",
+    "creatorName": "Gillfoto from Juneau, Alaska, United States",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

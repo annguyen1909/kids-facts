@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-hero",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-hero",
+  "fileName": "Struthio camelus portrait Whipsnade Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Struthio_camelus_portrait_Whipsnade_Zoo.jpg",
+  "width": 2736,
+  "height": 3648,
+  "alt": "Common ostrich with long neck and large dark eyes",
+  "caption": "Ostriches are the largest birds on Earth and cannot fly.",
+  "attributionText": "Photo by William Warby via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_portrait_Whipsnade_Zoo.jpg\">William Warby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_portrait_Whipsnade_Zoo.jpg",
+    "creatorName": "William Warby",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Whipsnade, United Kingdom",
+  "acquisitionNotes": "Manually curated ostrich hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z"
+}

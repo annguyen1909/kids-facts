@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-diet",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-diet",
+  "fileName": "Kenyan crocodile (Crocodylus niloticus pauciscutatus).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kenyan_crocodile_%28Crocodylus_niloticus_pauciscutatus%29.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Nile crocodile with powerful jaws at the water edge",
+  "caption": "Nile crocodiles eat fish, birds, mammals, and other animals that come to drink.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kenya",
+  "acquisitionNotes": "Manually curated crocodile diet image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kenyan_crocodile_(Crocodylus_niloticus_pauciscutatus).jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenyan_crocodile_(Crocodylus_niloticus_pauciscutatus).jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

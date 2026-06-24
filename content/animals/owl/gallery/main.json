@@ -1,0 +1,22 @@
+{
+  "id": "owl-gallery-main",
+  "animalSlug": "owl",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Great Horned Owl Photo Gallery",
+  "metaTitle": "Great Horned Owl Photo Gallery",
+  "metaDescription": "Browse a great horned owl photo gallery with wildlife photos.",
+  "intro": "Explore great horned owl photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "owl-hero",
+    "owl-habitat",
+    "owl-diet",
+    "owl-baby",
+    "owl-family",
+    "owl-range",
+    "owl-size",
+    "owl-closeup",
+    "owl-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T07:58:52.522Z"
+}

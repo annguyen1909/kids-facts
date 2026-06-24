@@ -1,0 +1,33 @@
+{
+  "id": "otter-core-range",
+  "animalSlug": "otter",
+  "slug": "otter-core-range",
+  "fileName": "Sea Otter at Piedras Blancas.jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sea_Otter_at_Piedras_Blancas.jpeg",
+  "width": 2716,
+  "height": 1811,
+  "alt": "Sea otter resting in cool Pacific coastal water",
+  "caption": "Sea otters survive best where healthy kelp-rich coasts still provide food and shelter.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Piedras Blancas, California",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_at_Piedras_Blancas.jpeg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_at_Piedras_Blancas.jpeg",
+    "creatorName": "Mike Baird from Morro Bay, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

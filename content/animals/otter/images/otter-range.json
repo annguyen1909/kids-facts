@@ -1,0 +1,33 @@
+{
+  "id": "otter-range",
+  "animalSlug": "otter",
+  "slug": "otter-range",
+  "fileName": "Sea Otter (24810604978).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sea_Otter_%2824810604978%29.jpg",
+  "width": 4104,
+  "height": 2592,
+  "alt": "Sea otter floating in cool Pacific coastal water",
+  "caption": "Sea otters live along cold North Pacific coasts where food is plentiful.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific coast",
+  "acquisitionNotes": "Manually curated otter range image with verified sea otter identification.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by blmcalifornia via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg\">blmcalifornia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg",
+    "creatorName": "blmcalifornia",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

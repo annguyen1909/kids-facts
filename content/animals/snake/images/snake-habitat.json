@@ -1,0 +1,33 @@
+{
+  "id": "snake-habitat",
+  "animalSlug": "snake",
+  "slug": "snake-habitat",
+  "fileName": "Ball python (Python regius), Bronx Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ball_python_%28Python_regius%29%2C_Bronx_Zoo.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Ball python in shaded ground habitat",
+  "caption": "Ball pythons live in grasslands, savannas, and forest edges in West and Central Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "attributionText": "Photo by MusikAnimal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius)%2C_Bronx_Zoo.jpg\">MusikAnimal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius)%2C_Bronx_Zoo.jpg",
+    "creatorName": "MusikAnimal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

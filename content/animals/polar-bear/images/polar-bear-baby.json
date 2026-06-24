@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-baby",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-baby",
+  "fileName": "Ursus maritimus Polar bear with cub 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ursus_maritimus_Polar_bear_with_cub_2.jpg",
+  "width": 2954,
+  "height": 1980,
+  "alt": "Polar bear mother with small cub on snow",
+  "caption": "Polar bear cubs are born in winter dens and stay with their mother for years.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arctic",
+  "acquisitionNotes": "Manually curated polar bear cub image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by Schliebe, Scott via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg\">Schliebe, Scott</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg",
+    "creatorName": "Schliebe, Scott",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

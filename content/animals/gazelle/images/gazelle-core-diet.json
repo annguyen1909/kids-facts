@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-core-diet",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-core-diet",
+  "fileName": "Thomson's gazelle standing near water - DPLA - b91cb74dfd64fec8630c0b8bdb6c0e4d.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Thomson%27s_gazelle_standing_near_water_-_DPLA_-_b91cb74dfd64fec8630c0b8bdb6c0e4d.jpg",
+  "width": 1580,
+  "height": 1066,
+  "alt": "Gazelle lowering its head to browse in open country",
+  "caption": "Gazelles switch among grasses and tender plants as conditions change.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson's_gazelle_standing_near_water_-_DPLA_-_b91cb74dfd64fec8630c0b8bdb6c0e4d.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomson's_gazelle_standing_near_water_-_DPLA_-_b91cb74dfd64fec8630c0b8bdb6c0e4d.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

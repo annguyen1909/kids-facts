@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-habitat",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-habitat",
+  "fileName": "112 Meerkat standing in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/112_Meerkat_standing_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "width": 5535,
+  "height": 3690,
+  "alt": "Meerkat standing in dry Kalahari desert habitat",
+  "caption": "Meerkats live in dry grasslands and deserts of southern Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kalahari Desert, Namibia",
+  "acquisitionNotes": "Manually curated meerkat habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:13.126Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:112_Meerkat_standing_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:112_Meerkat_standing_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

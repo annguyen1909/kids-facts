@@ -1,6 +1,6 @@
 import { siteConfig } from "@/lib/site-config";
 
-const USER_AGENT = `KidsFactsImporter/1.0 (${siteConfig.url}; importer@kidsfacts.local)`;
+const USER_AGENT = `AnimalFactsImporter/1.0 (${siteConfig.url}; importer@animalfacts.local)`;
 const MIN_REQUEST_INTERVAL_MS = 350;
 const MAX_RETRIES = 3;
 

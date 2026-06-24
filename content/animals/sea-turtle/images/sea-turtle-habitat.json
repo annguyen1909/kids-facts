@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-habitat",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-habitat",
+  "fileName": "Tortuga verde (Chelonia mydas), Anilao, Filipinas, 2023-08-24, DD 131.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tortuga_verde_%28Chelonia_mydas%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg",
+  "width": 6351,
+  "height": 4234,
+  "alt": "Green sea turtle swimming over reef and seagrass habitat",
+  "caption": "Green sea turtles live in warm coastal oceans, reefs, and seagrass meadows.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas)%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas)%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Manually curated sea turtle habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z"
+}

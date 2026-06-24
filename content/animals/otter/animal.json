@@ -1,0 +1,158 @@
+{
+  "id": "animal-otter",
+  "slug": "otter",
+  "name": "Otter",
+  "commonNames": [
+    "Sea otter",
+    "Otter"
+  ],
+  "scientificName": "Enhydra lutris",
+  "summary": "Sea otters are furry marine mammals that float on their backs, use tools to open shellfish, and spend much of their life in cold coastal waters. Thick fur helps keep them warm because they do not have blubber like seals.",
+  "heroTitle": "Otter Facts",
+  "metaTitle": "Otter Facts | Habitat, Diet, Tools & Photos",
+  "metaDescription": "Discover otter facts with photos, coastal habitat, diet, pups, fur, and tool use. Learn how sea otters stay warm and why kelp forests help them survive.",
+  "searchIntents": [
+    "otter facts",
+    "what do otters eat",
+    "where do otters live",
+    "do otters use tools",
+    "how do sea otters stay warm",
+    "what is a baby otter called"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Mustelidae",
+    "genus": "Enhydra",
+    "species": "E. lutris"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "North America",
+    "Asia"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Russia",
+    "Japan"
+  ],
+  "biomes": [
+    "marine"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "sea urchins",
+    "crabs",
+    "clams",
+    "mussels",
+    "snails"
+  ],
+  "lifespan": {
+    "wild": "10 to 20 years"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "5 feet"
+  },
+  "weight": {
+    "min": "30 pounds",
+    "max": "100 pounds"
+  },
+  "speed": "Up to 5 to 6 mph in water",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Stable to increasing in some areas",
+  "behaviors": [
+    "floating on the back",
+    "tool use",
+    "grooming",
+    "rafting in groups",
+    "pup care"
+  ],
+  "adaptations": [
+    "very thick fur",
+    "sensitive whiskers",
+    "dexterous paws",
+    "tool use",
+    "webbed feet"
+  ],
+  "predators": [
+    "orcas",
+    "great white sharks",
+    "eagles",
+    "humans"
+  ],
+  "prey": [
+    "sea urchins",
+    "crabs",
+    "clams",
+    "mussels"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 4 to 8 months with delayed implantation",
+    "offspringCount": "Usually 1 pup"
+  },
+  "funFacts": [
+    "Sea otters have some of the thickest fur in the animal world.",
+    "They sometimes use rocks as tools to crack open shellfish.",
+    "Sea otters often wrap themselves in kelp so they do not drift away.",
+    "A group of resting sea otters can be called a raft.",
+    "They float on their backs while eating.",
+    "Sea otters help kelp forests by eating sea urchins that chew on kelp roots."
+  ],
+  "faq": [
+    {
+      "question": "What is an otter?",
+      "answer": "This page covers the sea otter, a marine mammal with thick fur, webbed feet, and the ability to float on its back while eating."
+    },
+    {
+      "question": "Where do otters live?",
+      "answer": "Sea otters live in cold coastal waters of the North Pacific, especially near kelp forests and rocky shores."
+    },
+    {
+      "question": "What do otters eat?",
+      "answer": "Sea otters are carnivores that eat shellfish and other marine animals such as sea urchins, crabs, clams, and mussels."
+    },
+    {
+      "question": "Do otters use tools?",
+      "answer": "Yes. Sea otters may use rocks to crack open hard shells while floating on their backs."
+    },
+    {
+      "question": "How do sea otters stay warm?",
+      "answer": "Instead of thick blubber, sea otters stay warm with extremely dense fur that traps air close to the skin."
+    },
+    {
+      "question": "What is a baby otter called?",
+      "answer": "A baby sea otter is called a pup. Pups stay very close to their mother and float on the surface while she dives for food."
+    },
+    {
+      "question": "Why are otters important?",
+      "answer": "Sea otters help keep kelp forests healthy by eating sea urchins that can damage kelp beds."
+    },
+    {
+      "question": "Are otters endangered?",
+      "answer": "Some sea otter populations are protected and recovering, but the species still faces threats from oil spills, disease, and changing ocean conditions."
+    }
+  ],
+  "relatedAnimals": [
+    "orca",
+    "bottlenose-dolphin",
+    "great-white-shark"
+  ],
+  "comparisonCandidates": [
+    "bottlenose-dolphin"
+  ],
+  "galleryIds": [
+    "otter-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "coast"
+}

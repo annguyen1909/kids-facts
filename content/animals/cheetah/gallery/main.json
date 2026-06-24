@@ -1,0 +1,22 @@
+{
+  "id": "cheetah-gallery-main",
+  "animalSlug": "cheetah",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Cheetah Photo Gallery",
+  "metaTitle": "Cheetah Photo Gallery",
+  "metaDescription": "Browse a cheetah photo gallery with fast-running cats, cubs, close-ups, and grassland habitat images.",
+  "intro": "Explore cheetah photos for learning and classroom observation, from sprinting hunters to spotted cubs in the savanna.",
+  "imageSlugs": [
+    "cheetah-hero",
+    "cheetah-habitat",
+    "cheetah-diet",
+    "cheetah-baby",
+    "cheetah-family",
+    "cheetah-range",
+    "cheetah-size",
+    "cheetah-closeup",
+    "cheetah-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "otter-core-family",
+  "animalSlug": "otter",
+  "slug": "otter-core-family",
+  "fileName": "Sea Otters (Enhydra lutris), from a raft of about 15, (8627076792).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Sea_Otters_%28Enhydra_lutris%29%2C_from_a_raft_of_about_15%2C_%288627076792%29.jpg",
+  "width": 5760,
+  "height": 2304,
+  "alt": "Many sea otters floating together in a raft",
+  "caption": "Rafts help sea otters rest near one another in moving water.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Morro Bay, California",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otters_(Enhydra_lutris)%2C_from_a_raft_of_about_15%2C_(8627076792).jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otters_(Enhydra_lutris)%2C_from_a_raft_of_about_15%2C_(8627076792).jpg",
+    "creatorName": "Mike Baird from Morro Bay, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

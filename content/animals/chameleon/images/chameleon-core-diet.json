@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-core-diet",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-core-diet",
+  "fileName": "Chameleon catching prey - DPLA - be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
+  "width": 1500,
+  "height": 1000,
+  "alt": "Chameleon using its tongue to capture prey",
+  "caption": "A chameleon's tongue can shoot out faster than the eye can follow.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_be0b8c96f3ee6b396f72d0578fbcc1c0.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

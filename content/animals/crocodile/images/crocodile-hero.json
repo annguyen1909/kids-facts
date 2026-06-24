@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-hero",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-hero",
+  "fileName": "Cocodrilo del Nilo (Crocodylus niloticus), reserva natural Masái Mara, Kenia, 2024-05-20, DD 70.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cocodrilo_del_Nilo_%28Crocodylus_niloticus%29%2C_reserva_natural_Mas%C3%A1i_Mara%2C_Kenia%2C_2024-05-20%2C_DD_70.jpg",
+  "width": 8688,
+  "height": 5792,
+  "alt": "Nile crocodile resting at the edge of a river",
+  "caption": "Nile crocodiles are huge reptiles that live in African rivers, lakes, and wetlands.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus)%2C_reserva_natural_Mas%C3%A1i_Mara%2C_Kenia%2C_2024-05-20%2C_DD_70.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus)%2C_reserva_natural_Mas%C3%A1i_Mara%2C_Kenia%2C_2024-05-20%2C_DD_70.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Maasai Mara, Kenya",
+  "acquisitionNotes": "Manually curated Nile crocodile hero image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z"
+}

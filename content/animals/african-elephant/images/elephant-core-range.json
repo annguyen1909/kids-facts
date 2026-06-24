@@ -1,0 +1,33 @@
+{
+  "id": "elephant-core-range",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-core-range",
+  "fileName": "African_Elephant_(188286877).jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/African_Elephant_%28188286877%29.jpeg",
+  "width": 1902,
+  "height": 1363,
+  "alt": "African elephant moving across open habitat in warm daylight",
+  "caption": "Wild African elephants are now found mainly in protected landscapes across Africa.",
+  "attributionText": "Photo by Christian Sanchez via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_Elephant_(188286877).jpeg\">Christian Sanchez</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_Elephant_(188286877).jpeg",
+    "creatorName": "Christian Sanchez",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Core article range image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-fun-fact",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-fun-fact",
+  "fileName": "American Flamingo - Flamenco (Phoenicopterus ruber) (10421812806).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/American_Flamingo_-_Flamenco_%28Phoenicopterus_ruber%29_%2810421812806%29.jpg",
+  "width": 3493,
+  "height": 2329,
+  "alt": "American flamingo standing on one leg in water",
+  "caption": "Flamingos often stand on one leg to save body heat.",
+  "attributionText": "Photo by Fernando Flores from Caracas, Venezuela via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:American_Flamingo_-_Flamenco_(Phoenicopterus_ruber)_(10421812806).jpg\">Fernando Flores from Caracas, Venezuela</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_Flamingo_-_Flamenco_(Phoenicopterus_ruber)_(10421812806).jpg",
+    "creatorName": "Fernando Flores from Caracas, Venezuela",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Caribbean",
+  "acquisitionNotes": "Manually curated flamingo fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z"
+}

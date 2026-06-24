@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-core-diet",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-core-diet",
+  "fileName": "DSC02148 - Polar Bear (44107277964).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/DSC02148_-_Polar_Bear_%2844107277964%29.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Polar bear moving across sea ice while hunting",
+  "caption": "They wait by seal breathing holes or break into snow dens to catch prey.",
+  "attributionText": "Photo by Dennis G. Jarvis via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:DSC02148_-_Polar_Bear_(44107277964).jpg\">Dennis G. Jarvis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DSC02148_-_Polar_Bear_(44107277964).jpg",
+    "creatorName": "Dennis G. Jarvis",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Arctic",
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
+  "updatedAt": "2026-06-24T08:52:49.161Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-size",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-size",
+  "fileName": "Waschbär Procyon lotor-7318.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Waschb%C3%A4r_Procyon_lotor-7318.jpg",
+  "width": 5568,
+  "height": 3712,
+  "alt": "Raccoon showing full body size on the ground",
+  "caption": "Adult raccoons are about the size of a small dog, roughly 2 feet long.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Europe",
+  "acquisitionNotes": "Manually curated raccoon size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by Isiwal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Waschb%C3%A4r_Procyon_lotor-7318.jpg\">Isiwal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waschb%C3%A4r_Procyon_lotor-7318.jpg",
+    "creatorName": "Isiwal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,29 +1,58 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { AnimalRecord } from "@/lib/types";
 import { getRelatedAnimals } from "@/lib/content";
+import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
 
-type ClusterProps = {
+type ClusterConfig = {
   title: string;
   animals: AnimalRecord[];
-  hrefBuilder?: (animal: AnimalRecord) => string;
 };
 
-function Cluster({ title, animals, hrefBuilder }: ClusterProps) {
+function RelatedAnimalTile({
+  animal,
+}: {
+  animal: AnimalRecord;
+}) {
+  const image = getAnimalImageForDisplay(getAnimalPrimaryImage(animal));
+
+  return (
+    <Link
+      href={`/animals/${animal.core.slug}`}
+      className="group flex flex-col overflow-hidden rounded-2xl border border-[var(--line)] bg-white shadow-[var(--shadow)] transition-transform hover:-translate-y-0.5"
+    >
+      <div className="relative aspect-[4/3] overflow-hidden">
+        <Image
+          src={image.src}
+          alt={image.alt}
+          fill
+          unoptimized={image.unoptimized}
+          className="object-cover transition-transform duration-300 group-hover:scale-105"
+          sizes="(max-width: 640px) 45vw, (max-width: 1024px) 30vw, 200px"
+        />
+      </div>
+      <div className="p-3">
+        <p className="truncate text-base font-semibold text-[var(--forest-deep)]">
+          {animal.core.name}
+        </p>
+        <p className="mt-0.5 truncate text-sm text-[var(--muted)]">
+          {animal.core.dietType}
+        </p>
+      </div>
+    </Link>
+  );
+}
+
+function ClusterRow({ title, animals }: ClusterConfig) {
   if (!animals.length) return null;
 
   return (
-    <div className="rounded-[1.5rem] border border-[var(--line)] bg-white p-5 shadow-[var(--shadow)]">
+    <div>
       <h3 className="text-lg font-semibold text-[var(--forest-deep)]">{title}</h3>
-      <ul className="mt-4 space-y-3 text-sm">
-        {animals.slice(0, 4).map((animal) => (
-          <li key={animal.core.slug}>
-            <Link
-              href={hrefBuilder ? hrefBuilder(animal) : `/animals/${animal.core.slug}`}
-              className="font-semibold text-[var(--forest)] hover:underline"
-            >
-              {animal.core.name}
-            </Link>
-            <p className="mt-1 text-[var(--muted)]">{animal.core.summary}</p>
+      <ul className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
+        {animals.slice(0, 3).map((entry) => (
+          <li key={entry.core.slug}>
+            <RelatedAnimalTile animal={entry} />
           </li>
         ))}
       </ul>
@@ -34,37 +63,30 @@ function Cluster({ title, animals, hrefBuilder }: ClusterProps) {
 export function RelatedClusters({ animal }: { animal: AnimalRecord }) {
   const related = getRelatedAnimals(animal);
 
+  const clusters: ClusterConfig[] = [
+    { title: "Featured picks", animals: related.editorial },
+    { title: "Same habitat", animals: related.sameHabitat },
+    { title: "Same diet", animals: related.sameDiet },
+    { title: "Same family", animals: related.sameFamily },
+    { title: "Similar size", animals: related.similarSize },
+  ];
+
+  const visibleClusters = clusters.filter((cluster) => cluster.animals.length > 0).slice(0, 3);
+
+  if (!visibleClusters.length) return null;
+
   return (
-    <section className="space-y-6">
+    <section className="space-y-8">
       <div>
-        <p className="eyebrow">
-          Related animals
-        </p>
+        <p className="eyebrow eyebrow--light">Related animals</p>
         <h2 className="section-title mt-4 text-[var(--forest-deep)]">
           More animals to explore
         </h2>
-        <p className="mt-2 max-w-xl text-sm leading-6 text-[var(--muted)]">
-          Discover creatures that share habitats, diets, or families with {animal.core.name}.
-        </p>
       </div>
-      <div className="grid gap-4 lg:grid-cols-2 xl:grid-cols-3">
-        <Cluster title="Editor's picks" animals={related.editorial} />
-        <Cluster
-          title="Same habitat"
-          animals={related.sameHabitat}
-          hrefBuilder={(entry) => `/animals/${entry.core.slug}/habitat`}
-        />
-        <Cluster
-          title="Same diet"
-          animals={related.sameDiet}
-          hrefBuilder={(entry) => `/animals/${entry.core.slug}/diet`}
-        />
-        <Cluster title="Same family" animals={related.sameFamily} />
-        <Cluster
-          title="Similar size"
-          animals={related.similarSize}
-          hrefBuilder={(entry) => `/animals/${entry.core.slug}/life-cycle`}
-        />
+      <div className="space-y-8">
+        {visibleClusters.map((cluster) => (
+          <ClusterRow key={cluster.title} {...cluster} />
+        ))}
       </div>
     </section>
   );

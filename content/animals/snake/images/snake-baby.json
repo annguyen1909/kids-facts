@@ -1,0 +1,33 @@
+{
+  "id": "snake-baby",
+  "animalSlug": "snake",
+  "slug": "snake-baby",
+  "fileName": "Hatchling Pastel Ball Python.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hatchling_Pastel_Ball_Python.jpg",
+  "width": 865,
+  "height": 865,
+  "alt": "Tiny ball python hatchling on a surface",
+  "caption": "Baby ball pythons hatch from eggs and can hunt small prey on their own.",
+  "attributionText": "Photo by Eclipse Exotics via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hatchling_Pastel_Ball_Python.jpg\">Eclipse Exotics</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hatchling_Pastel_Ball_Python.jpg",
+    "creatorName": "Eclipse Exotics",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python hatchling image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z"
+}

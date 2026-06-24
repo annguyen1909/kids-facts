@@ -1,0 +1,33 @@
+{
+  "id": "lion-core-family",
+  "animalSlug": "lion",
+  "slug": "lion-core-family",
+  "fileName": "1280px-Family_of_lions_during_the_mating_season.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Family_of_lions_during_the_mating_season.jpg/1280px-Family_of_lions_during_the_mating_season.jpg",
+  "width": 1280,
+  "height": 854,
+  "alt": "Lion pride with adults and young resting together on plain",
+  "caption": "Lions live in prides, social groups that help defend territory and cubs.",
+  "attributionText": "Photo by Byrdyak via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Family_of_lions_during_the_mating_season.jpg\">Byrdyak</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Family_of_lions_during_the_mating_season.jpg",
+    "creatorName": "Byrdyak",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

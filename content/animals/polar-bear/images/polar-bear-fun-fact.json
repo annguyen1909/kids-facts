@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-fun-fact",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-fun-fact",
+  "fileName": "Polar bear swimming in the ocean near Baillie Islands (39469 LS).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Polar_bear_swimming_in_the_ocean_near_Baillie_Islands_%2839469_LS%29.jpg",
+  "width": 1024,
+  "height": 633,
+  "alt": "Polar bear swimming in open Arctic water",
+  "caption": "Polar bears are strong swimmers and may cross miles of open ocean between ice floes.",
+  "attributionText": "Photo by Rudolph Martin Anderson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Polar_bear_swimming_in_the_ocean_near_Baillie_Islands_(39469_LS).jpg\">Rudolph Martin Anderson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_bear_swimming_in_the_ocean_near_Baillie_Islands_(39469_LS).jpg",
+    "creatorName": "Rudolph Martin Anderson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Baillie Islands, Arctic Canada",
+  "acquisitionNotes": "Manually curated polar bear fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:49.161Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "salmon-hero",
+  "animalSlug": "salmon",
+  "slug": "salmon-hero",
+  "fileName": "Atlantic Salmon Adults (5198590842).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlantic_Salmon_Adults_%285198590842%29.jpg",
+  "width": 1188,
+  "height": 778,
+  "alt": "Adult Atlantic salmon swimming in water",
+  "caption": "Atlantic salmon are famous fish that hatch in rivers and migrate to the ocean.",
+  "attributionText": "Photo by U.S. Fish and Wildlife Service Northeast Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg\">U.S. Fish and Wildlife Service Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg",
+    "creatorName": "U.S. Fish and Wildlife Service Northeast Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Manually curated Atlantic salmon hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:10.265Z"
+}

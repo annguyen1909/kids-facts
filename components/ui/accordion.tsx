@@ -14,7 +14,7 @@ export function Accordion({ items }: { items: AccordionItem[] }) {
           key={item.question}
           className="group rounded-[1rem] border border-[var(--line)] bg-white p-4 shadow-[0_6px_16px_rgba(23,49,39,0.04)]"
         >
-          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 text-left text-base font-bold text-[var(--forest-deep)] marker:content-none sm:text-lg">
+          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 text-left text-lg font-bold text-[var(--forest-deep)] marker:content-none sm:text-xl">
             <span>{item.question}</span>
             <ChevronDown
               className={cn(
@@ -22,7 +22,7 @@ export function Accordion({ items }: { items: AccordionItem[] }) {
               )}
             />
           </summary>
-          <p className="mt-3 text-sm leading-7 text-[var(--muted)] sm:text-base">
+          <p className="mt-3 text-base leading-7 text-[var(--muted)] sm:text-lg">
             {item.answer}
           </p>
         </details>

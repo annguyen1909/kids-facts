@@ -1,0 +1,33 @@
+{
+  "id": "sloth-habitat",
+  "animalSlug": "sloth",
+  "slug": "sloth-habitat",
+  "fileName": "Bradypus variegatus, the Brown-throated Three-toed Sloth (12687597105).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_%2812687597105%29.jpg",
+  "width": 1000,
+  "height": 777,
+  "alt": "Three-toed sloth hanging from a rainforest tree branch",
+  "caption": "Brown-throated sloths live in tropical rainforests from Honduras to Ecuador.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Manually curated sloth habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "attributionText": "Photo by Dick Culbert from Gibsons, B.C., Canada via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg\">Dick Culbert from Gibsons, B.C., Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg",
+    "creatorName": "Dick Culbert from Gibsons, B.C., Canada",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

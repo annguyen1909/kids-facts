@@ -1,0 +1,33 @@
+{
+  "id": "koala-hero",
+  "animalSlug": "koala",
+  "slug": "koala-hero",
+  "fileName": "Koala (Phascolarctos cinereus) (2).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Koala_%28Phascolarctos_cinereus%29_%282%29.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Koala resting on a tree branch",
+  "caption": "Koalas are tree-dwelling marsupials famous for their fluffy ears and sleepy lifestyle.",
+  "attributionText": "Photo by Gzen92 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)_(2).jpg\">Gzen92</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)_(2).jpg",
+    "creatorName": "Gzen92",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Saint-Aignan, France",
+  "acquisitionNotes": "Manually curated koala hero image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zebra-diet",
+  "animalSlug": "zebra",
+  "slug": "zebra-diet",
+  "fileName": "Plains Zebra (Equus quagga) grazing ... (52746797197).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Plains_Zebra_%28Equus_quagga%29_grazing_..._%2852746797197%29.jpg",
+  "width": 3648,
+  "height": 5472,
+  "alt": "Zebra grazing with its head down in grassland",
+  "caption": "Zebras are herbivores that spend many hours each day grazing on grass.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African grassland",
+  "acquisitionNotes": "Manually curated zebra diet image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Plains_Zebra_(Equus_quagga)_grazing_..._(52746797197).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plains_Zebra_(Equus_quagga)_grazing_..._(52746797197).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

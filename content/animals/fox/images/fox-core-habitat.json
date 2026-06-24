@@ -1,0 +1,33 @@
+{
+  "id": "fox-core-habitat",
+  "animalSlug": "fox",
+  "slug": "fox-core-habitat",
+  "fileName": "Ezo Red Fox (Vulpes vulpes schrencki), 2024.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ezo_Red_Fox_%28Vulpes_vulpes_schrencki%29%2C_2024.jpg",
+  "width": 4548,
+  "height": 2558,
+  "alt": "Red fox standing in snowy northern forest habitat",
+  "caption": "Foxes adapt to forests, farms, suburbs, and tundra across the Northern Hemisphere.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Hokkaido, Japan",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by MIKI Yoshihito via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki)%2C_2024.jpg\">MIKI Yoshihito</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki)%2C_2024.jpg",
+    "creatorName": "MIKI Yoshihito",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

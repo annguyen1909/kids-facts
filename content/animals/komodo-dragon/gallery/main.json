@@ -1,0 +1,22 @@
+{
+  "id": "komodo-dragon-gallery-main",
+  "animalSlug": "komodo-dragon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Komodo Dragon Photo Gallery",
+  "metaTitle": "Komodo Dragon Photo Gallery",
+  "metaDescription": "Browse a komodo dragon photo gallery with wildlife photos.",
+  "intro": "Explore komodo dragon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "komodo-dragon-hero",
+    "komodo-dragon-habitat",
+    "komodo-dragon-diet",
+    "komodo-dragon-baby",
+    "komodo-dragon-family",
+    "komodo-dragon-range",
+    "komodo-dragon-size",
+    "komodo-dragon-closeup",
+    "komodo-dragon-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T13:43:26.648Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-range",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-range",
+  "fileName": "Giraffa camelopardalis (181092097).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Giraffa_camelopardalis_%28181092097%29.jpg",
+  "width": 2048,
+  "height": 693,
+  "alt": "Giraffes spread across wide open savanna country",
+  "caption": "Healthy giraffe populations need connected landscapes with trees and water.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Daniel Aufgang via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181092097).jpg\">Daniel Aufgang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181092097).jpg",
+    "creatorName": "Daniel Aufgang",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

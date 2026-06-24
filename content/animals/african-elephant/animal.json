@@ -2,13 +2,19 @@
   "id": "animal-african-elephant",
   "slug": "african-elephant",
   "name": "African Elephant",
-  "commonNames": ["Savanna elephant"],
+  "commonNames": [
+    "Savanna elephant"
+  ],
   "scientificName": "Loxodonta africana",
   "summary": "African elephants are the largest land animals on Earth and use their trunks for smelling, touching, drinking, and gathering food.",
-  "heroTitle": "African Elephant Facts for Kids",
-  "metaTitle": "African Elephant Facts for Kids",
-  "metaDescription": "African elephant facts for kids with photos, habitat, diet, family behavior, and classroom-ready supporting pages.",
-  "searchIntents": ["african elephant facts for kids", "what do elephants eat", "where do elephants live"],
+  "heroTitle": "African Elephant Facts",
+  "metaTitle": "African Elephant Facts",
+  "metaDescription": "African elephant facts with photos, habitat, diet, family behavior, and fun facts and photos.",
+  "searchIntents": [
+    "african elephant facts",
+    "what do elephants eat",
+    "where do elephants live"
+  ],
   "taxonomy": {
     "kingdom": "Animalia",
     "phylum": "Chordata",
@@ -18,13 +24,30 @@
     "genus": "Loxodonta",
     "species": "L. africana"
   },
-  "classificationLabels": ["mammal", "herbivore", "large"],
-  "habitats": ["savanna", "forest", "wetland"],
-  "continents": ["Africa"],
-  "countries": ["Kenya", "Botswana", "Zimbabwe"],
-  "biomes": ["savanna", "forest"],
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Botswana",
+    "Zimbabwe"
+  ],
+  "biomes": [
+    "savanna",
+    "forest"
+  ],
   "dietType": "Herbivore",
-  "dietItems": ["grasses", "leaves", "bark", "fruit"],
+  "dietItems": [
+    "grasses",
+    "leaves",
+    "bark",
+    "fruit"
+  ],
   "lifespan": {
     "wild": "60 to 70 years"
   },
@@ -41,9 +64,19 @@
   "speed": "Up to 25 mph",
   "conservationStatus": "Endangered",
   "populationTrend": "Decreasing",
-  "behaviors": ["herd living", "trunk communication", "memory-based travel"],
-  "adaptations": ["trunk", "large ears", "thick skin"],
-  "predators": ["humans"],
+  "behaviors": [
+    "herd living",
+    "trunk communication",
+    "memory-based travel"
+  ],
+  "adaptations": [
+    "trunk",
+    "large ears",
+    "thick skin"
+  ],
+  "predators": [
+    "humans"
+  ],
   "prey": [],
   "reproduction": {
     "offspringName": "calf",
@@ -59,19 +92,24 @@
   "faq": [
     {
       "question": "Why is an elephant trunk useful?",
-      "answer": "The trunk helps an elephant smell, touch, drink, and gather food.",
-      "targetPage": "core"
+      "answer": "The trunk helps an elephant smell, touch, drink, and gather food."
     },
     {
       "question": "What do African elephants eat?",
-      "answer": "They eat plants such as grasses, bark, leaves, and fruit.",
-      "targetPage": "diet"
+      "answer": "They eat plants such as grasses, bark, leaves, and fruit."
     }
   ],
-  "relatedAnimals": ["lion", "bottlenose-dolphin"],
-  "comparisonCandidates": ["lion"],
-  "galleryIds": ["elephant-gallery-main", "elephant-gallery-family"],
-  "supportingPageIds": ["elephant-diet", "elephant-habitat", "elephant-behavior"],
+  "relatedAnimals": [
+    "lion",
+    "bottlenose-dolphin"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "elephant-gallery-main"
+  ],
   "updatedAt": "2026-06-21T00:00:00.000Z",
-  "publishedAt": "2026-06-21T00:00:00.000Z"
+  "publishedAt": "2026-06-21T00:00:00.000Z",
+  "habitat": "savanna"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-core-range",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-core-range",
+  "fileName": "Grizzly Bear (Ursus arctos ssp.).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Grizzly_Bear_%28Ursus_arctos_ssp.%29.jpg",
+  "width": 4752,
+  "height": 3168,
+  "alt": "Grizzly bear in mountain wilderness",
+  "caption": "Grizzlies are listed as Threatened in the lower 48 United States.",
+  "attributionText": "Photo by Gregory \"Slobirdr\" Smith via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_(Ursus_arctos_ssp.).jpg\">Gregory \"Slobirdr\" Smith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_(Ursus_arctos_ssp.).jpg",
+    "creatorName": "Gregory \"Slobirdr\" Smith",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
+  "updatedAt": "2026-06-24T09:39:00.723Z"
+}

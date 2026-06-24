@@ -1,0 +1,33 @@
+{
+  "id": "penguin-habitat",
+  "animalSlug": "penguin",
+  "slug": "penguin-habitat",
+  "fileName": "Brown Bluff-2016-Tabarin Peninsula–Gentoo penguin (Pygoscelis papua) 03.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_%28Pygoscelis_papua%29_03.jpg",
+  "width": 5102,
+  "height": 3401,
+  "alt": "Gentoo penguins on rocky Antarctic peninsula shoreline at Brown Bluff",
+  "caption": "Penguins nest on rocky coasts, ice shelves, and sub-Antarctic islands.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Brown Bluff, Antarctic Peninsula",
+  "acquisitionNotes": "Manually curated penguin habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Godot13 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_03.jpg\">Godot13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_Bluff-2016-Tabarin_Peninsula%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_03.jpg",
+    "creatorName": "Godot13",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

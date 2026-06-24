@@ -1,0 +1,34 @@
+{
+  "id": "elephant-range",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-range",
+  "fileName": "African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/African_bush_elephants_%28Loxodonta_africana%29_female_with_six-week-old_baby.jpg",
+  "width": 5576,
+  "height": 3718,
+  "alt": "African bush elephant mother and calf in open African grassland",
+  "caption": "Today wild African elephants live mainly in protected parks across sub-Saharan Africa.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephants_(Loxodonta_africana)_female_with_six-week-old_baby.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.191Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Sub-Saharan Africa",
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.191Z"
+}

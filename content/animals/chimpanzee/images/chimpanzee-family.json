@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-family",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-family",
+  "fileName": "Chimpanzee, Ol Pejeta Conservancy, Kenya (32450419367).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_%2832450419367%29.jpg",
+  "width": 3965,
+  "height": 2753,
+  "alt": "Group of chimpanzees together in open habitat",
+  "caption": "Chimpanzees live in communities that share food patches and travel routes.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Ol Pejeta Conservancy, Kenya",
+  "acquisitionNotes": "Manually curated chimpanzee group image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Ray in Manila via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_(32450419367).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_(32450419367).jpg",
+    "creatorName": "Ray in Manila",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

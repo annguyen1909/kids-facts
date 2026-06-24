@@ -1,11 +1,15 @@
 import type { MetadataRoute } from "next";
-import { getAllAnimals, getAllComparisons, getAllHubs } from "@/lib/content";
+import { getAnimalCategorySlugs } from "@/lib/animal-categories";
+import {
+  getPublishedAnimals,
+  getHabitatClusters,
+  getDietClusters,
+} from "@/lib/content";
+import { siteFeatures } from "@/lib/site-features";
 import { siteConfig } from "@/lib/site-config";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const animals = getAllAnimals();
-  const comparisons = getAllComparisons();
-  const hubs = getAllHubs();
+  const animals = getPublishedAnimals();
 
   const staticPages: MetadataRoute.Sitemap = [
     {
@@ -20,7 +24,53 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
       lastModified: new Date(),
     },
+    {
+      url: `${siteConfig.url}/about`,
+      changeFrequency: "monthly",
+      priority: 0.4,
+      lastModified: new Date(),
+    },
+    {
+      url: `${siteConfig.url}/contact`,
+      changeFrequency: "monthly",
+      priority: 0.4,
+      lastModified: new Date(),
+    },
+    {
+      url: `${siteConfig.url}/privacy`,
+      changeFrequency: "monthly",
+      priority: 0.4,
+      lastModified: new Date(siteConfig.legalLastUpdated),
+    },
+    {
+      url: `${siteConfig.url}/terms`,
+      changeFrequency: "monthly",
+      priority: 0.35,
+      lastModified: new Date(siteConfig.legalLastUpdated),
+    },
   ];
+
+  const trailIndexPages: MetadataRoute.Sitemap = siteFeatures.habitats
+    ? [
+        {
+          url: `${siteConfig.url}/habitats`,
+          changeFrequency: "weekly",
+          priority: 0.85,
+          lastModified: new Date(),
+        },
+      ]
+    : [];
+
+  const dietIndexPages: MetadataRoute.Sitemap = siteFeatures.diets
+    ? [
+        {
+          url: `${siteConfig.url}/diets`,
+          changeFrequency: "weekly",
+          priority: 0.85,
+          lastModified: new Date(),
+        },
+      ]
+    : [];
 
   const animalPages: MetadataRoute.Sitemap = animals.flatMap((animal) => [
     {
@@ -30,12 +80,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: animal.core.updatedAt,
       images: animal.images.map((image) => image.src),
     },
-    ...animal.supportingPages.map((page) => ({
-      url: `${siteConfig.url}/animals/${animal.core.slug}/${page.slug}`,
-      changeFrequency: "monthly" as const,
-      priority: 0.6,
-      lastModified: page.updatedAt,
-    })),
     ...animal.images.map((image) => ({
       url: `${siteConfig.url}/animals/${animal.core.slug}/images/${image.slug}`,
       changeFrequency: "monthly" as const,
@@ -44,31 +88,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ]);
 
-  const comparisonPages: MetadataRoute.Sitemap = comparisons.flatMap(
-    ({ comparison, pages }) => [
-      {
-        url: `${siteConfig.url}/animals/compare/${comparison.slug}`,
-        changeFrequency: "monthly" as const,
-        priority: 0.65,
-        lastModified: comparison.updatedAt,
-      },
-      ...pages
-        .filter((page) => page.slug !== "overview")
-        .map((page) => ({
-          url: `${siteConfig.url}/animals/compare/${comparison.slug}/${page.slug}`,
-          changeFrequency: "monthly" as const,
-          priority: 0.55,
-          lastModified: page.updatedAt,
-        })),
-    ],
-  );
+  const habitatHubPages: MetadataRoute.Sitemap = siteFeatures.habitats
+    ? getHabitatClusters().map((cluster) => ({
+        url: `${siteConfig.url}/habitats/${cluster.slug}`,
+        changeFrequency: "weekly" as const,
+        priority: 0.72,
+        lastModified: cluster.updatedAt,
+      }))
+    : [];
 
-  const hubPages: MetadataRoute.Sitemap = hubs.map((hub) => ({
-    url: `${siteConfig.url}/${hub.type}/${hub.slug}`,
+  const dietHubPages: MetadataRoute.Sitemap = siteFeatures.diets
+    ? getDietClusters().map((cluster) => ({
+        url: `${siteConfig.url}/diets/${cluster.slug}`,
+        changeFrequency: "weekly" as const,
+        priority: 0.72,
+        lastModified: cluster.updatedAt,
+      }))
+    : [];
+
+  const categoryPages: MetadataRoute.Sitemap = getAnimalCategorySlugs().map((slug) => ({
+    url: `${siteConfig.url}/animals/${slug}`,
     changeFrequency: "weekly",
-    priority: 0.7,
-    lastModified: hub.updatedAt,
+    priority: 0.75,
+    lastModified: new Date(),
   }));
 
-  return [...staticPages, ...animalPages, ...comparisonPages, ...hubPages];
+  return [
+    ...staticPages,
+    ...trailIndexPages,
+    ...dietIndexPages,
+    ...categoryPages,
+    ...animalPages,
+    ...habitatHubPages,
+    ...dietHubPages,
+  ];
 }

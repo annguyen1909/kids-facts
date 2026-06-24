@@ -1,0 +1,33 @@
+{
+  "id": "sloth-diet",
+  "animalSlug": "sloth",
+  "slug": "sloth-diet",
+  "fileName": "Three toed sloth (Bradypus variegatus) (5332568388).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Three_toed_sloth_%28Bradypus_variegatus%29_%285332568388%29.jpg",
+  "width": 2592,
+  "height": 3872,
+  "alt": "Three-toed sloth feeding on leaves in a tree",
+  "caption": "Sloths eat leaves, buds, and tender shoots from rainforest trees.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Manually curated sloth diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "attributionText": "Photo by Dallas Krentzel via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Three_toed_sloth_(Bradypus_variegatus)_(5332568388).jpg\">Dallas Krentzel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_toed_sloth_(Bradypus_variegatus)_(5332568388).jpg",
+    "creatorName": "Dallas Krentzel",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

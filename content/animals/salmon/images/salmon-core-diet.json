@@ -1,0 +1,33 @@
+{
+  "id": "salmon-core-diet",
+  "animalSlug": "salmon",
+  "slug": "salmon-core-diet",
+  "fileName": "Atlantic salmon parr.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Atlantic_salmon_parr.jpg",
+  "width": 957,
+  "height": 644,
+  "alt": "Young Atlantic salmon parr in stream water",
+  "caption": "Young salmon eat insects and tiny animals while living in freshwater.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the salmon gallery set.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by Peter Steenstra at the Green Lake National Fish Hatchery via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr.jpg\">Peter Steenstra at the Green Lake National Fish Hatchery</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr.jpg",
+    "creatorName": "Peter Steenstra at the Green Lake National Fish Hatchery",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

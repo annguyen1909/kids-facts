@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-core-diet",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-core-diet",
+  "fileName": "Nile crocodile, Nile crocodile, Kasane (20260520-P1076220).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nile_crocodile%2C_Nile_crocodile%2C_Kasane_%2820260520-P1076220%29.jpg",
+  "width": 5184,
+  "height": 3888,
+  "alt": "Nile crocodile waiting at the water's edge",
+  "caption": "They often hunt by staying hidden until prey comes close to drink.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Kasane, Botswana",
+  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set.",
+  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "attributionText": "Photo by Matti Blume via Wikimedia Commons, CC BY-SA",
+    "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_crocodile%2C_Nile_crocodile%2C_Kasane_(20260520-P1076220).jpg\">Matti Blume</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+    "source": {
+      "sourceName": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_crocodile%2C_Nile_crocodile%2C_Kasane_(20260520-P1076220).jpg",
+      "creatorName": "Matti Blume",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

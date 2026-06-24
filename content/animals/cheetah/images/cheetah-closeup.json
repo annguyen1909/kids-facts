@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-closeup",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-closeup",
+  "fileName": "Australia Zoo cheetah face closeup.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Australia_Zoo_cheetah_face_closeup.jpg",
+  "width": 1904,
+  "height": 1374,
+  "alt": "Close-up cheetah face with dark tear marks",
+  "caption": "Dark tear marks help reduce glare while a cheetah watches prey in bright light.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Australia Zoo",
+  "acquisitionNotes": "Manually curated cheetah close-up image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Benchill via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Australia_Zoo_cheetah_face_closeup.jpg\">Benchill</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australia_Zoo_cheetah_face_closeup.jpg",
+    "creatorName": "Benchill",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-core-habitat",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-core-habitat",
+  "fileName": "Orangutan animal.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Orangutan_animal.jpg",
+  "width": 1326,
+  "height": 1825,
+  "alt": "Orangutan moving through dense tropical forest canopy",
+  "caption": "Tall rainforest trees give orangutans food, travel routes, and safe sleeping sites.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
+  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "attributionText": "Photo by Amy2563 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_animal.jpg\">Amy2563</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_animal.jpg",
+    "creatorName": "Amy2563",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

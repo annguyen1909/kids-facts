@@ -1,0 +1,33 @@
+{
+  "id": "salmon-baby",
+  "animalSlug": "salmon",
+  "slug": "salmon-baby",
+  "fileName": "Salmo salar smolts.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Salmo_salar_smolts.jpg",
+  "width": 1897,
+  "height": 1284,
+  "alt": "Young Atlantic salmon smolts in water",
+  "caption": "Young salmon called smolts prepare to leave rivers for the ocean.",
+  "attributionText": "Photo by E. Peter Steenstra/USFWS via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar_smolts.jpg\">E. Peter Steenstra/USFWS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar_smolts.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar_smolts.jpg",
+    "creatorName": "E. Peter Steenstra/USFWS",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar_smolts.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Manually curated salmon smolt image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:10.265Z"
+}

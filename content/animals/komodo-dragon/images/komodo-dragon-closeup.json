@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-closeup",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-closeup",
+  "fileName": "Komodo dragon with tongue.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Komodo_dragon_with_tongue.jpg",
+  "width": 4749,
+  "height": 3234,
+  "alt": "Close-up of a Komodo dragon head with forked tongue extended",
+  "caption": "A Komodo dragon uses its forked tongue to pick up scents from the air and ground.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Cincinnati Zoo, United States",
+  "acquisitionNotes": "Manually curated Komodo dragon close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Mark Dumont via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_with_tongue.jpg\">Mark Dumont</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_with_tongue.jpg",
+    "creatorName": "Mark Dumont",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

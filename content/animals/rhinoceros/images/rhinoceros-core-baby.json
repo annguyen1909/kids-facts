@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-core-baby",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-core-baby",
+  "fileName": "White rhinoceros (Ceratotherium simum) juvenile Kruger.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/White_rhinoceros_%28Ceratotherium_simum%29_juvenile_Kruger.jpg",
+  "width": 3380,
+  "height": 2253,
+  "alt": "Juvenile white rhinoceros in Kruger habitat",
+  "caption": "Calves grow quickly but keep their horn stubs small for the first years of life.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Kruger National Park, South Africa",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_juvenile_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_juvenile_Kruger.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

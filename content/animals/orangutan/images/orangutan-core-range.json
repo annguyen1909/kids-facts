@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-core-range",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-core-range",
+  "fileName": "Bornean Orangutan in nest.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bornean_Orangutan_in_nest.jpg",
+  "width": 3200,
+  "height": 2128,
+  "alt": "Bornean orangutan resting in a tree nest",
+  "caption": "Bornean orangutans are Critically Endangered because forests are being cleared for farming.",
+  "attributionText": "Photo by Joeavison1 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg\">Joeavison1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg",
+    "creatorName": "Joeavison1",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
+  "updatedAt": "2026-06-24T12:32:11.033Z"
+}

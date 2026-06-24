@@ -1,0 +1,33 @@
+{
+  "id": "fox-core-baby",
+  "animalSlug": "fox",
+  "slug": "fox-core-baby",
+  "fileName": "Red Fox - Vulpes vulpes (juvenile) - 6979216600.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Red_Fox_-_Vulpes_vulpes_%28juvenile%29_-_6979216600.jpg",
+  "width": 4752,
+  "height": 3168,
+  "alt": "Young red fox kit with soft juvenile coat",
+  "caption": "Kits open their eyes after about two weeks and begin exploring outside the den.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox_-_Vulpes_vulpes_(juvenile)_-_6979216600.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Fox_-_Vulpes_vulpes_(juvenile)_-_6979216600.jpg",
+    "creatorName": "Judy Gallagher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

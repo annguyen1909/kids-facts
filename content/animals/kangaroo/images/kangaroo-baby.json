@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-baby",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-baby",
+  "fileName": "Macropus rufus Boulia Wildlife Haven Herbert St Boulia Queensland P1060898.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060898.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Young red kangaroo joey near adult in outback habitat",
+  "caption": "A baby kangaroo is called a joey and spends months growing in its mother's pouch.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Boulia, Queensland, Australia",
+  "acquisitionNotes": "Manually curated kangaroo joey image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by John Robert McPherson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060898.jpg\">John Robert McPherson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060898.jpg",
+    "creatorName": "John Robert McPherson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

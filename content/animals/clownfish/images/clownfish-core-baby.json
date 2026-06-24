@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-core-baby",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-core-baby",
+  "fileName": "Clownfish 3.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Clownfish_3.jpg",
+  "width": 2448,
+  "height": 3264,
+  "alt": "Tiny young clownfish among reef habitat",
+  "caption": "After hatching, larvae drift in the ocean before settling on a reef anemone.",
+  "attributionText": "Photo by B.Osborne369 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Clownfish_3.jpg\">B.Osborne369</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clownfish_3.jpg",
+    "creatorName": "B.Osborne369",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

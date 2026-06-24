@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-habitat",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-habitat",
+  "fileName": "Giraffes habitat in mikumi National Park Tanzania.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg",
+  "width": 5634,
+  "height": 3756,
+  "alt": "Giraffes walking through broad savanna habitat",
+  "caption": "Savannas with scattered trees give giraffes food, shade, and long sightlines.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Mikumi National Park, Tanzania",
+  "acquisitionNotes": "Manually curated giraffe habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Rasheedhrasheed via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg\">Rasheedhrasheed</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg",
+    "creatorName": "Rasheedhrasheed",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

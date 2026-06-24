@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-core-family",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-core-family",
+  "fileName": "Cheetahs (Acinonyx jubatus) brothers ... (52465393042).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cheetahs_%28Acinonyx_jubatus%29_brothers_..._%2852465393042%29.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Young male cheetahs traveling together as a coalition",
+  "caption": "Brothers may stay together for years and defend a shared hunting area.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Eastern Africa",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cheetahs_(Acinonyx_jubatus)_brothers_..._(52465393042).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheetahs_(Acinonyx_jubatus)_brothers_..._(52465393042).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

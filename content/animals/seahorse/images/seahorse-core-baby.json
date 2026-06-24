@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-core-baby",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-core-baby",
+  "fileName": "Hippocampus erectus 347791573.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hippocampus_erectus_347791573.jpg",
+  "width": 960,
+  "height": 720,
+  "alt": "Very small young lined seahorse",
+  "caption": "Hundreds of tiny fry may swim out of the pouch when they are ready.",
+  "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_347791573.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_347791573.jpg",
+    "creatorName": "Pauline Walsh Jacobson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
+  "updatedAt": "2026-06-24T10:01:05.816Z"
+}

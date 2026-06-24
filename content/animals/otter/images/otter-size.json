@@ -1,0 +1,33 @@
+{
+  "id": "otter-size",
+  "animalSlug": "otter",
+  "slug": "otter-size",
+  "fileName": "Sea Otter 0.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sea_Otter_0.jpg",
+  "width": 1600,
+  "height": 946,
+  "alt": "Full-body sea otter stretched out on the water surface",
+  "caption": "A sea otter has a long body, webbed feet, and dense fur instead of thick blubber.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Coastal ocean",
+  "acquisitionNotes": "Manually curated otter size image with verified sea otter identification.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Matt Zalewski via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_0.jpg\">Matt Zalewski</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_0.jpg",
+    "creatorName": "Matt Zalewski",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

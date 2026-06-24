@@ -1,0 +1,22 @@
+{
+  "id": "raccoon-gallery-main",
+  "animalSlug": "raccoon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Raccoon Photo Gallery",
+  "metaTitle": "Raccoon Photo Gallery",
+  "metaDescription": "Browse a raccoon photo gallery with wildlife photos.",
+  "intro": "Explore raccoon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "raccoon-hero",
+    "raccoon-habitat",
+    "raccoon-diet",
+    "raccoon-baby",
+    "raccoon-family",
+    "raccoon-range",
+    "raccoon-size",
+    "raccoon-closeup",
+    "raccoon-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:30:18.661Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-closeup",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-closeup",
+  "fileName": "Phoenicopterus ruber - 03.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Phoenicopterus_ruber_-_03.jpg",
+  "width": 3097,
+  "height": 3097,
+  "alt": "Close-up of an American flamingo head and curved beak",
+  "caption": "Their bent beaks work like a filter to strain food from muddy water.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Caribbean",
+  "acquisitionNotes": "Manually curated flamingo close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "attributionText": "Photo by Carlos Delgado via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_03.jpg\">Carlos Delgado</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_03.jpg",
+    "creatorName": "Carlos Delgado",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

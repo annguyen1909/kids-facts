@@ -1,0 +1,33 @@
+{
+  "id": "zebra-family",
+  "animalSlug": "zebra",
+  "slug": "zebra-family",
+  "fileName": "Burchell's zebra (Equus quagga burchellii) females head to tail.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Burchell%27s_zebra_%28Equus_quagga_burchellii%29_females_head_to_tail.jpg",
+  "width": 5321,
+  "height": 3547,
+  "alt": "Two zebras standing head to tail together",
+  "caption": "Zebras often stay close together and watch in different directions for danger.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Phinda Private Game Reserve, South Africa",
+  "acquisitionNotes": "Manually curated zebra family image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Burchell's_zebra_(Equus_quagga_burchellii)_females_head_to_tail.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burchell's_zebra_(Equus_quagga_burchellii)_females_head_to_tail.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

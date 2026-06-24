@@ -1,0 +1,33 @@
+{
+  "id": "elephant-core-diet",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-core-diet",
+  "fileName": "Savanna_Elephant_(Loxodonta_africana)_eating_dry_grass.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Savanna_Elephant_%28Loxodonta_africana%29_eating_dry_grass.jpg",
+  "width": 5472,
+  "height": 3399,
+  "alt": "Savanna elephant eating dry grass with trunk in open field",
+  "caption": "Elephants use their trunks to pull grasses, leaves, and bark for food.",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Savanna_Elephant_(Loxodonta_africana)_eating_dry_grass.jpg\">Bernard DUPONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Savanna_Elephant_(Loxodonta_africana)_eating_dry_grass.jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article diet image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

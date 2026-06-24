@@ -1,0 +1,33 @@
+{
+  "id": "snake-family",
+  "animalSlug": "snake",
+  "slug": "snake-family",
+  "fileName": "Ball python lucy.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+  "width": 988,
+  "height": 848,
+  "alt": "Adult ball python coiled in a resting pose",
+  "caption": "Female ball pythons coil around their eggs to protect and warm them.",
+  "attributionText": "Photo by HCA ( talk ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ball_python_lucy.JPG\">HCA ( talk )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_python_lucy.JPG",
+    "creatorName": "HCA ( talk )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z"
+}

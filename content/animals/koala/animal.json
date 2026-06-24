@@ -1,0 +1,142 @@
+{
+  "id": "animal-koala",
+  "slug": "koala",
+  "name": "Koala",
+  "commonNames": [
+    "Koala",
+    "Australian Koala"
+  ],
+  "scientificName": "Phascolarctos cinereus",
+  "summary": "Koalas are sleepy tree-dwelling marsupials from Australia. They eat eucalyptus leaves, carry joeys in a pouch, and spend most of the day resting in branches.",
+  "heroTitle": "Koala Facts",
+  "metaTitle": "Koala Facts | Habitat, Diet, Joeys & Photos",
+  "metaDescription": "Discover koala facts with photos, eucalyptus forest habitat, leafy diet, joey life, and conservation. Learn where koalas live and why they sleep so much.",
+  "searchIntents": [
+    "koala facts",
+    "what do koalas eat",
+    "where do koalas live",
+    "what is a baby koala called",
+    "are koalas bears",
+    "are koalas endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Phascolarctidae",
+    "genus": "Phascolarctos",
+    "species": "P. cinereus"
+  },
+  "classificationLabels": [
+    "mammal"
+  ],
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "biomes": [
+    "temperate forest",
+    "tropical forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "eucalyptus leaves",
+    "gum leaves"
+  ],
+  "lifespan": {
+    "wild": "10 to 14 years",
+    "captivity": "Up to 18 years in human care"
+  },
+  "size": {
+    "lengthMin": "2 feet",
+    "lengthMax": "3 feet",
+    "heightMin": "2 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "9 pounds",
+    "max": "30 pounds"
+  },
+  "speed": "Slow on ground; agile climber in trees",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "tree climbing",
+    "daytime resting",
+    "leaf feeding",
+    "pouch rearing",
+    "scent marking"
+  ],
+  "adaptations": [
+    "sharp claws for climbing",
+    "specialized gut for eucalyptus",
+    "thick fur for cool nights",
+    "strong grip for branches",
+    "backward-opening pouch"
+  ],
+  "predators": [
+    "dingoes",
+    "eagles",
+    "owls",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "joey",
+    "gestationOrIncubation": "About 35 days, then months in the pouch",
+    "offspringCount": "Usually 1 joey"
+  },
+  "funFacts": [
+    "Koalas are marsupials, not bears, even though people sometimes call them koala bears.",
+    "A koala's diet is almost all eucalyptus leaves, which are tough and low in calories.",
+    "Koalas sleep up to 20 hours a day to save energy.",
+    "Joeys are born tiny and finish growing inside the mother's pouch.",
+    "A koala's big nose helps it sniff out the freshest eucalyptus leaves.",
+    "Each koala often prefers certain eucalyptus tree species in its home range."
+  ],
+  "faq": [
+    {
+      "question": "What is a koala?",
+      "answer": "A koala is a tree-dwelling marsupial from Australia that eats eucalyptus leaves and raises its young in a pouch."
+    },
+    {
+      "question": "Are koalas bears?",
+      "answer": "No. Koalas are marsupial mammals, not bears. People sometimes use the nickname koala bear, but they are not related to bears."
+    },
+    {
+      "question": "Where do koalas live?",
+      "answer": "Wild koalas live in eucalyptus forests and woodlands along the eastern and southeastern coast of Australia."
+    },
+    {
+      "question": "What do koalas eat?",
+      "answer": "Koalas are herbivores that eat mainly eucalyptus leaves. They rarely drink much water because leaves provide moisture."
+    },
+    {
+      "question": "What is a baby koala called?",
+      "answer": "A baby koala is called a joey. Joeys grow in the mother's pouch before riding on her back."
+    },
+    {
+      "question": "Why do koalas sleep so much?",
+      "answer": "Eucalyptus leaves are hard to digest and low in energy, so koalas rest for many hours to save strength."
+    },
+    {
+      "question": "Are koalas endangered?",
+      "answer": "Koalas are listed as Vulnerable. Habitat loss, disease, dog attacks, and bushfires threaten wild populations."
+    }
+  ],
+  "relatedAnimals": [
+    "kangaroo",
+    "red-panda",
+    "gorilla"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "koala-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

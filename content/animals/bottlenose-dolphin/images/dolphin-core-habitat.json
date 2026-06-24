@@ -1,0 +1,33 @@
+{
+  "id": "dolphin-core-habitat",
+  "animalSlug": "bottlenose-dolphin",
+  "slug": "dolphin-core-habitat",
+  "fileName": "Tursiops_truncatus_01-cropped.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg",
+  "width": 1387,
+  "height": 1025,
+  "alt": "Common bottlenose dolphin surfacing in coastal ocean water",
+  "caption": "Bottlenose dolphins live in warm and temperate coastal and offshore seas.",
+  "attributionText": "Photo by NASA via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg\">NASA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/Commons:Licensing\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg",
+    "creatorName": "NASA",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Coastal ocean",
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

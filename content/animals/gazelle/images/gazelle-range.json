@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-range",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-range",
+  "fileName": "Gazella thomsonii Serengeti.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gazella_thomsonii_Serengeti.jpg",
+  "width": 2042,
+  "height": 1360,
+  "alt": "Thomson's gazelle in open Serengeti grassland",
+  "caption": "Thomson's gazelles live in open plains of eastern Africa.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Serengeti, Tanzania",
+  "acquisitionNotes": "Manually curated gazelle range image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Stig Nygaard from Copenhagen, Denmark via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gazella_thomsonii_Serengeti.jpg\">Stig Nygaard from Copenhagen, Denmark</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gazella_thomsonii_Serengeti.jpg",
+    "creatorName": "Stig Nygaard from Copenhagen, Denmark",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

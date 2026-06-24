@@ -1,0 +1,33 @@
+{
+  "id": "otter-core-diet",
+  "animalSlug": "otter",
+  "slug": "otter-core-diet",
+  "fileName": "Enhydra lutris seashell.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Enhydra_lutris_seashell.jpg",
+  "width": 1024,
+  "height": 768,
+  "alt": "Sea otter holding shellfish on its chest",
+  "caption": "Sea otters often break open shellfish while floating on their backs.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Coastal ocean",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Júlio Reis ( User:Tintazul ) via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Enhydra_lutris_seashell.jpg\">Júlio Reis ( User:Tintazul )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enhydra_lutris_seashell.jpg",
+    "creatorName": "Júlio Reis ( User:Tintazul )",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

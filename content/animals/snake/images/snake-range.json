@@ -1,0 +1,33 @@
+{
+  "id": "snake-range",
+  "animalSlug": "snake",
+  "slug": "snake-range",
+  "fileName": "Python Regius.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Python_Regius.jpg",
+  "width": 1200,
+  "height": 800,
+  "alt": "Ball python in West African habitat setting",
+  "caption": "Ball pythons range from Senegal to Uganda in western and central Africa.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python range image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "attributionText": "Photo by Stanislava Kamencayová via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python_Regius.jpg\">Stanislava Kamencayová</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Python_Regius.jpg",
+    "creatorName": "Stanislava Kamencayová",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

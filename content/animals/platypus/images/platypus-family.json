@@ -1,0 +1,33 @@
+{
+  "id": "platypus-family",
+  "animalSlug": "platypus",
+  "slug": "platypus-family",
+  "fileName": "Platypus sighted in Broken River, Eungella National Park, Queensland.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Platypus_sighted_in_Broken_River%2C_Eungella_National_Park%2C_Queensland.jpg",
+  "width": 965,
+  "height": 965,
+  "alt": "Platypus swimming in a protected river habitat",
+  "caption": "Female platypuses raise young in burrows dug along riverbanks.",
+  "attributionText": "Photo by Kimberly Melissa Booth via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Platypus_sighted_in_Broken_River%2C_Eungella_National_Park%2C_Queensland.jpg\">Kimberly Melissa Booth</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platypus_sighted_in_Broken_River%2C_Eungella_National_Park%2C_Queensland.jpg",
+    "creatorName": "Kimberly Melissa Booth",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Eungella National Park, Queensland, Australia",
+  "acquisitionNotes": "Manually curated platypus family image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z"
+}

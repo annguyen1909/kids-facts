@@ -1,0 +1,33 @@
+{
+  "id": "platypus-core-habitat",
+  "animalSlug": "platypus",
+  "slug": "platypus-core-habitat",
+  "fileName": "Platypus BrokenRiver QLD Australia2.png",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Platypus_BrokenRiver_QLD_Australia2.png",
+  "width": 505,
+  "height": 362,
+  "alt": "Platypus habitat along a forested river in Queensland",
+  "caption": "Healthy riverbanks with burrows and clean water are essential for platypus survival.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Queensland, Australia",
+  "acquisitionNotes": "Core article image curated separately from the platypus gallery set.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Platypus_BrokenRiver_QLD_Australia.jpg : Peterdvv derivative work: Bobisbob ( talk ) via Wikimedia Commons, CC BY 1.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia2.png\">Platypus_BrokenRiver_QLD_Australia.jpg : Peterdvv derivative work: Bobisbob ( talk )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia2.png",
+    "creatorName": "Platypus_BrokenRiver_QLD_Australia.jpg : Peterdvv derivative work: Bobisbob ( talk )",
+    "licenseName": "CC BY 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

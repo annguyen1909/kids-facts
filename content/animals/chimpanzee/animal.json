@@ -1,0 +1,155 @@
+{
+  "id": "animal-chimpanzee",
+  "slug": "chimpanzee",
+  "name": "Chimpanzee",
+  "commonNames": [
+    "Chimpanzee",
+    "Common Chimpanzee"
+  ],
+  "scientificName": "Pan troglodytes",
+  "summary": "Chimpanzees are intelligent great apes that live in African forests. They use tools, eat fruit and plants, and share strong social bonds in close-knit communities.",
+  "heroTitle": "Chimpanzee Facts",
+  "metaTitle": "Chimpanzee Facts | Habitat, Diet, Communities & Photos",
+  "metaDescription": "Discover chimpanzee facts with photos, forest habitat, varied diet, infant life, and tool use. Learn where chimpanzees live and how they communicate.",
+  "searchIntents": [
+    "chimpanzee facts",
+    "what do chimpanzees eat",
+    "where do chimpanzees live",
+    "are chimpanzees endangered",
+    "how smart are chimpanzees",
+    "how are chimpanzees related to humans"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Hominidae",
+    "genus": "Pan",
+    "species": "P. troglodytes"
+  },
+  "classificationLabels": [
+    "mammal"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Uganda",
+    "Tanzania",
+    "Democratic Republic of the Congo",
+    "Republic of the Congo",
+    "Gabon",
+    "Cameroon",
+    "Nigeria",
+    "Senegal"
+  ],
+  "biomes": [
+    "tropical forest",
+    "woodland"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "fruit",
+    "leaves",
+    "seeds",
+    "insects",
+    "eggs",
+    "small animals"
+  ],
+  "lifespan": {
+    "wild": "40 to 45 years",
+    "captivity": "Up to 60 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "5.5 feet",
+    "heightMin": "3.5 feet",
+    "heightMax": "4.5 feet"
+  },
+  "weight": {
+    "min": "70 pounds",
+    "max": "130 pounds"
+  },
+  "speed": "Up to 25 mph in short bursts on ground",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "community living",
+    "tool use",
+    "grooming",
+    "nest building",
+    "infant care"
+  ],
+  "adaptations": [
+    "opposable thumbs",
+    "strong arms for climbing",
+    "complex communication",
+    "problem-solving intelligence",
+    "long childhood learning"
+  ],
+  "predators": [
+    "leopards",
+    "humans"
+  ],
+  "prey": [
+    "insects",
+    "small mammals",
+    "eggs"
+  ],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 8 months",
+    "offspringCount": "Usually 1 infant"
+  },
+  "funFacts": [
+    "Chimpanzees share about 98 percent of their DNA with humans.",
+    "Chimpanzees use sticks to fish for termites and stones to crack nuts.",
+    "They build leafy nests in trees to sleep each night.",
+    "Chimpanzees greet friends with hugs, kisses, and grooming.",
+    "A chimpanzee community may have dozens of members with complex social rules.",
+    "Infants stay with their mothers for years while learning forest skills."
+  ],
+  "faq": [
+    {
+      "question": "What is a chimpanzee?",
+      "answer": "A chimpanzee is a great ape that lives in African forests. Chimpanzees are intelligent, social, and closely related to humans."
+    },
+    {
+      "question": "Where do chimpanzees live?",
+      "answer": "Wild chimpanzees live in tropical forests and woodlands across central and western Africa."
+    },
+    {
+      "question": "What do chimpanzees eat?",
+      "answer": "Chimpanzees are omnivores. They eat fruit, leaves, seeds, insects, and sometimes small animals."
+    },
+    {
+      "question": "Are chimpanzees endangered?",
+      "answer": "Yes. Chimpanzees are listed as Endangered because of habitat loss, disease, and hunting."
+    },
+    {
+      "question": "How are chimpanzees related to humans?",
+      "answer": "Chimpanzees are great apes and are among our closest living relatives in the animal kingdom."
+    },
+    {
+      "question": "Do chimpanzees use tools?",
+      "answer": "Yes. Chimpanzees use sticks, leaves, and stones as tools to reach food such as insects and nuts."
+    },
+    {
+      "question": "How do chimpanzees live together?",
+      "answer": "Chimpanzees live in communities where members travel, feed, groom, and raise young together."
+    }
+  ],
+  "relatedAnimals": [
+    "gorilla",
+    "lion",
+    "african-elephant"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "chimpanzee-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

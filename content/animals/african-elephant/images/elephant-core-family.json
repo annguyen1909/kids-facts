@@ -1,0 +1,33 @@
+{
+  "id": "elephant-core-family",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-core-family",
+  "fileName": "African_elephant_walking_in_grass_with_calf_-_DPLA_-_5f1db5d93d4fd59fc5aaa58077ec0205.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/African_elephant_walking_in_grass_with_calf_-_DPLA_-_5f1db5d93d4fd59fc5aaa58077ec0205.jpg",
+  "width": 1500,
+  "height": 1000,
+  "alt": "Savanna elephant family walking together with calves in natural habitat",
+  "caption": "Elephant families stay close together and protect younger calves in the herd.",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_elephant_walking_in_grass_with_calf_-_DPLA_-_5f1db5d93d4fd59fc5aaa58077ec0205.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_elephant_walking_in_grass_with_calf_-_DPLA_-_5f1db5d93d4fd59fc5aaa58077ec0205.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

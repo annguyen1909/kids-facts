@@ -1,28 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
-import {
-  DEFAULT_SUPPORTING_PAGE_SLUGS,
-  REQUIRED_IMAGE_TYPES,
-} from "@/lib/content-validation";
+import { REQUIRED_IMAGE_TYPES } from "@/lib/content-validation";
 import type { ImportedImage, ImportedSpeciesData } from "@/lib/animals/types";
-import type { AnimalImageKind, SupportingPageSlug } from "@/lib/types";
+import type { AnimalImageKind } from "@/lib/types";
 
 const PLACEHOLDER_IMAGE_URL = "https://placehold.co/1600x1067/png?text=Replace+Me";
-
-const supportingPageTitles: Record<SupportingPageSlug, string> = {
-  diet: "Diet",
-  habitat: "Habitat",
-  lifespan: "Lifespan",
-  size: "Size",
-  behavior: "Behavior",
-  "life-cycle": "Life Cycle",
-  babies: "Babies",
-  "predators-and-threats": "Predators and Threats",
-  adaptations: "Adaptations",
-  "conservation-status": "Conservation Status",
-  "where-does-it-live": "Where Does It Live",
-  "what-does-it-eat": "What Does It Eat",
-};
 
 export type AnimalScaffoldOptions = {
   name?: string;
@@ -56,14 +38,8 @@ function galleryTopicsForImageType(imageType: AnimalImageKind): AnimalImageKind[
   return [imageType];
 }
 
-function featuredPagesForImageType(
-  imageType: AnimalImageKind,
-): Array<"core" | "gallery" | SupportingPageSlug> {
+function featuredPagesForImageType(imageType: AnimalImageKind): Array<"core" | "gallery"> {
   if (imageType === "hero") return ["core", "gallery"];
-  if (imageType === "habitat") return ["gallery", "habitat"];
-  if (imageType === "diet") return ["gallery", "diet"];
-  if (imageType === "baby") return ["gallery"];
-  if (imageType === "family") return ["gallery", "behavior"];
   return ["gallery"];
 }
 
@@ -73,7 +49,6 @@ function buildAnimalJson(
   timestamp: string,
   speciesData?: ImportedSpeciesData,
 ) {
-  const supportingPageIds = DEFAULT_SUPPORTING_PAGE_SLUGS.map((pageSlug) => `${slug}-${pageSlug}`);
   const commonName = speciesData?.commonNames[0] ?? name;
 
   return {
@@ -84,12 +59,12 @@ function buildAnimalJson(
     scientificName: speciesData?.scientificName ?? "Scientific name TBD",
     summary:
       speciesData?.referenceSummary ??
-      `${name} summary TBD — replace with a kid-friendly overview.`,
-    heroTitle: `${commonName} Facts for Kids`,
-    metaTitle: `${commonName} Facts for Kids | Habitat, Diet, Behavior & Photos`,
-    metaDescription: `${commonName} facts for kids with photos, habitat, diet, behavior, and supporting learning pages.`,
+      `${name} summary TBD — replace with a clear, accessible overview.`,
+    heroTitle: `${commonName} Facts`,
+    metaTitle: `${commonName} Facts | Habitat, Diet, Behavior & Photos`,
+    metaDescription: `${commonName} facts with photos, habitat, diet, behavior, and quick facts on one easy-to-read page.`,
     searchIntents: [
-      `${commonName.toLowerCase()} facts for kids`,
+      `${commonName.toLowerCase()} facts`,
       `what do ${commonName.toLowerCase()}s eat`,
       `where do ${commonName.toLowerCase()}s live`,
     ],
@@ -103,7 +78,7 @@ function buildAnimalJson(
       species: "TBD",
     },
     classificationLabels: speciesData?.classificationLabels ?? ["mammal"],
-    habitats: speciesData?.habitats ?? ["habitat-tbd"],
+    habitat: speciesData?.habitat ?? "savanna",
     continents: speciesData?.continents ?? ["Continent TBD"],
     countries: speciesData?.countries ?? ["Country TBD"],
     biomes: speciesData?.biomes ?? ["biome-tbd"],
@@ -141,23 +116,19 @@ function buildAnimalJson(
       {
         question: `What is a ${commonName.toLowerCase()}?`,
         answer: "Answer TBD — editorial review required.",
-        targetPage: "core",
       },
       {
         question: `Where do ${commonName.toLowerCase()}s live?`,
         answer: "Answer TBD — editorial review required.",
-        targetPage: "habitat",
       },
       {
         question: `What do ${commonName.toLowerCase()}s eat?`,
         answer: "Answer TBD — editorial review required.",
-        targetPage: "diet",
       },
     ],
     relatedAnimals: [],
     comparisonCandidates: [],
     galleryIds: [`${slug}-gallery-main`],
-    supportingPageIds,
     updatedAt: timestamp,
     publishedAt: timestamp,
   };
@@ -180,49 +151,17 @@ Habitat paragraph TBD — editorial review required.
 
 Diet paragraph TBD — editorial review required.
 
-## Why is it interesting?
+## How does it behave?
 
-Behavior or adaptation paragraph TBD — editorial review required.
-`;
-}
+Behavior paragraph TBD — editorial review required.
 
-function buildSupportingPageMdx(
-  slug: string,
-  name: string,
-  pageSlug: SupportingPageSlug,
-  timestamp: string,
-): string {
-  const title = supportingPageTitles[pageSlug];
-  const pageId = `${slug}-${pageSlug}`;
+## Life cycle and babies
 
-  return `---
-id: ${pageId}
-animalSlug: ${slug}
-pageType: supporting
-slug: ${pageSlug}
-title: ${name} ${title} Facts for Kids
-metaTitle: ${name} ${title} Facts for Kids
-metaDescription: Learn about ${name.toLowerCase()} ${pageSlug} with kid-friendly facts, vocabulary, and classroom-ready explanations.
-intro: Intro for ${name.toLowerCase()} ${pageSlug} TBD — editorial review required.
-intentKeywords:
-  - ${slug} ${pageSlug}
-faq:
-  - question: Question 1 TBD?
-    answer: Answer 1 TBD — editorial review required.
-  - question: Question 2 TBD?
-    answer: Answer 2 TBD — editorial review required.
-galleryTopics:
-  - ${pageSlug === "behavior" ? "closeup" : pageSlug === "habitat" ? "habitat" : "diet"}
-relatedPageSlugs:
-  - diet
-  - habitat
-  - behavior
-updatedAt: ${timestamp}
----
+Life cycle paragraph TBD — editorial review required.
 
-## Section heading TBD
+## Why is it at risk?
 
-Body content TBD — editorial review required.
+Conservation paragraph TBD — editorial review required.
 `;
 }
 
@@ -297,7 +236,7 @@ function buildMainGalleryJson(slug: string, name: string, timestamp: string) {
     slug: "gallery",
     title: `${name} Photo Gallery`,
     metaTitle: `${name} Photo Gallery`,
-    metaDescription: `Browse a ${name.toLowerCase()} photo gallery with wildlife images for kids.`,
+    metaDescription: `Browse a ${name.toLowerCase()} photo gallery with wildlife photos.`,
     intro: `Explore ${name.toLowerCase()} photos organized for learning and classroom observation.`,
     imageSlugs,
     updatedAt: timestamp,
@@ -339,7 +278,6 @@ export function scaffoldAnimal(
 
   const directories = [
     contentDirectory,
-    path.join(contentDirectory, "pages"),
     path.join(contentDirectory, "gallery"),
     path.join(contentDirectory, "images"),
     assetsDirectory,
@@ -367,13 +305,6 @@ export function scaffoldAnimal(
       contents: `${JSON.stringify(buildMainGalleryJson(slug, name, timestamp), null, 2)}\n`,
     },
   ];
-
-  for (const pageSlug of DEFAULT_SUPPORTING_PAGE_SLUGS) {
-    filesToWrite.push({
-      filePath: path.join(contentDirectory, "pages", `${pageSlug}.mdx`),
-      contents: buildSupportingPageMdx(slug, name, pageSlug, timestamp),
-    });
-  }
 
   for (const imageType of REQUIRED_IMAGE_TYPES) {
     filesToWrite.push({

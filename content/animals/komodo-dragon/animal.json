@@ -1,0 +1,151 @@
+{
+  "id": "animal-komodo-dragon",
+  "slug": "komodo-dragon",
+  "name": "Komodo Dragon",
+  "commonNames": [
+    "Komodo Dragon",
+    "Komodo Monitor",
+    "Komodo Island Monitor"
+  ],
+  "scientificName": "Varanus komodoensis",
+  "summary": "Komodo dragons are the largest living lizards. They live on a few Indonesian islands, hunt large prey with a powerful bite, and use their forked tongues to track food by smell.",
+  "heroTitle": "Komodo Dragon Facts",
+  "metaTitle": "Komodo Dragon Facts | Habitat, Diet, Size & Photos",
+  "metaDescription": "Discover Komodo dragon facts with photos, island habitat, carnivore diet, hatchlings, and conservation. Learn where Komodo dragons live and why they are endangered.",
+  "searchIntents": [
+    "komodo dragon facts",
+    "where do komodo dragons live",
+    "what do komodo dragons eat",
+    "how big is a komodo dragon",
+    "are komodo dragons endangered",
+    "are komodo dragons venomous"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "genus": "Varanus",
+    "species": "V. komodoensis"
+  },
+  "classificationLabels": [
+    "reptile",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "Indonesia"
+  ],
+  "biomes": [
+    "tropical dry forest",
+    "coastal scrub",
+    "island grassland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "deer",
+    "wild pig",
+    "water buffalo",
+    "smaller dragons",
+    "carrion"
+  ],
+  "lifespan": {
+    "wild": "About 30 years",
+    "captivity": "Up to 30 years or more in zoos"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "10 feet",
+    "heightMin": "1.5 feet",
+    "heightMax": "2 feet"
+  },
+  "weight": {
+    "min": "150 pounds",
+    "max": "200 pounds"
+  },
+  "speed": "Up to 12 mph in short bursts",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "ambush hunting",
+    "scavenging",
+    "scent tracking",
+    "basking",
+    "solitary living"
+  ],
+  "adaptations": [
+    "forked tongue",
+    "venomous bite",
+    "armored scales",
+    "sharp claws",
+    "keen sense of smell"
+  ],
+  "predators": [
+    "humans",
+    "larger Komodo dragons"
+  ],
+  "prey": [
+    "deer",
+    "wild pig",
+    "water buffalo",
+    "birds",
+    "carrion"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "About 7 to 8 months",
+    "offspringCount": "About 15 to 30 eggs per clutch"
+  },
+  "funFacts": [
+    "Komodo dragons are the largest lizards alive today.",
+    "They can smell carrion from miles away using their forked tongues.",
+    "Young Komodo dragons often live in trees to avoid being eaten by adults.",
+    "A Komodo dragon can run faster than many people expect for such a large reptile.",
+    "Komodo dragons can swim between nearby islands when they need to move.",
+    "Female Komodo dragons can sometimes lay fertile eggs even without a male."
+  ],
+  "faq": [
+    {
+      "question": "What is a Komodo dragon?",
+      "answer": "A Komodo dragon is a huge monitor lizard and the largest living lizard on Earth. It lives on a few islands in Indonesia."
+    },
+    {
+      "question": "Where do Komodo dragons live?",
+      "answer": "Wild Komodo dragons live only on a few Indonesian islands, mainly in and around Komodo National Park."
+    },
+    {
+      "question": "What do Komodo dragons eat?",
+      "answer": "Komodo dragons are carnivores. They hunt deer, wild pigs, and other large animals, and they also eat carrion."
+    },
+    {
+      "question": "Are Komodo dragons endangered?",
+      "answer": "Yes. Komodo dragons are listed as Endangered because they live in a very small wild range and face habitat and prey loss."
+    },
+    {
+      "question": "Are Komodo dragons venomous?",
+      "answer": "Yes. A Komodo dragon bite delivers venom and harmful bacteria that help weaken prey."
+    },
+    {
+      "question": "How big is a Komodo dragon?",
+      "answer": "Large adults can grow up to about 10 feet long and weigh around 150 to 200 pounds."
+    }
+  ],
+  "relatedAnimals": [
+    "tiger",
+    "great-white-shark",
+    "eagle"
+  ],
+  "comparisonCandidates": [
+    "tiger"
+  ],
+  "galleryIds": [
+    "komodo-dragon-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T13:43:26.648Z",
+  "publishedAt": "2026-06-23T13:43:26.648Z",
+  "habitat": "forest"
+}

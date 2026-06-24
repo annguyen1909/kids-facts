@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-diet",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-diet",
+  "fileName": "Hunting Cheetah.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hunting_Cheetah.jpg",
+  "width": 4102,
+  "height": 2735,
+  "alt": "Cheetah carrying prey through short grass",
+  "caption": "Cheetahs hunt small antelope and other fast animals with quick sprint attacks.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Manually curated cheetah diet image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Benh LIEU SONG via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hunting_Cheetah.jpg\">Benh LIEU SONG</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hunting_Cheetah.jpg",
+    "creatorName": "Benh LIEU SONG",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

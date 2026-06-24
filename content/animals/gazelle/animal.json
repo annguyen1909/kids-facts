@@ -1,0 +1,160 @@
+{
+  "id": "animal-gazelle",
+  "slug": "gazelle",
+  "name": "Gazelle",
+  "commonNames": [
+    "Gazelle",
+    "Thomson's gazelle",
+    "Grant's gazelle"
+  ],
+  "scientificName": "Gazella spp.",
+  "summary": "Gazelles are fast, alert antelopes that live in herds on African and Asian grasslands. Their speed, sharp hearing, and springing jumps help them escape predators.",
+  "heroTitle": "Gazelle Facts",
+  "metaTitle": "Gazelle Facts | Habitat, Speed, Diet & Photos",
+  "metaDescription": "Discover gazelle facts with photos, herd behavior, grassland habitat, diet, fawns, and survival tricks. Learn how gazelles escape predators in open country.",
+  "searchIntents": [
+    "gazelle facts",
+    "what do gazelles eat",
+    "where do gazelles live",
+    "how fast can a gazelle run",
+    "what is a baby gazelle called",
+    "why do gazelles jump"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Gazella",
+    "species": "Gazella spp."
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "hoofed"
+  ],
+  "continents": [
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Ethiopia",
+    "Sudan",
+    "Mongolia",
+    "India"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grass",
+    "leaves",
+    "shoots",
+    "herbs"
+  ],
+  "lifespan": {
+    "wild": "10 to 12 years",
+    "captivity": "Up to 15 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "5.5 feet",
+    "heightMin": "2 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "26 pounds",
+    "max": "165 pounds"
+  },
+  "speed": "Up to 50 to 60 mph",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable in some places, decreasing in others",
+  "behaviors": [
+    "herd living",
+    "watchful scanning",
+    "bounding jumps",
+    "fast zigzag running",
+    "seasonal movement"
+  ],
+  "adaptations": [
+    "slender legs",
+    "sharp hearing",
+    "wide-set eyes",
+    "light body",
+    "quick turning ability"
+  ],
+  "predators": [
+    "cheetahs",
+    "lions",
+    "leopards",
+    "wild dogs",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "fawn",
+    "gestationOrIncubation": "About 5 to 6 months",
+    "offspringCount": "Usually 1 fawn"
+  },
+  "funFacts": [
+    "Many gazelles perform high leaps called stotting or pronking.",
+    "Gazelles can make sharp turns while running at high speed.",
+    "A baby gazelle is called a fawn.",
+    "Gazelles often live in herds that help them watch for predators.",
+    "Wide eyes on the sides of the head help gazelles spot danger.",
+    "Some gazelles can go a long time with little standing water."
+  ],
+  "faq": [
+    {
+      "question": "What is a gazelle?",
+      "answer": "A gazelle is a small to medium antelope with slender legs, large eyes, and quick speed. Gazelles usually live in open grasslands and savannas."
+    },
+    {
+      "question": "Where do gazelles live?",
+      "answer": "Gazelles live in parts of Africa and Asia, especially grasslands, savannas, and other open habitats."
+    },
+    {
+      "question": "What do gazelles eat?",
+      "answer": "Gazelles are herbivores. They eat grasses, leaves, herbs, and tender shoots."
+    },
+    {
+      "question": "How fast can a gazelle run?",
+      "answer": "Many gazelles can run about 50 to 60 miles per hour and make quick turns to escape predators."
+    },
+    {
+      "question": "Why do gazelles jump high?",
+      "answer": "Gazelles may leap high to show they are strong, confuse predators, or help the herd notice danger."
+    },
+    {
+      "question": "What is a baby gazelle called?",
+      "answer": "A baby gazelle is called a fawn. Fawns often lie still and hidden when they are very young."
+    },
+    {
+      "question": "Do gazelles live in herds?",
+      "answer": "Yes. Many gazelles live in herds, which helps them watch for danger and move together across open country."
+    },
+    {
+      "question": "Are gazelles endangered?",
+      "answer": "Some gazelle species are doing fairly well, while others are in trouble. This page uses a general gazelle profile, so local conservation status can differ by species."
+    }
+  ],
+  "relatedAnimals": [
+    "zebra",
+    "cheetah",
+    "lion"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "gazelle-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "savanna"
+}

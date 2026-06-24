@@ -1,0 +1,33 @@
+{
+  "id": "salmon-core-habitat",
+  "animalSlug": "salmon",
+  "slug": "salmon-core-habitat",
+  "fileName": "Atlantic Salmon - geograph.org.uk - 202879.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Atlantic_Salmon_-_geograph.org.uk_-_202879.jpg",
+  "width": 640,
+  "height": 346,
+  "alt": "Atlantic salmon in a rocky river environment",
+  "caption": "Cold, oxygen-rich rivers with gravel beds are essential for salmon eggs.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "United Kingdom",
+  "acquisitionNotes": "Core article image curated separately from the salmon gallery set.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by Rupert Fleetingly via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_-_geograph.org.uk_-_202879.jpg\">Rupert Fleetingly</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_-_geograph.org.uk_-_202879.jpg",
+    "creatorName": "Rupert Fleetingly",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

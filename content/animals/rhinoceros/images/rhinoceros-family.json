@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-family",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-family",
+  "fileName": "White rhinoceros (Ceratotherium simum) with calf Kruger.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/White_rhinoceros_%28Ceratotherium_simum%29_with_calf_Kruger.jpg",
+  "width": 4920,
+  "height": 3280,
+  "alt": "White rhinoceros mother with calf in savanna",
+  "caption": "Calves follow mothers across open grassland while learning where to graze.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kruger National Park, South Africa",
+  "acquisitionNotes": "Manually curated rhinoceros family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_with_calf_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_with_calf_Kruger.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

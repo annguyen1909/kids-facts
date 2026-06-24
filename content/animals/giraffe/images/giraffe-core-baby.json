@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-baby",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-baby",
+  "fileName": "Giraffes (Giraffa camelopardalis) female and calf (14027422871).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Giraffes_%28Giraffa_camelopardalis%29_female_and_calf_%2814027422871%29.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Young giraffe calf walking under the care of its mother",
+  "caption": "Calves stay close to adults while learning where to feed and when to run.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_female_and_calf_(14027422871).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_female_and_calf_(14027422871).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

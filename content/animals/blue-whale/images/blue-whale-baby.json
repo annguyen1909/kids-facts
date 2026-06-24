@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-baby",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-baby",
+  "fileName": "BlueWhaleWithCalf.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BlueWhaleWithCalf.jpg",
+  "width": 2973,
+  "height": 1977,
+  "alt": "Blue whale mother swimming beside her calf at the surface",
+  "caption": "A newborn blue whale calf can weigh about three tons and grow very fast.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated blue whale calf image with verified species identification.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Andreas Tille via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg\">Andreas Tille</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg",
+    "creatorName": "Andreas Tille",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

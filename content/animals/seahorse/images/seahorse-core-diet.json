@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-core-diet",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-core-diet",
+  "fileName": "Hippocampus erectus 304493547.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hippocampus_erectus_304493547.jpg",
+  "width": 720,
+  "height": 960,
+  "alt": "Lined seahorse hunting tiny prey in the water",
+  "caption": "They must eat constantly because they have no stomach to store food.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
+  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_304493547.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_304493547.jpg",
+    "creatorName": "Pauline Walsh Jacobson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

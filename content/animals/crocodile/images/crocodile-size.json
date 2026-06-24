@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-size",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-size",
+  "fileName": "Nile crocodile head.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Nile_crocodile_head.jpg",
+  "width": 4272,
+  "height": 2848,
+  "alt": "Large Nile crocodile head showing massive jaws",
+  "caption": "Large Nile crocodiles can grow more than 16 feet long and weigh over 1,500 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated crocodile size image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "attributionText": "Photo by Leigh Bedford via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg\">Leigh Bedford</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg",
+    "creatorName": "Leigh Bedford",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

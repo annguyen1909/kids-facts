@@ -1,0 +1,33 @@
+{
+  "id": "owl-core-baby",
+  "animalSlug": "owl",
+  "slug": "owl-core-baby",
+  "fileName": "Great horned owl chick (50014548387).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Great_horned_owl_chick_%2850014548387%29.jpg",
+  "width": 7324,
+  "height": 4883,
+  "alt": "Downy great horned owl chick in a tree nest",
+  "caption": "Young owls practice flapping and hopping on branches before their first flight.",
+  "attributionText": "Photo by YellowstoneNPS via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_(50014548387).jpg\">YellowstoneNPS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_(50014548387).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_(50014548387).jpg",
+    "creatorName": "YellowstoneNPS",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_(50014548387).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the owl gallery set.",
+  "updatedAt": "2026-06-24T08:02:58.617Z"
+}

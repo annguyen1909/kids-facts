@@ -1,0 +1,33 @@
+{
+  "id": "salmon-range",
+  "animalSlug": "salmon",
+  "slug": "salmon-range",
+  "fileName": "Atlantischer Lachs.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Atlantischer_Lachs.jpg",
+  "width": 1152,
+  "height": 518,
+  "alt": "Atlantic salmon in open water habitat",
+  "caption": "Atlantic salmon live in the North Atlantic Ocean and spawn in rivers of Europe and North America.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Manually curated salmon range image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by Hartley, William W. via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantischer_Lachs.jpg\">Hartley, William W.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantischer_Lachs.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantischer_Lachs.jpg",
+    "creatorName": "Hartley, William W.",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantischer_Lachs.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

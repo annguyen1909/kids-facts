@@ -1,0 +1,22 @@
+{
+  "id": "eagle-gallery-main",
+  "animalSlug": "eagle",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Eagle Photo Gallery",
+  "metaTitle": "Eagle Photo Gallery",
+  "metaDescription": "Browse an eagle photo gallery with wildlife photos.",
+  "intro": "Explore eagle photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "eagle-hero",
+    "eagle-habitat",
+    "eagle-diet",
+    "eagle-baby",
+    "eagle-family",
+    "eagle-range",
+    "eagle-size",
+    "eagle-closeup",
+    "eagle-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T10:32:48.304Z"
+}

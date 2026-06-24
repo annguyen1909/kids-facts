@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-core-range",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-core-range",
+  "fileName": "Change color of body animal.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Change_color_of_body_animal.jpg",
+  "width": 3072,
+  "height": 4080,
+  "alt": "Chameleon showing shifted body color on a branch",
+  "caption": "Wild populations face pressure from habitat loss and the pet trade.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Italy",
+  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Sujaywikimedi via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Change_color_of_body_animal.jpg\">Sujaywikimedi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Change_color_of_body_animal.jpg",
+    "creatorName": "Sujaywikimedi",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-fun-fact",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-fun-fact",
+  "fileName": "Blue whale tail fluke.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Blue_whale_tail_fluke.JPG",
+  "width": 1861,
+  "height": 1278,
+  "alt": "Blue whale tail fluke rising as the whale begins a deep dive",
+  "caption": "Blue whales can dive more than 1,000 feet deep and hold their breath for about 30 minutes.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated blue whale fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Shulman at English Wikipedia via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_whale_tail_fluke.JPG\">Shulman at English Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Blue_whale_tail_fluke.JPG\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_whale_tail_fluke.JPG",
+    "creatorName": "Shulman at English Wikipedia",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blue_whale_tail_fluke.JPG",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

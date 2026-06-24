@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-closeup",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-closeup",
+  "fileName": "Raccoon (Procyon lotor) 3.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Raccoon_%28Procyon_lotor%29_3.jpg",
+  "width": 1280,
+  "height": 840,
+  "alt": "Close-up of a raccoon face and front paws",
+  "caption": "Raccoons have sensitive front paws that help them feel and grab food.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated raccoon close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by Darkone ( talk · contribs ) via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_3.jpg\">Darkone ( talk · contribs )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_3.jpg",
+    "creatorName": "Darkone ( talk · contribs )",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

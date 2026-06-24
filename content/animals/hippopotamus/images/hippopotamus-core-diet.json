@@ -1,0 +1,33 @@
+{
+  "id": "hippopotamus-core-diet",
+  "animalSlug": "hippopotamus",
+  "slug": "hippopotamus-core-diet",
+  "fileName": "Hippopotamus Feeding at Murchison Falls National Park01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hippopotamus_Feeding_at_Murchison_Falls_National_Park01.jpg",
+  "width": 1719,
+  "height": 2677,
+  "alt": "Hippopotamus feeding on vegetation near water",
+  "caption": "Despite their size, hippos mainly eat grasses and plants they find on land.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Murchison Falls National Park, Uganda",
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
+  "updatedAt": "2026-06-24T08:02:55.330Z",
+  "attributionText": "Photo by BMKME via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippopotamus_Feeding_at_Murchison_Falls_National_Park01.jpg\">BMKME</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippopotamus_Feeding_at_Murchison_Falls_National_Park01.jpg",
+    "creatorName": "BMKME",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:02:55.330Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

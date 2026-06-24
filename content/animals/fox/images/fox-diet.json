@@ -1,0 +1,33 @@
+{
+  "id": "fox-diet",
+  "animalSlug": "fox",
+  "slug": "fox-diet",
+  "fileName": "Red fox catches a vole - Tolyatti, Russia.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Red_fox_catches_a_vole_-_Tolyatti%2C_Russia.jpg",
+  "width": 5400,
+  "height": 3600,
+  "alt": "Red fox leaping to catch a small rodent",
+  "caption": "Foxes are omnivores that hunt mice, rabbits, birds, and insects.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tolyatti, Russia",
+  "acquisitionNotes": "Manually curated fox diet image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Andrey Gulivanov via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_fox_catches_a_vole_-_Tolyatti%2C_Russia.jpg\">Andrey Gulivanov</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_fox_catches_a_vole_-_Tolyatti%2C_Russia.jpg",
+    "creatorName": "Andrey Gulivanov",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

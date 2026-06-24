@@ -1,0 +1,22 @@
+{
+  "id": "clownfish-gallery-main",
+  "animalSlug": "clownfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ocellaris Clownfish Photo Gallery",
+  "metaTitle": "Ocellaris Clownfish Photo Gallery",
+  "metaDescription": "Browse a ocellaris clownfish photo gallery with wildlife photos.",
+  "intro": "Explore ocellaris clownfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "clownfish-hero",
+    "clownfish-habitat",
+    "clownfish-diet",
+    "clownfish-baby",
+    "clownfish-family",
+    "clownfish-range",
+    "clownfish-size",
+    "clownfish-closeup",
+    "clownfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:17:11.080Z"
+}

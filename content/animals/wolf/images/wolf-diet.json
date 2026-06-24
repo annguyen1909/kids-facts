@@ -1,0 +1,33 @@
+{
+  "id": "wolf-diet",
+  "animalSlug": "wolf",
+  "slug": "wolf-diet",
+  "fileName": "Wolf on a bison carcass, Hayden Valley (9701fd94-481e-4c8a-a03b-498ecaee74b0).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Wolf_on_a_bison_carcass%2C_Hayden_Valley_%289701fd94-481e-4c8a-a03b-498ecaee74b0%29.jpg",
+  "width": 3840,
+  "height": 2514,
+  "alt": "Wolf feeding at a large prey carcass in Yellowstone",
+  "caption": "Wolves are carnivores that hunt deer, elk, moose, and other large animals.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Hayden Valley, Yellowstone National Park, USA",
+  "acquisitionNotes": "Manually curated wolf diet image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by Neal Herbert via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wolf_on_a_bison_carcass%2C_Hayden_Valley_(9701fd94-481e-4c8a-a03b-498ecaee74b0).jpg\">Neal Herbert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Wolf_on_a_bison_carcass%2C_Hayden_Valley_(9701fd94-481e-4c8a-a03b-498ecaee74b0).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wolf_on_a_bison_carcass%2C_Hayden_Valley_(9701fd94-481e-4c8a-a03b-498ecaee74b0).jpg",
+    "creatorName": "Neal Herbert",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Wolf_on_a_bison_carcass%2C_Hayden_Valley_(9701fd94-481e-4c8a-a03b-498ecaee74b0).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pufferfish-gallery-main",
+  "animalSlug": "pufferfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Arothron Meleagris Photo Gallery",
+  "metaTitle": "Arothron Meleagris Photo Gallery",
+  "metaDescription": "Browse a arothron meleagris photo gallery with wildlife photos.",
+  "intro": "Explore arothron meleagris photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "pufferfish-hero",
+    "pufferfish-habitat",
+    "pufferfish-diet",
+    "pufferfish-baby",
+    "pufferfish-family",
+    "pufferfish-range",
+    "pufferfish-size",
+    "pufferfish-closeup",
+    "pufferfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:50:57.080Z"
+}

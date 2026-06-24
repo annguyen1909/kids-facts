@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-size",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-size",
+  "fileName": "TheCheethcat.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg",
+  "width": 853,
+  "height": 1280,
+  "alt": "Full-body cheetah showing long legs and slim frame",
+  "caption": "A cheetah's long legs and slim body help it accelerate quickly.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Sabi Sands, South Africa",
+  "acquisitionNotes": "Manually curated cheetah size image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by James Temple via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:TheCheethcat.jpg\">James Temple</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TheCheethcat.jpg",
+    "creatorName": "James Temple",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

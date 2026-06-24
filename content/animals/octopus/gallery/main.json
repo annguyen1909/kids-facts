@@ -1,0 +1,22 @@
+{
+  "id": "octopus-gallery-main",
+  "animalSlug": "octopus",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Common Octopus Photo Gallery",
+  "metaTitle": "Common Octopus Photo Gallery",
+  "metaDescription": "Browse a common octopus photo gallery with wildlife photos.",
+  "intro": "Explore common octopus photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "octopus-hero",
+    "octopus-habitat",
+    "octopus-diet",
+    "octopus-baby",
+    "octopus-family",
+    "octopus-range",
+    "octopus-size",
+    "octopus-closeup",
+    "octopus-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T10:34:57.382Z"
+}

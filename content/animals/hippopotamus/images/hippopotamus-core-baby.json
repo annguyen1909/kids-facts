@@ -1,0 +1,33 @@
+{
+  "id": "hippopotamus-core-baby",
+  "animalSlug": "hippopotamus",
+  "slug": "hippopotamus-core-baby",
+  "fileName": "Hippopotamus Rwindi 20.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hippopotamus_Rwindi_20.jpg",
+  "width": 2263,
+  "height": 1554,
+  "alt": "Young hippopotamus near adults in river water",
+  "caption": "Calves are born in water and must surface quickly to breathe.",
+  "attributionText": "Photo by Ad Meskens via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippopotamus_Rwindi_20.jpg\">Ad Meskens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippopotamus_Rwindi_20.jpg",
+    "creatorName": "Ad Meskens",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:55.330Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Rwindi, Democratic Republic of the Congo",
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
+  "updatedAt": "2026-06-24T08:02:55.330Z"
+}

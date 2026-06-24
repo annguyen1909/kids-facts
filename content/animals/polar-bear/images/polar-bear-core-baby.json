@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-core-baby",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-core-baby",
+  "fileName": "Female polar bear (Ursus maritimus) with cub, Svalbard.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Female_polar_bear_%28Ursus_maritimus%29_with_cub%2C_Svalbard.jpg",
+  "width": 4041,
+  "height": 2273,
+  "alt": "Polar bear mother with young cub on Arctic ice",
+  "caption": "Cubs learn to walk on ice and follow their mother across the frozen ocean.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Svalbard, Norway",
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by AWeith via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Female_polar_bear_(Ursus_maritimus)_with_cub%2C_Svalbard.jpg\">AWeith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Female_polar_bear_(Ursus_maritimus)_with_cub%2C_Svalbard.jpg",
+    "creatorName": "AWeith",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

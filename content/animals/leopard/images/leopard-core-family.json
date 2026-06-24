@@ -1,0 +1,33 @@
+{
+  "id": "leopard-core-family",
+  "animalSlug": "leopard",
+  "slug": "leopard-core-family",
+  "fileName": "Leopard (Panthera pardus) cub coming closer ... (13901075741).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Leopard_%28Panthera_pardus%29_cub_coming_closer_..._%2813901075741%29.jpg",
+  "width": 3327,
+  "height": 2607,
+  "alt": "Curious leopard cub approaching through grass",
+  "caption": "Unlike lions, adult leopards usually live alone except when raising cubs.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African wildlife reserve",
+  "acquisitionNotes": "Core article image curated separately from the leopard gallery set.",
+  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus)_cub_coming_closer_..._(13901075741).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus)_cub_coming_closer_..._(13901075741).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:52.343Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

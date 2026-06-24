@@ -1,0 +1,173 @@
+{
+  "id": "animal-blue-whale",
+  "slug": "blue-whale",
+  "name": "Blue Whale",
+  "commonNames": [
+    "Blue Whale",
+    "Sulphur-bottom whale",
+    "Great blue whale"
+  ],
+  "scientificName": "Balaenoptera musculus",
+  "summary": "Blue whales are the largest animals on Earth—longer than a school bus and heavier than dozens of elephants. They live in oceans worldwide and filter tiny krill from the sea.",
+  "heroTitle": "Blue Whale Facts",
+  "metaTitle": "Blue Whale Facts | Habitat, Diet, Size & Photos",
+  "metaDescription": "Blue whale facts with photos, ocean habitat, krill diet, size records, calf life, and conservation. Learn how the biggest animal on Earth survives.",
+  "searchIntents": [
+    "blue whale facts",
+    "how big is a blue whale",
+    "what do blue whales eat",
+    "where do blue whales live",
+    "how fast can a blue whale swim",
+    "are blue whales endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Cetacea",
+    "family": "Balaenopteridae",
+    "genus": "Balaenoptera",
+    "species": "B. musculus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "giant"
+  ],
+  "continents": [
+    "Worldwide oceans"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Chile",
+    "Sri Lanka",
+    "Australia",
+    "South Africa",
+    "Norway",
+    "Iceland",
+    "Antarctica"
+  ],
+  "biomes": [
+    "marine",
+    "pelagic"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "krill",
+    "small fish",
+    "copepods"
+  ],
+  "lifespan": {
+    "wild": "80 to 90 years",
+    "captivity": "Rare in captivity; not suited to tanks"
+  },
+  "size": {
+    "lengthMin": "80 feet",
+    "lengthMax": "100 feet",
+    "heightMin": "Not applicable on land",
+    "heightMax": "About 30 feet tall when breaching"
+  },
+  "weight": {
+    "min": "100 tons",
+    "max": "200 tons"
+  },
+  "speed": "Up to 30 mph in short swimming bursts",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "deep diving",
+    "long-distance migration",
+    "filter feeding",
+    "mother-calf bonding",
+    "low-frequency calls"
+  ],
+  "adaptations": [
+    "baleen filter plates",
+    "streamlined body",
+    "thick blubber layer",
+    "two blowholes",
+    "expandable throat grooves"
+  ],
+  "predators": [
+    "killer whales",
+    "large sharks",
+    "humans (historical whaling)"
+  ],
+  "prey": [
+    "krill",
+    "small fish",
+    "copepods"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 10 to 12 months",
+    "offspringCount": "Usually one calf"
+  },
+  "funFacts": [
+    "The blue whale is the largest animal ever known to have lived.",
+    "A blue whale's tongue can weigh as much as an elephant.",
+    "Blue whales eat mostly tiny krill, not large fish or seals.",
+    "A blue whale's blow can shoot 30 feet into the air.",
+    "Blue whale calls can travel hundreds of miles underwater.",
+    "A newborn blue whale calf can gain about 200 pounds per day."
+  ],
+  "faq": [
+    {
+      "question": "What is a blue whale?",
+      "answer": "A blue whale is a huge marine mammal and the largest animal on Earth. It has baleen plates instead of teeth and filters krill from seawater."
+    },
+    {
+      "question": "How big is a blue whale?",
+      "answer": "Many adults reach about 80 to 100 feet long and can weigh up to 200 tons. That is longer than a school bus and heavier than many elephants combined."
+    },
+    {
+      "question": "What do blue whales eat?",
+      "answer": "Blue whales eat mostly krill, which are tiny shrimp-like animals. They also swallow small fish and copepods when feeding."
+    },
+    {
+      "question": "Where do blue whales live?",
+      "answer": "Blue whales live in oceans around the world. They migrate between cold feeding areas near the poles and warmer waters where they breed."
+    },
+    {
+      "question": "How do blue whales breathe?",
+      "answer": "Like all mammals, blue whales must breathe air. They come to the surface, open two blowholes on top of the head, and exhale a tall spout of mist."
+    },
+    {
+      "question": "Can blue whales swallow people?",
+      "answer": "No. A blue whale's throat is too narrow to swallow a person. Its baleen is built to strain tiny prey, not large animals."
+    },
+    {
+      "question": "What is a baby blue whale called?",
+      "answer": "A baby blue whale is called a calf. Calves are born in warm waters and stay with their mother for months while nursing."
+    },
+    {
+      "question": "How fast can blue whales swim?",
+      "answer": "Blue whales usually swim at a steady, slow pace. They can sprint faster for short distances, sometimes reaching around 30 miles per hour."
+    },
+    {
+      "question": "Are blue whales endangered?",
+      "answer": "Yes. Blue whales are listed as Endangered after centuries of whaling. Protecting oceans from ship strikes, noise, and pollution helps them recover."
+    },
+    {
+      "question": "Why are blue whales blue?",
+      "answer": "They look blue-gray underwater because of their skin color and the way light scatters in the ocean. On dry land, their skin looks more gray than bright blue."
+    }
+  ],
+  "relatedAnimals": [
+    "bottlenose-dolphin",
+    "african-elephant",
+    "giant-panda"
+  ],
+  "comparisonCandidates": [
+    "bottlenose-dolphin",
+    "african-elephant"
+  ],
+  "galleryIds": [
+    "blue-whale-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "ocean"
+}

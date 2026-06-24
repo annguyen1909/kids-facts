@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-diet",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-diet",
+  "fileName": "Common chimpanzee (Pan troglodytes schweinfurthii) feeding.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Common_chimpanzee_%28Pan_troglodytes_schweinfurthii%29_feeding.jpg",
+  "width": 3048,
+  "height": 3648,
+  "alt": "Chimpanzee feeding on forest plants",
+  "caption": "Chimpanzees eat fruit, leaves, seeds, insects, and sometimes small animals.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Manually curated chimpanzee diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_chimpanzee_(Pan_troglodytes_schweinfurthii)_feeding.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_chimpanzee_(Pan_troglodytes_schweinfurthii)_feeding.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

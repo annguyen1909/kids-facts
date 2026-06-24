@@ -1,0 +1,33 @@
+{
+  "id": "tuna-hero",
+  "animalSlug": "tuna",
+  "slug": "tuna-hero",
+  "fileName": "Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25201).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25201%29.jpg",
+  "width": 3008,
+  "height": 2000,
+  "alt": "School of yellowfin tuna swimming in the open ocean",
+  "caption": "Yellowfin tuna are fast ocean fish with metallic blue bodies and yellow fins.",
+  "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25201).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25201).jpg",
+    "creatorName": "Marc Taquet",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated yellowfin tuna hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z"
+}

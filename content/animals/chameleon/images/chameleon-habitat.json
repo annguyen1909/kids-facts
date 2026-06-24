@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-habitat",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-habitat",
+  "fileName": "Veiled chameleon Chamaeleo calyptratus Berlin Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg",
+  "width": 1000,
+  "height": 1000,
+  "alt": "Veiled chameleon in leafy branch habitat",
+  "caption": "Veiled chameleons live in trees and bushes in dry mountain regions of Yemen.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Berlin, Germany",
+  "acquisitionNotes": "Manually curated chameleon habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Kristof Magnusson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg\">Kristof Magnusson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg",
+    "creatorName": "Kristof Magnusson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

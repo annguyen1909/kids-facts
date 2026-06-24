@@ -1,0 +1,33 @@
+{
+  "id": "penguin-core-diet",
+  "animalSlug": "penguin",
+  "slug": "penguin-core-diet",
+  "fileName": "EmperorPenguinFeedingChick.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/EmperorPenguinFeedingChick.jpg",
+  "width": 1024,
+  "height": 768,
+  "alt": "Emperor penguin parent regurgitating food for a hungry chick",
+  "caption": "Adult penguins store fish and krill in their stomachs to feed chicks later.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Antarctica",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:EmperorPenguinFeedingChick.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:EmperorPenguinFeedingChick.jpg",
+    "creatorName": "Unknown creator",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

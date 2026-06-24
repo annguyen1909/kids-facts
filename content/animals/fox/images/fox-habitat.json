@@ -1,0 +1,33 @@
+{
+  "id": "fox-habitat",
+  "animalSlug": "fox",
+  "slug": "fox-habitat",
+  "fileName": "Portrait of a red fox in Rautas fjällurskog.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+  "width": 5568,
+  "height": 3712,
+  "alt": "Red fox in boreal forest habitat",
+  "caption": "Red foxes live in forests, grasslands, farms, and even city edges.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rautas fjällurskog, Sweden",
+  "acquisitionNotes": "Manually curated fox habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by ClaudiaTen via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg\">ClaudiaTen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+    "creatorName": "ClaudiaTen",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

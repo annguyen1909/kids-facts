@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-hero",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-hero",
+  "fileName": "Green sea turtle (Chelonia mydas) Moorea.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+  "width": 6671,
+  "height": 4448,
+  "alt": "Green sea turtle swimming over a coral reef",
+  "caption": "Green sea turtles are large ocean reptiles with paddle-shaped flippers.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Moorea, French Polynesia",
+  "acquisitionNotes": "Manually curated green sea turtle hero image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z"
+}

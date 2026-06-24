@@ -1,0 +1,33 @@
+{
+  "id": "tuna-habitat",
+  "animalSlug": "tuna",
+  "slug": "tuna-habitat",
+  "fileName": "Yellowfin tuna nurp.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yellowfin_tuna_nurp.jpg",
+  "width": 1558,
+  "height": 1106,
+  "alt": "Yellowfin tuna with bright yellow fins swimming in open water",
+  "caption": "Tuna live in warm tropical and subtropical seas far from shore.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated tuna habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z",
+  "attributionText": "Photo by OAR/National Undersea Research Program (NURP) via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Yellowfin_tuna_nurp.jpg\">OAR/National Undersea Research Program (NURP)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Yellowfin_tuna_nurp.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowfin_tuna_nurp.jpg",
+    "creatorName": "OAR/National Undersea Research Program (NURP)",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Yellowfin_tuna_nurp.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

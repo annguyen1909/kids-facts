@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-core-family",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-core-family",
+  "fileName": "Grizzly Family (40351019660).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Grizzly_Family_%2840351019660%29.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Grizzly bear family group in wild habitat",
+  "caption": "Cubs learn survival skills by following their mother through the seasons.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
+  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "attributionText": "Photo by GrandTetonNPS via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Family_(40351019660).jpg\">GrandTetonNPS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Family_(40351019660).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Family_(40351019660).jpg",
+    "creatorName": "GrandTetonNPS",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Family_(40351019660).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

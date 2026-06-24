@@ -1,0 +1,22 @@
+{
+  "id": "seahorse-gallery-main",
+  "animalSlug": "seahorse",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Lined Seahorse Photo Gallery",
+  "metaTitle": "Lined Seahorse Photo Gallery",
+  "metaDescription": "Browse a lined seahorse photo gallery with wildlife photos.",
+  "intro": "Explore lined seahorse photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "seahorse-hero",
+    "seahorse-habitat",
+    "seahorse-diet",
+    "seahorse-baby",
+    "seahorse-family",
+    "seahorse-range",
+    "seahorse-size",
+    "seahorse-closeup",
+    "seahorse-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:50:45.418Z"
+}

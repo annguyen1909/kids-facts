@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-family",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-family",
+  "fileName": "Serengeti National Park 01 - Eudorcas thomsonii - Thomson's gazelle.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Serengeti_National_Park_01_-_Eudorcas_thomsonii_-_Thomson%27s_gazelle.jpg",
+  "width": 5026,
+  "height": 3351,
+  "alt": "Several Thomson's gazelles standing together",
+  "caption": "Gazelles often live in herds that help many animals watch for danger at once.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Serengeti National Park, Tanzania",
+  "acquisitionNotes": "Manually curated gazelle family image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_01_-_Eudorcas_thomsonii_-_Thomson's_gazelle.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_01_-_Eudorcas_thomsonii_-_Thomson's_gazelle.jpg",
+    "creatorName": "Thomas Fuhrmann",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

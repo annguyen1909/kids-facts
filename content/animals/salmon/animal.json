@@ -1,0 +1,156 @@
+{
+  "id": "animal-salmon",
+  "slug": "salmon",
+  "name": "Salmon",
+  "commonNames": [
+    "Salmon",
+    "Atlantic Salmon"
+  ],
+  "scientificName": "Salmo salar",
+  "summary": "Atlantic salmon are remarkable fish born in rivers, grown in the ocean, and famous for swimming home to spawn. They are prized by wildlife and people alike.",
+  "heroTitle": "Salmon Facts",
+  "metaTitle": "Salmon Facts | River Life, Ocean Diet & Photos",
+  "metaDescription": "Discover Atlantic salmon facts with photos, river habitat, ocean diet, life cycle, and migration. Learn where salmon live and how they return home to spawn.",
+  "searchIntents": [
+    "salmon facts",
+    "what do salmon eat",
+    "where do salmon live",
+    "why do salmon swim upstream",
+    "what is a baby salmon called",
+    "are salmon endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Salmoniformes",
+    "family": "Salmonidae",
+    "genus": "Salmo",
+    "species": "S. salar"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "North America",
+    "Europe"
+  ],
+  "countries": [
+    "Canada",
+    "United States",
+    "Norway",
+    "United Kingdom",
+    "Ireland",
+    "Iceland"
+  ],
+  "biomes": [
+    "river",
+    "marine",
+    "temperate forest"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "small fish",
+    "shrimp",
+    "krill",
+    "insects",
+    "zooplankton"
+  ],
+  "lifespan": {
+    "wild": "4 to 6 years",
+    "captivity": "Up to 10 years in human care"
+  },
+  "size": {
+    "lengthMin": "2 feet",
+    "lengthMax": "3.5 feet"
+  },
+  "weight": {
+    "min": "8 pounds",
+    "max": "35 pounds"
+  },
+  "speed": "Strong swimmer in rivers and ocean currents",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "upstream migration",
+    "spawning",
+    "ocean feeding",
+    "leaping waterfalls",
+    "homeward navigation"
+  ],
+  "adaptations": [
+    "streamlined body",
+    "keen sense of smell",
+    "color change by life stage",
+    "powerful tail",
+    "saltwater tolerance"
+  ],
+  "predators": [
+    "bears",
+    "eagles",
+    "humans",
+    "larger fish"
+  ],
+  "prey": [
+    "small fish",
+    "shrimp",
+    "insects"
+  ],
+  "reproduction": {
+    "offspringName": "fry",
+    "gestationOrIncubation": "Eggs incubate in gravel for weeks",
+    "offspringCount": "Hundreds to thousands of eggs"
+  },
+  "funFacts": [
+    "Atlantic salmon hatch in rivers but spend much of their life in the ocean.",
+    "Adult salmon can smell the river where they were born.",
+    "Salmon change color when they return from the sea to spawn.",
+    "Young salmon are called parr before becoming smolts.",
+    "Salmon can leap waterfalls on their journey upstream.",
+    "Some salmon travel thousands of miles in the ocean."
+  ],
+  "faq": [
+    {
+      "question": "What is a salmon?",
+      "answer": "A salmon is a fish that hatches in freshwater rivers, grows in the ocean, and often returns to its home river to spawn."
+    },
+    {
+      "question": "Where do salmon live?",
+      "answer": "Atlantic salmon live in the North Atlantic Ocean and spawn in rivers of Europe and North America."
+    },
+    {
+      "question": "What do salmon eat?",
+      "answer": "Young salmon eat insects and tiny animals in rivers. Adults eat small fish, shrimp, and other ocean prey."
+    },
+    {
+      "question": "Why do salmon swim upstream?",
+      "answer": "Adult salmon swim upstream to lay eggs in the same kind of gravel-bottom rivers where they hatched."
+    },
+    {
+      "question": "What is a baby salmon called?",
+      "answer": "Very young salmon are called fry or parr. Older juveniles ready for the ocean are called smolts."
+    },
+    {
+      "question": "Are salmon endangered?",
+      "answer": "Atlantic salmon are listed as Least Concern overall, but many wild populations have declined because of dams, pollution, and habitat loss."
+    },
+    {
+      "question": "How do salmon find their home river?",
+      "answer": "Salmon use their strong sense of smell to recognize the scent of their home stream."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "sea-turtle",
+    "bottlenose-dolphin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "salmon-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "river"
+}

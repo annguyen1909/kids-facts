@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-core-diet",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-core-diet",
+  "fileName": "Gepardkilling3 (Acinonyx jubatus).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gepardkilling3_%28Acinonyx_jubatus%29.jpg",
+  "width": 4440,
+  "height": 3424,
+  "alt": "Cheetah feeding after a successful hunt",
+  "caption": "After a fast chase, cheetahs must rest before they can eat safely.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Malene Thyssen via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gepardkilling3_(Acinonyx_jubatus).jpg\">Malene Thyssen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gepardkilling3_(Acinonyx_jubatus).jpg",
+    "creatorName": "Malene Thyssen",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

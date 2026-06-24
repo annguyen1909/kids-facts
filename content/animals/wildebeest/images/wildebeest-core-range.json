@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-core-range",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-core-range",
+  "fileName": "015b Blue wildebeest silhouette at sunset in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/015b_Blue_wildebeest_silhouette_at_sunset_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "width": 7384,
+  "height": 4923,
+  "alt": "Wildebeest herd silhouetted at sunset on the African plains",
+  "caption": "Fences, drought, and habitat loss can block traditional migration routes.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Kalahari, Namibia",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:015b_Blue_wildebeest_silhouette_at_sunset_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:015b_Blue_wildebeest_silhouette_at_sunset_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

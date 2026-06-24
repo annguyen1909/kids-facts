@@ -1,0 +1,33 @@
+{
+  "id": "orca-core-habitat",
+  "animalSlug": "orca",
+  "slug": "orca-core-habitat",
+  "fileName": "Orcinus orca - Loro Parque 01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Orcinus_orca_-_Loro_Parque_01.jpg",
+  "width": 5787,
+  "height": 2493,
+  "alt": "Orca moving through deep blue water",
+  "caption": "Orcas are adapted to life in open water and coastal seas across the globe.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Marine habitat",
+  "acquisitionNotes": "Core article image curated separately from the orca gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orcinus_orca_-_Loro_Parque_01.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orcinus_orca_-_Loro_Parque_01.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

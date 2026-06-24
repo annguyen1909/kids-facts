@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-size",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-size",
+  "fileName": "Schimpanse, Pan troglodytes 3.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Schimpanse%2C_Pan_troglodytes_3.JPG",
+  "width": 4288,
+  "height": 2848,
+  "alt": "Adult chimpanzee showing muscular arms and body size",
+  "caption": "Adult chimpanzees stand about 4 feet tall and can weigh more than 130 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Europe",
+  "acquisitionNotes": "Manually curated chimpanzee size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by böhringer friedrich This photo was taken with Nikon D300s via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Schimpanse%2C_Pan_troglodytes_3.JPG\">böhringer friedrich This photo was taken with Nikon D300s</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schimpanse%2C_Pan_troglodytes_3.JPG",
+    "creatorName": "böhringer friedrich This photo was taken with Nikon D300s",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

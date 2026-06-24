@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-range",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-range",
+  "fileName": "Nile crocodile, Nile crocodile, Kasane (20260520-P1076210).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nile_crocodile%2C_Nile_crocodile%2C_Kasane_%2820260520-P1076210%29.jpg",
+  "width": 5184,
+  "height": 3888,
+  "alt": "Nile crocodile in African river habitat",
+  "caption": "Nile crocodiles live across much of sub-Saharan Africa and Madagascar.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kasane, Botswana",
+  "acquisitionNotes": "Manually curated crocodile range image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "attributionText": "Photo by Matti Blume via Wikimedia Commons, CC BY-SA",
+    "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_crocodile%2C_Nile_crocodile%2C_Kasane_(20260520-P1076210).jpg\">Matti Blume</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+    "source": {
+      "sourceName": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_crocodile%2C_Nile_crocodile%2C_Kasane_(20260520-P1076210).jpg",
+      "creatorName": "Matti Blume",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

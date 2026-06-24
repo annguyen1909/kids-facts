@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-core-family",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-core-family",
+  "fileName": "Lined Seahorse- Hippocampus erectus (6042886100).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lined_Seahorse-_Hippocampus_erectus_%286042886100%29.jpg",
+  "width": 471,
+  "height": 640,
+  "alt": "Lined seahorse pair in coastal habitat",
+  "caption": "Females deposit eggs into the male's brood pouch to develop.",
+  "attributionText": "Photo by MattSullivan from Boston, MA, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lined_Seahorse-_Hippocampus_erectus_(6042886100).jpg\">MattSullivan from Boston, MA, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lined_Seahorse-_Hippocampus_erectus_(6042886100).jpg",
+    "creatorName": "MattSullivan from Boston, MA, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
+  "updatedAt": "2026-06-24T10:01:05.816Z"
+}

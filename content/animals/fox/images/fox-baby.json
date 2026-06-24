@@ -1,0 +1,33 @@
+{
+  "id": "fox-baby",
+  "animalSlug": "fox",
+  "slug": "fox-baby",
+  "fileName": "Red Fox Cub (52042943121).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Red_Fox_Cub_%2852042943121%29.jpg",
+  "width": 1909,
+  "height": 2673,
+  "alt": "Young red fox cub with fluffy coat",
+  "caption": "Fox kits are born in an underground den and stay hidden for weeks.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually curated fox kit image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by caroline legg via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox_Cub_(52042943121).jpg\">caroline legg</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Fox_Cub_(52042943121).jpg",
+    "creatorName": "caroline legg",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

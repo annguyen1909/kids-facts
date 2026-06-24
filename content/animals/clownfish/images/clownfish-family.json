@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-family",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-family",
+  "fileName": "Common clownfish.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_clownfish.jpg",
+  "width": 1600,
+  "height": 1200,
+  "alt": "Pair of clownfish living together in a sea anemone",
+  "caption": "A dominant female leads the group, and males care for eggs at the nest site.",
+  "attributionText": "Photo by Janderk via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg\">Janderk</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg",
+    "creatorName": "Janderk",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Common_clownfish.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Manually curated clownfish pair image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

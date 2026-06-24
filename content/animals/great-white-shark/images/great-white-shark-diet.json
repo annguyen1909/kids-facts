@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-diet",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-diet",
+  "fileName": "8185 white shark hunts JF.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/8185_white_shark_hunts_JF.jpg",
+  "width": 2598,
+  "height": 1680,
+  "alt": "Great white shark hunting near the water surface",
+  "caption": "Great white sharks are carnivores that hunt fish and larger marine animals.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "Manually curated great white shark diet image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Wolves201 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:8185_white_shark_hunts_JF.jpg\">Wolves201</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:8185_white_shark_hunts_JF.jpg",
+    "creatorName": "Wolves201",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

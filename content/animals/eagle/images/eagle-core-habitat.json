@@ -1,0 +1,33 @@
+{
+  "id": "eagle-core-habitat",
+  "animalSlug": "eagle",
+  "slug": "eagle-core-habitat",
+  "fileName": "Bald eagle near its nest (53627451159).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bald_eagle_near_its_nest_%2853627451159%29.jpg",
+  "width": 2359,
+  "height": 4106,
+  "alt": "Bald eagle perched beside its large nest in a tree",
+  "caption": "Eagles build huge stick nests near water where fish and birds are easy to find.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by U.S. Fish and Wildlife Service - Midwest Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagle_near_its_nest_(53627451159).jpg\">U.S. Fish and Wildlife Service - Midwest Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagle_near_its_nest_(53627451159).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_eagle_near_its_nest_(53627451159).jpg",
+    "creatorName": "U.S. Fish and Wildlife Service - Midwest Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bald_eagle_near_its_nest_(53627451159).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

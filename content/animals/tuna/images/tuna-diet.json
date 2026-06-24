@@ -1,0 +1,33 @@
+{
+  "id": "tuna-diet",
+  "animalSlug": "tuna",
+  "slug": "tuna-diet",
+  "fileName": "Thunnus albacares 247699300.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Thunnus_albacares_247699300.jpg",
+  "width": 1400,
+  "height": 534,
+  "alt": "Yellowfin tuna showing streamlined hunting body shape",
+  "caption": "Tuna are powerful hunters that chase fish, squid, and crustaceans.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical ocean",
+  "acquisitionNotes": "Manually curated tuna diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z",
+  "attributionText": "Photo by steve b via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thunnus_albacares_247699300.jpg\">steve b</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thunnus_albacares_247699300.jpg",
+    "creatorName": "steve b",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-baby",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-baby",
+  "fileName": "Fluffy Flamingo Chick (20587754630).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Fluffy_Flamingo_Chick_%2820587754630%29.jpg",
+  "width": 1970,
+  "height": 2961,
+  "alt": "Fluffy gray flamingo chick standing near water",
+  "caption": "Flamingo chicks hatch with gray down and turn pink as they grow.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Caribbean",
+  "acquisitionNotes": "Manually curated flamingo chick image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "attributionText": "Photo by Eric Kilby from Somerville, MA, USA via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fluffy_Flamingo_Chick_(20587754630).jpg\">Eric Kilby from Somerville, MA, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fluffy_Flamingo_Chick_(20587754630).jpg",
+    "creatorName": "Eric Kilby from Somerville, MA, USA",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

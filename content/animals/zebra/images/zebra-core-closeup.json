@@ -1,0 +1,33 @@
+{
+  "id": "zebra-core-closeup",
+  "animalSlug": "zebra",
+  "slug": "zebra-core-closeup",
+  "fileName": "Equus quagga burchellii.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Equus_quagga_burchellii.jpg",
+  "width": 3200,
+  "height": 2400,
+  "alt": "Zebra head showing muzzle ears and stripe pattern",
+  "caption": "Stripe patterns extend across the face, neck, and body in unique ways.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African grassland",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
+  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii.jpg\">Hans Hillewaert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii.jpg",
+    "creatorName": "Hans Hillewaert",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

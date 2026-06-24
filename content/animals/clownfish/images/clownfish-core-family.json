@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-core-family",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-core-family",
+  "fileName": "Clowns et oeufs à Mayotte.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Clowns_et_oeufs_%C3%A0_Mayotte.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Clownfish guarding eggs laid on reef rock",
+  "caption": "Males fan the eggs with their fins to keep them clean and oxygenated.",
+  "attributionText": "Photo by Frédéric Ducarme Valued image This image has been assessed under the valued image criteria and is considered the most valued image on Commons within the scope: Amphiprion latifasciatus breeding. . You can see its nomination here . via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Clowns_et_oeufs_%C3%A0_Mayotte.jpg\">Frédéric Ducarme Valued image This image has been assessed under the valued image criteria and is considered the most valued image on Commons within the scope: Amphiprion latifasciatus breeding. . You can see its nomination here .</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clowns_et_oeufs_%C3%A0_Mayotte.jpg",
+    "creatorName": "Frédéric Ducarme Valued image This image has been assessed under the valued image criteria and is considered the most valued image on Commons within the scope: Amphiprion latifasciatus breeding. . You can see its nomination here .",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Mayotte",
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eagle-core-diet",
+  "animalSlug": "eagle",
+  "slug": "eagle-core-diet",
+  "fileName": "Bald eagles eating salmon (39714815601).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bald_eagles_eating_salmon_%2839714815601%29.jpg",
+  "width": 5235,
+  "height": 3490,
+  "alt": "Bald eagles feeding on salmon along a riverbank",
+  "caption": "During salmon runs, eagles gather along rivers to catch and eat fish.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Pacific Northwest, United States",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Analise Zocher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagles_eating_salmon_(39714815601).jpg\">Analise Zocher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_eagles_eating_salmon_(39714815601).jpg",
+    "creatorName": "Analise Zocher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

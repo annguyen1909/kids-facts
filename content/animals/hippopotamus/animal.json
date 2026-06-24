@@ -1,0 +1,157 @@
+{
+  "id": "animal-hippopotamus",
+  "slug": "hippopotamus",
+  "name": "Hippopotamus",
+  "commonNames": [
+    "Hippopotamus",
+    "Hippo",
+    "Common Hippopotamus",
+    "Nile Hippopotamus"
+  ],
+  "scientificName": "Hippopotamus amphibius",
+  "summary": "Hippos are huge river mammals with barrel-shaped bodies and enormous mouths. They spend the day in water to stay cool, graze on grass at night, and live in groups called pods across African rivers and lakes.",
+  "heroTitle": "Hippopotamus Facts",
+  "metaTitle": "Hippopotamus Facts | Habitat, Diet, Pods & Photos",
+  "metaDescription": "Discover hippopotamus facts with photos, river habitat, grazing diet, calf life, and conservation. Learn where hippos live, what they eat, and why they stay in water.",
+  "searchIntents": [
+    "hippo facts",
+    "hippopotamus facts",
+    "what do hippos eat",
+    "where do hippos live",
+    "how big is a hippo",
+    "are hippos dangerous"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae",
+    "genus": "Hippopotamus",
+    "species": "H. amphibius"
+  },
+  "classificationLabels": [
+    "mammal",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Uganda",
+    "Botswana",
+    "Zambia",
+    "South Africa",
+    "Namibia",
+    "Zimbabwe",
+    "Democratic Republic of the Congo"
+  ],
+  "biomes": [
+    "river",
+    "savanna",
+    "wetland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grass",
+    "aquatic plants",
+    "reeds",
+    "leaves"
+  ],
+  "lifespan": {
+    "wild": "40 to 50 years",
+    "captivity": "Up to 60 years in zoos"
+  },
+  "size": {
+    "lengthMin": "10 feet",
+    "lengthMax": "16 feet",
+    "heightMin": "4 feet",
+    "heightMax": "5.5 feet"
+  },
+  "weight": {
+    "min": "2,900 pounds",
+    "max": "4,400 pounds"
+  },
+  "speed": "Up to 19 mph on land in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "pod living",
+    "nocturnal grazing",
+    "territorial displays",
+    "staying submerged",
+    "calf protection"
+  ],
+  "adaptations": [
+    "barrel-shaped body",
+    "eyes and nostrils on top of head",
+    "thick skin",
+    "large canine teeth",
+    "webbed feet"
+  ],
+  "predators": [
+    "lions",
+    "crocodiles",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 8 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "Hippos can hold their breath for several minutes underwater.",
+    "Despite living in water, hippos cannot swim—they push off the bottom or walk.",
+    "Hippo sweat looks reddish and may help protect their skin from sun and germs.",
+    "A hippo's mouth can open nearly 180 degrees during a threat display.",
+    "Hippos graze for hours at night and may eat more than 80 pounds of grass.",
+    "Baby hippos are born underwater and must swim to the surface to breathe."
+  ],
+  "faq": [
+    {
+      "question": "What is a hippopotamus?",
+      "answer": "A hippopotamus, often called a hippo, is a huge plant-eating mammal that lives in African rivers and lakes. Hippos spend much of the day in water."
+    },
+    {
+      "question": "Where do hippos live?",
+      "answer": "Wild hippos live in rivers, lakes, and wetlands across sub-Saharan Africa. They need deep water for daytime resting and nearby grassland for feeding."
+    },
+    {
+      "question": "What do hippos eat?",
+      "answer": "Hippos are herbivores that mainly eat grass. They leave the water at night to graze on land."
+    },
+    {
+      "question": "Are hippos dangerous?",
+      "answer": "Yes. Hippos are unpredictable and very strong. They can charge boats or people who get too close, especially on land or near calves."
+    },
+    {
+      "question": "Why do hippos stay in water?",
+      "answer": "Water keeps their huge bodies cool under the hot African sun and helps protect them from biting insects and some predators."
+    },
+    {
+      "question": "Are hippos endangered?",
+      "answer": "Hippos are listed as Vulnerable. Hunting and habitat loss have reduced their numbers in many countries."
+    },
+    {
+      "question": "What is a baby hippo called?",
+      "answer": "A baby hippo is called a calf. Calves stay close to their mothers for protection and nursing."
+    }
+  ],
+  "relatedAnimals": [
+    "african-elephant",
+    "lion",
+    "zebra"
+  ],
+  "comparisonCandidates": [
+    "african-elephant"
+  ],
+  "galleryIds": [
+    "hippopotamus-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T08:00:00.000Z",
+  "publishedAt": "2026-06-24T08:00:00.000Z",
+  "habitat": "river"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-size",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-size",
+  "fileName": "Blue wildebeest (Connochaetes taurinus taurinus) young male 1-2m.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Blue_wildebeest_%28Connochaetes_taurinus_taurinus%29_young_male_1-2m.jpg",
+  "width": 4284,
+  "height": 2856,
+  "alt": "Young male wildebeest showing stocky build and horns",
+  "caption": "Adult wildebeest stand about 4.5 feet tall and weigh up to 600 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated wildebeest size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_young_male_1-2m.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_young_male_1-2m.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

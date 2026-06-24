@@ -1,0 +1,33 @@
+{
+  "id": "koala-family",
+  "animalSlug": "koala",
+  "slug": "koala-family",
+  "fileName": "Koala (Phascolarctos cinereus) female Mount Lofty 4.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Koala_%28Phascolarctos_cinereus%29_female_Mount_Lofty_4.jpg",
+  "width": 5152,
+  "height": 3435,
+  "alt": "Female koala with joey in eucalyptus habitat",
+  "caption": "Mother koalas carry and nurse joeys until they are old enough to climb on their own.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Mount Lofty, Australia",
+  "acquisitionNotes": "Manually curated koala family image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)_female_Mount_Lofty_4.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)_female_Mount_Lofty_4.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

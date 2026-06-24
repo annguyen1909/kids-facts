@@ -1,0 +1,154 @@
+{
+  "id": "animal-crocodile",
+  "slug": "crocodile",
+  "name": "Crocodile",
+  "commonNames": [
+    "Crocodile",
+    "Nile Crocodile"
+  ],
+  "scientificName": "Crocodylus niloticus",
+  "summary": "Nile crocodiles are giant African reptiles with powerful jaws and armor-like scales. They live in rivers and wetlands and are among Africa's top predators.",
+  "heroTitle": "Crocodile Facts",
+  "metaTitle": "Crocodile Facts | River Habitat, Diet & Photos",
+  "metaDescription": "Discover Nile crocodile facts with photos, river habitat, hunting diet, hatchling life, and conservation. Learn where crocodiles live and how they ambush prey.",
+  "searchIntents": [
+    "crocodile facts",
+    "what do crocodiles eat",
+    "where do crocodiles live",
+    "how big is a Nile crocodile",
+    "are crocodiles dangerous",
+    "what is a baby crocodile called"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "genus": "Crocodylus",
+    "species": "C. niloticus"
+  },
+  "classificationLabels": [
+    "reptile",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Botswana",
+    "Zambia",
+    "Uganda",
+    "Egypt",
+    "Madagascar"
+  ],
+  "biomes": [
+    "river",
+    "wetland",
+    "savanna"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "birds",
+    "mammals",
+    "reptiles",
+    "carrion"
+  ],
+  "lifespan": {
+    "wild": "50 to 70 years",
+    "captivity": "Up to 80 years in human care"
+  },
+  "size": {
+    "lengthMin": "11 feet",
+    "lengthMax": "16 feet"
+  },
+  "weight": {
+    "min": "500 pounds",
+    "max": "1,650 pounds"
+  },
+  "speed": "Fast lunges from water; strong swimmer",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "ambush hunting",
+    "basking",
+    "nest guarding",
+    "river patrol",
+    "group basking"
+  ],
+  "adaptations": [
+    "powerful jaws",
+    "armored scales",
+    "nostrils on snout top",
+    "strong tail",
+    "camouflage in water"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "fish",
+    "birds",
+    "mammals",
+    "reptiles"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "Eggs incubate about 3 months in nests",
+    "offspringCount": "Usually 25 to 80 eggs"
+  },
+  "funFacts": [
+    "Nile crocodiles are one of the largest crocodile species in the world.",
+    "They can stay hidden with only their eyes above the water.",
+    "Crocodiles cannot chew—they grip prey and roll or swallow pieces.",
+    "Females guard nests and may help carry hatchlings to water.",
+    "Nest temperature can affect whether hatchlings are male or female.",
+    "Crocodiles have been around since the time of dinosaurs."
+  ],
+  "faq": [
+    {
+      "question": "What is a crocodile?",
+      "answer": "A crocodile is a large reptile with a long snout, armored skin, and a powerful tail. Nile crocodiles live in African rivers and wetlands."
+    },
+    {
+      "question": "Where do Nile crocodiles live?",
+      "answer": "Nile crocodiles live across sub-Saharan Africa and Madagascar in rivers, lakes, and wetlands."
+    },
+    {
+      "question": "What do crocodiles eat?",
+      "answer": "Crocodiles are carnivores that eat fish, birds, mammals, and other animals that come to the water."
+    },
+    {
+      "question": "Are crocodiles dangerous?",
+      "answer": "Nile crocodiles are powerful predators and should always be treated as dangerous. They usually avoid people unless threatened or hunting."
+    },
+    {
+      "question": "What is a baby crocodile called?",
+      "answer": "A baby crocodile is called a hatchling. Hatchlings emerge from eggs laid in nests near water."
+    },
+    {
+      "question": "How do crocodiles hunt?",
+      "answer": "Crocodiles often wait hidden underwater and lunge quickly when prey comes close to drink or cross the river."
+    },
+    {
+      "question": "Are crocodiles endangered?",
+      "answer": "Nile crocodiles are listed as Least Concern, but habitat loss and conflict with people can harm local populations."
+    }
+  ],
+  "relatedAnimals": [
+    "hippopotamus",
+    "komodo-dragon",
+    "lion"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "crocodile-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "river"
+}

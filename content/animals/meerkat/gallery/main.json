@@ -1,0 +1,22 @@
+{
+  "id": "meerkat-gallery-main",
+  "animalSlug": "meerkat",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Meerkat Photo Gallery",
+  "metaTitle": "Meerkat Photo Gallery",
+  "metaDescription": "Browse a meerkat photo gallery with wildlife photos.",
+  "intro": "Explore meerkat photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "meerkat-hero",
+    "meerkat-habitat",
+    "meerkat-diet",
+    "meerkat-baby",
+    "meerkat-family",
+    "meerkat-range",
+    "meerkat-size",
+    "meerkat-closeup",
+    "meerkat-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:34:39.954Z"
+}

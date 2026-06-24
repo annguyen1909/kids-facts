@@ -1,0 +1,179 @@
+{
+  "id": "animal-penguin",
+  "slug": "penguin",
+  "name": "Penguin",
+  "commonNames": [
+    "Penguin",
+    "Emperor penguin",
+    "King penguin",
+    "African penguin"
+  ],
+  "scientificName": "Spheniscidae",
+  "summary": "Penguins are flightless seabirds built for swimming in cold southern oceans. They waddle on land, dive for fish and krill, and many species raise chicks together in huge noisy colonies.",
+  "heroTitle": "Penguin Facts",
+  "metaTitle": "Penguin Facts | Habitat, Diet, Speed & Photos",
+  "metaDescription": "Penguin facts with photos, habitat, diet, colony life, swimming speed, and conservation. Learn where penguins live in the Southern Hemisphere.",
+  "searchIntents": [
+    "penguin facts",
+    "where do penguins live",
+    "what do penguins eat",
+    "how fast can penguins swim",
+    "why can't penguins fly",
+    "are penguins endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Sphenisciformes",
+    "family": "Spheniscidae",
+    "genus": "Various",
+    "species": "Multiple species"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "swimmer"
+  ],
+  "continents": [
+    "Antarctica",
+    "South America",
+    "Africa",
+    "Oceania"
+  ],
+  "countries": [
+    "Antarctica",
+    "Argentina",
+    "Chile",
+    "South Africa",
+    "Australia",
+    "New Zealand",
+    "Falkland Islands",
+    "Peru",
+    "Namibia",
+    "Ecuador"
+  ],
+  "biomes": [
+    "polar",
+    "marine",
+    "coastal"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "krill",
+    "squid",
+    "small crustaceans"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years for many species",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "16 inches",
+    "lengthMax": "4.3 feet",
+    "heightMin": "13 inches",
+    "heightMax": "4 feet"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "88 pounds"
+  },
+  "speed": "Up to 22 mph while swimming underwater",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "colony nesting",
+    "deep diving",
+    "porpoising out of water",
+    "parent chick guarding",
+    "huddling for warmth"
+  ],
+  "adaptations": [
+    "flipper-shaped wings",
+    "dense waterproof feathers",
+    "countershaded coloring",
+    "salt-excreting glands",
+    "thick fat layer in cold species"
+  ],
+  "predators": [
+    "leopard seals",
+    "killer whales",
+    "skuas",
+    "giant petrels"
+  ],
+  "prey": [
+    "fish",
+    "krill",
+    "squid"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 1 to 2 months of egg incubation",
+    "offspringCount": "Usually 1 to 2 eggs"
+  },
+  "funFacts": [
+    "Penguins cannot fly, but they swim as well as many fish.",
+    "Emperor penguins breed during the harsh Antarctic winter.",
+    "A group of penguins in the water is called a raft.",
+    "Penguins have special glands that remove salt from seawater.",
+    "Some penguin colonies hold tens of thousands of nesting birds.",
+    "Penguins leap out of the water onto ice in a move called porpoising."
+  ],
+  "faq": [
+    {
+      "question": "What is a penguin?",
+      "answer": "A penguin is a flightless seabird that lives in the Southern Hemisphere. Penguins have flipper-like wings, waterproof feathers, and strong legs for walking on land and ice."
+    },
+    {
+      "question": "Can penguins fly?",
+      "answer": "No. Penguins lost the ability to fly long ago. Their wings became stiff flippers that push them fast through ocean water instead."
+    },
+    {
+      "question": "Where do penguins live?",
+      "answer": "Almost all penguins live in the Southern Hemisphere, from Antarctica to South America, Africa, Australia, and nearby islands. The Galápagos penguin lives near the equator."
+    },
+    {
+      "question": "What do penguins eat?",
+      "answer": "Penguins are carnivores that eat fish, krill, and squid. They catch prey by diving and chasing underwater."
+    },
+    {
+      "question": "How fast can penguins swim?",
+      "answer": "Many penguins swim about 4 to 7 mph during normal travel. In short bursts, some species can reach around 22 mph underwater."
+    },
+    {
+      "question": "Do penguins live in groups?",
+      "answer": "Yes. Most penguin species nest in large colonies where thousands of birds may gather. Parents take turns guarding chicks and finding food."
+    },
+    {
+      "question": "What is a baby penguin called?",
+      "answer": "A baby penguin is called a chick. Chicks hatch from eggs and depend on their parents for warmth and food."
+    },
+    {
+      "question": "Why are penguins black and white?",
+      "answer": "Their dark backs blend with deep water when seen from above. Their white fronts match bright sky when seen from below, helping them hide from predators and prey."
+    },
+    {
+      "question": "Are penguins endangered?",
+      "answer": "It depends on the species. Some, like the emperor penguin, are Near Threatened. Others, like the African penguin, are Endangered because of fishing, pollution, and habitat loss."
+    },
+    {
+      "question": "How do penguins stay warm in Antarctica?",
+      "answer": "Emperor penguins have thick feathers and a layer of fat. They also huddle together in tight groups and take turns standing in the warm center of the huddle."
+    }
+  ],
+  "relatedAnimals": [
+    "bottlenose-dolphin",
+    "giant-panda",
+    "zebra"
+  ],
+  "comparisonCandidates": [
+    "bottlenose-dolphin"
+  ],
+  "galleryIds": [
+    "penguin-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "polar"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "angelfish-size",
+  "animalSlug": "angelfish",
+  "slug": "angelfish-size",
+  "fileName": "Pomacanthus imperator 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pomacanthus_imperator_2.jpg",
+  "width": 1792,
+  "height": 1344,
+  "alt": "Emperor angelfish showing full adult body size",
+  "caption": "Adult emperor angelfish can grow about 15 inches long.",
+  "attributionText": "Photo by Emőke Dénes via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pomacanthus_imperator_2.jpg\">Emőke Dénes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pomacanthus_imperator_2.jpg",
+    "creatorName": "Emőke Dénes",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:39:20.375Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Manually curated angelfish size image with verified species identification.",
+  "updatedAt": "2026-06-24T10:39:20.375Z"
+}

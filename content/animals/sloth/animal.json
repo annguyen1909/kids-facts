@@ -1,0 +1,151 @@
+{
+  "id": "animal-sloth",
+  "slug": "sloth",
+  "name": "Sloth",
+  "commonNames": [
+    "Sloth",
+    "Three-toed Sloth",
+    "Brown-throated Sloth",
+    "Brown-throated Three-toed Sloth"
+  ],
+  "scientificName": "Bradypus variegatus",
+  "summary": "Brown-throated sloths are slow-moving tree mammals from Central American rainforests. They hang from branches, eat leaves, and spend most of their lives in the canopy.",
+  "heroTitle": "Sloth Facts",
+  "metaTitle": "Sloth Facts | Rainforest Habitat, Diet & Photos",
+  "metaDescription": "Discover brown-throated sloth facts with photos, rainforest habitat, leafy diet, baby life, and slow movement. Learn where sloths live and why they move so slowly.",
+  "searchIntents": [
+    "sloth facts",
+    "what do sloths eat",
+    "where do sloths live",
+    "why are sloths so slow",
+    "what is a baby sloth called",
+    "how do sloths hang upside down"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pilosa",
+    "family": "Bradypodidae",
+    "genus": "Bradypus",
+    "species": "B. variegatus"
+  },
+  "classificationLabels": [
+    "mammal"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Honduras",
+    "Nicaragua",
+    "Costa Rica",
+    "Panama",
+    "Colombia",
+    "Venezuela",
+    "Ecuador",
+    "Brazil"
+  ],
+  "biomes": [
+    "tropical forest",
+    "rainforest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "leaves",
+    "buds",
+    "tender shoots",
+    "fruit"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "18 inches",
+    "lengthMax": "27 inches"
+  },
+  "weight": {
+    "min": "6 pounds",
+    "max": "10 pounds"
+  },
+  "speed": "Very slow on ground and in trees",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "tree hanging",
+    "slow climbing",
+    "leaf feeding",
+    "daytime resting",
+    "infant carrying"
+  ],
+  "adaptations": [
+    "curved claws for hanging",
+    "slow metabolism",
+    "camouflage with algae in fur",
+    "upside-down posture",
+    "energy-saving movement"
+  ],
+  "predators": [
+    "harpy eagles",
+    "jaguars",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 6 months",
+    "offspringCount": "Usually 1 infant"
+  },
+  "funFacts": [
+    "Sloths move slowly because their leafy diet gives them very little energy.",
+    "Three-toed sloths have three claws on each front and hind foot.",
+    "Sloths spend most of their lives hanging upside down in trees.",
+    "Green algae sometimes grows in sloth fur and helps them blend in.",
+    "Sloths descend to the ground only about once a week.",
+    "Baby sloths cling to their mothers for months while learning to climb."
+  ],
+  "faq": [
+    {
+      "question": "What is a sloth?",
+      "answer": "A sloth is a slow-moving mammal that lives in trees and spends most of its time hanging from branches."
+    },
+    {
+      "question": "Where do sloths live?",
+      "answer": "Brown-throated sloths live in tropical rainforests from Honduras through northern South America."
+    },
+    {
+      "question": "What do sloths eat?",
+      "answer": "Sloths are herbivores that eat leaves, buds, and tender shoots from rainforest trees."
+    },
+    {
+      "question": "Why are sloths so slow?",
+      "answer": "Leaves are low in calories, so sloths move slowly and rest often to save energy."
+    },
+    {
+      "question": "How do sloths hang upside down?",
+      "answer": "Long curved claws hook over branches so sloths can hang without using much muscle strength."
+    },
+    {
+      "question": "What is a baby sloth called?",
+      "answer": "A baby sloth is called an infant. Young sloths cling to their mothers while learning to climb and feed."
+    },
+    {
+      "question": "Are sloths endangered?",
+      "answer": "Brown-throated sloths are listed as Least Concern, but habitat loss can harm local populations."
+    }
+  ],
+  "relatedAnimals": [
+    "red-panda",
+    "koala",
+    "giant-panda"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "sloth-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

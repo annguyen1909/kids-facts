@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-fun-fact",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-fun-fact",
+  "fileName": "Gazella thomsonii in flight.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gazella_thomsonii_in_flight.jpg",
+  "width": 2454,
+  "height": 1680,
+  "alt": "Thomson's gazelle leaping while it runs",
+  "caption": "Gazelles can spring and twist during a chase to confuse predators.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Ngorongoro, Tanzania",
+  "acquisitionNotes": "Manually curated gazelle fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Profberger at English Wikipedia via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gazella_thomsonii_in_flight.jpg\">Profberger at English Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gazella_thomsonii_in_flight.jpg",
+    "creatorName": "Profberger at English Wikipedia",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

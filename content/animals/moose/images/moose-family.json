@@ -1,0 +1,33 @@
+{
+  "id": "moose-family",
+  "animalSlug": "moose",
+  "slug": "moose-family",
+  "fileName": "Cow and calf moose in snow.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cow_and_calf_moose_in_snow.jpg",
+  "width": 4032,
+  "height": 3024,
+  "alt": "Mother moose with her calf in snowy forest",
+  "caption": "A cow moose raises one or two calves and fiercely protects them from predators.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated moose family image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "attributionText": "Photo by Beeblebrox via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cow_and_calf_moose_in_snow.jpg\">Beeblebrox</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cow_and_calf_moose_in_snow.jpg",
+    "creatorName": "Beeblebrox",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:11.790Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

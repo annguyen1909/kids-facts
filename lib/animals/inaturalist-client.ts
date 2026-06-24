@@ -13,24 +13,23 @@ type INatTaxaResponse = {
   }>;
 };
 
+type INatPhoto = {
+  url?: string;
+  attribution?: string;
+  license_code?: string;
+  original_dimensions?: {
+    width?: number;
+    height?: number;
+  };
+};
+
 type INatObservationResponse = {
   results?: Array<{
-    photos?: Array<{
-      url?: string;
-      attribution?: string;
-      license_code?: string;
-      original_dimensions?: {
-        width?: number;
-        height?: number;
-      };
-    }>;
+    photos?: INatPhoto[];
   }>;
 };
 
-function toCandidate(
-  photo: NonNullable<INatObservationResponse["results"]>[number]["photos"][number],
-  taxonName: string,
-): WikimediaImageCandidate | null {
+function toCandidate(photo: INatPhoto, taxonName: string): WikimediaImageCandidate | null {
   if (!photo.url) return null;
 
   const imageUrl = photo.url.replace("/square.", "/original.").replace("/medium.", "/original.");

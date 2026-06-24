@@ -1,0 +1,22 @@
+{
+  "id": "wildebeest-gallery-main",
+  "animalSlug": "wildebeest",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Blue Wildebeest Photo Gallery",
+  "metaTitle": "Blue Wildebeest Photo Gallery",
+  "metaDescription": "Browse a blue wildebeest photo gallery with wildlife photos.",
+  "intro": "Explore blue wildebeest photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "wildebeest-hero",
+    "wildebeest-habitat",
+    "wildebeest-diet",
+    "wildebeest-baby",
+    "wildebeest-family",
+    "wildebeest-range",
+    "wildebeest-size",
+    "wildebeest-closeup",
+    "wildebeest-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:37:50.830Z"
+}

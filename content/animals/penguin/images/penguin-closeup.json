@@ -1,0 +1,33 @@
+{
+  "id": "penguin-closeup",
+  "animalSlug": "penguin",
+  "slug": "penguin-closeup",
+  "fileName": "King Penguin portrait.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/King_Penguin_portrait.jpg",
+  "width": 1087,
+  "height": 1172,
+  "alt": "Close-up king penguin face with orange neck patch and black head",
+  "caption": "A penguin's stiff wings work like flippers for powerful underwater swimming.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Falkland Islands",
+  "acquisitionNotes": "Manually curated penguin close-up image with verified species identification.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Mark Dickson via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:King_Penguin_portrait.jpg\">Mark Dickson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Penguin_portrait.jpg",
+    "creatorName": "Mark Dickson",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

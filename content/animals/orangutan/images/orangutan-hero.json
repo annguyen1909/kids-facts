@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-hero",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-hero",
+  "fileName": "Orangutan Kalimantan.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Orangutan_Kalimantan.jpg",
+  "width": 2400,
+  "height": 1590,
+  "alt": "Bornean orangutan in tropical forest habitat",
+  "caption": "Orangutans are great apes with long red hair and very long arms for climbing.",
+  "attributionText": "Photo by Ridwan0810 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg\">Ridwan0810</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg",
+    "creatorName": "Ridwan0810",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Manually curated Bornean orangutan hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z"
+}

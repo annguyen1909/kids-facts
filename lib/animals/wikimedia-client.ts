@@ -4,23 +4,22 @@ import type { WikimediaImageCandidate } from "@/lib/animals/types";
 
 const WIKIMEDIA_API = "https://commons.wikimedia.org/w/api.php";
 
+type WikimediaPage = {
+  title?: string;
+  imageinfo?: Array<{
+    url?: string;
+    thumburl?: string;
+    width?: number;
+    height?: number;
+    mime?: string;
+    extmetadata?: Record<string, { value?: string }>;
+    descriptionurl?: string;
+  }>;
+};
+
 type WikimediaQueryResponse = {
   query?: {
-    pages?: Record<
-      string,
-      {
-        title?: string;
-        imageinfo?: Array<{
-          url?: string;
-          thumburl?: string;
-          width?: number;
-          height?: number;
-          mime?: string;
-          extmetadata?: Record<string, { value?: string }>;
-          descriptionurl?: string;
-        }>;
-      }
-    >;
+    pages?: Record<string, WikimediaPage>;
   };
 };
 
@@ -28,7 +27,7 @@ function stripHtml(value: string): string {
   return value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
-function parseCandidate(page: NonNullable<WikimediaQueryResponse["query"]>["pages"][string]): WikimediaImageCandidate | null {
+function parseCandidate(page: WikimediaPage): WikimediaImageCandidate | null {
   const info = page.imageinfo?.[0];
   if (!info?.url || !info.width || !info.height) return null;
 

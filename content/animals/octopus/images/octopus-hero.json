@@ -1,0 +1,33 @@
+{
+  "id": "octopus-hero",
+  "animalSlug": "octopus",
+  "slug": "octopus-hero",
+  "fileName": "Octopus vulgaris Merculiano.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg",
+  "width": 1800,
+  "height": 2000,
+  "alt": "Common octopus with curled arms and large eyes",
+  "caption": "The common octopus is a clever sea animal with eight flexible arms.",
+  "attributionText": "Photo by Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903) via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg\">Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+    "creatorName": "Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T10:39:21.349Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Mediterranean Sea",
+  "acquisitionNotes": "Manually curated common octopus hero image with verified species identification.",
+  "updatedAt": "2026-06-24T10:39:21.349Z"
+}

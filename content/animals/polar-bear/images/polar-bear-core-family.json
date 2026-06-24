@@ -1,0 +1,33 @@
+{
+  "id": "polar-bear-core-family",
+  "animalSlug": "polar-bear",
+  "slug": "polar-bear-core-family",
+  "fileName": "Two polar bears standing in snow - DPLA - b6fa33b7f837f110b286ccbc11b343cc.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Two_polar_bears_standing_in_snow_-_DPLA_-_b6fa33b7f837f110b286ccbc11b343cc.jpg",
+  "width": 1588,
+  "height": 1074,
+  "alt": "Two polar bears standing together on snow",
+  "caption": "Mothers fiercely protect cubs and may go months without eating while nursing in a den.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Arctic",
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
+  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Two_polar_bears_standing_in_snow_-_DPLA_-_b6fa33b7f837f110b286ccbc11b343cc.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_polar_bears_standing_in_snow_-_DPLA_-_b6fa33b7f837f110b286ccbc11b343cc.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:49.161Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "elephant-fun-fact",
+  "animalSlug": "african-elephant",
+  "slug": "elephant-fun-fact",
+  "fileName": "Male_Bush_Elephant_Head_Trunk_Up_Kafue_Jul23_A7R_05195.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Male_Bush_Elephant_Head_Trunk_Up_Kafue_Jul23_A7R_05195.jpg",
+  "width": 4205,
+  "height": 2803,
+  "alt": "Male African bush elephant raising its trunk in Kafue National Park",
+  "caption": "Elephants raise their trunks to smell the air and communicate with other herd members.",
+  "attributionText": "Photo by Timothy A. Gonsalves via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Bush_Elephant_Head_Trunk_Up_Kafue_Jul23_A7R_05195.jpg\">Timothy A. Gonsalves</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Bush_Elephant_Head_Trunk_Up_Kafue_Jul23_A7R_05195.jpg",
+    "creatorName": "Timothy A. Gonsalves",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.191Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kafue National Park, Zambia",
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.191Z"
+}

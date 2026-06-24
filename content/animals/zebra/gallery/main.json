@@ -1,0 +1,22 @@
+{
+  "id": "zebra-gallery-main",
+  "animalSlug": "zebra",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Zebra Photo Gallery",
+  "metaTitle": "Zebra Photo Gallery",
+  "metaDescription": "Browse a zebra photo gallery with striped herds, foals, grassland habitat, and close-up wildlife photos.",
+  "intro": "Explore zebra photos for learning and classroom observation, from striped foals and herd life to wide-open African grasslands.",
+  "imageSlugs": [
+    "zebra-hero",
+    "zebra-habitat",
+    "zebra-diet",
+    "zebra-baby",
+    "zebra-family",
+    "zebra-range",
+    "zebra-size",
+    "zebra-closeup",
+    "zebra-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-closeup",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-closeup",
+  "fileName": "Struthio camelus - male - Rülzheim.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Struthio_camelus_-_male_-_R%C3%BClzheim.jpg",
+  "width": 6000,
+  "height": 4000,
+  "alt": "Close-up of a male ostrich head and beak",
+  "caption": "Ostriches have the largest eyes of any land animal, which helps them spot danger.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rülzheim, Germany",
+  "acquisitionNotes": "Manually curated ostrich close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_male_-_R%C3%BClzheim.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_male_-_R%C3%BClzheim.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-baby",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-baby",
+  "fileName": "Giraffe (Giraffa camelopardalis) calf with its mother (14031070034).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Giraffe_%28Giraffa_camelopardalis%29_calf_with_its_mother_%2814031070034%29.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Giraffe calf standing beside its mother",
+  "caption": "A giraffe calf can stand soon after birth and stays close to adults.",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe_(Giraffa_camelopardalis)_calf_with_its_mother_(14031070034).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe_(Giraffa_camelopardalis)_calf_with_its_mother_(14031070034).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African wildlife reserve",
+  "acquisitionNotes": "Manually curated giraffe calf image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.575Z"
+}

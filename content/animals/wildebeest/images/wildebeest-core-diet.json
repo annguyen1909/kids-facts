@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-core-diet",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-core-diet",
+  "fileName": "Connochaetes taurinus, Phakama, a.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Connochaetes_taurinus%2C_Phakama%2C_a.jpg",
+  "width": 1728,
+  "height": 1536,
+  "alt": "Blue wildebeest grazing on open grassland",
+  "caption": "Huge herds follow rains to find fresh green grass.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by JMK via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Connochaetes_taurinus%2C_Phakama%2C_a.jpg\">JMK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Connochaetes_taurinus%2C_Phakama%2C_a.jpg",
+    "creatorName": "JMK",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

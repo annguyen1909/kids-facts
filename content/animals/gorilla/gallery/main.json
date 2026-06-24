@@ -1,0 +1,22 @@
+{
+  "id": "gorilla-gallery-main",
+  "animalSlug": "gorilla",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Western Gorilla Photo Gallery",
+  "metaTitle": "Western Gorilla Photo Gallery",
+  "metaDescription": "Browse a western gorilla photo gallery with wildlife photos.",
+  "intro": "Explore western gorilla photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "gorilla-hero",
+    "gorilla-habitat",
+    "gorilla-diet",
+    "gorilla-baby",
+    "gorilla-family",
+    "gorilla-range",
+    "gorilla-size",
+    "gorilla-closeup",
+    "gorilla-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:58:02.049Z"
+}

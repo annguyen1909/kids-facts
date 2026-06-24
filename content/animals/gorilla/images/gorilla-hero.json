@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-hero",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-hero",
+  "fileName": "Silverback Western lowland gorilla in forest - DPLA - be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Silverback_Western_lowland_gorilla_in_forest_-_DPLA_-_be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
+  "width": 1590,
+  "height": 1060,
+  "alt": "Silverback western lowland gorilla in African forest",
+  "caption": "Gorillas are large apes that live in family groups led by a silverback male.",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Silverback_Western_lowland_gorilla_in_forest_-_DPLA_-_be25be22ec7b3f6f17fc2c3c4571dfc1.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silverback_Western_lowland_gorilla_in_forest_-_DPLA_-_be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Manually curated western lowland gorilla hero image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:05.825Z"
+}

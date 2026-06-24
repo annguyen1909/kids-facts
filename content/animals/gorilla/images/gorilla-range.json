@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-range",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-range",
+  "fileName": "Gorilla Male Global.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gorilla_Male_Global.jpg",
+  "width": 13130,
+  "height": 10000,
+  "alt": "Adult male gorilla in forest showing species range habitat",
+  "caption": "Wild western lowland gorillas survive in forests across central and western Africa.",
+  "attributionText": "Photo by Didier Descouens via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gorilla_Male_Global.jpg\">Didier Descouens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorilla_Male_Global.jpg",
+    "creatorName": "Didier Descouens",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Manually curated gorilla range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:05.825Z"
+}

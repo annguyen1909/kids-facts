@@ -13,9 +13,9 @@ export function SectionPattern({ variant }: { variant: SectionVariant }) {
   const id = patternIds[variant];
 
   return (
-    <div className="animal-section__pattern" aria-hidden="true">
+    <div className="section-pattern" aria-hidden="true">
       <svg
-        className="animal-section__pattern-svg"
+        className="section-pattern__svg"
         xmlns="http://www.w3.org/2000/svg"
         preserveAspectRatio="xMidYMid slice"
       >

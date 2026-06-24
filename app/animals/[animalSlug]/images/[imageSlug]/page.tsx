@@ -3,18 +3,13 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/layout/json-ld";
 import { Breadcrumbs } from "@/components/ui/breadcrumb";
-import { getAllAnimals, resolveImageRoute } from "@/lib/content";
+import { getStaticImageRoutes, resolveImageRoute } from "@/lib/content";
 import { getAbsoluteUrl, getAnimalImageForDisplay } from "@/lib/images";
 import { buildPageMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema, buildImageSchema } from "@/lib/schema";
 
 export function generateStaticParams() {
-  return getAllAnimals().flatMap((animal) =>
-    animal.images.map((image) => ({
-      animalSlug: animal.core.slug,
-      imageSlug: image.slug,
-    })),
-  );
+  return getStaticImageRoutes();
 }
 
 export async function generateMetadata({

@@ -1,0 +1,33 @@
+{
+  "id": "crocodile-closeup",
+  "animalSlug": "crocodile",
+  "slug": "crocodile-closeup",
+  "fileName": "Crocodylus niloticus MHNT REP 204.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Crocodylus_niloticus_MHNT_REP_204.jpg",
+  "width": 3307,
+  "height": 3307,
+  "alt": "Close-up of a Nile crocodile skull and teeth",
+  "caption": "A crocodile's cone-shaped teeth are built for gripping prey, not chewing.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "France",
+  "acquisitionNotes": "Manually curated crocodile close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "attributionText": "Photo by Roger Culos via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_204.jpg\">Roger Culos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_204.jpg",
+    "creatorName": "Roger Culos",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:15.558Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

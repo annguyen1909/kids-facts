@@ -1,0 +1,33 @@
+{
+  "id": "giant-panda-core-diet",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-core-diet",
+  "fileName": "1280px-Giant_Panda_Eating.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Giant_Panda_Eating.jpg/1280px-Giant_Panda_Eating.jpg",
+  "width": 1280,
+  "height": 853,
+  "alt": "Giant panda chewing bamboo with paws holding stalk",
+  "caption": "Although they are bears, giant pandas eat mostly bamboo every day.",
+  "attributionText": "Photo by Chen Wu from Shanghai, China via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giant_Panda_Eating.jpg\">Chen Wu from Shanghai, China</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Panda_Eating.jpg",
+    "creatorName": "Chen Wu from Shanghai, China",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "China",
+  "acquisitionNotes": "Core article diet image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

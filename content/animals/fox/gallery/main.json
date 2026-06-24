@@ -1,0 +1,22 @@
+{
+  "id": "fox-gallery-main",
+  "animalSlug": "fox",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Red Fox Photo Gallery",
+  "metaTitle": "Red Fox Photo Gallery",
+  "metaDescription": "Browse a red fox photo gallery with wildlife photos.",
+  "intro": "Explore red fox photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "fox-hero",
+    "fox-habitat",
+    "fox-diet",
+    "fox-baby",
+    "fox-family",
+    "fox-range",
+    "fox-size",
+    "fox-closeup",
+    "fox-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:46:59.837Z"
+}

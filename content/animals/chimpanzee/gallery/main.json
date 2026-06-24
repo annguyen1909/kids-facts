@@ -1,0 +1,22 @@
+{
+  "id": "chimpanzee-gallery-main",
+  "animalSlug": "chimpanzee",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Chimpanzee Photo Gallery",
+  "metaTitle": "Chimpanzee Photo Gallery",
+  "metaDescription": "Browse a chimpanzee photo gallery with wildlife photos.",
+  "intro": "Explore chimpanzee photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "chimpanzee-hero",
+    "chimpanzee-habitat",
+    "chimpanzee-diet",
+    "chimpanzee-baby",
+    "chimpanzee-family",
+    "chimpanzee-range",
+    "chimpanzee-size",
+    "chimpanzee-closeup",
+    "chimpanzee-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:16:58.287Z"
+}

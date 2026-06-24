@@ -1,0 +1,33 @@
+{
+  "id": "tuna-closeup",
+  "animalSlug": "tuna",
+  "slug": "tuna-closeup",
+  "fileName": "Marquage d'un thon albacore (Thunnus albacares) (Ifremer 00540-65191).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Marquage_d%27un_thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00540-65191%29.jpg",
+  "width": 3008,
+  "height": 2000,
+  "alt": "Close view of a yellowfin tuna body and fins",
+  "caption": "Their torpedo-shaped bodies and stiff fins help them swim at high speed.",
+  "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Marquage_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marquage_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg",
+    "creatorName": "Marc Taquet",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated tuna close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z"
+}

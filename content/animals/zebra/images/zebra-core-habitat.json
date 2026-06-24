@@ -1,0 +1,33 @@
+{
+  "id": "zebra-core-habitat",
+  "animalSlug": "zebra",
+  "slug": "zebra-core-habitat",
+  "fileName": "Common zebra 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Common_zebra_1.jpg",
+  "width": 1600,
+  "height": 1200,
+  "alt": "Zebra in grassy habitat under open sky",
+  "caption": "Open grassland gives zebras food, space, and a clear view of predators.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
+  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "attributionText": "Photo by Gusjer , Madrid via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_zebra_1.jpg\">Gusjer , Madrid</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_zebra_1.jpg",
+    "creatorName": "Gusjer , Madrid",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

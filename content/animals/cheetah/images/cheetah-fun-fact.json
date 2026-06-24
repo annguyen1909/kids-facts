@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-fun-fact",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-fun-fact",
+  "fileName": "Gepardjagt1 (Acinonyx jubatus).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gepardjagt1_%28Acinonyx_jubatus%29.jpg",
+  "width": 3332,
+  "height": 1884,
+  "alt": "Running cheetah stretching across the ground",
+  "caption": "A sprinting cheetah can bend and extend its spine like a spring.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Manually curated cheetah fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Malene Thyssen via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gepardjagt1_(Acinonyx_jubatus).jpg\">Malene Thyssen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gepardjagt1_(Acinonyx_jubatus).jpg",
+    "creatorName": "Malene Thyssen",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

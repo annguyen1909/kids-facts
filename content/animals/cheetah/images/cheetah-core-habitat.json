@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-core-habitat",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-core-habitat",
+  "fileName": "Male Cheetahs, Maasai Mara (43941746162).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Male_Cheetahs%2C_Maasai_Mara_%2843941746162%29.jpg",
+  "width": 1975,
+  "height": 1317,
+  "alt": "Cheetahs moving through open Maasai Mara grassland",
+  "caption": "Open savanna helps cheetahs spot prey and start a chase from a distance.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Maasai Mara, Kenya",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Ray in Manila via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Cheetahs%2C_Maasai_Mara_(43941746162).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Cheetahs%2C_Maasai_Mara_(43941746162).jpg",
+    "creatorName": "Ray in Manila",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

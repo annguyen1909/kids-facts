@@ -1,0 +1,33 @@
+{
+  "id": "koala-core-range",
+  "animalSlug": "koala",
+  "slug": "koala-core-range",
+  "fileName": "Koala resting in eucalyptus.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Koala_resting_in_eucalyptus.jpg",
+  "width": 2988,
+  "height": 5312,
+  "alt": "Koala resting in a eucalyptus tree canopy",
+  "caption": "Koalas are listed as Vulnerable because of habitat loss, disease, and bushfires.",
+  "attributionText": "Photo by KobiWiki via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_resting_in_eucalyptus.jpg\">KobiWiki</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_resting_in_eucalyptus.jpg",
+    "creatorName": "KobiWiki",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Core article image curated separately from the koala gallery set.",
+  "updatedAt": "2026-06-24T09:22:12.494Z"
+}

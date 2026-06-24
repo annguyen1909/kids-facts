@@ -1,0 +1,169 @@
+{
+  "id": "animal-fox",
+  "slug": "fox",
+  "name": "Fox",
+  "commonNames": [
+    "Fox",
+    "Red Fox",
+    "Common Fox"
+  ],
+  "scientificName": "Vulpes vulpes",
+  "summary": "Red foxes are quick, clever wild dogs with bushy tails and excellent hearing. They hunt mice and rabbits, raise kits in dens, and live from Arctic tundra to city parks.",
+  "heroTitle": "Fox Facts",
+  "metaTitle": "Fox Facts | Habitat, Diet, Kits & Photos",
+  "metaDescription": "Discover red fox facts with photos, forest habitat, hunting diet, kit life, and behavior. Learn where foxes live, what they eat, and how they hunt at night.",
+  "searchIntents": [
+    "fox facts",
+    "red fox facts",
+    "what do foxes eat",
+    "where do foxes live",
+    "what is a baby fox called",
+    "are foxes nocturnal"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Canidae",
+    "genus": "Vulpes",
+    "species": "V. vulpes"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia",
+    "Africa"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Russia",
+    "Japan",
+    "Algeria"
+  ],
+  "biomes": [
+    "forest",
+    "temperate forest",
+    "tundra",
+    "savanna"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "mice",
+    "voles",
+    "rabbits",
+    "birds",
+    "insects",
+    "berries",
+    "fruit"
+  ],
+  "lifespan": {
+    "wild": "3 to 6 years",
+    "captivity": "Up to 14 years in human care"
+  },
+  "size": {
+    "lengthMin": "18 inches",
+    "lengthMax": "35 inches",
+    "heightMin": "14 inches",
+    "heightMax": "20 inches"
+  },
+  "weight": {
+    "min": "6 pounds",
+    "max": "24 pounds"
+  },
+  "speed": "Up to 30 mph in short bursts",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "nocturnal hunting",
+    "den rearing",
+    "scent marking",
+    "pouncing on prey",
+    "adaptability"
+  ],
+  "adaptations": [
+    "excellent hearing",
+    "bushy tail for balance",
+    "sharp teeth",
+    "camouflage coat",
+    "keen night vision"
+  ],
+  "predators": [
+    "wolves",
+    "coyotes",
+    "eagles",
+    "humans"
+  ],
+  "prey": [
+    "mice",
+    "voles",
+    "rabbits",
+    "birds",
+    "insects"
+  ],
+  "reproduction": {
+    "offspringName": "kit",
+    "gestationOrIncubation": "About 52 days",
+    "offspringCount": "Usually 4 to 6 kits"
+  },
+  "funFacts": [
+    "A fox uses its bushy tail for balance and warmth.",
+    "Foxes can hear rodents moving underground.",
+    "Red foxes have a wide range of coat colors, including black and silver.",
+    "Fox kits play-fight to practice hunting skills.",
+    "A group of foxes is sometimes called a skulk or leash.",
+    "Foxes store extra food by burying it to eat later."
+  ],
+  "faq": [
+    {
+      "question": "What is a fox?",
+      "answer": "A fox is a small wild member of the dog family. The red fox is the most widespread species and lives on several continents."
+    },
+    {
+      "question": "Where do foxes live?",
+      "answer": "Red foxes live in forests, grasslands, farms, deserts, and even city parks across Europe, Asia, North America, and parts of Africa."
+    },
+    {
+      "question": "What do foxes eat?",
+      "answer": "Foxes eat mice, voles, rabbits, birds, insects, fruit, and other food they can catch or find."
+    },
+    {
+      "question": "What is a baby fox called?",
+      "answer": "A baby fox is called a kit or cub. Kits are born in an underground den."
+    },
+    {
+      "question": "Are foxes nocturnal?",
+      "answer": "Foxes are most active at night and at dawn or dusk, though they may come out in daylight too."
+    },
+    {
+      "question": "How are foxes different from wolves?",
+      "answer": "Foxes are much smaller, usually hunt alone, and eat smaller prey. Wolves live in packs and hunt large animals."
+    },
+    {
+      "question": "Are foxes endangered?",
+      "answer": "Red foxes are listed as Least Concern and remain common in many regions, though local populations can still face threats."
+    }
+  ],
+  "relatedAnimals": [
+    "wolf",
+    "eagle",
+    "otter"
+  ],
+  "comparisonCandidates": [
+    "wolf"
+  ],
+  "galleryIds": [
+    "fox-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T10:00:00.000Z",
+  "publishedAt": "2026-06-24T10:00:00.000Z",
+  "habitat": "forest"
+}

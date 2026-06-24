@@ -1,0 +1,22 @@
+{
+  "id": "moose-gallery-main",
+  "animalSlug": "moose",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Moose Photo Gallery",
+  "metaTitle": "Moose Photo Gallery",
+  "metaDescription": "Browse a moose photo gallery with wildlife photos.",
+  "intro": "Explore moose photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "moose-hero",
+    "moose-habitat",
+    "moose-diet",
+    "moose-baby",
+    "moose-family",
+    "moose-range",
+    "moose-size",
+    "moose-closeup",
+    "moose-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:37:09.415Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-size",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-size",
+  "fileName": "Macropus rufus.002 - Zoo Aquarium de Madrid.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Macropus_rufus.002_-_Zoo_Aquarium_de_Madrid.JPG",
+  "width": 2448,
+  "height": 3264,
+  "alt": "Tall red kangaroo showing long legs and powerful tail",
+  "caption": "Male red kangaroos can stand over 5 feet tall and weigh more than 180 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Madrid, Spain",
+  "acquisitionNotes": "Manually curated kangaroo size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by Fernando Losada Rodríguez via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Macropus_rufus.002_-_Zoo_Aquarium_de_Madrid.JPG\">Fernando Losada Rodríguez</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macropus_rufus.002_-_Zoo_Aquarium_de_Madrid.JPG",
+    "creatorName": "Fernando Losada Rodríguez",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

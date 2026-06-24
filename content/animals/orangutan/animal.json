@@ -1,0 +1,145 @@
+{
+  "id": "animal-orangutan",
+  "slug": "orangutan",
+  "name": "Orangutan",
+  "commonNames": [
+    "Orangutan",
+    "Bornean Orangutan"
+  ],
+  "scientificName": "Pongo pygmaeus",
+  "summary": "Bornean orangutans are great apes that live in Asian rainforests. They climb with long arms, eat forest fruit, and spend years raising their young.",
+  "heroTitle": "Orangutan Facts",
+  "metaTitle": "Orangutan Facts | Habitat, Diet, Nests & Photos",
+  "metaDescription": "Discover Bornean orangutan facts with photos, rainforest habitat, fruit diet, infant life, and nest building. Learn where orangutans live and why they are endangered.",
+  "searchIntents": [
+    "orangutan facts",
+    "what do orangutans eat",
+    "where do orangutans live",
+    "are orangutans endangered",
+    "how are orangutans related to humans",
+    "why do orangutans build nests"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Hominidae",
+    "genus": "Pongo",
+    "species": "P. pygmaeus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "large"
+  ],
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "biomes": [
+    "tropical forest",
+    "peat swamp forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "fruit",
+    "leaves",
+    "bark",
+    "flowers",
+    "insects"
+  ],
+  "lifespan": {
+    "wild": "35 to 45 years",
+    "captivity": "Up to 50 years in human care"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "4.5 feet",
+    "heightMin": "3.5 feet",
+    "heightMax": "4.5 feet"
+  },
+  "weight": {
+    "min": "80 pounds",
+    "max": "220 pounds"
+  },
+  "speed": "Slow on ground; agile climber in trees",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "tree climbing",
+    "nest building",
+    "solitary living",
+    "fruit foraging",
+    "long infant care"
+  ],
+  "adaptations": [
+    "very long arms",
+    "opposable thumbs",
+    "strong grip",
+    "flexible shoulders",
+    "patient foraging"
+  ],
+  "predators": [
+    "clouded leopards",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 8.5 months",
+    "offspringCount": "Usually 1 infant"
+  },
+  "funFacts": [
+    "Orangutans share about 97 percent of their DNA with humans.",
+    "The word orangutan means person of the forest in Malay.",
+    "Orangutans build a fresh leafy nest to sleep in almost every night.",
+    "A male orangutan's arm span can reach more than 7 feet.",
+    "Orangutans are mostly solitary, unlike chimpanzees and gorillas.",
+    "Infants stay with their mothers for up to eight years."
+  ],
+  "faq": [
+    {
+      "question": "What is an orangutan?",
+      "answer": "An orangutan is a great ape that lives in Asian rainforests. Orangutans are expert climbers with long red hair and very long arms."
+    },
+    {
+      "question": "Where do orangutans live?",
+      "answer": "Bornean orangutans live only on the island of Borneo in Indonesia and Malaysia."
+    },
+    {
+      "question": "What do orangutans eat?",
+      "answer": "Orangutans eat fruit, leaves, bark, flowers, and sometimes insects. Fruit is an important food when trees are fruiting."
+    },
+    {
+      "question": "Are orangutans endangered?",
+      "answer": "Yes. Bornean orangutans are listed as Critically Endangered because rainforests are being cleared for palm oil and logging."
+    },
+    {
+      "question": "How are orangutans related to humans?",
+      "answer": "Orangutans are great apes and are closely related to humans, gorillas, and chimpanzees."
+    },
+    {
+      "question": "Why do orangutans build nests?",
+      "answer": "Orangutans build leafy nests in trees to sleep safely above the forest floor each night."
+    },
+    {
+      "question": "Do orangutans live in groups?",
+      "answer": "Adult orangutans usually live alone, though mothers stay with their infants for many years."
+    }
+  ],
+  "relatedAnimals": [
+    "gorilla",
+    "chimpanzee",
+    "giant-panda"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "orangutan-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

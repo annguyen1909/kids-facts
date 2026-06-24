@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-baby",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-baby",
+  "fileName": "Baby Orangutan Grip.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Baby_Orangutan_Grip.jpg",
+  "width": 4032,
+  "height": 3024,
+  "alt": "Young orangutan gripping a branch with one hand",
+  "caption": "Baby orangutans stay with their mothers for many years while learning to climb.",
+  "attributionText": "Photo by Mbrickn via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_Orangutan_Grip.jpg\">Mbrickn</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_Orangutan_Grip.jpg",
+    "creatorName": "Mbrickn",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southeast Asia",
+  "acquisitionNotes": "Manually curated orangutan infant image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z"
+}

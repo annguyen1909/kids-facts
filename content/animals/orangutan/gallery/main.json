@@ -1,0 +1,22 @@
+{
+  "id": "orangutan-gallery-main",
+  "animalSlug": "orangutan",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Bornean Orangutan Photo Gallery",
+  "metaTitle": "Bornean Orangutan Photo Gallery",
+  "metaDescription": "Browse a bornean orangutan photo gallery with wildlife photos.",
+  "intro": "Explore bornean orangutan photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "orangutan-hero",
+    "orangutan-habitat",
+    "orangutan-diet",
+    "orangutan-baby",
+    "orangutan-family",
+    "orangutan-range",
+    "orangutan-size",
+    "orangutan-closeup",
+    "orangutan-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:23:52.343Z"
+}

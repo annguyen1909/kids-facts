@@ -1,0 +1,22 @@
+{
+  "id": "otter-gallery-main",
+  "animalSlug": "otter",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Otter Photo Gallery",
+  "metaTitle": "Otter Photo Gallery",
+  "metaDescription": "Browse otter photos showing coastal habitat, floating behavior, pups, tool use, and close-up marine mammal features.",
+  "intro": "Explore sea otter photos for learning and classroom observation, from kelp forests and pups to tool use and thick fur.",
+  "imageSlugs": [
+    "otter-hero",
+    "otter-habitat",
+    "otter-diet",
+    "otter-baby",
+    "otter-family",
+    "otter-range",
+    "otter-size",
+    "otter-closeup",
+    "otter-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

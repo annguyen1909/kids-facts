@@ -1,0 +1,33 @@
+{
+  "id": "lion-core-habitat",
+  "animalSlug": "lion",
+  "slug": "lion-core-habitat",
+  "fileName": "1280px-Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg/1280px-Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg",
+  "width": 1280,
+  "height": 853,
+  "alt": "African lion resting on dry savanna in Tarangire National Park",
+  "caption": "Most lions live in African savannas where grassland supports large prey herds.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Le%C3%B3n_(Panthera_leo),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_99.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le%C3%B3n_(Panthera_leo),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_99.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Tarangire National Park, Tanzania",
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

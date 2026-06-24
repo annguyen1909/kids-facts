@@ -1,4 +1,4 @@
-import type { AnimalImageKind, SupportingPageSlug } from "@/lib/types";
+import type { AnimalImageKind } from "@/lib/types";
 
 export type MdxSection = {
   title: string;
@@ -6,9 +6,8 @@ export type MdxSection = {
 };
 
 export type SectionConfig = {
-  slug?: SupportingPageSlug;
   imageType?: AnimalImageKind;
-  slugIncludes?: string;
+  coreRole?: string;
 };
 
 export function splitMdxSections(source: string): MdxSection[] {
@@ -30,48 +29,65 @@ export function matchSectionConfig(title: string): SectionConfig {
     return { imageType: "hero" };
   }
 
-  if (normalized.includes("where") || normalized.includes("live")) {
-    return { slug: "habitat", imageType: "habitat" };
+  if (normalized.includes("where") || normalized.includes("habitat")) {
+    return { imageType: "habitat", coreRole: "habitat" };
   }
+
   if (normalized.includes("eat") || normalized.includes("diet")) {
-    return { slug: "diet", imageType: "diet", slugIncludes: "eating" };
+    return { imageType: "diet", coreRole: "diet" };
   }
+
   if (
     normalized.includes("together") ||
     normalized.includes("pride") ||
+    normalized.includes("families") ||
+    normalized.includes("family") ||
+    normalized.includes("herd") ||
+    normalized.includes("pods") ||
+    normalized.includes("pod") ||
+    normalized.includes("behave") ||
     normalized.includes("behavior") ||
-    normalized.includes("behave")
+    normalized.includes("communicat") ||
+    (normalized.includes("how do") && !normalized.includes("where"))
   ) {
-    return { slug: "behavior", imageType: "family" };
+    return { imageType: "family", coreRole: "family" };
   }
-  if (normalized.includes("life cycle") || normalized.includes("grow")) {
-    return { slug: "life-cycle", imageType: "baby" };
+
+  if (
+    normalized.includes("life cycle") ||
+    normalized.includes("calves") ||
+    normalized.includes("cubs") ||
+    normalized.includes("bab")
+  ) {
+    return { imageType: "baby", coreRole: "baby" };
   }
+
+  if (
+    normalized.includes("big") ||
+    normalized.includes("fast") ||
+    normalized.includes("size")
+  ) {
+    return { imageType: "closeup", coreRole: "closeup" };
+  }
+
   if (
     normalized.includes("risk") ||
     normalized.includes("threat") ||
-    normalized.includes("conservation")
+    normalized.includes("conservation") ||
+    normalized.includes("at risk")
   ) {
-    return { slug: "predators-and-threats", imageType: "range" };
-  }
-  if (normalized.includes("look") || normalized.includes("adapt")) {
-    return { slug: "adaptations", imageType: "closeup" };
-  }
-  if (normalized.includes("cub") || normalized.includes("bab")) {
-    return { slug: "babies", imageType: "baby" };
+    return { imageType: "range", coreRole: "range" };
   }
 
   return {};
 }
 
-export function getCoreArticleLinkedSlugs(source: string): SupportingPageSlug[] {
-  const [, ...topicSections] = splitMdxSections(source);
+export function coreImageSlugPrefix(animalSlug: string): string {
+  if (animalSlug === "african-elephant") return "elephant";
+  if (animalSlug === "bottlenose-dolphin") return "dolphin";
+  return animalSlug;
+}
 
-  return [
-    ...new Set(
-      topicSections
-        .map((section) => matchSectionConfig(section.title).slug)
-        .filter((slug): slug is SupportingPageSlug => Boolean(slug)),
-    ),
-  ];
+export function coreImageSlug(animalSlug: string, coreRole: string): string {
+  return `${coreImageSlugPrefix(animalSlug)}-core-${coreRole}`;
 }

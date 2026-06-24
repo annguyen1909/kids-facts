@@ -1,0 +1,33 @@
+{
+  "id": "leopard-family",
+  "animalSlug": "leopard",
+  "slug": "leopard-family",
+  "fileName": "Leopards (Panthera pardus), female and cub in tree.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Leopards_%28Panthera_pardus%29%2C_female_and_cub_in_tree.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Mother leopard with cub resting together in a tree",
+  "caption": "A mother leopard raises cubs alone, teaching them to climb and hunt.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African woodland",
+  "acquisitionNotes": "Manually curated leopard family image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopards_(Panthera_pardus)%2C_female_and_cub_in_tree.jpg\">Bernard DUPONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopards_(Panthera_pardus)%2C_female_and_cub_in_tree.jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:52.343Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "parrot-core-diet",
+  "animalSlug": "parrot",
+  "slug": "parrot-core-diet",
+  "fileName": "Scarlet macaw (Ara macao cyanopterus) Copan 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan_2.jpg",
+  "width": 4899,
+  "height": 3267,
+  "alt": "Scarlet macaw eating while gripping a branch",
+  "caption": "They use their feet like hands to hold food while they eat.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Copán, Honduras",
+  "acquisitionNotes": "Core article image curated separately from the parrot gallery set.",
+  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:09.537Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

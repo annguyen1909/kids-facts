@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-core-diet",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-core-diet",
+  "fileName": "Komodo dragon (Varanus komodoensis) (5527963992).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Komodo_dragon_%28Varanus_komodoensis%29_%285527963992%29.jpg",
+  "width": 1250,
+  "height": 1000,
+  "alt": "Komodo dragon approaching food on island ground",
+  "caption": "A Komodo dragon may ambush live prey or find a meal by following the smell of carrion.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Komodo National Park, Indonesia",
+  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Sergei ~ 5of7 via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis)_(5527963992).jpg\">Sergei ~ 5of7</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis)_(5527963992).jpg",
+    "creatorName": "Sergei ~ 5of7",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

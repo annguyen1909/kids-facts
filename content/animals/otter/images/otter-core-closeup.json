@@ -1,0 +1,33 @@
+{
+  "id": "otter-core-closeup",
+  "animalSlug": "otter",
+  "slug": "otter-core-closeup",
+  "fileName": "Enhydra lutris sea otter face photo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Enhydra_lutris_sea_otter_face_photo.jpg",
+  "width": 2100,
+  "height": 1312,
+  "alt": "Sea otter face showing nose whiskers and dense fur",
+  "caption": "Dense fur keeps cold ocean water away from a sea otter's skin.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North Pacific coast",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Menke David, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Enhydra_lutris_sea_otter_face_photo.jpg\">Menke David, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Enhydra_lutris_sea_otter_face_photo.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enhydra_lutris_sea_otter_face_photo.jpg",
+    "creatorName": "Menke David, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Enhydra_lutris_sea_otter_face_photo.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

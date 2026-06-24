@@ -1,0 +1,33 @@
+{
+  "id": "orca-baby",
+  "animalSlug": "orca",
+  "slug": "orca-baby",
+  "fileName": "Orca mother calf.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Orca_mother_calf.JPG",
+  "width": 369,
+  "height": 242,
+  "alt": "Orca calf swimming close beside its mother",
+  "caption": "A young orca stays close to its mother while learning to swim and surface.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated orca calf image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orca_mother_calf.JPG\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Orca_mother_calf.JPG\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orca_mother_calf.JPG",
+    "creatorName": "Unknown creator",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Orca_mother_calf.JPG",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

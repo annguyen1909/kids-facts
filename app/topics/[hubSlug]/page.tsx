@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { HubPage } from "@/components/animals/hub-page";
 import { getAllHubs, resolveHubRoute } from "@/lib/content";
 import { buildHubMetadata } from "@/lib/metadata";
+import { disabledFeatureRobots, siteFeatures } from "@/lib/site-features";
 
 export function generateStaticParams() {
   return getAllHubs()
@@ -17,7 +18,12 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { hubSlug } = await params;
   const resolved = resolveHubRoute("topics", hubSlug);
-  return resolved?.type === "hub" ? buildHubMetadata(resolved.hub) : {};
+  return resolved?.type === "hub"
+    ? {
+        ...buildHubMetadata(resolved.hub),
+        ...(siteFeatures.topics ? {} : { robots: disabledFeatureRobots }),
+      }
+    : {};
 }
 
 export default async function TopicHubPage({ params }: { params: Promise<{ hubSlug: string }> }) {

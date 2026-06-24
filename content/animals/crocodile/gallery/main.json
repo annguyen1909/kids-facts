@@ -1,0 +1,22 @@
+{
+  "id": "crocodile-gallery-main",
+  "animalSlug": "crocodile",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Nile Crocodile Photo Gallery",
+  "metaTitle": "Nile Crocodile Photo Gallery",
+  "metaDescription": "Browse a nile crocodile photo gallery with wildlife photos.",
+  "intro": "Explore nile crocodile photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "crocodile-hero",
+    "crocodile-habitat",
+    "crocodile-diet",
+    "crocodile-baby",
+    "crocodile-family",
+    "crocodile-range",
+    "crocodile-size",
+    "crocodile-closeup",
+    "crocodile-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:51:19.971Z"
+}

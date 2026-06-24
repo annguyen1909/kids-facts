@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-core-range",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-core-range",
+  "fileName": "A ocellaris 2 Sesoko Point 140904 LOWRES.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/A_ocellaris_2_Sesoko_Point_140904_LOWRES.jpg",
+  "width": 1035,
+  "height": 800,
+  "alt": "Ocellaris clownfish on a reef in the western Pacific",
+  "caption": "Reef damage and warming oceans threaten the anemones clownfish depend on.",
+  "attributionText": "Photo by Michael arvedlund at da.wikipedia via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_ocellaris_2_Sesoko_Point_140904_LOWRES.jpg\">Michael arvedlund at da.wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:A_ocellaris_2_Sesoko_Point_140904_LOWRES.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_ocellaris_2_Sesoko_Point_140904_LOWRES.jpg",
+    "creatorName": "Michael arvedlund at da.wikipedia",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:A_ocellaris_2_Sesoko_Point_140904_LOWRES.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sesoko Point, Japan",
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

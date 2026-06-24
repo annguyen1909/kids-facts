@@ -1,0 +1,33 @@
+{
+  "id": "tuna-size",
+  "animalSlug": "tuna",
+  "slug": "tuna-size",
+  "fileName": "Mensuration d'un thon albacore (Thunnus albacares) (Ifremer 00540-65193).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mensuration_d%27un_thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00540-65193%29.jpg",
+  "width": 2000,
+  "height": 3008,
+  "alt": "Yellowfin tuna being measured for length",
+  "caption": "Large yellowfin tuna can grow over 6 feet long and weigh more than 400 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated tuna size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z",
+  "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mensuration_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65193).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mensuration_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65193).jpg",
+    "creatorName": "Marc Taquet",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

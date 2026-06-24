@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-core-closeup",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-core-closeup",
+  "fileName": "Gacela de Thomson (Eudorcas thomsonii), zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 31.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gacela_de_Thomson_%28Eudorcas_thomsonii%29%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_31.jpg",
+  "width": 4634,
+  "height": 4634,
+  "alt": "Gazelle head showing horns eyes and narrow muzzle",
+  "caption": "A gazelle's face is built for alert scanning while it feeds.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Ngorongoro Conservation Area, Tanzania",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_31.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_31.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

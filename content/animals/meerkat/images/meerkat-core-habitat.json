@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-core-habitat",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-core-habitat",
+  "fileName": "Suricatos (Suricata suricatta), parque nacional Makgadikgadi Pans, Botsuana, 2018-07-30, DD 26.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_26.jpg",
+  "width": 6663,
+  "height": 5446,
+  "alt": "Meerkats in dry Botswana grassland habitat",
+  "caption": "Hard, dry soils are ideal for the burrow systems meerkats call home.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Makgadikgadi Pans, Botswana",
+  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set.",
+  "updatedAt": "2026-06-24T09:39:13.126Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta)%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_26.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta)%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_26.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

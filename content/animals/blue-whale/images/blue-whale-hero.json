@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-hero",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-hero",
+  "fileName": "Anim1754 - Flickr - NOAA Photo Library.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+  "width": 2600,
+  "height": 1800,
+  "alt": "Blue whale swimming at the ocean surface with mottled blue-gray skin",
+  "caption": "The blue whale is the largest animal that has ever lived on Earth.",
+  "attributionText": "Photo by NOAA Photo Library via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg\">NOAA Photo Library</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "creatorName": "NOAA Photo Library",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North Pacific Ocean",
+  "acquisitionNotes": "Manually curated blue whale hero image with verified species identification.",
+  "updatedAt": "2026-06-23T09:22:41.408Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zebra-range",
+  "animalSlug": "zebra",
+  "slug": "zebra-range",
+  "fileName": "Cebras de Burchell (Equus quagga burchellii), vista aérea del delta del Okavango, Botsuana, 2018-08-01, DD 30.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cebras_de_Burchell_%28Equus_quagga_burchellii%29%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_30.jpg",
+  "width": 5067,
+  "height": 3274,
+  "alt": "Herd of zebras crossing a broad African floodplain",
+  "caption": "Zebra herds move across wide landscapes to find fresh grass and water.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cebras_de_Burchell_(Equus_quagga_burchellii)%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_30.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cebras_de_Burchell_(Equus_quagga_burchellii)%2C_vista_a%C3%A9rea_del_delta_del_Okavango%2C_Botsuana%2C_2018-08-01%2C_DD_30.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:33.994Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Okavango Delta, Botswana",
+  "acquisitionNotes": "Manually curated zebra range image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:33.994Z"
+}

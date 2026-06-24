@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-core-family",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-core-family",
+  "fileName": "Veiled chameleon Chamaeleo calyptratus Aquarium Berlin Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Veiled_chameleon_Chamaeleo_calyptratus_Aquarium_Berlin_Zoo.jpg",
+  "width": 1334,
+  "height": 1000,
+  "alt": "Veiled chameleon resting on a branch",
+  "caption": "Females lay clutches of eggs in soil or leaf litter on the ground.",
+  "attributionText": "Photo by Kristof Magnusson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Veiled_chameleon_Chamaeleo_calyptratus_Aquarium_Berlin_Zoo.jpg\">Kristof Magnusson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veiled_chameleon_Chamaeleo_calyptratus_Aquarium_Berlin_Zoo.jpg",
+    "creatorName": "Kristof Magnusson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Berlin, Germany",
+  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set.",
+  "updatedAt": "2026-06-24T10:01:20.803Z"
+}

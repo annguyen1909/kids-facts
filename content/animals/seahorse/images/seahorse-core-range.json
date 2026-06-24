@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-core-range",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-core-range",
+  "fileName": "Dwarf Seahorses at the New England Aquarium.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Dwarf_Seahorses_at_the_New_England_Aquarium.jpg",
+  "width": 3024,
+  "height": 4032,
+  "alt": "Seahorses in a seagrass-style aquarium habitat",
+  "caption": "Seahorses are threatened by habitat loss and collection for aquariums.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
+  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "attributionText": "Photo by Camcintire via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dwarf_Seahorses_at_the_New_England_Aquarium.jpg\">Camcintire</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwarf_Seahorses_at_the_New_England_Aquarium.jpg",
+    "creatorName": "Camcintire",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

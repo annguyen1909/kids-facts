@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-baby",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-baby",
+  "fileName": "Hippocampus erectus 301805868.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Hippocampus_erectus_301805868.jpg",
+  "width": 960,
+  "height": 720,
+  "alt": "Small lined seahorse in underwater habitat",
+  "caption": "Baby seahorses are called fry and are tiny when they leave the father's pouch.",
+  "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_301805868.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_301805868.jpg",
+    "creatorName": "Pauline Walsh Jacobson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Manually curated young seahorse image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:05.816Z"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "animal-great-white-shark",
+  "slug": "great-white-shark",
+  "name": "Great White Shark",
+  "commonNames": [
+    "Great white shark",
+    "White shark"
+  ],
+  "scientificName": "Carcharodon carcharias",
+  "summary": "Great white sharks are huge ocean fish with strong jaws, sharp teeth, and excellent senses. They swim through coastal and offshore seas, hunt marine animals, and are among the best-known sharks in the world.",
+  "heroTitle": "Great White Shark Facts",
+  "metaTitle": "Great White Shark Facts | Habitat, Diet, Teeth & Photos",
+  "metaDescription": "Discover great white shark facts with photos, ocean habitat, diet, pups, senses, and conservation. Learn where great white sharks live and how they hunt in the sea.",
+  "searchIntents": [
+    "great white shark facts",
+    "where do great white sharks live",
+    "what do great white sharks eat",
+    "how big is a great white shark",
+    "are great white sharks endangered",
+    "how many teeth does a great white shark have"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Lamniformes",
+    "family": "Lamnidae",
+    "genus": "Carcharodon",
+    "species": "C. carcharias"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "United States",
+    "South Africa",
+    "Australia",
+    "Mexico",
+    "New Zealand"
+  ],
+  "biomes": [
+    "marine"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "seals",
+    "sea lions",
+    "rays",
+    "smaller sharks"
+  ],
+  "lifespan": {
+    "wild": "40 to 70 years"
+  },
+  "size": {
+    "lengthMin": "11 feet",
+    "lengthMax": "20 feet"
+  },
+  "weight": {
+    "min": "1,500 pounds",
+    "max": "5,000 pounds"
+  },
+  "speed": "Up to 35 mph in bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "ocean cruising",
+    "ambush hunting",
+    "surface investigating",
+    "seasonal movement",
+    "wide-ranging travel"
+  ],
+  "adaptations": [
+    "rows of sharp teeth",
+    "strong sense of smell",
+    "electroreception",
+    "streamlined body",
+    "powerful tail"
+  ],
+  "predators": [
+    "larger orcas",
+    "humans"
+  ],
+  "prey": [
+    "fish",
+    "seals",
+    "sea lions",
+    "rays"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "Probably about 12 months",
+    "offspringCount": "2 to 10 pups"
+  },
+  "funFacts": [
+    "Great white sharks can replace lost teeth again and again.",
+    "They can sense tiny electrical signals made by other animals.",
+    "A great white shark is a fish, not a mammal.",
+    "Young great whites usually eat more fish than adults do.",
+    "Great white sharks can travel long distances across the ocean.",
+    "Their dark top and pale belly help them blend into ocean water."
+  ],
+  "faq": [
+    {
+      "question": "What is a great white shark?",
+      "answer": "A great white shark is a large ocean fish with a strong body, rows of sharp teeth, and excellent senses for hunting."
+    },
+    {
+      "question": "Where do great white sharks live?",
+      "answer": "Great white sharks live in coastal and offshore oceans around the world, especially in temperate seas."
+    },
+    {
+      "question": "What do great white sharks eat?",
+      "answer": "They are carnivores that eat fish, rays, seals, sea lions, and other marine animals."
+    },
+    {
+      "question": "Are great white sharks fish or mammals?",
+      "answer": "They are fish. Great white sharks breathe through gills and do not feed milk to their young."
+    },
+    {
+      "question": "How big is a great white shark?",
+      "answer": "Adults can grow to about 11 to 20 feet long, and some weigh several thousand pounds."
+    },
+    {
+      "question": "What is a baby great white shark called?",
+      "answer": "A baby great white shark is called a pup. Pups can swim and hunt on their own soon after birth."
+    },
+    {
+      "question": "Are great white sharks endangered?",
+      "answer": "Great white sharks are listed as Vulnerable, so they need protection from overfishing and accidental capture."
+    },
+    {
+      "question": "How do great white sharks find prey?",
+      "answer": "They use smell, hearing, eyesight, and special sensors that can detect electrical signals from nearby animals."
+    }
+  ],
+  "relatedAnimals": [
+    "orca",
+    "bottlenose-dolphin",
+    "otter"
+  ],
+  "comparisonCandidates": [
+    "orca"
+  ],
+  "galleryIds": [
+    "great-white-shark-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "ocean"
+}

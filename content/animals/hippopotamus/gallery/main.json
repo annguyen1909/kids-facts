@@ -1,0 +1,22 @@
+{
+  "id": "hippopotamus-gallery-main",
+  "animalSlug": "hippopotamus",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Hippopotamus Photo Gallery",
+  "metaTitle": "Hippopotamus Photo Gallery",
+  "metaDescription": "Browse a hippopotamus photo gallery with wildlife photos.",
+  "intro": "Explore hippopotamus photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "hippopotamus-hero",
+    "hippopotamus-habitat",
+    "hippopotamus-diet",
+    "hippopotamus-baby",
+    "hippopotamus-family",
+    "hippopotamus-range",
+    "hippopotamus-size",
+    "hippopotamus-closeup",
+    "hippopotamus-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T07:58:33.277Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sloth-core-habitat",
+  "animalSlug": "sloth",
+  "slug": "sloth-core-habitat",
+  "fileName": "Brown-throated sloth (Bradypus variegatus) female 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brown-throated_sloth_%28Bradypus_variegatus%29_female_2.jpg",
+  "width": 4743,
+  "height": 3162,
+  "alt": "Sloth resting among rainforest tree branches",
+  "caption": "Rainforest canopy trees give sloths food, shade, and hiding places from predators.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Core article image curated separately from the sloth gallery set.",
+  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown-throated_sloth_(Bradypus_variegatus)_female_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown-throated_sloth_(Bradypus_variegatus)_female_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

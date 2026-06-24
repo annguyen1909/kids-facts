@@ -1,0 +1,33 @@
+{
+  "id": "owl-baby",
+  "animalSlug": "owl",
+  "slug": "owl-baby",
+  "fileName": "Great horned owl chick 3w.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Great_horned_owl_chick_3w.jpg",
+  "width": 2500,
+  "height": 1666,
+  "alt": "Fluffy great horned owl chick in a nest",
+  "caption": "Owl chicks hatch helpless and depend on parents for warmth and food.",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_3w.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_3w.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_3w.jpg",
+    "creatorName": "Unknown creator",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chick_3w.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated owl chick image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z"
+}

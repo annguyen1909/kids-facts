@@ -155,7 +155,7 @@ export function buildReferenceSummary(
     `[Draft from reference sources — editorial review required] ${commonName} (${binomial})`;
 
   if (!wikipediaExtract) {
-    return `${prefix}. Replace this summary with kid-friendly editorial content.`;
+    return `${prefix}. Replace this summary with clear, accessible editorial content.`;
   }
 
   const trimmed = wikipediaExtract.replace(/\s+/g, " ").trim();
@@ -208,7 +208,7 @@ export function normalizeGbifSpecies(input: {
     classificationLabels: buildClassificationLabels(input.gbif),
     countries,
     continents: continents.length > 0 ? continents : ["Global distribution — verify editorially"],
-    habitats: ["habitat-pending-editorial-review"],
+    habitat: "savanna",
     biomes: ["biome-pending-editorial-review"],
     referenceSummary: buildReferenceSummary(commonName, scientificName, input.wikipediaExtract),
     imageByType: {},

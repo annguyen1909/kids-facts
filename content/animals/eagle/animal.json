@@ -1,0 +1,169 @@
+{
+  "id": "animal-eagle",
+  "slug": "eagle",
+  "name": "Eagle",
+  "commonNames": [
+    "Eagle",
+    "Bald Eagle",
+    "American Eagle",
+    "American Bald Eagle"
+  ],
+  "scientificName": "Haliaeetus leucocephalus",
+  "summary": "Eagles are powerful birds of prey with sharp eyesight, hooked beaks, and strong talons. The bald eagle lives across North America near lakes and coasts, hunts fish and birds, and builds huge nests in tall trees.",
+  "heroTitle": "Eagle Facts",
+  "metaTitle": "Eagle Facts | Habitat, Diet, Flight & Photos",
+  "metaDescription": "Discover eagle facts with photos, North American habitat, hunting diet, eaglet life, and conservation. Learn where eagles live, what they eat, and how fast they fly.",
+  "searchIntents": [
+    "eagle facts",
+    "what do eagles eat",
+    "where do eagles live",
+    "how big is an eagle",
+    "how fast can an eagle fly",
+    "are bald eagles endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Haliaeetus",
+    "species": "H. leucocephalus"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "raptor"
+  ],
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico"
+  ],
+  "biomes": [
+    "temperate forest",
+    "coastal",
+    "freshwater"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "waterfowl",
+    "carrion",
+    "small mammals",
+    "crustaceans"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years",
+    "captivity": "Up to 40 years in human care"
+  },
+  "size": {
+    "lengthMin": "2.5 feet",
+    "lengthMax": "3.5 feet",
+    "heightMin": "2.5 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "6 pounds",
+    "max": "14 pounds"
+  },
+  "speed": "Up to 100 mph in a hunting dive",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "soaring flight",
+    "pair bonding",
+    "nest building",
+    "territory defense",
+    "scavenging"
+  ],
+  "adaptations": [
+    "keen eyesight",
+    "hooked beak",
+    "powerful talons",
+    "broad wings",
+    "diving speed"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "fish",
+    "ducks",
+    "gulls",
+    "rabbits",
+    "carrion"
+  ],
+  "reproduction": {
+    "offspringName": "eaglet",
+    "gestationOrIncubation": "About 35 days",
+    "offspringCount": "Usually 1 to 3 eggs"
+  },
+  "funFacts": [
+    "A bald eagle is not really bald—it has white feathers on its head.",
+    "Eagle nests can weigh more than a ton and grow larger every year.",
+    "An eagle can spot a fish from hundreds of feet above the water.",
+    "When diving for prey, a bald eagle can reach speeds near 100 mph.",
+    "Eagles have hollow bones that make their bodies lighter for flight.",
+    "Young eagles are mostly brown and do not get a white head until about age five."
+  ],
+  "faq": [
+    {
+      "question": "What is an eagle?",
+      "answer": "An eagle is a large bird of prey with sharp vision, a hooked beak, and strong talons. The bald eagle is the national bird of the United States."
+    },
+    {
+      "question": "Where do eagles live?",
+      "answer": "Bald eagles live across North America near lakes, rivers, coasts, and wetlands. They need open water where they can find fish and other prey."
+    },
+    {
+      "question": "What do eagles eat?",
+      "answer": "Eagles are carnivores that eat fish, waterfowl, small mammals, and carrion. Fish is a favorite food for bald eagles."
+    },
+    {
+      "question": "Why is it called a bald eagle?",
+      "answer": "The word bald once meant white or patchy white. Adult bald eagles have a white head and tail, which gave them the name."
+    },
+    {
+      "question": "How fast can an eagle fly?",
+      "answer": "Eagles usually soar at moderate speeds, but when diving for prey a bald eagle can reach about 100 mph."
+    },
+    {
+      "question": "What is a baby eagle called?",
+      "answer": "A baby eagle is called an eaglet. Eaglets hatch from eggs and stay in the nest while parents bring food."
+    },
+    {
+      "question": "How big is an eagle?",
+      "answer": "An adult bald eagle can have a wingspan of about 6 to 7.5 feet. Females are usually larger than males."
+    },
+    {
+      "question": "Are bald eagles endangered?",
+      "answer": "Bald eagles were once endangered in the United States, but protection laws helped them recover. They are now listed as Least Concern."
+    },
+    {
+      "question": "Do eagles live in groups?",
+      "answer": "Adult eagles usually live in pairs, not large flocks. A mated pair may defend a territory and raise chicks together."
+    },
+    {
+      "question": "How do eagles hunt?",
+      "answer": "Eagles watch from high perches or while soaring, then swoop down to grab prey with their talons. They often hunt near water for fish."
+    }
+  ],
+  "relatedAnimals": [
+    "penguin",
+    "otter",
+    "great-white-shark"
+  ],
+  "comparisonCandidates": [
+    "penguin"
+  ],
+  "galleryIds": [
+    "eagle-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "forest"
+}

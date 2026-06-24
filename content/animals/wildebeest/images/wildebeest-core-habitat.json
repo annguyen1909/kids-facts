@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-core-habitat",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-core-habitat",
+  "fileName": "040 Blue wildebeest with wattled starlings in the Serengeti National Park Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/040_Blue_wildebeest_with_wattled_starlings_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "width": 7471,
+  "height": 4981,
+  "alt": "Blue wildebeest on the Serengeti plains with birds nearby",
+  "caption": "The Serengeti and Mara ecosystems support huge wildebeest herds.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Serengeti, Tanzania",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:040_Blue_wildebeest_with_wattled_starlings_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:040_Blue_wildebeest_with_wattled_starlings_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

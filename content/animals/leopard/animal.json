@@ -1,0 +1,169 @@
+{
+  "id": "animal-leopard",
+  "slug": "leopard",
+  "name": "Leopard",
+  "commonNames": [
+    "Leopard",
+    "African Leopard",
+    "Indian Leopard",
+    "Common Leopard"
+  ],
+  "scientificName": "Panthera pardus",
+  "summary": "Leopards are spotted wild cats that hunt alone across Africa and Asia. They climb trees, drag prey into branches, and are famous for their golden coats and black rosette spots.",
+  "heroTitle": "Leopard Facts",
+  "metaTitle": "Leopard Facts | Habitat, Diet, Spots & Photos",
+  "metaDescription": "Discover leopard facts with photos, forest habitat, hunting diet, cub life, and conservation. Learn where leopards live, what they eat, and why they climb trees.",
+  "searchIntents": [
+    "leopard facts",
+    "what do leopards eat",
+    "where do leopards live",
+    "how big is a leopard",
+    "are leopards endangered",
+    "why do leopards climb trees"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "species": "P. pardus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "South Africa",
+    "Kenya",
+    "Tanzania",
+    "Botswana",
+    "India",
+    "Nepal",
+    "Sri Lanka",
+    "Namibia",
+    "Zambia",
+    "Uganda"
+  ],
+  "biomes": [
+    "tropical forest",
+    "savanna",
+    "temperate forest",
+    "mountain"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "antelope",
+    "deer",
+    "wild pig",
+    "monkeys",
+    "birds",
+    "rodents"
+  ],
+  "lifespan": {
+    "wild": "12 to 17 years",
+    "captivity": "Up to 23 years in zoos"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "6.2 feet",
+    "heightMin": "2 feet",
+    "heightMax": "2.5 feet"
+  },
+  "weight": {
+    "min": "66 pounds",
+    "max": "176 pounds"
+  },
+  "speed": "Up to 36 mph in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary living",
+    "ambush hunting",
+    "tree climbing",
+    "scent marking",
+    "nocturnal activity"
+  ],
+  "adaptations": [
+    "spotted camouflage",
+    "retractable claws",
+    "powerful jaws",
+    "excellent night vision",
+    "strong climbing ability"
+  ],
+  "predators": [
+    "lions",
+    "hyenas",
+    "humans"
+  ],
+  "prey": [
+    "antelope",
+    "deer",
+    "wild pig",
+    "monkeys",
+    "birds"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 90 to 105 days",
+    "offspringCount": "Usually 2 to 4 cubs"
+  },
+  "funFacts": [
+    "Every leopard has a unique spot pattern—like a fingerprint.",
+    "Leopards can drag prey heavier than themselves high into trees.",
+    "Black leopards still have spots—you can see them in bright light.",
+    "Leopards are strong swimmers and sometimes hunt near water.",
+    "A leopard's tail helps it balance when climbing and leaping.",
+    "Leopard cubs stay with their mother for about two years."
+  ],
+  "faq": [
+    {
+      "question": "What is a leopard?",
+      "answer": "A leopard is a spotted wild cat in the same genus as lions and tigers. Leopards live across Africa and parts of Asia and hunt alone."
+    },
+    {
+      "question": "Where do leopards live?",
+      "answer": "Leopards live in forests, woodlands, savannas, and mountains from sub-Saharan Africa to India and Southeast Asia."
+    },
+    {
+      "question": "What do leopards eat?",
+      "answer": "Leopards are carnivores that eat antelope, deer, wild pigs, monkeys, and other animals they can catch."
+    },
+    {
+      "question": "Are leopards endangered?",
+      "answer": "Leopards are listed as Vulnerable. Habitat loss, fewer prey animals, and conflict with people threaten many populations."
+    },
+    {
+      "question": "Do leopards live in groups?",
+      "answer": "Adult leopards usually live alone. Mothers raise cubs until the young cats can hunt on their own."
+    },
+    {
+      "question": "Why do leopards climb trees?",
+      "answer": "Trees give leopards a safe place to rest, watch for prey, and store food away from lions and hyenas."
+    },
+    {
+      "question": "How is a leopard different from a cheetah?",
+      "answer": "Leopards are heavier, stronger climbers, and have rosette spots instead of solid black dots. Cheetahs are built for speed on open ground."
+    }
+  ],
+  "relatedAnimals": [
+    "tiger",
+    "lion",
+    "cheetah"
+  ],
+  "comparisonCandidates": [
+    "tiger"
+  ],
+  "galleryIds": [
+    "leopard-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T08:00:00.000Z",
+  "publishedAt": "2026-06-24T08:00:00.000Z",
+  "habitat": "forest"
+}

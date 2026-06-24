@@ -1,0 +1,22 @@
+{
+  "id": "angelfish-gallery-main",
+  "animalSlug": "angelfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Emperor Angelfish Photo Gallery",
+  "metaTitle": "Emperor Angelfish Photo Gallery",
+  "metaDescription": "Browse a emperor angelfish photo gallery with wildlife photos.",
+  "intro": "Explore emperor angelfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "angelfish-hero",
+    "angelfish-habitat",
+    "angelfish-diet",
+    "angelfish-baby",
+    "angelfish-family",
+    "angelfish-range",
+    "angelfish-size",
+    "angelfish-closeup",
+    "angelfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T10:34:40.222Z"
+}

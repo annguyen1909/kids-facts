@@ -1,0 +1,33 @@
+{
+  "id": "eagle-core-family",
+  "animalSlug": "eagle",
+  "slug": "eagle-core-family",
+  "fileName": "At the Six Mile Lake Eagles nest...Bald Eagle (Haliaeetus leucocephalus)... (27680807753).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/At_the_Six_Mile_Lake_Eagles_nest...Bald_Eagle_%28Haliaeetus_leucocephalus%29..._%2827680807753%29.jpg",
+  "width": 2996,
+  "height": 2094,
+  "alt": "Adult bald eagle at a nest with chicks in a tree",
+  "caption": "Both eagle parents bring food to the nest and guard their young.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Six Mile Lake, Canada",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Murray Foubister via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:At_the_Six_Mile_Lake_Eagles_nest...Bald_Eagle_(Haliaeetus_leucocephalus)..._(27680807753).jpg\">Murray Foubister</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_the_Six_Mile_Lake_Eagles_nest...Bald_Eagle_(Haliaeetus_leucocephalus)..._(27680807753).jpg",
+    "creatorName": "Murray Foubister",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

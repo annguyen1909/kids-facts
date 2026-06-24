@@ -2,17 +2,32 @@
   "id": "dolphin-hero",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-hero",
-  "fileName": "bottlenose-dolphin-jumping-ocean.webp",
-  "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1400&q=80",
-  "width": 1400,
-  "height": 933,
-  "alt": "Bottlenose dolphin leaping from blue ocean water",
-  "caption": "Dolphins surface to breathe before diving again.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+  "width": 3628,
+  "height": 2419,
+  "alt": "Bottlenose dolphin leaping above the ocean surface",
+  "caption": "Dolphins leap out of the water to breathe through the blowhole on top of their heads.",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:010_Atlantic_bottlenose_dolphin_jumping_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.225Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "hero",
-  "galleryTopics": ["hero", "habitat"],
-  "featuredOnPages": ["core", "gallery", "habitat"],
-  "location": "Ocean",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pelican Point, Namibia",
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.225Z"
 }

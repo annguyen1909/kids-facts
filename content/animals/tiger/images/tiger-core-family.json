@@ -1,0 +1,33 @@
+{
+  "id": "tiger-core-family",
+  "animalSlug": "tiger",
+  "slug": "tiger-core-family",
+  "fileName": "Siberian_Tiger_Mom_with_Cub_(30547501491).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Siberian_Tiger_Mom_with_Cub_%2830547501491%29.jpg",
+  "width": 4351,
+  "height": 2882,
+  "alt": "Mother tiger resting with her cub nearby",
+  "caption": "A mother tiger raises and protects her cubs on her own until they can hunt.",
+  "attributionText": "Photo by Mathias Appel via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Siberian_Tiger_Mom_with_Cub_(30547501491).jpg\">Mathias Appel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siberian_Tiger_Mom_with_Cub_(30547501491).jpg",
+    "creatorName": "Mathias Appel",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-22T12:00:00.000Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Core article family image — mother tiger with cub, separate from gallery set.",
+  "updatedAt": "2026-06-22T12:00:00.000Z"
+}

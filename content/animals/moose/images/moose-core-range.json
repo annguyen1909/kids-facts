@@ -1,0 +1,33 @@
+{
+  "id": "moose-core-range",
+  "animalSlug": "moose",
+  "slug": "moose-core-range",
+  "fileName": "Western moose in the Bowron Slough (DSCF4301).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Western_moose_in_the_Bowron_Slough_%28DSCF4301%29.jpg",
+  "width": 4800,
+  "height": 2349,
+  "alt": "Moose in wetland habitat at the edge of its range",
+  "caption": "Climate change, habitat loss, and vehicle collisions threaten moose in some regions.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "British Columbia, Canada",
+  "acquisitionNotes": "Core article image curated separately from the moose gallery set.",
+  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "attributionText": "Photo by Trougnouf via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_moose_in_the_Bowron_Slough_(DSCF4301).jpg\">Trougnouf</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_moose_in_the_Bowron_Slough_(DSCF4301).jpg",
+    "creatorName": "Trougnouf",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:11.790Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

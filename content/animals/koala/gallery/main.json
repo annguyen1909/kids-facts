@@ -1,0 +1,22 @@
+{
+  "id": "koala-gallery-main",
+  "animalSlug": "koala",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Koala Photo Gallery",
+  "metaTitle": "Koala Photo Gallery",
+  "metaDescription": "Browse a koala photo gallery with wildlife photos.",
+  "intro": "Explore koala photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "koala-hero",
+    "koala-habitat",
+    "koala-diet",
+    "koala-baby",
+    "koala-family",
+    "koala-range",
+    "koala-size",
+    "koala-closeup",
+    "koala-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:16:41.597Z"
+}

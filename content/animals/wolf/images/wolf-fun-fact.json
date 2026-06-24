@@ -1,0 +1,33 @@
+{
+  "id": "wolf-fun-fact",
+  "animalSlug": "wolf",
+  "slug": "wolf-fun-fact",
+  "fileName": "Howling wolf 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Howling_wolf_1.jpg",
+  "width": 4496,
+  "height": 2997,
+  "alt": "Wolf howling with head raised toward the sky",
+  "caption": "Wolves howl to communicate with pack members across long distances.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually curated wolf fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by Kikimora mashenka via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Howling_wolf_1.jpg\">Kikimora mashenka</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Howling_wolf_1.jpg",
+    "creatorName": "Kikimora mashenka",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

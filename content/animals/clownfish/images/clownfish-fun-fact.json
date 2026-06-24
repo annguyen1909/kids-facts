@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-fun-fact",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-fun-fact",
+  "fileName": "Pez payaso común (Amphiprion ocellaris) en una anémona magnífica (Heteractis magnifica), Anilao, Filipinas, 2023-08-21, DD 51.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pez_payaso_com%C3%BAn_%28Amphiprion_ocellaris%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_51.jpg",
+  "width": 5792,
+  "height": 5792,
+  "alt": "Clownfish peeking out from colorful anemone tentacles",
+  "caption": "All clownfish are born male, and the largest fish in a group becomes the female.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica)%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_51.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica)%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_51.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Manually curated clownfish fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

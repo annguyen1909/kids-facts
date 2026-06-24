@@ -1,0 +1,158 @@
+{
+  "id": "animal-sea-turtle",
+  "slug": "sea-turtle",
+  "name": "Sea Turtle",
+  "commonNames": [
+    "Sea Turtle",
+    "Green Sea Turtle",
+    "Green Turtle"
+  ],
+  "scientificName": "Chelonia mydas",
+  "summary": "Green sea turtles are large ocean reptiles with paddle-shaped flippers and hard shells. They graze on seagrass, migrate across warm seas, and hatch from sandy beaches.",
+  "heroTitle": "Sea Turtle Facts",
+  "metaTitle": "Sea Turtle Facts | Ocean Habitat, Diet & Photos",
+  "metaDescription": "Discover green sea turtle facts with photos, reef habitat, seagrass diet, hatchling life, and conservation. Learn where sea turtles live and why they are endangered.",
+  "searchIntents": [
+    "sea turtle facts",
+    "green sea turtle facts",
+    "what do sea turtles eat",
+    "where do sea turtles live",
+    "are sea turtles endangered",
+    "how long do sea turtles live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Cheloniidae",
+    "genus": "Chelonia",
+    "species": "C. mydas"
+  },
+  "classificationLabels": [
+    "reptile"
+  ],
+  "continents": [
+    "North America",
+    "South America",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe"
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Australia",
+    "Indonesia",
+    "Costa Rica",
+    "Brazil",
+    "Hawaii",
+    "Philippines"
+  ],
+  "biomes": [
+    "coral reef",
+    "seagrass meadow",
+    "tropical ocean"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "seagrass",
+    "algae",
+    "seaweed"
+  ],
+  "lifespan": {
+    "wild": "60 to 70 years or more",
+    "captivity": "Up to 80 years in human care"
+  },
+  "size": {
+    "lengthMin": "2.5 feet",
+    "lengthMax": "4 feet",
+    "heightMin": "2 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "150 pounds",
+    "max": "350 pounds"
+  },
+  "speed": "Up to 20 mph swimming in short bursts",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "ocean migration",
+    "beach nesting",
+    "seagrass grazing",
+    "basking",
+    "long dives"
+  ],
+  "adaptations": [
+    "flipper-shaped limbs",
+    "streamlined shell",
+    "salt gland excretion",
+    "strong jaws for plants",
+    "long-distance swimming"
+  ],
+  "predators": [
+    "sharks",
+    "humans"
+  ],
+  "prey": [
+    "seagrass",
+    "algae"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "Eggs incubate in sand for about 45 to 70 days",
+    "offspringCount": "Usually 100 to 200 eggs per nest"
+  },
+  "funFacts": [
+    "Green sea turtles are named for the green color of their body fat, not their shell.",
+    "Females often return to the same beach where they hatched to lay eggs.",
+    "Sea turtles breathe air but can stay underwater for hours while resting.",
+    "Hatchlings are tiny but must reach the ocean quickly to survive.",
+    "A sea turtle shell is called a carapace on top and a plastron underneath.",
+    "Green sea turtles can migrate across entire ocean basins."
+  ],
+  "faq": [
+    {
+      "question": "What is a sea turtle?",
+      "answer": "A sea turtle is a reptile that lives in the ocean. This page focuses on the green sea turtle, which grazes on seagrass and algae."
+    },
+    {
+      "question": "Where do sea turtles live?",
+      "answer": "Green sea turtles live in warm coastal oceans around the world, including reefs, bays, and seagrass meadows."
+    },
+    {
+      "question": "What do sea turtles eat?",
+      "answer": "Adult green sea turtles mainly eat seagrass and algae. Young turtles may eat more small animals early in life."
+    },
+    {
+      "question": "Are sea turtles endangered?",
+      "answer": "Green sea turtles are listed as Endangered because of fishing nets, plastic pollution, boat strikes, and habitat loss."
+    },
+    {
+      "question": "How do sea turtles breathe?",
+      "answer": "Sea turtles breathe air with lungs and must surface to breathe, though they can stay underwater for long periods while resting."
+    },
+    {
+      "question": "Why do sea turtles come onto beaches?",
+      "answer": "Females come ashore to dig nests and lay eggs in the sand. Hatchlings then crawl to the ocean after hatching."
+    },
+    {
+      "question": "How long do sea turtles live?",
+      "answer": "Green sea turtles can live for several decades, and some may survive more than 70 years."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "blue-whale",
+    "bottlenose-dolphin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "sea-turtle-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

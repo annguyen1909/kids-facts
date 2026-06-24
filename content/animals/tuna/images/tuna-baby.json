@@ -1,0 +1,33 @@
+{
+  "id": "tuna-baby",
+  "animalSlug": "tuna",
+  "slug": "tuna-baby",
+  "fileName": "Thon albacore (Thunnus albacares) (Ifremer 00764-87616).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00764-87616%29.jpg",
+  "width": 3648,
+  "height": 2736,
+  "alt": "Young yellowfin tuna in research setting",
+  "caption": "Young tuna grow quickly in the open ocean after hatching from eggs.",
+  "attributionText": "Photo by Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France) via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thon_albacore_(Thunnus_albacares)_(Ifremer_00764-87616).jpg\">Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thon_albacore_(Thunnus_albacares)_(Ifremer_00764-87616).jpg",
+    "creatorName": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated young tuna image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z"
+}

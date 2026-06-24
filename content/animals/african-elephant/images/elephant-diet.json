@@ -2,17 +2,33 @@
   "id": "elephant-diet",
   "animalSlug": "african-elephant",
   "slug": "elephant-diet",
-  "fileName": "african-elephant-trunk-feeding.webp",
-  "src": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
-  "width": 1200,
-  "height": 800,
-  "alt": "African elephant using its trunk to gather food",
-  "caption": "The trunk acts like a hand when an elephant feeds.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/African_bush_elephant_%28Loxodonta_africana%29_drinking_Kruger.jpg",
+  "width": 4642,
+  "height": 3094,
+  "alt": "African bush elephant drinking water with its trunk in Kruger National Park",
+  "caption": "An elephant's trunk works like a hose and a hand when it drinks and feeds.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.191Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "diet",
-  "galleryTopics": ["diet", "closeup"],
-  "featuredOnPages": ["gallery", "diet"],
-  "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "galleryTopics": [
+    "diet",
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kruger National Park, South Africa",
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.191Z"
 }

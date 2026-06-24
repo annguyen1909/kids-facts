@@ -1,16 +1,16 @@
-import { getAllAnimals } from "@/lib/content";
+import { getPublishedAnimals } from "@/lib/content";
 import { siteConfig } from "@/lib/site-config";
 import { escapeXml } from "@/lib/xml";
 
 export function GET() {
-  const latestUpdated = getAllAnimals()
+  const latestUpdated = getPublishedAnimals()
     .map((animal) => animal.core.updatedAt)
     .sort()
     .at(-1);
-  const items = getAllAnimals()
+  const items = getPublishedAnimals()
     .map(
       (animal) => `<item>
-  <title>${escapeXml(animal.core.name)} Facts for Kids</title>
+  <title>${escapeXml(animal.core.name)} — Animal Facts</title>
   <link>${escapeXml(siteConfig.url)}/animals/${escapeXml(animal.core.slug)}</link>
   <guid>${escapeXml(siteConfig.url)}/animals/${escapeXml(animal.core.slug)}</guid>
   <pubDate>${new Date(animal.core.publishedAt).toUTCString()}</pubDate>

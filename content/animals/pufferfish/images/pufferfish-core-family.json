@@ -1,0 +1,33 @@
+{
+  "id": "pufferfish-core-family",
+  "animalSlug": "pufferfish",
+  "slug": "pufferfish-core-family",
+  "fileName": "Arothron meleagris by NPS.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Arothron_meleagris_by_NPS.jpg",
+  "width": 504,
+  "height": 326,
+  "alt": "Guinea fowl pufferfish swimming in clear reef water",
+  "caption": "Some pufferfish can change color between lighter and darker patterns.",
+  "attributionText": "Photo by NPS photo - Bryan Harry via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS.jpg\">NPS photo - Bryan Harry</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS.jpg",
+    "creatorName": "NPS photo - Bryan Harry",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T10:01:10.621Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set.",
+  "updatedAt": "2026-06-24T10:01:10.621Z"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "animal-pufferfish",
+  "slug": "pufferfish",
+  "name": "Pufferfish",
+  "commonNames": [
+    "Pufferfish",
+    "Guinea Fowl Puffer",
+    "Guineafowl Pufferfish"
+  ],
+  "scientificName": "Arothron meleagris",
+  "summary": "Guinea fowl pufferfish are round reef fish with white spots that can puff up like a balloon and defend themselves with powerful toxins.",
+  "heroTitle": "Pufferfish Facts",
+  "metaTitle": "Pufferfish Facts | Reef Habitat, Diet & Photos",
+  "metaDescription": "Discover guinea fowl pufferfish facts with photos, coral reef habitat, diet, puffing defense, and toxins. Learn where pufferfish live and how they protect themselves.",
+  "searchIntents": [
+    "pufferfish facts",
+    "what do pufferfish eat",
+    "where do pufferfish live",
+    "why do pufferfish puff up",
+    "are pufferfish poisonous",
+    "are pufferfish fish"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Tetraodontidae",
+    "genus": "Arothron",
+    "species": "A. meleagris"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "North America",
+    "South America",
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "Mexico",
+    "Ecuador",
+    "Indonesia",
+    "Philippines",
+    "Japan"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "algae",
+    "sponges",
+    "small invertebrates",
+    "mollusks"
+  ],
+  "lifespan": {
+    "wild": "10 years or more",
+    "captivity": "Up to 10 years in aquariums"
+  },
+  "size": {
+    "lengthMin": "8 inches",
+    "lengthMax": "12 inches"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "4 pounds"
+  },
+  "speed": "Slow swimmer with sudden escape bursts",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "puffing defense",
+    "reef foraging",
+    "solitary living",
+    "color change",
+    "territory patrolling"
+  ],
+  "adaptations": [
+    "inflatable body",
+    "beak-like teeth",
+    "skin toxins",
+    "camouflage spots",
+    "tough skin"
+  ],
+  "predators": [
+    "sharks",
+    "larger fish",
+    "humans"
+  ],
+  "prey": [
+    "sponges",
+    "invertebrates",
+    "algae"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Eggs hatch in open water",
+    "offspringCount": "Many tiny eggs"
+  },
+  "funFacts": [
+    "Pufferfish can swallow water or air to puff into a spiky ball.",
+    "Many pufferfish carry toxins that make them dangerous to eat.",
+    "Their teeth are fused into a beak for crunching hard foods.",
+    "Guinea fowl pufferfish can change between darker and lighter colors.",
+    "Pufferfish are also called blowfish or toadfish by some people.",
+    "They move slowly unless startled."
+  ],
+  "faq": [
+    {
+      "question": "What is a pufferfish?",
+      "answer": "A pufferfish is a reef fish with a rounded body that can inflate when threatened."
+    },
+    {
+      "question": "Why do pufferfish puff up?",
+      "answer": "Pufferfish puff up to look too large for predators to swallow easily."
+    },
+    {
+      "question": "Are pufferfish poisonous?",
+      "answer": "Many pufferfish contain strong toxins in their skin and organs. They should never be eaten unless prepared by trained experts."
+    },
+    {
+      "question": "Where do pufferfish live?",
+      "answer": "Guinea fowl pufferfish live on coral reefs in the Pacific and Indian oceans, including Mexico and the Galápagos."
+    },
+    {
+      "question": "What do pufferfish eat?",
+      "answer": "They eat algae, sponges, and small invertebrates found on reefs."
+    },
+    {
+      "question": "Are pufferfish real fish?",
+      "answer": "Yes. Pufferfish are fish with fins and gills, even though they can inflate like a balloon."
+    },
+    {
+      "question": "Are pufferfish endangered?",
+      "answer": "Guinea fowl pufferfish are listed as Least Concern, but reef damage threatens many reef animals."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "seahorse",
+    "great-white-shark"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "pufferfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

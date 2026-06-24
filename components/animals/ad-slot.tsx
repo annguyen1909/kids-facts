@@ -1,7 +1,25 @@
+import { AdSenseUnit } from "@/components/ads/adsense-unit";
 import { siteConfig } from "@/lib/site-config";
 
-export function AdSlot({ label }: { label: string }) {
+export function AdSlot({
+  label,
+  slot = siteConfig.adsenseSlotAnimal,
+}: {
+  label: string;
+  slot?: string;
+}) {
   if (!siteConfig.adsEnabled) return null;
+
+  if (siteConfig.adsenseClientId && slot) {
+    return (
+      <aside
+        aria-label={`${label} advertisement`}
+        className="overflow-hidden rounded-[1.25rem] border border-[var(--line)] bg-white px-3 py-4 shadow-[var(--shadow)]"
+      >
+        <AdSenseUnit slot={slot} className="min-h-32" />
+      </aside>
+    );
+  }
 
   return (
     <aside

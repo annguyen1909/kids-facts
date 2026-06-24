@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-size",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-size",
+  "fileName": "Giraffa camelopardalis angolensis.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Giraffa_camelopardalis_angolensis.jpg",
+  "width": 2412,
+  "height": 3216,
+  "alt": "Full-body giraffe showing long neck and towering legs",
+  "caption": "A giraffe's long neck and legs help it reach food high above the ground.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Etosha, Namibia",
+  "acquisitionNotes": "Manually curated giraffe size image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_angolensis.jpg\">Hans Hillewaert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_angolensis.jpg",
+    "creatorName": "Hans Hillewaert",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-fun-fact",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-fun-fact",
+  "fileName": "White Rhinoceros Protect 2019-07-27.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/White_Rhinoceros_Protect_2019-07-27.jpg",
+  "width": 3812,
+  "height": 2541,
+  "alt": "White rhinoceros standing alert in open habitat",
+  "caption": "Despite their size, white rhinos can run faster than 30 mph in short bursts.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated rhinoceros fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Axel Tschentscher via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_Protect_2019-07-27.jpg\">Axel Tschentscher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Rhinoceros_Protect_2019-07-27.jpg",
+    "creatorName": "Axel Tschentscher",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

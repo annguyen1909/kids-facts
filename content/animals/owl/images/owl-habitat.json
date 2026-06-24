@@ -1,0 +1,33 @@
+{
+  "id": "owl-habitat",
+  "animalSlug": "owl",
+  "slug": "owl-habitat",
+  "fileName": "004 Great horned owl under a Pink Ipê tree in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "width": 4588,
+  "height": 3059,
+  "alt": "Great horned owl perched in a tree in forest habitat",
+  "caption": "Owls live in forests, woodlands, deserts, and even city parks across the Americas.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Encontro das Águas State Park, Brazil",
+  "acquisitionNotes": "Manually curated owl habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:004_Great_horned_owl_under_a_Pink_Ip%C3%AA_tree_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

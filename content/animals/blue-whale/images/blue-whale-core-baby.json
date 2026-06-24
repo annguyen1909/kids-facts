@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-core-baby",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-core-baby",
+  "fileName": "Sri Lanka Blue Whale (16129913274).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sri_Lanka_Blue_Whale_%2816129913274%29.jpg",
+  "width": 1820,
+  "height": 2730,
+  "alt": "Young blue whale rising to breathe at the ocean surface",
+  "caption": "Blue whale calves drink rich milk and may gain about 200 pounds per day.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sri Lanka",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Peyman Zehtab Fard via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sri_Lanka_Blue_Whale_(16129913274).jpg\">Peyman Zehtab Fard</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Lanka_Blue_Whale_(16129913274).jpg",
+    "creatorName": "Peyman Zehtab Fard",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

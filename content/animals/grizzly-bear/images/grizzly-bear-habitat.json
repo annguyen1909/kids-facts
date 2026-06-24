@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-habitat",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-habitat",
+  "fileName": "Grizzly Bear in Alaska.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Grizzly_Bear_in_Alaska.jpg",
+  "width": 4840,
+  "height": 3395,
+  "alt": "Grizzly bear in Alaskan wilderness habitat",
+  "caption": "Grizzly bears live in forests, meadows, and mountains across western North America.",
+  "attributionText": "Photo by Ashley Lee via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_in_Alaska.jpg\">Ashley Lee</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_in_Alaska.jpg",
+    "creatorName": "Ashley Lee",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Alaska, USA",
+  "acquisitionNotes": "Manually curated grizzly bear habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:00.723Z"
+}

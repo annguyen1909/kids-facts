@@ -1,0 +1,33 @@
+{
+  "id": "snake-fun-fact",
+  "animalSlug": "snake",
+  "slug": "snake-fun-fact",
+  "fileName": "Orange Ghost (Hypomelanistic) Ball Python.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Orange_Ghost_%28Hypomelanistic%29_Ball_Python.jpg",
+  "width": 1424,
+  "height": 1424,
+  "alt": "Ball python with pale orange and cream color pattern",
+  "caption": "When scared, a ball python may curl into a tight ball with its head hidden inside.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "attributionText": "Photo by Eclipse Exotics via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orange_Ghost_(Hypomelanistic)_Ball_Python.jpg\">Eclipse Exotics</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orange_Ghost_(Hypomelanistic)_Ball_Python.jpg",
+    "creatorName": "Eclipse Exotics",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

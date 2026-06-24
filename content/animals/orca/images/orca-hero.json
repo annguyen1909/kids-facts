@@ -1,0 +1,33 @@
+{
+  "id": "orca-hero",
+  "animalSlug": "orca",
+  "slug": "orca-hero",
+  "fileName": "Orcinus orca 01.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Orcinus_orca_01.JPG",
+  "width": 1600,
+  "height": 1200,
+  "alt": "Orca surfacing with tall dorsal fin in open water",
+  "caption": "Orcas are the largest members of the dolphin family.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated orca hero image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orcinus_orca_01.JPG\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orcinus_orca_01.JPG",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

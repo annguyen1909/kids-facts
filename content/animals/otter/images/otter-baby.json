@@ -1,0 +1,33 @@
+{
+  "id": "otter-baby",
+  "animalSlug": "otter",
+  "slug": "otter-baby",
+  "fileName": "Sea Otter mother with one baby pup (9168550173).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sea_Otter_mother_with_one_baby_pup_%289168550173%29.jpg",
+  "width": 2021,
+  "height": 1347,
+  "alt": "Sea otter mother carrying a small pup",
+  "caption": "A sea otter pup stays very close to its mother while she keeps it warm and safe.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Morro Bay, California",
+  "acquisitionNotes": "Manually curated otter baby image with verified sea otter identification.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_mother_with_one_baby_pup_(9168550173).jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_mother_with_one_baby_pup_(9168550173).jpg",
+    "creatorName": "Mike Baird from Morro Bay, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "wolf-gallery-main",
+  "animalSlug": "wolf",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Wolf Photo Gallery",
+  "metaTitle": "Wolf Photo Gallery",
+  "metaDescription": "Browse a wolf photo gallery with wildlife photos.",
+  "intro": "Explore wolf photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "wolf-hero",
+    "wolf-habitat",
+    "wolf-diet",
+    "wolf-baby",
+    "wolf-family",
+    "wolf-range",
+    "wolf-size",
+    "wolf-closeup",
+    "wolf-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:46:19.193Z"
+}

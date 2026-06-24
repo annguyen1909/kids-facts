@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-habitat",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-habitat",
+  "fileName": "Western lowland gorilla sitting in grass - DPLA - feef4c6795581ccd320584d1afb740e5.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Western_lowland_gorilla_sitting_in_grass_-_DPLA_-_feef4c6795581ccd320584d1afb740e5.jpg",
+  "width": 1000,
+  "height": 1500,
+  "alt": "Western lowland gorilla sitting in lush forest grass",
+  "caption": "Gorillas live in tropical forests and swampy lowlands in central Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Manually curated gorilla habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_sitting_in_grass_-_DPLA_-_feef4c6795581ccd320584d1afb740e5.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_sitting_in_grass_-_DPLA_-_feef4c6795581ccd320584d1afb740e5.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

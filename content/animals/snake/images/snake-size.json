@@ -1,0 +1,33 @@
+{
+  "id": "snake-size",
+  "animalSlug": "snake",
+  "slug": "snake-size",
+  "fileName": "Python-regius-kopf-königspython.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Python-regius-kopf-k%C3%B6nigspython.jpg",
+  "width": 3000,
+  "height": 2143,
+  "alt": "Ball python head showing body scale pattern",
+  "caption": "Adult ball pythons usually grow 3 to 5 feet long.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "West Africa",
+  "acquisitionNotes": "Manually curated ball python size image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "attributionText": "Photo by Holger Krisp via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python-regius-kopf-k%C3%B6nigspython.jpg\">Holger Krisp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Python-regius-kopf-k%C3%B6nigspython.jpg",
+    "creatorName": "Holger Krisp",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:26.092Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wolf-family",
+  "animalSlug": "wolf",
+  "slug": "wolf-family",
+  "fileName": "Aerial view of arctic wolf pack in snow canis lupus.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
+  "width": 2401,
+  "height": 1563,
+  "alt": "Wolf pack traveling together across snowy Arctic landscape",
+  "caption": "Wolves live in packs, usually led by a breeding pair and their offspring.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arctic Canada",
+  "acquisitionNotes": "Manually curated wolf pack image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg\">U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
+    "creatorName": "U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

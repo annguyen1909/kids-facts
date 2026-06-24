@@ -1,0 +1,156 @@
+{
+  "id": "animal-ostrich",
+  "slug": "ostrich",
+  "name": "Ostrich",
+  "commonNames": [
+    "Ostrich",
+    "Common Ostrich",
+    "African Ostrich"
+  ],
+  "scientificName": "Struthio camelus",
+  "summary": "Ostriches are the tallest and heaviest birds on Earth. They sprint across African savannas on powerful legs, lay the biggest eggs of any bird, and cannot fly.",
+  "heroTitle": "Ostrich Facts",
+  "metaTitle": "Ostrich Facts | Savanna Habitat, Speed & Photos",
+  "metaDescription": "Discover ostrich facts with photos, African savanna habitat, diet, chicks, and record speed. Learn why ostriches cannot fly and how fast they can run.",
+  "searchIntents": [
+    "ostrich facts",
+    "how fast can an ostrich run",
+    "what do ostriches eat",
+    "where do ostriches live",
+    "how tall is an ostrich",
+    "can ostriches fly"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Struthioniformes",
+    "family": "Struthionidae",
+    "genus": "Struthio",
+    "species": "S. camelus"
+  },
+  "classificationLabels": [
+    "bird",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "South Africa",
+    "Namibia",
+    "Botswana",
+    "Ethiopia",
+    "Sudan"
+  ],
+  "biomes": [
+    "savanna",
+    "semi-desert",
+    "grassland"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "grass",
+    "seeds",
+    "leaves",
+    "insects",
+    "small reptiles"
+  ],
+  "lifespan": {
+    "wild": "30 to 40 years",
+    "captivity": "Up to 70 years in human care"
+  },
+  "size": {
+    "lengthMin": "7 feet",
+    "lengthMax": "9 feet"
+  },
+  "weight": {
+    "min": "200 pounds",
+    "max": "320 pounds"
+  },
+  "speed": "Can sprint faster than 40 miles per hour",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "sprinting escape",
+    "ground nesting",
+    "communal chick care",
+    "dust bathing",
+    "powerful kicking defense"
+  ],
+  "adaptations": [
+    "long powerful legs",
+    "large eyes",
+    "two-toed feet",
+    "flightless wings",
+    "thick body feathers"
+  ],
+  "predators": [
+    "lions",
+    "leopards",
+    "hyenas",
+    "humans"
+  ],
+  "prey": [
+    "plants",
+    "seeds",
+    "insects"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 42 days of incubation",
+    "offspringCount": "10 to 20 eggs per nest"
+  },
+  "funFacts": [
+    "Ostriches are the largest birds alive today.",
+    "They lay the biggest eggs of any bird.",
+    "An ostrich kick can be strong enough to hurt a lion.",
+    "Ostriches have the largest eyes of any land animal.",
+    "They swallow pebbles to help grind food.",
+    "Contrary to myth, ostriches do not bury their heads in sand."
+  ],
+  "faq": [
+    {
+      "question": "What is an ostrich?",
+      "answer": "An ostrich is a huge flightless bird with a long neck and powerful legs. The common ostrich lives in Africa."
+    },
+    {
+      "question": "Where do ostriches live?",
+      "answer": "Common ostriches live in dry grasslands and savannas across much of Africa, especially in the east and south."
+    },
+    {
+      "question": "What do ostriches eat?",
+      "answer": "Ostriches eat plants, seeds, and insects. They also swallow small stones to help digest food."
+    },
+    {
+      "question": "Can ostriches fly?",
+      "answer": "No. Ostriches are too heavy to fly, but they run very fast on their strong legs."
+    },
+    {
+      "question": "How fast can an ostrich run?",
+      "answer": "Ostriches can sprint faster than 40 miles per hour, making them the fastest birds on land."
+    },
+    {
+      "question": "How tall is an ostrich?",
+      "answer": "Ostriches can stand about 7 to 9 feet tall, taller than most adult humans."
+    },
+    {
+      "question": "Are ostriches endangered?",
+      "answer": "Common ostriches are listed as Least Concern, but habitat loss has reduced numbers in some regions."
+    }
+  ],
+  "relatedAnimals": [
+    "zebra",
+    "lion",
+    "giraffe"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "ostrich-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

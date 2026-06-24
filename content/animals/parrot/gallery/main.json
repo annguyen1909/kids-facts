@@ -1,0 +1,22 @@
+{
+  "id": "parrot-gallery-main",
+  "animalSlug": "parrot",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Scarlet Macaw Photo Gallery",
+  "metaTitle": "Scarlet Macaw Photo Gallery",
+  "metaDescription": "Browse a scarlet macaw photo gallery with wildlife photos.",
+  "intro": "Explore scarlet macaw photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "parrot-hero",
+    "parrot-habitat",
+    "parrot-diet",
+    "parrot-baby",
+    "parrot-family",
+    "parrot-range",
+    "parrot-size",
+    "parrot-closeup",
+    "parrot-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:30:35.933Z"
+}

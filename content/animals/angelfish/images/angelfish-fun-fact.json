@@ -1,0 +1,33 @@
+{
+  "id": "angelfish-fun-fact",
+  "animalSlug": "angelfish",
+  "slug": "angelfish-fun-fact",
+  "fileName": "Emperor angelfish at North Sands DSC05718a.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Emperor_angelfish_at_North_Sands_DSC05718a.jpg",
+  "width": 2048,
+  "height": 1536,
+  "alt": "Colorful emperor angelfish swimming near reef structure",
+  "caption": "Juvenile angelfish slowly change color as they grow into striped adults.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Manually curated angelfish fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T10:39:20.375Z",
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor_angelfish_at_North_Sands_DSC05718a.jpg\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_angelfish_at_North_Sands_DSC05718a.jpg",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:39:20.375Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

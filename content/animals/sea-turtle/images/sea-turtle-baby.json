@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-baby",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-baby",
+  "fileName": "Chelonia mydas Green Turtle Hatchling (113841713).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chelonia_mydas_Green_Turtle_Hatchling_%28113841713%29.jpg",
+  "width": 2048,
+  "height": 1337,
+  "alt": "Tiny green sea turtle hatchling on sand",
+  "caption": "Hatchlings scramble from the nest to the ocean soon after hatching.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical beach",
+  "acquisitionNotes": "Manually curated sea turtle hatchling image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "attributionText": "Photo by Stefan Hunt via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonia_mydas_Green_Turtle_Hatchling_(113841713).jpg\">Stefan Hunt</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonia_mydas_Green_Turtle_Hatchling_(113841713).jpg",
+    "creatorName": "Stefan Hunt",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

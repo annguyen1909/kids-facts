@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-core-habitat",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-core-habitat",
+  "fileName": "Autruche d'Afrique (Struthio camelus) (2).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Autruche_d%27Afrique_%28Struthio_camelus%29_%282%29.jpg",
+  "width": 5472,
+  "height": 3648,
+  "alt": "Ostrich in dry African grassland habitat",
+  "caption": "Open plains let ostriches see predators from far away.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Gzen92 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Autruche_d'Afrique_(Struthio_camelus)_(2).jpg\">Gzen92</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autruche_d'Afrique_(Struthio_camelus)_(2).jpg",
+    "creatorName": "Gzen92",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

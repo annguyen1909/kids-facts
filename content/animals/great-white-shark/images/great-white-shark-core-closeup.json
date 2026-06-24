@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-core-closeup",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-core-closeup",
+  "fileName": "Great white shark at Guadalupe Island.png",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Great_white_shark_at_Guadalupe_Island.png",
+  "width": 2858,
+  "height": 1602,
+  "alt": "Great white shark head and snout seen underwater",
+  "caption": "A great white shark uses smell, sight, and other senses while tracking prey.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Guadalupe Island, Mexico",
+  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Horizon Charters via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_white_shark_at_Guadalupe_Island.png\">Horizon Charters</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_white_shark_at_Guadalupe_Island.png",
+    "creatorName": "Horizon Charters",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "platypus-gallery-main",
+  "animalSlug": "platypus",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Platypus Photo Gallery",
+  "metaTitle": "Platypus Photo Gallery",
+  "metaDescription": "Browse a platypus photo gallery with wildlife photos.",
+  "intro": "Explore platypus photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "platypus-hero",
+    "platypus-habitat",
+    "platypus-diet",
+    "platypus-baby",
+    "platypus-family",
+    "platypus-range",
+    "platypus-size",
+    "platypus-closeup",
+    "platypus-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:24:08.452Z"
+}

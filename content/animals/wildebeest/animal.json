@@ -1,0 +1,154 @@
+{
+  "id": "animal-wildebeest",
+  "slug": "wildebeest",
+  "name": "Wildebeest",
+  "commonNames": [
+    "Wildebeest",
+    "Blue Wildebeest",
+    "Brindled Gnu"
+  ],
+  "scientificName": "Connochaetes taurinus",
+  "summary": "Blue wildebeest are rugged antelopes with curved horns and shaggy manes. They form enormous herds on African savannas and are famous for their great migrations in search of grass and water.",
+  "heroTitle": "Wildebeest Facts",
+  "metaTitle": "Wildebeest Facts | Migration, Savanna & Photos",
+  "metaDescription": "Discover blue wildebeest facts with photos, African savanna habitat, grass diet, calves, and migration. Learn where wildebeest live and why they travel in huge herds.",
+  "searchIntents": [
+    "wildebeest facts",
+    "what do wildebeest eat",
+    "where do wildebeest live",
+    "why do wildebeest migrate",
+    "what is a baby wildebeest called",
+    "are wildebeest antelopes"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Connochaetes",
+    "species": "C. taurinus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Botswana",
+    "South Africa",
+    "Namibia",
+    "Zimbabwe",
+    "Zambia"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland",
+    "woodland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "short grasses",
+    "fresh shoots",
+    "leaves"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years",
+    "captivity": "Up to 20 years in human care"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "8 feet"
+  },
+  "weight": {
+    "min": "400 pounds",
+    "max": "600 pounds"
+  },
+  "speed": "Can run about 50 miles per hour",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "mass migration",
+    "herd grazing",
+    "river crossings",
+    "rutting fights",
+    "calf following"
+  ],
+  "adaptations": [
+    "curved horns",
+    "stocky build",
+    "herd defense",
+    "endurance running",
+    "broad muzzle for grazing"
+  ],
+  "predators": [
+    "lions",
+    "leopards",
+    "hyenas",
+    "crocodiles",
+    "humans"
+  ],
+  "prey": [
+    "grasses"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 8.5 months",
+    "offspringCount": "1 calf per year"
+  },
+  "funFacts": [
+    "Wildebeest are also called gnus.",
+    "Hundreds of thousands migrate across the Serengeti each year.",
+    "Calves can run within minutes of being born.",
+    "Wildebeest must drink water regularly.",
+    "Their herds make loud grunting and gnu-like calls.",
+    "River crossings during migration are dangerous because of crocodiles."
+  ],
+  "faq": [
+    {
+      "question": "What is a wildebeest?",
+      "answer": "A wildebeest is a large African antelope with curved horns and a shaggy mane. The blue wildebeest is the most common species."
+    },
+    {
+      "question": "Where do wildebeest live?",
+      "answer": "Blue wildebeest live on savannas and grasslands in eastern and southern Africa, especially Kenya, Tanzania, and Botswana."
+    },
+    {
+      "question": "What do wildebeest eat?",
+      "answer": "Wildebeest graze on short grasses. They follow rains to find fresh green pasture."
+    },
+    {
+      "question": "Why do wildebeest migrate?",
+      "answer": "Wildebeest migrate to follow seasonal rains and find new grass and water."
+    },
+    {
+      "question": "What is a baby wildebeest called?",
+      "answer": "A baby wildebeest is called a calf. Most calves are born during the same few weeks each year."
+    },
+    {
+      "question": "Are wildebeest antelopes?",
+      "answer": "Yes. Wildebeest belong to the antelope family Bovidae, along with gazelles and cattle relatives."
+    },
+    {
+      "question": "Are wildebeest endangered?",
+      "answer": "Blue wildebeest are listed as Least Concern, but migration routes can be threatened by fences and habitat loss."
+    }
+  ],
+  "relatedAnimals": [
+    "zebra",
+    "lion",
+    "gazelle"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "wildebeest-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

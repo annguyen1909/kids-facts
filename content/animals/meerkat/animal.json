@@ -1,0 +1,157 @@
+{
+  "id": "animal-meerkat",
+  "slug": "meerkat",
+  "name": "Meerkat",
+  "commonNames": [
+    "Meerkat",
+    "Suricate"
+  ],
+  "scientificName": "Suricata suricatta",
+  "summary": "Meerkats are small African mongooses that live in groups and stand guard on their hind legs. They eat insects and scorpions in dry grasslands and deserts.",
+  "heroTitle": "Meerkat Facts",
+  "metaTitle": "Meerkat Facts | Desert Habitat, Diet & Photos",
+  "metaDescription": "Discover meerkat facts with photos, desert habitat, insect diet, pup life, and sentry behavior. Learn where meerkats live and how their groups cooperate.",
+  "searchIntents": [
+    "meerkat facts",
+    "what do meerkats eat",
+    "where do meerkats live",
+    "why do meerkats stand up",
+    "what is a baby meerkat called",
+    "how do meerkats live in groups"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Herpestidae",
+    "genus": "Suricata",
+    "species": "S. suricatta"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Botswana",
+    "Namibia",
+    "South Africa",
+    "Angola"
+  ],
+  "biomes": [
+    "savanna",
+    "desert",
+    "scrubland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "insects",
+    "scorpions",
+    "spiders",
+    "small reptiles",
+    "eggs",
+    "roots"
+  ],
+  "lifespan": {
+    "wild": "8 to 12 years",
+    "captivity": "Up to 15 years in human care"
+  },
+  "size": {
+    "lengthMin": "10 inches",
+    "lengthMax": "14 inches",
+    "heightMin": "9 inches",
+    "heightMax": "12 inches"
+  },
+  "weight": {
+    "min": "1.5 pounds",
+    "max": "2.5 pounds"
+  },
+  "speed": "Quick dashes to burrows; moderate runner on ground",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "sentry standing",
+    "burrow digging",
+    "group foraging",
+    "alarm calling",
+    "pup rearing"
+  ],
+  "adaptations": [
+    "dark eye patches",
+    "sharp claws for digging",
+    "group cooperation",
+    "quick reflexes",
+    "burrow shelter"
+  ],
+  "predators": [
+    "eagles",
+    "jackals",
+    "snakes",
+    "humans"
+  ],
+  "prey": [
+    "insects",
+    "scorpions",
+    "spiders",
+    "small reptiles"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 11 weeks",
+    "offspringCount": "Usually 2 to 5 pups"
+  },
+  "funFacts": [
+    "Meerkats are mongooses, not cats, despite the cat-like name.",
+    "One meerkat often stands guard while others search for food.",
+    "Meerkats live in groups called mobs or gangs.",
+    "They can eat scorpions after removing the stinger.",
+    "Meerkats use different alarm calls for land and air predators.",
+    "Underground burrows keep pups safe from heat and predators."
+  ],
+  "faq": [
+    {
+      "question": "What is a meerkat?",
+      "answer": "A meerkat is a small mongoose from southern Africa that lives in groups and often stands upright to watch for danger."
+    },
+    {
+      "question": "Where do meerkats live?",
+      "answer": "Meerkats live in dry grasslands and deserts of Botswana, Namibia, and South Africa."
+    },
+    {
+      "question": "What do meerkats eat?",
+      "answer": "Meerkats are carnivores that eat insects, scorpions, spiders, small reptiles, eggs, and roots."
+    },
+    {
+      "question": "Why do meerkats stand up?",
+      "answer": "Standing on hind legs helps sentry meerkats see predators such as hawks over tall grass."
+    },
+    {
+      "question": "How do meerkats live together?",
+      "answer": "Meerkats live in [social groups](/topics/social-animals) that dig burrows, forage together, and raise pups cooperatively."
+    },
+    {
+      "question": "What is a baby meerkat called?",
+      "answer": "A baby meerkat is called a pup. Pups are raised with help from the whole group."
+    },
+    {
+      "question": "Are meerkats endangered?",
+      "answer": "Meerkats are listed as Least Concern, but drought and habitat change can harm local populations."
+    }
+  ],
+  "relatedAnimals": [
+    "lion",
+    "cheetah",
+    "fox"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "meerkat-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

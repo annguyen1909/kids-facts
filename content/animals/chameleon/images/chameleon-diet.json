@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-diet",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-diet",
+  "fileName": "Chameleon catching prey - DPLA - 00e84726957760f160ece057f77db371.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chameleon_catching_prey_-_DPLA_-_00e84726957760f160ece057f77db371.jpg",
+  "width": 1500,
+  "height": 1000,
+  "alt": "Chameleon shooting its tongue to catch an insect",
+  "caption": "Chameleons eat insects and catch prey with a long, sticky tongue.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated chameleon diet image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_00e84726957760f160ece057f77db371.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chameleon_catching_prey_-_DPLA_-_00e84726957760f160ece057f77db371.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

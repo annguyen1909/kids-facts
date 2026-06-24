@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-closeup",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-closeup",
+  "fileName": "Hippocampus erectus 330048116.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hippocampus_erectus_330048116.jpg",
+  "width": 720,
+  "height": 960,
+  "alt": "Close-up of a lined seahorse face and curled tail",
+  "caption": "A seahorse's curled tail can grip seagrass and coral to stay in place.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Manually curated seahorse close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_330048116.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_330048116.jpg",
+    "creatorName": "Pauline Walsh Jacobson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

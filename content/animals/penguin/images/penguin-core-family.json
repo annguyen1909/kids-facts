@@ -1,0 +1,33 @@
+{
+  "id": "penguin-core-family",
+  "animalSlug": "penguin",
+  "slug": "penguin-core-family",
+  "fileName": "Colony of aptenodytes patagonicus.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Colony_of_aptenodytes_patagonicus.jpg",
+  "width": 1600,
+  "height": 1200,
+  "alt": "Dense king penguin colony crowded together on breeding grounds",
+  "caption": "Thousands of penguins may nest together in loud, busy colonies.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Georgia",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by User:Pismire via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Colony_of_aptenodytes_patagonicus.jpg\">User:Pismire</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colony_of_aptenodytes_patagonicus.jpg",
+    "creatorName": "User:Pismire",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

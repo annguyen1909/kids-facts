@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-size",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-size",
+  "fileName": "Male Gorilla gorilla gorilla Apenheul 2023.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg",
+  "width": 5491,
+  "height": 3627,
+  "alt": "Large male western lowland gorilla showing powerful build",
+  "caption": "Adult male gorillas can weigh over 400 pounds and are much larger than females.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Manually curated gorilla size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "attributionText": "Photo by Tuxyso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg\">Tuxyso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg",
+    "creatorName": "Tuxyso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

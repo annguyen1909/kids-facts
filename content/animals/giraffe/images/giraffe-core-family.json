@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-family",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-family",
+  "fileName": "Giraffa camelopardalis (181092099).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Giraffa_camelopardalis_%28181092099%29.jpg",
+  "width": 2048,
+  "height": 802,
+  "alt": "Small group of giraffes moving together across the plain",
+  "caption": "Loose giraffe herds help many animals scan the same landscape at once.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Daniel Aufgang via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181092099).jpg\">Daniel Aufgang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_(181092099).jpg",
+    "creatorName": "Daniel Aufgang",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

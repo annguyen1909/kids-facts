@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { siteConfig } from "@/lib/site-config";
 
 export const size = {
   width: 1200,
@@ -49,11 +50,11 @@ export default function OpenGraphImage() {
           >
             A
           </div>
-          Animal Facts for Kids
+          {siteConfig.name}
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: "22px" }}>
           <div style={{ fontSize: 74, lineHeight: 1.02, fontWeight: 800 }}>
-            Wildlife facts, photos, and kid-friendly answers
+            Wildlife facts, photos, and clear answers
           </div>
           <div style={{ fontSize: 30, lineHeight: 1.35, color: "#cbd5e1" }}>
             Animal pages built for search, classrooms, and curious readers.

@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-habitat",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-habitat",
+  "fileName": "Kulinda 03.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kulinda_03.jpg",
+  "width": 2160,
+  "height": 3840,
+  "alt": "Giraffe standing in sunny dry woodland habitat",
+  "caption": "Giraffes do best where trees are spaced out across open woodland and savanna.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "African savanna woodland",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Japheth Kulinda via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kulinda_03.jpg\">Japheth Kulinda</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kulinda_03.jpg",
+    "creatorName": "Japheth Kulinda",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

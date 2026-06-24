@@ -1,0 +1,33 @@
+{
+  "id": "orca-closeup",
+  "animalSlug": "orca",
+  "slug": "orca-closeup",
+  "fileName": "Dorsal fin of a killer whale 05.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Dorsal_fin_of_a_killer_whale_05.jpg",
+  "width": 5943,
+  "height": 3962,
+  "alt": "Close-up orca dorsal fin slicing through the sea surface",
+  "caption": "A tall dorsal fin helps make an adult orca easy to recognize.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated orca close-up image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by Buiobuione via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dorsal_fin_of_a_killer_whale_05.jpg\">Buiobuione</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dorsal_fin_of_a_killer_whale_05.jpg",
+    "creatorName": "Buiobuione",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-habitat",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-habitat",
+  "fileName": "Kangaroos grazing.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kangaroos_grazing.jpg",
+  "width": 1024,
+  "height": 682,
+  "alt": "Kangaroos grazing on open Australian grassland",
+  "caption": "Red kangaroos live in dry grasslands, scrub, and open woodlands across Australia.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Manually curated kangaroo habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by RedGazelle15 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kangaroos_grazing.jpg\">RedGazelle15</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangaroos_grazing.jpg",
+    "creatorName": "RedGazelle15",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

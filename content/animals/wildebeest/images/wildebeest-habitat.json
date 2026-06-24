@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-habitat",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-habitat",
+  "fileName": "Blue wildebeest (Connochaetes taurinus taurinus) herd.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Blue_wildebeest_%28Connochaetes_taurinus_taurinus%29_herd.jpg",
+  "width": 5942,
+  "height": 2319,
+  "alt": "Herd of blue wildebeest on open savanna grassland",
+  "caption": "Wildebeest live on open plains and woodlands in eastern and southern Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated wildebeest habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_herd.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_herd.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wolf-range",
+  "animalSlug": "wolf",
+  "slug": "wolf-range",
+  "fileName": "Front view of a resting Canis lupus ssp.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Front_view_of_a_resting_Canis_lupus_ssp.jpg",
+  "width": 3914,
+  "height": 4886,
+  "alt": "Gray wolf resting in open northern habitat",
+  "caption": "Wild wolves once lived across much of North America, Europe, and Asia.",
+  "attributionText": "Photo by Gary Kramer via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg\">Gary Kramer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg",
+    "creatorName": "Gary Kramer",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Northern Hemisphere",
+  "acquisitionNotes": "Manually curated wolf range image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z"
+}

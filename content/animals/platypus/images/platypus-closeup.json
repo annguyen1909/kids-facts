@@ -1,0 +1,33 @@
+{
+  "id": "platypus-closeup",
+  "animalSlug": "platypus",
+  "slug": "platypus-closeup",
+  "fileName": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 4.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg",
+  "width": 3447,
+  "height": 2298,
+  "alt": "Close-up of a platypus bill and face at the water surface",
+  "caption": "A platypus uses its rubbery bill to detect prey underwater with electric signals.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Scottsdale, Tasmania, Australia",
+  "acquisitionNotes": "Manually curated platypus close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale_4.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale_4.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sloth-core-range",
+  "animalSlug": "sloth",
+  "slug": "sloth-core-range",
+  "fileName": "Bradypus variegatus 423905618.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bradypus_variegatus_423905618.jpg",
+  "width": 2048,
+  "height": 1365,
+  "alt": "Three-toed sloth in tropical forest canopy",
+  "caption": "Forest clearing and road building make it harder for slow sloths to cross safely.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Core article image curated separately from the sloth gallery set.",
+  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "attributionText": "Photo by Anthony Batista via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus_variegatus_423905618.jpg\">Anthony Batista</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus_423905618.jpg",
+    "creatorName": "Anthony Batista",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-habitat",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-habitat",
+  "fileName": "Ostrich in safari.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ostrich_in_safari.jpg",
+  "width": 2592,
+  "height": 1944,
+  "alt": "Ostrich standing in open African savanna grassland",
+  "caption": "Ostriches live on dry grasslands, savannas, and semi-deserts in Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated ostrich habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Jyothis at Malayalam Wikipedia via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_in_safari.jpg\">Jyothis at Malayalam Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_in_safari.jpg",
+    "creatorName": "Jyothis at Malayalam Wikipedia",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "platypus-habitat",
+  "animalSlug": "platypus",
+  "slug": "platypus-habitat",
+  "fileName": "Platypus. Broken River, Queensland. (51190230662).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Platypus._Broken_River%2C_Queensland._%2851190230662%29.jpg",
+  "width": 3608,
+  "height": 2190,
+  "alt": "Platypus in a clear forest river in eastern Australia",
+  "caption": "Platypuses live along freshwater rivers, streams, and lakes in eastern Australia.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Broken River, Queensland, Australia",
+  "acquisitionNotes": "Manually curated platypus habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Steven Penton from Bakers Beach, Tasmania Australia via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Platypus._Broken_River%2C_Queensland._(51190230662).jpg\">Steven Penton from Bakers Beach, Tasmania Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platypus._Broken_River%2C_Queensland._(51190230662).jpg",
+    "creatorName": "Steven Penton from Bakers Beach, Tasmania Australia",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

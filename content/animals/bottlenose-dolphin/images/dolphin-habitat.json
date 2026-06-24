@@ -2,17 +2,33 @@
   "id": "dolphin-habitat",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-habitat",
-  "fileName": "bottlenose-dolphin-coastal-water.webp",
-  "src": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?auto=format&fit=crop&w=1200&q=80",
-  "width": 1200,
-  "height": 800,
-  "alt": "Dolphin swimming near the ocean surface",
-  "caption": "Smooth bodies help dolphins move quickly through water.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "Tursiops_truncatus_(Atlantic_bottlenose_dolphins)_(Pine_Island_Sound,_Florida,_USA)_4_(24181206149).webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tursiops_truncatus_%28Atlantic_bottlenose_dolphins%29_%28Pine_Island_Sound%2C_Florida%2C_USA%29_4_%2824181206149%29.jpg",
+  "width": 3008,
+  "height": 1445,
+  "alt": "Pod of bottlenose dolphins swimming in coastal waters off Florida",
+  "caption": "Bottlenose dolphins live in warm coastal waters, bays, and open ocean around the world.",
+  "attributionText": "Photo by James St. John via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_(Atlantic_bottlenose_dolphins)_(Pine_Island_Sound,_Florida,_USA)_4_(24181206149).jpg\">James St. John</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_(Atlantic_bottlenose_dolphins)_(Pine_Island_Sound,_Florida,_USA)_4_(24181206149).jpg",
+    "creatorName": "James St. John",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.225Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "habitat",
-  "galleryTopics": ["habitat", "range"],
-  "featuredOnPages": ["gallery", "habitat"],
-  "location": "Coastal ocean",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pine Island Sound, Florida, USA",
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.225Z"
 }

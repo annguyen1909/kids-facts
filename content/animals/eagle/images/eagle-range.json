@@ -1,0 +1,33 @@
+{
+  "id": "eagle-range",
+  "animalSlug": "eagle",
+  "slug": "eagle-range",
+  "fileName": "Bald eagle in Alaska 2016-3.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bald_eagle_in_Alaska_2016-3.jpg",
+  "width": 4796,
+  "height": 3747,
+  "alt": "Bald eagle perched in snowy Alaskan habitat",
+  "caption": "Wild eagles live across North America from Alaska and Canada to the United States.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Alaska, United States",
+  "acquisitionNotes": "Manually curated bald eagle range image with verified species identification.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Andy Morffew from Itchen Abbas, Hampshire, UK via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagle_in_Alaska_2016-3.jpg\">Andy Morffew from Itchen Abbas, Hampshire, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_eagle_in_Alaska_2016-3.jpg",
+    "creatorName": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

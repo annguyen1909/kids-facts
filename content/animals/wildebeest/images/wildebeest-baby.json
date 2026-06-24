@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-baby",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-baby",
+  "fileName": "Blue wildebeest (Connochaetes taurinus taurinus) calf.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Blue_wildebeest_%28Connochaetes_taurinus_taurinus%29_calf.jpg",
+  "width": 3852,
+  "height": 2569,
+  "alt": "Young blue wildebeest calf standing near adults",
+  "caption": "Calves can stand minutes after birth and soon join the herd.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_calf.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_calf.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated wildebeest calf image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z"
+}

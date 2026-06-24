@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-core-diet",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-core-diet",
+  "fileName": "Macropus rufus Boulia Wildlife Haven Herbert St Boulia Queensland P1060900.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060900.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Red kangaroo grazing on dry outback vegetation",
+  "caption": "They often feed at dawn and dusk when temperatures are cooler.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Boulia, Queensland, Australia",
+  "acquisitionNotes": "Core article image curated separately from the kangaroo gallery set.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by John Robert McPherson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060900.jpg\">John Robert McPherson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060900.jpg",
+    "creatorName": "John Robert McPherson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

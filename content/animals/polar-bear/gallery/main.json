@@ -1,0 +1,22 @@
+{
+  "id": "polar-bear-gallery-main",
+  "animalSlug": "polar-bear",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Polar Bear Photo Gallery",
+  "metaTitle": "Polar Bear Photo Gallery",
+  "metaDescription": "Browse a polar bear photo gallery with wildlife photos.",
+  "intro": "Explore polar bear photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "polar-bear-hero",
+    "polar-bear-habitat",
+    "polar-bear-diet",
+    "polar-bear-baby",
+    "polar-bear-family",
+    "polar-bear-range",
+    "polar-bear-size",
+    "polar-bear-closeup",
+    "polar-bear-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:46:38.030Z"
+}

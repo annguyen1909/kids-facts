@@ -1,0 +1,33 @@
+{
+  "id": "giant-panda-core-family",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-core-family",
+  "fileName": "1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Juvenile_Giant_Panda.jpg",
+  "width": 1024,
+  "height": 768,
+  "alt": "Juvenile giant panda resting beside an adult in bamboo forest",
+  "caption": "A mother panda cares for her cub alone, teaching it to climb and eat bamboo.",
+  "attributionText": "Photo by Sheba_Also via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Juvenile_Giant_Panda.jpg\">Sheba_Also</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juvenile_Giant_Panda.jpg",
+    "creatorName": "Sheba_Also",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T03:28:27.024Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sichuan, China",
+  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
+  "updatedAt": "2026-06-23T03:28:27.024Z"
+}

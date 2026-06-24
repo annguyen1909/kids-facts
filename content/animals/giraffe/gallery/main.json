@@ -1,0 +1,22 @@
+{
+  "id": "giraffe-gallery-main",
+  "animalSlug": "giraffe",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Giraffe Photo Gallery",
+  "metaTitle": "Giraffe Photo Gallery",
+  "metaDescription": "Browse a giraffe photo gallery with tall adults, calves, feeding behavior, and African savanna habitat images.",
+  "intro": "Explore giraffe photos for learning and classroom observation, from high browsing and calf care to wide savanna scenes.",
+  "imageSlugs": [
+    "giraffe-hero",
+    "giraffe-habitat",
+    "giraffe-diet",
+    "giraffe-baby",
+    "giraffe-family",
+    "giraffe-range",
+    "giraffe-size",
+    "giraffe-closeup",
+    "giraffe-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

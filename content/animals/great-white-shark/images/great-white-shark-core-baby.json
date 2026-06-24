@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-core-baby",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-core-baby",
+  "fileName": "Great White Shark (Carcharodon carcharias) (32531155910).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Great_White_Shark_%28Carcharodon_carcharias%29_%2832531155910%29.jpg",
+  "width": 2654,
+  "height": 3105,
+  "alt": "Smaller great white shark swimming in blue water",
+  "caption": "Young great whites begin life hunting smaller ocean prey than adults do.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_White_Shark_(Carcharodon_carcharias)_(32531155910).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(Carcharodon_carcharias)_(32531155910).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

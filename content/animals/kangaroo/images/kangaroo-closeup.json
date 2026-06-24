@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-closeup",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-closeup",
+  "fileName": "Red kangaroo (Macropus rufus) in Australian Wildlife Park, Albany, April 2022 22.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Red_kangaroo_%28Macropus_rufus%29_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_22.jpg",
+  "width": 3264,
+  "height": 2448,
+  "alt": "Close-up red kangaroo face with large ears and dark eyes",
+  "caption": "Kangaroos use their big ears and sharp hearing to watch for danger.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Albany, Western Australia",
+  "acquisitionNotes": "Manually curated kangaroo close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by Calistemon via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_22.jpg\">Calistemon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_22.jpg",
+    "creatorName": "Calistemon",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

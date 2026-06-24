@@ -1,0 +1,33 @@
+{
+  "id": "tiger-core-habitat",
+  "animalSlug": "tiger",
+  "slug": "tiger-core-habitat",
+  "fileName": "tiger-core-habitat.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/A_prowling_Tiger.jpg",
+  "width": 4946,
+  "height": 3456,
+  "alt": "Bengal tiger prowling through forest at Bandhavgarh National Park, India",
+  "caption": "Tigers roam tropical forests, grasslands, and wetlands across Asia.",
+  "attributionText": "Photo by Apurv10 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_prowling_Tiger.jpg\">Apurv10</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_prowling_Tiger.jpg",
+    "creatorName": "Apurv10",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T12:00:00.000Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Bandhavgarh National Park, India",
+  "acquisitionNotes": "Core article habitat image — separate from gallery slot.",
+  "updatedAt": "2026-06-22T12:00:00.000Z"
+}

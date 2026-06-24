@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-family",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-family",
+  "fileName": "Cheetah Brothers AdF.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cheetah_Brothers_AdF.jpg",
+  "width": 3000,
+  "height": 2000,
+  "alt": "Two young cheetah brothers resting together",
+  "caption": "Male cheetahs often stay with brothers in small groups called coalitions.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Okavango Delta, Botswana",
+  "acquisitionNotes": "Manually curated cheetah family image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cheetah_Brothers_AdF.jpg\">Arturo de Frias Marques</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheetah_Brothers_AdF.jpg",
+    "creatorName": "Arturo de Frias Marques",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

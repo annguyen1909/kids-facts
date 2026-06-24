@@ -3,6 +3,8 @@ import { AnimalCard } from "@/components/animals/animal-card";
 import { JsonLd } from "@/components/layout/json-ld";
 import { MdxArticle } from "@/components/mdx/mdx-article";
 import { Breadcrumbs } from "@/components/ui/breadcrumb";
+import { formatFeaturedPageLabel } from "@/lib/content";
+import { formatDisplayLabel } from "@/lib/format-display";
 import { getAbsoluteUrl } from "@/lib/images";
 import { buildBreadcrumbSchema, buildHubSchema } from "@/lib/schema";
 import type { AnimalRecord, HubRecord } from "@/lib/types";
@@ -19,7 +21,7 @@ export async function HubPage({
       <JsonLd
         data={buildBreadcrumbSchema([
           { name: "Home", item: getAbsoluteUrl("/") },
-          { name: hub.type.replace("-", " "), item: getAbsoluteUrl(`/${hub.type}/${hub.slug}`) },
+          { name: formatDisplayLabel(hub.type.replace(/-/g, " ")), item: getAbsoluteUrl(`/${hub.type}/${hub.slug}`) },
           { name: hub.name, item: getAbsoluteUrl(`/${hub.type}/${hub.slug}`) },
         ])}
       />
@@ -35,13 +37,13 @@ export async function HubPage({
       <Breadcrumbs
         items={[
           { label: "Home", href: "/" },
-          { label: hub.type.replace("-", " "), href: `/${hub.type}/${hub.slug}` },
+          { label: formatDisplayLabel(hub.type.replace(/-/g, " ")), href: `/${hub.type}` },
           { label: hub.name },
         ]}
       />
       <section className="mt-6 rounded-[2rem] bg-white px-6 py-8 shadow-[var(--shadow)] sm:px-8">
-        <p className="eyebrow">
-          {hub.type.replace("-", " ")} hub
+        <p className="eyebrow eyebrow--light">
+          {formatDisplayLabel(hub.type.replace(/-/g, " "))} hub
         </p>
         <h1 className="section-title mt-4 text-[var(--forest-deep)]">
           {hub.name}
@@ -50,9 +52,11 @@ export async function HubPage({
           {hub.description}
         </p>
       </section>
-      <section className="mt-8 rounded-[2rem] bg-white p-8 shadow-[var(--shadow)]">
-        <MdxArticle source={hub.body} />
-      </section>
+      {hub.body ? (
+        <section className="mt-8 rounded-[2rem] bg-white p-8 shadow-[var(--shadow)]">
+          <MdxArticle source={hub.body} />
+        </section>
+      ) : null}
       <section className="mt-10">
         <h2 className="section-title text-[var(--forest-deep)]">
           Animals in this cluster
@@ -63,20 +67,22 @@ export async function HubPage({
           ))}
         </div>
       </section>
-      <section className="mt-10 rounded-[2rem] bg-white p-6 shadow-[var(--shadow)]">
-        <h2 className="text-2xl font-bold tracking-tight text-[var(--forest-deep)]">
-          Featured pages
-        </h2>
-        <ul className="mt-4 space-y-3">
-          {hub.featuredPagePaths.map((pagePath) => (
-            <li key={pagePath}>
-              <Link href={pagePath} className="font-semibold text-[var(--forest)] hover:underline">
-                {pagePath}
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </section>
+      {hub.featuredPagePaths.length > 0 ? (
+        <section className="mt-10 rounded-[2rem] bg-white p-6 shadow-[var(--shadow)]">
+          <h2 className="text-2xl font-bold tracking-tight text-[var(--forest-deep)]">
+            Featured pages
+          </h2>
+          <ul className="mt-4 space-y-3">
+            {hub.featuredPagePaths.map((pagePath) => (
+              <li key={pagePath}>
+                <Link href={pagePath} className="font-semibold text-[var(--forest)] hover:underline">
+                  {formatFeaturedPageLabel(pagePath)}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
     </div>
   );
 }

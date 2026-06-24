@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-hero",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-hero",
+  "fileName": "Grizzly bear - Ursus arctos horribilis.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Grizzly_bear_-_Ursus_arctos_horribilis.jpg",
+  "width": 2578,
+  "height": 1900,
+  "alt": "Grizzly bear standing in wild habitat",
+  "caption": "Grizzly bears are powerful North American brown bears with a shoulder hump and long claws.",
+  "attributionText": "Photo by MrPanyGoff via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_-_Ursus_arctos_horribilis.jpg\">MrPanyGoff</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_-_Ursus_arctos_horribilis.jpg",
+    "creatorName": "MrPanyGoff",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated grizzly bear hero image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:00.723Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "salmon-gallery-main",
+  "animalSlug": "salmon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Atlantic Salmon Photo Gallery",
+  "metaTitle": "Atlantic Salmon Photo Gallery",
+  "metaDescription": "Browse a atlantic salmon photo gallery with wildlife photos.",
+  "intro": "Explore atlantic salmon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "salmon-hero",
+    "salmon-habitat",
+    "salmon-diet",
+    "salmon-baby",
+    "salmon-family",
+    "salmon-range",
+    "salmon-size",
+    "salmon-closeup",
+    "salmon-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:50:25.475Z"
+}

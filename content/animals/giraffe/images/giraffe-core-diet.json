@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-diet",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-diet",
+  "fileName": "Giraffa camelopardalis reticulata feeding-Buffalo Zoo.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Giraffa_camelopardalis_reticulata_feeding-Buffalo_Zoo.JPG",
+  "width": 1984,
+  "height": 1488,
+  "alt": "Giraffe stretching its tongue toward leafy food",
+  "caption": "A giraffe's long tongue helps it grab leaves from tall branches.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Buffalo Zoo",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Tjcase2 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_reticulata_feeding-Buffalo_Zoo.JPG\">Tjcase2</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_reticulata_feeding-Buffalo_Zoo.JPG",
+    "creatorName": "Tjcase2",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

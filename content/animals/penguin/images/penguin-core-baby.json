@@ -1,0 +1,33 @@
+{
+  "id": "penguin-core-baby",
+  "animalSlug": "penguin",
+  "slug": "penguin-core-baby",
+  "fileName": "King Penguins (Youngs).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/King_Penguins_%28Youngs%29.jpg",
+  "width": 4284,
+  "height": 989,
+  "alt": "Row of brown fluffy king penguin chicks standing together",
+  "caption": "Young king penguins wear thick brown down before growing waterproof adult feathers.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Georgia",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Butterfly austral via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:King_Penguins_(Youngs).jpg\">Butterfly austral</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Penguins_(Youngs).jpg",
+    "creatorName": "Butterfly austral",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

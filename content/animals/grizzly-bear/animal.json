@@ -1,0 +1,154 @@
+{
+  "id": "animal-grizzly-bear",
+  "slug": "grizzly-bear",
+  "name": "Grizzly Bear",
+  "commonNames": [
+    "Grizzly Bear",
+    "North American Brown Bear",
+    "Silvertip Bear"
+  ],
+  "scientificName": "Ursus arctos horribilis",
+  "summary": "Grizzly bears are huge North American brown bears that live in forests and mountains. They eat plants, fish, and small animals, and spend winters in dens.",
+  "heroTitle": "Grizzly Bear Facts",
+  "metaTitle": "Grizzly Bear Facts | Habitat, Diet, Cubs & Photos",
+  "metaDescription": "Discover grizzly bear facts with photos, mountain habitat, salmon diet, cub life, and hibernation. Learn where grizzlies live and how they survive.",
+  "searchIntents": [
+    "grizzly bear facts",
+    "what do grizzly bears eat",
+    "where do grizzly bears live",
+    "how big is a grizzly bear",
+    "are grizzly bears dangerous",
+    "do grizzly bears hibernate"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ursidae",
+    "genus": "Ursus",
+    "species": "U. arctos"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Canada"
+  ],
+  "biomes": [
+    "temperate forest",
+    "mountain",
+    "tundra"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "berries",
+    "roots",
+    "salmon",
+    "insects",
+    "grasses",
+    "small mammals"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "5 feet",
+    "lengthMax": "8 feet",
+    "heightMin": "3 feet",
+    "heightMax": "4 feet"
+  },
+  "weight": {
+    "min": "300 pounds",
+    "max": "800 pounds"
+  },
+  "speed": "Up to 35 mph in short bursts",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "solitary foraging",
+    "hibernation",
+    "salmon fishing",
+    "cub rearing",
+    "territory marking"
+  ],
+  "adaptations": [
+    "shoulder hump for digging",
+    "long claws",
+    "keen sense of smell",
+    "thick fur",
+    "fat storage for winter"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "salmon",
+    "insects",
+    "small mammals",
+    "carrion"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 6 to 8 months including delayed implantation",
+    "offspringCount": "Usually 1 to 3 cubs"
+  },
+  "funFacts": [
+    "Grizzly bears are a North American form of brown bear.",
+    "A grizzly's shoulder hump is muscle, not fat.",
+    "Grizzlies can smell food from miles away.",
+    "Cubs are born tiny during the mother's winter den sleep.",
+    "Grizzlies eat huge amounts of food before hibernation.",
+    "Despite their size, grizzlies can run faster than many horses in short bursts."
+  ],
+  "faq": [
+    {
+      "question": "What is a grizzly bear?",
+      "answer": "A grizzly bear is a large North American brown bear known for its shoulder hump, long claws, and powerful build."
+    },
+    {
+      "question": "Where do grizzly bears live?",
+      "answer": "Grizzly bears live in forests, mountains, and open valleys in Alaska, western Canada, and parts of the northwestern United States."
+    },
+    {
+      "question": "What do grizzly bears eat?",
+      "answer": "Grizzlies are omnivores. They eat berries, roots, grasses, insects, fish, and sometimes small mammals."
+    },
+    {
+      "question": "Do grizzly bears hibernate?",
+      "answer": "Yes. In cold regions, grizzlies spend winter in dens and live off stored fat until spring."
+    },
+    {
+      "question": "Are grizzly bears dangerous?",
+      "answer": "Grizzlies usually avoid people, but mothers with cubs or surprised bears may defend themselves. Wild grizzlies should never be approached."
+    },
+    {
+      "question": "How are grizzly bears related to polar bears?",
+      "answer": "Grizzly bears and polar bears are closely related species in the bear genus Ursus."
+    },
+    {
+      "question": "What is a baby grizzly bear called?",
+      "answer": "A baby grizzly bear is called a cub. Cubs stay with their mother for two to three years."
+    }
+  ],
+  "relatedAnimals": [
+    "polar-bear",
+    "wolf",
+    "fox"
+  ],
+  "comparisonCandidates": [
+  ],
+  "galleryIds": [
+    "grizzly-bear-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

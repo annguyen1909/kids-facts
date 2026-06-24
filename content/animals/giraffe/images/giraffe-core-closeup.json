@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-core-closeup",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-core-closeup",
+  "fileName": "Giraffe-closeup-head.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Giraffe-closeup-head.jpg",
+  "width": 788,
+  "height": 1322,
+  "alt": "Giraffe face showing ears eyes and patterned fur",
+  "caption": "A giraffe's face is adapted for browsing thorny branches high in the canopy.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Rob Hooft via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe-closeup-head.jpg\">Rob Hooft</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe-closeup-head.jpg",
+    "creatorName": "Rob Hooft",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

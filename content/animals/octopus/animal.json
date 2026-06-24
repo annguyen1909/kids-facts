@@ -1,0 +1,160 @@
+{
+  "id": "animal-octopus",
+  "slug": "octopus",
+  "name": "Octopus",
+  "commonNames": [
+    "Octopus",
+    "Common Octopus",
+    "European Common Octopus"
+  ],
+  "scientificName": "Octopus vulgaris",
+  "summary": "The common octopus is a clever ocean animal with eight flexible arms, excellent camouflage, and surprising intelligence. It lives in coastal seas and is one of the best-studied octopus species in the world.",
+  "heroTitle": "Octopus Facts",
+  "metaTitle": "Octopus Facts | Habitat, Arms, Diet & Photos",
+  "metaDescription": "Discover common octopus facts with photos, rocky habitat, diet, camouflage, and intelligence. Learn where octopuses live and how they hunt with eight arms.",
+  "searchIntents": [
+    "octopus facts",
+    "what do octopuses eat",
+    "where do octopuses live",
+    "how many arms does an octopus have",
+    "can octopuses change color",
+    "how smart are octopuses"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "species": "O. vulgaris"
+  },
+  "classificationLabels": [
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Europe",
+    "Africa",
+    "North America"
+  ],
+  "countries": [
+    "Spain",
+    "Portugal",
+    "France",
+    "Italy",
+    "Greece",
+    "Morocco",
+    "Senegal",
+    "United States"
+  ],
+  "biomes": [
+    "marine",
+    "coastal",
+    "rocky reef"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "crabs",
+    "shrimp",
+    "clams",
+    "fish",
+    "lobsters"
+  ],
+  "lifespan": {
+    "wild": "1 to 2 years",
+    "captivity": "Up to 2 years in human care"
+  },
+  "size": {
+    "lengthMin": "12 inches body",
+    "lengthMax": "36 inches arm span"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "20 pounds"
+  },
+  "speed": "Fast jet-propelled escape bursts",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "camouflage",
+    "arm hunting",
+    "den hiding",
+    "jet propulsion",
+    "problem solving"
+  ],
+  "adaptations": [
+    "eight flexible arms",
+    "color-changing skin",
+    "suckers that taste",
+    "ink cloud defense",
+    "soft boneless body"
+  ],
+  "predators": [
+    "sharks",
+    "moray eels",
+    "humans",
+    "seals"
+  ],
+  "prey": [
+    "crabs",
+    "shrimp",
+    "clams",
+    "fish"
+  ],
+  "reproduction": {
+    "offspringName": "hatchlings",
+    "gestationOrIncubation": "Eggs guarded for weeks before hatching",
+    "offspringCount": "Thousands of eggs per clutch"
+  },
+  "funFacts": [
+    "Octopuses have three hearts and blue blood.",
+    "They can squeeze through very small gaps because they have no bones.",
+    "Each arm has suckers that can taste what they touch.",
+    "Octopuses can change color and skin texture in seconds.",
+    "A mother octopus stops eating while guarding her eggs.",
+    "Common octopuses are considered very intelligent invertebrates."
+  ],
+  "faq": [
+    {
+      "question": "What is an octopus?",
+      "answer": "An octopus is a soft-bodied sea animal with eight arms and a large head. The common octopus is a widely studied coastal species."
+    },
+    {
+      "question": "Where do octopuses live?",
+      "answer": "Common octopuses live in the eastern Atlantic Ocean, Mediterranean Sea, and nearby coastal waters of Europe and Africa."
+    },
+    {
+      "question": "What do octopuses eat?",
+      "answer": "Octopuses eat crabs, shrimp, clams, and fish. They hunt by sneaking up on prey or pouncing from a hiding place."
+    },
+    {
+      "question": "How many arms does an octopus have?",
+      "answer": "An octopus has eight arms lined with suckers. It has no tentacles."
+    },
+    {
+      "question": "Can octopuses change color?",
+      "answer": "Yes. Octopuses can change color and skin texture quickly to hide from predators or communicate."
+    },
+    {
+      "question": "How smart are octopuses?",
+      "answer": "Octopuses are among the most intelligent invertebrates. They can solve puzzles, open jars, and remember solutions."
+    },
+    {
+      "question": "How long do octopuses live?",
+      "answer": "Most common octopuses live only one to two years. Females often die soon after their eggs hatch."
+    }
+  ],
+  "relatedAnimals": [
+    "bottlenose-dolphin",
+    "great-white-shark",
+    "pufferfish"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "octopus-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

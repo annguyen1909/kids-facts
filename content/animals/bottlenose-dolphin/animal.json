@@ -2,13 +2,19 @@
   "id": "animal-bottlenose-dolphin",
   "slug": "bottlenose-dolphin",
   "name": "Bottlenose Dolphin",
-  "commonNames": ["Common bottlenose dolphin"],
+  "commonNames": [
+    "Common bottlenose dolphin"
+  ],
   "scientificName": "Tursiops truncatus",
   "summary": "Bottlenose dolphins are intelligent marine mammals that use sound to explore the ocean, find food, and communicate with their pod.",
-  "heroTitle": "Bottlenose Dolphin Facts for Kids",
-  "metaTitle": "Bottlenose Dolphin Facts for Kids",
-  "metaDescription": "Bottlenose dolphin facts for kids with photos, ocean habitat, diet, pod behavior, and supporting learning pages.",
-  "searchIntents": ["bottlenose dolphin facts for kids", "what do dolphins eat", "where do dolphins live"],
+  "heroTitle": "Bottlenose Dolphin Facts",
+  "metaTitle": "Bottlenose Dolphin Facts",
+  "metaDescription": "Bottlenose dolphin facts with photos, ocean habitat, diet, pod behavior, and fun facts.",
+  "searchIntents": [
+    "bottlenose dolphin facts",
+    "what do dolphins eat",
+    "where do dolphins live"
+  ],
   "taxonomy": {
     "kingdom": "Animalia",
     "phylum": "Chordata",
@@ -18,13 +24,27 @@
     "genus": "Tursiops",
     "species": "T. truncatus"
   },
-  "classificationLabels": ["mammal", "carnivore", "medium"],
-  "habitats": ["ocean", "coast", "bay"],
-  "continents": ["Worldwide"],
-  "countries": ["United States", "Australia", "South Africa"],
-  "biomes": ["marine"],
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "United States",
+    "Australia",
+    "South Africa"
+  ],
+  "biomes": [
+    "marine"
+  ],
   "dietType": "Carnivore",
-  "dietItems": ["fish", "squid"],
+  "dietItems": [
+    "fish",
+    "squid"
+  ],
   "lifespan": {
     "wild": "40 to 60 years"
   },
@@ -39,10 +59,24 @@
   "speed": "Up to 20 mph",
   "conservationStatus": "Least Concern",
   "populationTrend": "Stable",
-  "behaviors": ["pod living", "echolocation", "surface breathing"],
-  "adaptations": ["blowhole", "streamlined body", "echolocation"],
-  "predators": ["sharks", "orcas"],
-  "prey": ["fish", "squid"],
+  "behaviors": [
+    "pod living",
+    "echolocation",
+    "surface breathing"
+  ],
+  "adaptations": [
+    "blowhole",
+    "streamlined body",
+    "echolocation"
+  ],
+  "predators": [
+    "sharks",
+    "orcas"
+  ],
+  "prey": [
+    "fish",
+    "squid"
+  ],
   "reproduction": {
     "offspringName": "calf",
     "gestationOrIncubation": "About 12 months",
@@ -57,19 +91,24 @@
   "faq": [
     {
       "question": "Are dolphins fish?",
-      "answer": "No. Dolphins are mammals because they breathe air and feed milk to their young.",
-      "targetPage": "core"
+      "answer": "No. Dolphins are mammals because they breathe air and feed milk to their young."
     },
     {
       "question": "What do bottlenose dolphins eat?",
-      "answer": "They eat fish, squid, and other small sea animals.",
-      "targetPage": "diet"
+      "answer": "They eat fish, squid, and other small sea animals."
     }
   ],
-  "relatedAnimals": ["lion", "african-elephant"],
-  "comparisonCandidates": ["lion"],
-  "galleryIds": ["dolphin-gallery-main", "dolphin-gallery-habitat"],
-  "supportingPageIds": ["dolphin-diet", "dolphin-habitat", "dolphin-behavior"],
+  "relatedAnimals": [
+    "lion",
+    "african-elephant"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "dolphin-gallery-main"
+  ],
   "updatedAt": "2026-06-21T00:00:00.000Z",
-  "publishedAt": "2026-06-21T00:00:00.000Z"
+  "publishedAt": "2026-06-21T00:00:00.000Z",
+  "habitat": "ocean"
 }

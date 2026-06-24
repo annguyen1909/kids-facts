@@ -1,0 +1,33 @@
+{
+  "id": "hippopotamus-range",
+  "animalSlug": "hippopotamus",
+  "slug": "hippopotamus-range",
+  "fileName": "Chobe River Front, Botswana (2625496300).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Chobe_River_Front%2C_Botswana_%282625496300%29.jpg",
+  "width": 3008,
+  "height": 2000,
+  "alt": "River landscape where hippos live in southern Africa",
+  "caption": "Wild hippos live in rivers and wetlands across sub-Saharan Africa.",
+  "attributionText": "Photo by Joachim Huber from Switzerland via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chobe_River_Front%2C_Botswana_(2625496300).jpg\">Joachim Huber from Switzerland</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chobe_River_Front%2C_Botswana_(2625496300).jpg",
+    "creatorName": "Joachim Huber from Switzerland",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:55.330Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Chobe River, Botswana",
+  "acquisitionNotes": "Manually curated hippopotamus range image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:55.330Z"
+}

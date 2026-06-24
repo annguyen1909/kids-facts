@@ -1,0 +1,33 @@
+{
+  "id": "wolf-closeup",
+  "animalSlug": "wolf",
+  "slug": "wolf-closeup",
+  "fileName": "Mexican Wolf 2 yfb-edit 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mexican_Wolf_2_yfb-edit_1.jpg",
+  "width": 3000,
+  "height": 1999,
+  "alt": "Close-up of a gray wolf face with alert eyes",
+  "caption": "A wolf's sharp senses of smell and hearing help the pack find prey.",
+  "attributionText": "Photo by Clark, Jim (U.S. Fish and Wildlife Service) via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mexican_Wolf_2_yfb-edit_1.jpg\">Clark, Jim (U.S. Fish and Wildlife Service)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Mexican_Wolf_2_yfb-edit_1.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mexican_Wolf_2_yfb-edit_1.jpg",
+    "creatorName": "Clark, Jim (U.S. Fish and Wildlife Service)",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mexican_Wolf_2_yfb-edit_1.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated wolf close-up image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z"
+}

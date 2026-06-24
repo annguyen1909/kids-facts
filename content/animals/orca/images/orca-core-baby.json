@@ -1,0 +1,33 @@
+{
+  "id": "orca-core-baby",
+  "animalSlug": "orca",
+  "slug": "orca-core-baby",
+  "fileName": "Type C OrcasEdit1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Type_C_OrcasEdit1.jpg",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Young orca swimming close beside adults",
+  "caption": "Orca calves stay near adults while learning how the pod moves and hunts.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Antarctic waters",
+  "acquisitionNotes": "Core article image curated separately from the orca gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "attributionText": "Photo by Robert Pitman, National Science Foundation via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg\">Robert Pitman, National Science Foundation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg",
+    "creatorName": "Robert Pitman, National Science Foundation",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T06:50:52.279Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

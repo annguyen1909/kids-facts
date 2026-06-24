@@ -10,20 +10,6 @@ export type AnimalImageKind =
   | "fun-fact"
   | "gallery";
 
-export type SupportingPageSlug =
-  | "diet"
-  | "habitat"
-  | "lifespan"
-  | "size"
-  | "behavior"
-  | "life-cycle"
-  | "babies"
-  | "predators-and-threats"
-  | "adaptations"
-  | "conservation-status"
-  | "where-does-it-live"
-  | "what-does-it-eat";
-
 export type GalleryTopicSlug =
   | "hero"
   | "habitat"
@@ -82,7 +68,7 @@ export type AnimalImage = {
   };
   imageType: AnimalImageKind;
   galleryTopics: GalleryTopicSlug[];
-  featuredOnPages: Array<"core" | SupportingPageSlug | "gallery">;
+  featuredOnPages: Array<"core" | "gallery">;
   location: string;
   acquisitionNotes?: string;
   updatedAt: string;
@@ -91,7 +77,6 @@ export type AnimalImage = {
 export type AnimalFaq = {
   question: string;
   answer: string;
-  targetPage: "core" | SupportingPageSlug;
 };
 
 export type AnimalCoreRecord = {
@@ -115,7 +100,7 @@ export type AnimalCoreRecord = {
     species: string;
   };
   classificationLabels: string[];
-  habitats: string[];
+  habitat: string;
   continents: string[];
   countries: string[];
   biomes: string[];
@@ -154,29 +139,8 @@ export type AnimalCoreRecord = {
   relatedAnimals: string[];
   comparisonCandidates: string[];
   galleryIds: string[];
-  supportingPageIds: string[];
   updatedAt: string;
   publishedAt: string;
-};
-
-export type AnimalSupportingPageRecord = {
-  id: string;
-  animalSlug: string;
-  pageType: "supporting";
-  slug: SupportingPageSlug;
-  title: string;
-  metaTitle: string;
-  metaDescription: string;
-  intro: string;
-  intentKeywords: string[];
-  faq: Array<{
-    question: string;
-    answer: string;
-  }>;
-  galleryTopics: GalleryTopicSlug[];
-  relatedPageSlugs: SupportingPageSlug[];
-  body: string;
-  updatedAt: string;
 };
 
 export type AnimalGalleryRecord = {
@@ -232,7 +196,6 @@ export type HubRecord = {
 export type AnimalRecord = {
   core: AnimalCoreRecord;
   coreBody: string;
-  supportingPages: AnimalSupportingPageRecord[];
   galleries: AnimalGalleryRecord[];
   images: AnimalImage[];
 };
@@ -244,11 +207,6 @@ export type ComparisonResolvedRecord = {
 
 export type ResolvedEntity =
   | { type: "animal"; animal: AnimalRecord }
-  | {
-      type: "supporting";
-      animal: AnimalRecord;
-      page: AnimalSupportingPageRecord;
-    }
   | {
       type: "gallery";
       animal: AnimalRecord;

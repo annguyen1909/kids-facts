@@ -1,0 +1,33 @@
+{
+  "id": "chameleon-baby",
+  "animalSlug": "chameleon",
+  "slug": "chameleon-baby",
+  "fileName": "Washington DC Zoo - Chamaeleo calyptratus - 1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg",
+  "width": 2716,
+  "height": 1825,
+  "alt": "Young veiled chameleon on a branch",
+  "caption": "Baby chameleons hatch from eggs and can climb soon after birth.",
+  "attributionText": "Photo by Jarek Tuszyński via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg\">Jarek Tuszyński</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg",
+    "creatorName": "Jarek Tuszyński",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:20.803Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Washington, D.C., USA",
+  "acquisitionNotes": "Manually curated young chameleon image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:20.803Z"
+}

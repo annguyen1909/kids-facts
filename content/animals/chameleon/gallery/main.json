@@ -1,0 +1,22 @@
+{
+  "id": "chameleon-gallery-main",
+  "animalSlug": "chameleon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Veiled Chameleon Photo Gallery",
+  "metaTitle": "Veiled Chameleon Photo Gallery",
+  "metaDescription": "Browse a veiled chameleon photo gallery with wildlife photos.",
+  "intro": "Explore veiled chameleon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "chameleon-hero",
+    "chameleon-habitat",
+    "chameleon-diet",
+    "chameleon-baby",
+    "chameleon-family",
+    "chameleon-range",
+    "chameleon-size",
+    "chameleon-closeup",
+    "chameleon-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:51:35.919Z"
+}

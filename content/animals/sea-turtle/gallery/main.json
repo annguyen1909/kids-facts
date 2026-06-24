@@ -1,0 +1,22 @@
+{
+  "id": "sea-turtle-gallery-main",
+  "animalSlug": "sea-turtle",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Green Sea Turtle Photo Gallery",
+  "metaTitle": "Green Sea Turtle Photo Gallery",
+  "metaDescription": "Browse a green sea turtle photo gallery with wildlife photos.",
+  "intro": "Explore green sea turtle photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "sea-turtle-hero",
+    "sea-turtle-habitat",
+    "sea-turtle-diet",
+    "sea-turtle-baby",
+    "sea-turtle-family",
+    "sea-turtle-range",
+    "sea-turtle-size",
+    "sea-turtle-closeup",
+    "sea-turtle-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T08:58:39.741Z"
+}

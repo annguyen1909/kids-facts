@@ -1,0 +1,22 @@
+{
+  "id": "gazelle-gallery-main",
+  "animalSlug": "gazelle",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Gazelle Photo Gallery",
+  "metaTitle": "Gazelle Photo Gallery",
+  "metaDescription": "Browse a gazelle photo gallery with grazing herds, fawns, open grassland habitat, and close-up antelope images.",
+  "intro": "Explore gazelle photos for learning and classroom observation, from fast-running herds to hidden fawns in dry grass.",
+  "imageSlugs": [
+    "gazelle-hero",
+    "gazelle-habitat",
+    "gazelle-diet",
+    "gazelle-baby",
+    "gazelle-family",
+    "gazelle-range",
+    "gazelle-size",
+    "gazelle-closeup",
+    "gazelle-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "otter-core-baby",
+  "animalSlug": "otter",
+  "slug": "otter-core-baby",
+  "fileName": "A newborn baby Sea Otter, Enhydra lutris, Morro Bay.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg",
+  "width": 4979,
+  "height": 3319,
+  "alt": "Very young sea otter pup floating at the surface",
+  "caption": "A newborn sea otter pup floats because its fur traps so much air.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Morro Bay, California",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg",
+    "creatorName": "Mike Baird from Morro Bay, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

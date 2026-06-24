@@ -1,0 +1,33 @@
+{
+  "id": "eagle-fun-fact",
+  "animalSlug": "eagle",
+  "slug": "eagle-fun-fact",
+  "fileName": "Bald eagle in a nosedive.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bald_eagle_in_a_nosedive.jpg",
+  "width": 1933,
+  "height": 1994,
+  "alt": "Bald eagle diving steeply with wings tucked during a hunt",
+  "caption": "When diving for prey, a bald eagle can reach speeds near 100 mph.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated bald eagle fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Michael Gäbler via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagle_in_a_nosedive.jpg\">Michael Gäbler</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_eagle_in_a_nosedive.jpg",
+    "creatorName": "Michael Gäbler",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

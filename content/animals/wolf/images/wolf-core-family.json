@@ -1,0 +1,33 @@
+{
+  "id": "wolf-core-family",
+  "animalSlug": "wolf",
+  "slug": "wolf-core-family",
+  "fileName": "Canis lupus Parc des Loups 002.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Canis_lupus_Parc_des_Loups_002.jpg",
+  "width": 682,
+  "height": 512,
+  "alt": "Two wolves standing together in woodland",
+  "caption": "Pack members cooperate to hunt, raise pups, and defend their territory.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "France",
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by Jairo S. Feris Delgado ( ia:User:Jasef ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_Parc_des_Loups_002.jpg\">Jairo S. Feris Delgado ( ia:User:Jasef )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canis_lupus_Parc_des_Loups_002.jpg",
+    "creatorName": "Jairo S. Feris Delgado ( ia:User:Jasef )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

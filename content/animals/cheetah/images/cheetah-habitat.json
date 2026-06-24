@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-habitat",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-habitat",
+  "fileName": "Acinonyx jubatus -Southern Namibia-8.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Acinonyx_jubatus_-Southern_Namibia-8.jpg",
+  "width": 3008,
+  "height": 2000,
+  "alt": "Cheetah beside scrubby grassland in Namibia",
+  "caption": "Cheetahs live in open grasslands, savannas, and dry scrub where they can spot prey.",
+  "attributionText": "Photo by Joachim Huber via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Acinonyx_jubatus_-Southern_Namibia-8.jpg\">Joachim Huber</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acinonyx_jubatus_-Southern_Namibia-8.jpg",
+    "creatorName": "Joachim Huber",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Namibia",
+  "acquisitionNotes": "Manually curated cheetah habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:36.035Z"
+}

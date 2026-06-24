@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-hero",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-hero",
+  "fileName": "Raccoon (Procyon lotor) 2.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Raccoon_%28Procyon_lotor%29_2.jpg",
+  "width": 1280,
+  "height": 1080,
+  "alt": "Raccoon with black mask markings and ringed tail",
+  "caption": "Raccoons are clever mammals known for their black mask and bushy ringed tail.",
+  "attributionText": "Photo by Darkone via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg\">Darkone</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg",
+    "creatorName": "Darkone",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated raccoon hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "animal-angelfish",
+  "slug": "angelfish",
+  "name": "Angelfish",
+  "commonNames": [
+    "Angelfish",
+    "Emperor Angelfish",
+    "Imperator Angelfish"
+  ],
+  "scientificName": "Pomacanthus imperator",
+  "summary": "Emperor angelfish are dazzling reef fish with bold blue and yellow stripes. They live on tropical coral reefs from the Red Sea to the Pacific and are famous for their dramatic color change as they grow.",
+  "heroTitle": "Angelfish Facts",
+  "metaTitle": "Angelfish Facts | Reef Habitat, Diet & Photos",
+  "metaDescription": "Discover emperor angelfish facts with photos, coral reef habitat, diet, juvenile colors, and range. Learn where angelfish live and how they change as they grow.",
+  "searchIntents": [
+    "angelfish facts",
+    "emperor angelfish facts",
+    "what do angelfish eat",
+    "where do angelfish live",
+    "why do angelfish change color",
+    "how big is an emperor angelfish"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacanthidae",
+    "genus": "Pomacanthus",
+    "species": "P. imperator"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Africa",
+    "Asia",
+    "Oceania"
+  ],
+  "countries": [
+    "Egypt",
+    "Indonesia",
+    "Australia",
+    "Philippines",
+    "Japan",
+    "Maldives",
+    "Oman",
+    "French Polynesia"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "sponges",
+    "algae",
+    "small invertebrates",
+    "tunicates"
+  ],
+  "lifespan": {
+    "wild": "Up to 20 years",
+    "captivity": "Up to 15 years in aquariums"
+  },
+  "size": {
+    "lengthMin": "10 inches",
+    "lengthMax": "15 inches"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "3 pounds"
+  },
+  "speed": "Steady reef swimmer with quick turns",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "territory defense",
+    "reef grazing",
+    "color change with age",
+    "pair bonding",
+    "hiding in coral"
+  ],
+  "adaptations": [
+    "bright warning colors",
+    "sharp teeth for grazing",
+    "juvenile camouflage pattern",
+    "flat body for reef gaps",
+    "long dorsal fin"
+  ],
+  "predators": [
+    "sharks",
+    "groupers",
+    "humans",
+    "large reef fish"
+  ],
+  "prey": [
+    "sponges",
+    "algae",
+    "small invertebrates"
+  ],
+  "reproduction": {
+    "offspringName": "larvae",
+    "gestationOrIncubation": "Eggs hatch in open water after spawning",
+    "offspringCount": "Thousands of eggs per spawning"
+  },
+  "funFacts": [
+    "Juvenile emperor angelfish look completely different from adults.",
+    "Their stripes may help them defend territory on the reef.",
+    "Angelfish can live more than 15 years in the wild.",
+    "They nip sponges and algae with sharp, beak-like teeth.",
+    "Emperor angelfish are popular in aquariums because of their colors.",
+    "They live across a huge range from the Red Sea to Hawaii."
+  ],
+  "faq": [
+    {
+      "question": "What is an angelfish?",
+      "answer": "An angelfish is a colorful reef fish. The emperor angelfish is one of the most famous species, known for blue and yellow stripes."
+    },
+    {
+      "question": "Where do angelfish live?",
+      "answer": "Emperor angelfish live on coral reefs in the Indian and Pacific oceans, from the Red Sea and East Africa to Hawaii and Polynesia."
+    },
+    {
+      "question": "What do angelfish eat?",
+      "answer": "Angelfish eat sponges, algae, and small invertebrates they find on coral and rocky reefs."
+    },
+    {
+      "question": "Why do angelfish change color?",
+      "answer": "Young angelfish have ring patterns that help them hide. As they grow, their colors slowly change into the bold stripes of adults."
+    },
+    {
+      "question": "How big is an emperor angelfish?",
+      "answer": "Adult emperor angelfish usually grow about 10 to 15 inches long."
+    },
+    {
+      "question": "Are angelfish endangered?",
+      "answer": "Emperor angelfish are listed as Least Concern, but reef damage and collection for aquariums can harm local populations."
+    },
+    {
+      "question": "Do angelfish live alone?",
+      "answer": "Adults often defend a reef territory and may stay with a partner on the same reef."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "pufferfish",
+    "great-white-shark"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "angelfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

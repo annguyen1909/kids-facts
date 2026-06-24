@@ -1,0 +1,33 @@
+{
+  "id": "tiger-core-diet",
+  "animalSlug": "tiger",
+  "slug": "tiger-core-diet",
+  "fileName": "tiger-core-diet.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_Tiger_Strikes.jpg",
+  "width": 3536,
+  "height": 2371,
+  "alt": "Bengal tiger hunting prey in Assam, India",
+  "caption": "A tiger stalks large prey such as deer and wild pigs before a short, powerful attack.",
+  "attributionText": "Photo by PawanJaidka via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:The_Tiger_Strikes.jpg\">PawanJaidka</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tiger_Strikes.jpg",
+    "creatorName": "PawanJaidka",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T12:00:00.000Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Assam, India",
+  "acquisitionNotes": "Core article diet image — hunting scene, separate from gallery eating photo.",
+  "updatedAt": "2026-06-22T12:00:00.000Z"
+}

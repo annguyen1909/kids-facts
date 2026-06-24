@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-baby",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-baby",
+  "fileName": "Meerkat (Suricata suricatta) with 3 young.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Meerkat_%28Suricata_suricatta%29_with_3_young.jpg",
+  "width": 3648,
+  "height": 3648,
+  "alt": "Adult meerkat with three young pups",
+  "caption": "Baby meerkats are called pups and are raised by the whole group.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_with_3_young.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_with_3_young.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated meerkat pup image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:13.126Z"
+}

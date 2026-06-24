@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-core-baby",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-core-baby",
+  "fileName": "Baby chimpanzee-MGL 95208-P5030049-black.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Baby_chimpanzee-MGL_95208-P5030049-black.jpg",
+  "width": 2000,
+  "height": 2000,
+  "alt": "Very young chimpanzee infant clinging close",
+  "caption": "Infants ride on their mother's body and learn by watching adults.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Rama via Wikimedia Commons, CC BY-SA 3.0 fr",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_chimpanzee-MGL_95208-P5030049-black.jpg\">Rama</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en\">CC BY-SA 3.0 fr</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_chimpanzee-MGL_95208-P5030049-black.jpg",
+    "creatorName": "Rama",
+    "licenseName": "CC BY-SA 3.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-size",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-size",
+  "fileName": "Grizzly Denali edit.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Grizzly_Denali_edit.jpg",
+  "width": 1600,
+  "height": 1126,
+  "alt": "Large grizzly bear showing powerful body size",
+  "caption": "Adult grizzlies can weigh more than 600 pounds and stand over 8 feet tall.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Denali, Alaska, USA",
+  "acquisitionNotes": "Manually curated grizzly bear size image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Denali_edit.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Denali_edit.jpg",
+    "creatorName": "Unknown creator",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

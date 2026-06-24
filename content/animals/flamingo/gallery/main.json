@@ -1,0 +1,22 @@
+{
+  "id": "flamingo-gallery-main",
+  "animalSlug": "flamingo",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "American Flamingo Photo Gallery",
+  "metaTitle": "American Flamingo Photo Gallery",
+  "metaDescription": "Browse a american flamingo photo gallery with wildlife photos.",
+  "intro": "Explore american flamingo photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "flamingo-hero",
+    "flamingo-habitat",
+    "flamingo-diet",
+    "flamingo-baby",
+    "flamingo-family",
+    "flamingo-range",
+    "flamingo-size",
+    "flamingo-closeup",
+    "flamingo-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T12:30:55.127Z"
+}

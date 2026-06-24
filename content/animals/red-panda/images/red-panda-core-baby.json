@@ -1,0 +1,33 @@
+{
+  "id": "red-panda-core-baby",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-core-baby",
+  "fileName": "1280px-Dortmund-Zoo-Kleiner_Panda151921.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Red_panda_cub_%288938075606%29.jpg",
+  "width": 2048,
+  "height": 1365,
+  "alt": "Young red panda cub resting on a mossy branch in the wild",
+  "caption": "Red panda cubs stay with their mother for months after birth.",
+  "attributionText": "Photo by Mathias Appel via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_panda_cub_(8938075606).jpg\">Mathias Appel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_panda_cub_(8938075606).jpg",
+    "creatorName": "Mathias Appel",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-23T03:28:27.024Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Mountain forest, Asia",
+  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
+  "updatedAt": "2026-06-23T03:28:27.024Z"
+}

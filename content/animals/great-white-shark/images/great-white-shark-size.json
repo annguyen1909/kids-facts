@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-size",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-size",
+  "fileName": "Great white shark at Isla Guadalupe, Mexico, 2017. Shark cage diving MV Horizon. Animal estimated at 16-18 feet in length, age unknown.png",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Great_white_shark_at_Isla_Guadalupe%2C_Mexico%2C_2017._Shark_cage_diving_MV_Horizon._Animal_estimated_at_16-18_feet_in_length%2C_age_unknown.png",
+  "width": 2858,
+  "height": 1590,
+  "alt": "Large great white shark showing full body length underwater",
+  "caption": "Adult great white sharks can grow longer than a small car.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Isla Guadalupe, Mexico",
+  "acquisitionNotes": "Manually curated great white shark size image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Horizon Charters via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_white_shark_at_Isla_Guadalupe%2C_Mexico%2C_2017._Shark_cage_diving_MV_Horizon._Animal_estimated_at_16-18_feet_in_length%2C_age_unknown.png\">Horizon Charters</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_white_shark_at_Isla_Guadalupe%2C_Mexico%2C_2017._Shark_cage_diving_MV_Horizon._Animal_estimated_at_16-18_feet_in_length%2C_age_unknown.png",
+    "creatorName": "Horizon Charters",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

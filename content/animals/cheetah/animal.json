@@ -1,0 +1,165 @@
+{
+  "id": "animal-cheetah",
+  "slug": "cheetah",
+  "name": "Cheetah",
+  "commonNames": [
+    "Cheetah",
+    "African cheetah",
+    "Asiatic cheetah"
+  ],
+  "scientificName": "Acinonyx jubatus",
+  "summary": "Cheetahs are slim, long-legged cats built for speed. They live mostly in open African grasslands, hunt by day with quick bursts of speed, and use black tear marks to reduce glare.",
+  "heroTitle": "Cheetah Facts",
+  "metaTitle": "Cheetah Facts | Habitat, Speed, Diet & Photos",
+  "metaDescription": "Discover cheetah facts with photos, speed, habitat, diet, cub life, and conservation. Learn where cheetahs live and why they are the fastest land animals.",
+  "searchIntents": [
+    "cheetah facts",
+    "how fast can a cheetah run",
+    "where do cheetahs live",
+    "what do cheetahs eat",
+    "are cheetahs endangered",
+    "why do cheetahs have tear marks"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Acinonyx",
+    "species": "A. jubatus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "fast"
+  ],
+  "continents": [
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Botswana",
+    "South Africa",
+    "Iran"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "gazelle",
+    "hare",
+    "young wildebeest",
+    "impala",
+    "ground birds"
+  ],
+  "lifespan": {
+    "wild": "10 to 12 years",
+    "captivity": "Up to 17 years in human care"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "5 feet",
+    "heightMin": "2.3 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "46 pounds",
+    "max": "160 pounds"
+  },
+  "speed": "Up to 60 to 70 mph in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "daytime hunting",
+    "short sprint chases",
+    "scent marking",
+    "male coalitions",
+    "cub hiding"
+  ],
+  "adaptations": [
+    "lightweight body",
+    "long legs",
+    "flexible spine",
+    "semi-retractable claws",
+    "tear marks that reduce sun glare"
+  ],
+  "predators": [
+    "lions",
+    "hyenas",
+    "leopards",
+    "humans"
+  ],
+  "prey": [
+    "gazelle",
+    "impala",
+    "hare",
+    "young antelope"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 3 months",
+    "offspringCount": "Usually 3 to 5 cubs"
+  },
+  "funFacts": [
+    "The cheetah is the fastest land animal on Earth.",
+    "Black tear marks under a cheetah's eyes help cut glare in bright sunlight.",
+    "A cheetah's claws do not pull all the way in like most cats' claws.",
+    "Cheetahs usually hunt during the day instead of at night.",
+    "Male cheetahs often live in small groups called coalitions.",
+    "A sprinting cheetah uses its tail like a rudder when turning."
+  ],
+  "faq": [
+    {
+      "question": "What is a cheetah?",
+      "answer": "A cheetah is a large wild cat built for speed. It has a slim body, long legs, black spots, and dark tear marks below its eyes."
+    },
+    {
+      "question": "How fast can a cheetah run?",
+      "answer": "A cheetah can reach about 60 to 70 miles per hour for a very short chase. It cannot keep that top speed for long."
+    },
+    {
+      "question": "Where do cheetahs live?",
+      "answer": "Most wild cheetahs live in African savannas, grasslands, and open woodlands. A very small population also survives in Iran."
+    },
+    {
+      "question": "What do cheetahs eat?",
+      "answer": "Cheetahs are carnivores that eat meat. They often hunt gazelles, impalas, hares, and other small to medium animals."
+    },
+    {
+      "question": "Do cheetahs roar like lions?",
+      "answer": "No. Cheetahs cannot roar like lions. They make chirps, purrs, growls, and yelps instead."
+    },
+    {
+      "question": "Why do cheetahs have tear marks?",
+      "answer": "The dark streaks below a cheetah's eyes help reduce glare from the sun and may help it focus on prey."
+    },
+    {
+      "question": "What is a baby cheetah called?",
+      "answer": "A baby cheetah is called a cub. Cubs stay hidden in cover when they are very young."
+    },
+    {
+      "question": "Are cheetahs endangered?",
+      "answer": "Cheetahs are listed as Vulnerable, which means they need protection. Habitat loss and conflict with people make survival harder."
+    }
+  ],
+  "relatedAnimals": [
+    "lion",
+    "zebra",
+    "gazelle"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "cheetah-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "savanna"
+}

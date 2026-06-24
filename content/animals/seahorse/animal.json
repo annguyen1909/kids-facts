@@ -1,0 +1,152 @@
+{
+  "id": "animal-seahorse",
+  "slug": "seahorse",
+  "name": "Seahorse",
+  "commonNames": [
+    "Seahorse",
+    "Lined Seahorse"
+  ],
+  "scientificName": "Hippocampus erectus",
+  "summary": "Lined seahorses are tiny fish with horse-like heads, curly tails, and one of the ocean's most unusual family roles—males carry the eggs.",
+  "heroTitle": "Seahorse Facts",
+  "metaTitle": "Seahorse Facts | Reef Habitat, Diet & Photos",
+  "metaDescription": "Discover lined seahorse facts with photos, seagrass habitat, tiny prey diet, fry life, and male pregnancy. Learn where seahorses live and how they grip plants.",
+  "searchIntents": [
+    "seahorse facts",
+    "what do seahorses eat",
+    "where do seahorses live",
+    "why do male seahorses get pregnant",
+    "what is a baby seahorse called",
+    "are seahorses fish"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Hippocampus",
+    "species": "H. erectus"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Brazil",
+    "Bahamas"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef",
+    "seagrass"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "tiny shrimp",
+    "plankton",
+    "small crustaceans"
+  ],
+  "lifespan": {
+    "wild": "1 to 5 years",
+    "captivity": "Up to 5 years in aquariums"
+  },
+  "size": {
+    "lengthMin": "4 inches",
+    "lengthMax": "6 inches"
+  },
+  "weight": {
+    "min": "0.2 ounces",
+    "max": "0.5 ounces"
+  },
+  "speed": "Slow swimmer that grips plants to stay in place",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "tail gripping",
+    "male brood care",
+    "camouflage",
+    "pair bonding",
+    "suction feeding"
+  ],
+  "adaptations": [
+    "prehensile tail",
+    "independent eye movement",
+    "camouflage coloration",
+    "long snout",
+    "brood pouch in males"
+  ],
+  "predators": [
+    "crabs",
+    "larger fish",
+    "humans"
+  ],
+  "prey": [
+    "tiny shrimp",
+    "plankton",
+    "small crustaceans"
+  ],
+  "reproduction": {
+    "offspringName": "fry",
+    "gestationOrIncubation": "About 2 to 4 weeks in the male pouch",
+    "offspringCount": "Dozens to hundreds of fry"
+  },
+  "funFacts": [
+    "Seahorses are fish, even though they look very different from most fish.",
+    "Male seahorses carry eggs in a brood pouch until they hatch.",
+    "A seahorse can move each eye separately.",
+    "They have no teeth and suck food through a long snout.",
+    "Their curled tails can grip seagrass and coral.",
+    "Seahorses must eat constantly because they have no stomach."
+  ],
+  "faq": [
+    {
+      "question": "What is a seahorse?",
+      "answer": "A seahorse is a small fish with a horse-like head, a curled tail, and a body covered in bony plates."
+    },
+    {
+      "question": "Are seahorses fish?",
+      "answer": "Yes. Seahorses are fish with gills and fins, even though they swim upright and look unusual."
+    },
+    {
+      "question": "Where do seahorses live?",
+      "answer": "Lined seahorses live in coastal Atlantic waters from Nova Scotia to Brazil, often near seagrass and reefs."
+    },
+    {
+      "question": "What do seahorses eat?",
+      "answer": "Seahorses eat tiny shrimp, plankton, and other small animals they suck in through their snout."
+    },
+    {
+      "question": "Why do male seahorses get pregnant?",
+      "answer": "Females place eggs in the male's brood pouch, where he cares for them until the babies hatch."
+    },
+    {
+      "question": "What is a baby seahorse called?",
+      "answer": "A baby seahorse is called a fry. Fry are very tiny when they leave the pouch."
+    },
+    {
+      "question": "Are seahorses endangered?",
+      "answer": "Lined seahorses are listed as Vulnerable because of habitat loss, pollution, and collection for aquariums."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "sea-turtle",
+    "pufferfish"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "seahorse-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

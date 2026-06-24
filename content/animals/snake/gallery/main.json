@@ -1,0 +1,22 @@
+{
+  "id": "snake-gallery-main",
+  "animalSlug": "snake",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ball Python Photo Gallery",
+  "metaTitle": "Ball Python Photo Gallery",
+  "metaDescription": "Browse a ball python photo gallery with wildlife photos.",
+  "intro": "Explore ball python photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "snake-hero",
+    "snake-habitat",
+    "snake-diet",
+    "snake-baby",
+    "snake-family",
+    "snake-range",
+    "snake-size",
+    "snake-closeup",
+    "snake-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:51:52.900Z"
+}

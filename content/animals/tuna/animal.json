@@ -1,0 +1,157 @@
+{
+  "id": "animal-tuna",
+  "slug": "tuna",
+  "name": "Tuna",
+  "commonNames": [
+    "Tuna",
+    "Yellowfin Tuna",
+    "Ahi"
+  ],
+  "scientificName": "Thunnus albacares",
+  "summary": "Yellowfin tuna are fast, powerful ocean fish with metallic bodies and bright yellow fins. They swim in warm seas around the world and are among the strongest swimmers in the ocean.",
+  "heroTitle": "Tuna Facts",
+  "metaTitle": "Tuna Facts | Ocean Habitat, Diet & Photos",
+  "metaDescription": "Discover yellowfin tuna facts with photos, open-ocean habitat, diet, schools, and speed. Learn where tuna live and how these warm-blooded fish hunt at sea.",
+  "searchIntents": [
+    "tuna facts",
+    "what do tuna eat",
+    "where do tuna live",
+    "how fast can tuna swim",
+    "how big is a yellowfin tuna",
+    "are tuna endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Scombridae",
+    "genus": "Thunnus",
+    "species": "T. albacares"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Japan",
+    "Australia",
+    "Philippines",
+    "France",
+    "Seychelles",
+    "Ecuador"
+  ],
+  "biomes": [
+    "marine",
+    "pelagic"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "squid",
+    "crustaceans",
+    "flying fish",
+    "mackerel"
+  ],
+  "lifespan": {
+    "wild": "6 to 9 years",
+    "captivity": "Up to 10 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "7 feet"
+  },
+  "weight": {
+    "min": "20 pounds",
+    "max": "440 pounds"
+  },
+  "speed": "Can swim faster than 40 miles per hour in short bursts",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "schooling",
+    "open-ocean migration",
+    "fast pursuit hunting",
+    "deep diving",
+    "warm-blooded swimming"
+  ],
+  "adaptations": [
+    "torpedo-shaped body",
+    "yellow fin markings",
+    "warm muscle tissue",
+    "excellent vision",
+    "powerful tail"
+  ],
+  "predators": [
+    "sharks",
+    "orca",
+    "humans",
+    "large billfish"
+  ],
+  "prey": [
+    "fish",
+    "squid",
+    "crustaceans"
+  ],
+  "reproduction": {
+    "offspringName": "larvae",
+    "gestationOrIncubation": "Eggs hatch in open water after spawning",
+    "offspringCount": "Millions of eggs per spawning event"
+  },
+  "funFacts": [
+    "Yellowfin tuna are warm-blooded, which helps them swim fast in cool ocean water.",
+    "Their fins flash yellow, which is how they got the name yellowfin.",
+    "Tuna can cross entire oceans during their lives.",
+    "Schools of tuna may contain hundreds or thousands of fish.",
+    "Large yellowfin tuna are popular food fish around the world.",
+    "Tuna use their speed to chase prey in the open sea."
+  ],
+  "faq": [
+    {
+      "question": "What is a tuna?",
+      "answer": "A tuna is a large, fast ocean fish in the genus Thunnus. Yellowfin tuna are named for the bright yellow color on their fins."
+    },
+    {
+      "question": "Where do tuna live?",
+      "answer": "Yellowfin tuna live in warm tropical and subtropical oceans worldwide, usually far from shore in open water."
+    },
+    {
+      "question": "What do tuna eat?",
+      "answer": "Tuna eat fish, squid, and crustaceans. They are fast hunters that chase prey in the open ocean."
+    },
+    {
+      "question": "How fast can tuna swim?",
+      "answer": "Tuna are among the fastest fish and can swim faster than 40 miles per hour in short bursts."
+    },
+    {
+      "question": "How big is a yellowfin tuna?",
+      "answer": "Yellowfin tuna commonly grow 3 to 6 feet long. Very large adults can weigh more than 400 pounds."
+    },
+    {
+      "question": "Are tuna endangered?",
+      "answer": "Yellowfin tuna are listed as Near Threatened because heavy fishing has reduced populations in many regions."
+    },
+    {
+      "question": "Why are tuna warm-blooded?",
+      "answer": "Unlike most fish, tuna can keep their muscles warmer than the surrounding water, which helps them swim fast for long distances."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "salmon",
+    "blue-whale"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "tuna-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "ocean"
+}

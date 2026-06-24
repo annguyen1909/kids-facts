@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-diet",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-diet",
+  "fileName": "Green Sea Turtle grazing seagrass.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg",
+  "width": 3367,
+  "height": 2525,
+  "alt": "Green sea turtle feeding on seagrass underwater",
+  "caption": "Adult green sea turtles mainly eat seagrass and algae.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical ocean",
+  "acquisitionNotes": "Manually curated sea turtle diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "attributionText": "Photo by P.Lindgren via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_grazing_seagrass.jpg\">P.Lindgren</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_grazing_seagrass.jpg",
+    "creatorName": "P.Lindgren",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

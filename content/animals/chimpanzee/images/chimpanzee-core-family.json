@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-core-family",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-core-family",
+  "fileName": "Chimpanzee family group walking - DPLA - 26aa097401b8b4647820b30316085b92.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Chimpanzee_family_group_walking_-_DPLA_-_26aa097401b8b4647820b30316085b92.jpg",
+  "width": 3500,
+  "height": 2419,
+  "alt": "Chimpanzee family group walking together",
+  "caption": "Community members groom one another to strengthen social bonds.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee_family_group_walking_-_DPLA_-_26aa097401b8b4647820b30316085b92.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimpanzee_family_group_walking_-_DPLA_-_26aa097401b8b4647820b30316085b92.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

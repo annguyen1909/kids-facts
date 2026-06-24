@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "model": "gemini-2.5-flash-image",
+  "promptVersion": 5,
+  "items": [
+    {
+      "id": "sticker-lion",
+      "animal": "lion",
+      "status": "pending",
+      "placement": [
+        "home-hero"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Hero panel decoration"
+    },
+    {
+      "id": "sticker-giant-panda",
+      "animal": "giant panda",
+      "status": "pending",
+      "placement": [
+        "home-hero"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Hero panel decoration"
+    },
+    {
+      "id": "sticker-tiger",
+      "animal": "tiger",
+      "status": "pending",
+      "placement": [
+        "home-popular-animals"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Popular animals section corner"
+    },
+    {
+      "id": "sticker-african-elephant",
+      "animal": "African elephant",
+      "status": "pending",
+      "placement": [
+        "home-popular-animals",
+        "footer"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Featured animal + footer"
+    },
+    {
+      "id": "sticker-bottlenose-dolphin",
+      "animal": "bottlenose dolphin",
+      "status": "pending",
+      "placement": [
+        "home-categories-fish",
+        "home-explore-trails"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Fish category card area"
+    },
+    {
+      "id": "sticker-red-panda",
+      "animal": "red panda",
+      "status": "pending",
+      "placement": [
+        "not-found"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "404 page mascot"
+    },
+    {
+      "id": "sticker-monarch-butterfly",
+      "animal": "monarch butterfly",
+      "status": "pending",
+      "placement": [
+        "home-categories-insects",
+        "home-explore-trails"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Insects category card area"
+    },
+    {
+      "id": "sticker-bald-eagle",
+      "animal": "bald eagle",
+      "status": "pending",
+      "placement": [
+        "home-categories-birds",
+        "home-explore-trails"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Birds category card area"
+    },
+    {
+      "id": "sticker-sea-turtle",
+      "animal": "loggerhead sea turtle",
+      "status": "pending",
+      "placement": [
+        "home-categories-reptiles",
+        "home-explore-trails"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Reptiles category card area"
+    },
+    {
+      "id": "sticker-welsh-corgi",
+      "animal": "Welsh Corgi dog",
+      "status": "pending",
+      "placement": [
+        "footer"
+      ],
+      "src": null,
+      "generatedAt": null,
+      "notes": "Optional playful footer accent — only if you want a pet break from wildlife"
+    }
+  ]
+}

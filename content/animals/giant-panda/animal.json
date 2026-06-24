@@ -10,11 +10,11 @@
   ],
   "scientificName": "Ailuropoda melanoleuca",
   "summary": "Giant pandas are black-and-white bears from China that eat almost nothing but bamboo. They live in cool mountain forests, spend most of the day feeding, and are famous symbols of wildlife conservation.",
-  "heroTitle": "Giant Panda Facts for Kids",
-  "metaTitle": "Giant Panda Facts for Kids | Habitat, Diet, Bamboo & Photos",
-  "metaDescription": "Discover giant panda facts for kids with photos, bamboo diet, mountain habitat, cub life, and conservation. Learn where pandas live, what they eat, and why they are special.",
+  "heroTitle": "Giant Panda Facts",
+  "metaTitle": "Giant Panda Facts | Habitat, Diet, Bamboo & Photos",
+  "metaDescription": "Discover giant panda facts with photos, bamboo diet, mountain habitat, cub life, and conservation. Learn where pandas live, what they eat, and why they are special.",
   "searchIntents": [
-    "giant panda facts for kids",
+    "giant panda facts",
     "what do giant pandas eat",
     "where do giant pandas live",
     "how big is a giant panda",
@@ -30,13 +30,29 @@
     "genus": "Ailuropoda",
     "species": "A. melanoleuca"
   },
-  "classificationLabels": ["mammal", "herbivore", "large"],
-  "habitats": ["bamboo forest", "montane forest", "temperate forest"],
-  "continents": ["Asia"],
-  "countries": ["China"],
-  "biomes": ["temperate broadleaf forest", "montane forest", "bamboo forest"],
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "China"
+  ],
+  "biomes": [
+    "temperate broadleaf forest",
+    "montane forest",
+    "bamboo forest"
+  ],
   "dietType": "Herbivore",
-  "dietItems": ["bamboo leaves", "bamboo shoots", "bamboo stems", "occasional roots and fruit"],
+  "dietItems": [
+    "bamboo leaves",
+    "bamboo shoots",
+    "bamboo stems",
+    "occasional roots and fruit"
+  ],
   "lifespan": {
     "wild": "14 to 20 years",
     "captivity": "Up to 30 years in zoos and breeding centers"
@@ -68,8 +84,14 @@
     "large molars for grinding plants",
     "low-energy lifestyle"
   ],
-  "predators": ["snow leopards", "jackals", "humans"],
-  "prey": ["bamboo"],
+  "predators": [
+    "snow leopards",
+    "jackals",
+    "humans"
+  ],
+  "prey": [
+    "bamboo"
+  ],
   "reproduction": {
     "offspringName": "cub",
     "gestationOrIncubation": "About 95 to 160 days",
@@ -86,43 +108,41 @@
   "faq": [
     {
       "question": "What is a giant panda?",
-      "answer": "A giant panda is a large black-and-white bear from China. It eats mostly bamboo and lives in cool mountain forests.",
-      "targetPage": "core"
+      "answer": "A giant panda is a large black-and-white bear from China. It eats mostly bamboo and lives in cool mountain forests."
     },
     {
       "question": "Where do giant pandas live?",
-      "answer": "Wild giant pandas live only in mountain forests in central China, mainly in Sichuan, Shaanxi, and Gansu provinces.",
-      "targetPage": "habitat"
+      "answer": "Wild giant pandas live only in mountain forests in central China, mainly in Sichuan, Shaanxi, and Gansu provinces."
     },
     {
       "question": "What do giant pandas eat?",
-      "answer": "Giant pandas eat almost nothing but bamboo—leaves, shoots, and stems. Bamboo makes up about 99 percent of their diet.",
-      "targetPage": "diet"
+      "answer": "Giant pandas eat almost nothing but bamboo—leaves, shoots, and stems. Bamboo makes up about 99 percent of their diet."
     },
     {
       "question": "Are giant pandas endangered?",
-      "answer": "Giant pandas are listed as Vulnerable. Their numbers are slowly rising thanks to protected forests and breeding programs.",
-      "targetPage": "core"
+      "answer": "Giant pandas are listed as Vulnerable. Their numbers are slowly rising thanks to protected forests and breeding programs."
     },
     {
       "question": "Do giant pandas live in groups?",
-      "answer": "Adult giant pandas usually live alone. Mothers raise cubs until the young pandas can feed and survive on their own.",
-      "targetPage": "behavior"
+      "answer": "Adult giant pandas usually live alone. Mothers raise cubs until the young pandas can feed and survive on their own."
     },
     {
       "question": "Why do giant pandas eat bamboo?",
-      "answer": "Bamboo is available year-round in panda forests. Over time, giant pandas evolved to depend on it as their main food.",
-      "targetPage": "diet"
+      "answer": "Bamboo is available year-round in panda forests. Over time, giant pandas evolved to depend on it as their main food."
     }
   ],
-  "relatedAnimals": ["red-panda", "tiger", "african-elephant"],
-  "comparisonCandidates": ["red-panda"],
-  "galleryIds": ["giant-panda-gallery-main"],
-  "supportingPageIds": [
-    "giant-panda-diet",
-    "giant-panda-habitat",
-    "giant-panda-behavior"
+  "relatedAnimals": [
+    "red-panda",
+    "tiger",
+    "african-elephant"
+  ],
+  "comparisonCandidates": [
+    "red-panda"
+  ],
+  "galleryIds": [
+    "giant-panda-gallery-main"
   ],
   "updatedAt": "2026-06-22T00:00:00.000Z",
-  "publishedAt": "2026-06-22T00:00:00.000Z"
+  "publishedAt": "2026-06-22T00:00:00.000Z",
+  "habitat": "forest"
 }

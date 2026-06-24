@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-habitat",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-habitat",
+  "fileName": "Thomson Gazelle Ngorongoro 03.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Thomson_Gazelle_Ngorongoro_03.jpg",
+  "width": 3488,
+  "height": 2616,
+  "alt": "Gazelle standing in wide grassland habitat",
+  "caption": "Open grassland helps gazelles see predators and escape with speed.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Ngorongoro, Tanzania",
+  "acquisitionNotes": "Manually curated gazelle habitat image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Nicor via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson_Gazelle_Ngorongoro_03.jpg\">Nicor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomson_Gazelle_Ngorongoro_03.jpg",
+    "creatorName": "Nicor",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

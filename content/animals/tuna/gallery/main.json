@@ -1,0 +1,22 @@
+{
+  "id": "tuna-gallery-main",
+  "animalSlug": "tuna",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Yellowfin Tuna Photo Gallery",
+  "metaTitle": "Yellowfin Tuna Photo Gallery",
+  "metaDescription": "Browse a yellowfin tuna photo gallery with wildlife photos.",
+  "intro": "Explore yellowfin tuna photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "tuna-hero",
+    "tuna-habitat",
+    "tuna-diet",
+    "tuna-baby",
+    "tuna-family",
+    "tuna-range",
+    "tuna-size",
+    "tuna-closeup",
+    "tuna-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T10:34:26.304Z"
+}

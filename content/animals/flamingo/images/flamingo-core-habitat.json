@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-core-habitat",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-core-habitat",
+  "fileName": "Phoenicopterus ruber - Réserve africaine de Sigean 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Phoenicopterus_ruber_-_R%C3%A9serve_africaine_de_Sigean_02.jpg",
+  "width": 2596,
+  "height": 3898,
+  "alt": "American flamingos wading together in a shallow wetland",
+  "caption": "Salty or alkaline lagoons with little vegetation are classic flamingo habitat.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sigean, France",
+  "acquisitionNotes": "Core article image curated separately from the flamingo gallery set.",
+  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_R%C3%A9serve_africaine_de_Sigean_02.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_-_R%C3%A9serve_africaine_de_Sigean_02.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

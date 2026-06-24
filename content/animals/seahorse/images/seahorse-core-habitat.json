@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-core-habitat",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-core-habitat",
+  "fileName": "Lined seahorse, Hippocampus erectus.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lined_seahorse%2C_Hippocampus_erectus.jpg",
+  "width": 5184,
+  "height": 3456,
+  "alt": "Lined seahorse holding onto underwater vegetation",
+  "caption": "Seagrass and coral give seahorses places to hide from currents and predators.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
+  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "attributionText": "Photo by Brian Gratwicke via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lined_seahorse%2C_Hippocampus_erectus.jpg\">Brian Gratwicke</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lined_seahorse%2C_Hippocampus_erectus.jpg",
+    "creatorName": "Brian Gratwicke",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-core-diet",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-core-diet",
+  "fileName": "Gorilla gorilla01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gorilla_gorilla01.jpg",
+  "width": 763,
+  "height": 512,
+  "alt": "Western lowland gorilla feeding on forest vegetation",
+  "caption": "Adult gorillas spend hours each day foraging for leaves, fruit, and tender stems.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
+  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "attributionText": "Photo by Pierre Fidenci via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gorilla_gorilla01.jpg\">Pierre Fidenci</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorilla_gorilla01.jpg",
+    "creatorName": "Pierre Fidenci",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

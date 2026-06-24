@@ -1,0 +1,33 @@
+{
+  "id": "wolf-habitat",
+  "animalSlug": "wolf",
+  "slug": "wolf-habitat",
+  "fileName": "Iberian Wolf AdF 001.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Iberian_Wolf_AdF_001.jpg",
+  "width": 3000,
+  "height": 1996,
+  "alt": "Gray wolf in forest and scrubland habitat",
+  "caption": "Wolves live in forests, grasslands, tundra, and mountains across the Northern Hemisphere.",
+  "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iberian_Wolf_AdF_001.jpg\">Arturo de Frias Marques</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iberian_Wolf_AdF_001.jpg",
+    "creatorName": "Arturo de Frias Marques",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Iberian Peninsula, Europe",
+  "acquisitionNotes": "Manually curated wolf habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z"
+}

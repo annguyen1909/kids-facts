@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-core-range",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-core-range",
+  "fileName": "Namibian Cheetah (39618420).jpeg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Namibian_Cheetah_%2839618420%29.jpeg",
+  "width": 2048,
+  "height": 1814,
+  "alt": "Cheetah standing in dry Namibian habitat",
+  "caption": "Most wild cheetahs now live in scattered populations across Africa.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Namibia",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by Louise via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Namibian_Cheetah_(39618420).jpeg\">Louise</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namibian_Cheetah_(39618420).jpeg",
+    "creatorName": "Louise",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

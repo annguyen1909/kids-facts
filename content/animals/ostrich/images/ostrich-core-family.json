@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-core-family",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-core-family",
+  "fileName": "104 Juvenile South African ostrich in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "width": 8395,
+  "height": 5597,
+  "alt": "Juvenile ostrich in family group on savanna",
+  "caption": "Several adults may help protect a group of chicks.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Kalahari, Namibia",
+  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flamingo-hero",
+  "animalSlug": "flamingo",
+  "slug": "flamingo-hero",
+  "fileName": "American flamingo in Galápagos (Phoenicopterus ruber).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/American_flamingo_in_Gal%C3%A1pagos_%28Phoenicopterus_ruber%29.jpg",
+  "width": 4852,
+  "height": 3235,
+  "alt": "American flamingo with pink feathers standing in shallow water",
+  "caption": "American flamingos are tall pink birds famous for standing on one leg.",
+  "attributionText": "Photo by E bailey via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:American_flamingo_in_Gal%C3%A1pagos_(Phoenicopterus_ruber).jpg\">E bailey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_flamingo_in_Gal%C3%A1pagos_(Phoenicopterus_ruber).jpg",
+    "creatorName": "E bailey",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T12:34:29.048Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Galápagos Islands",
+  "acquisitionNotes": "Manually curated American flamingo hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:29.048Z"
+}

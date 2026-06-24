@@ -2,17 +2,33 @@
   "id": "dolphin-closeup",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-closeup",
-  "fileName": "bottlenose-dolphin-closeup-above-water.webp",
-  "src": "https://images.unsplash.com/photo-1551884831-bbf3cdc6469e?auto=format&fit=crop&w=1200&q=80",
-  "width": 1200,
-  "height": 800,
-  "alt": "Dolphin face close-up above the waterline",
-  "caption": "The blowhole sits on top of the head so dolphins can breathe quickly.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "Bottlenose_Dolphin_Blowhole.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bottlenose_Dolphin_Blowhole.jpg",
+  "width": 800,
+  "height": 600,
+  "alt": "Close-up of a bottlenose dolphin blowhole on top of its head",
+  "caption": "The blowhole lets dolphins take quick breaths without slowing down in the water.",
+  "attributionText": "Photo by BabyNuke via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin_Blowhole.jpg\">BabyNuke</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://en.wikipedia.org/wiki/Public_domain\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin_Blowhole.jpg",
+    "creatorName": "BabyNuke",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-22T06:03:57.225Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "closeup",
-  "galleryTopics": ["closeup", "fun-fact"],
-  "featuredOnPages": ["gallery", "behavior"],
+  "galleryTopics": [
+    "closeup",
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
   "location": "Ocean surface",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.225Z"
 }

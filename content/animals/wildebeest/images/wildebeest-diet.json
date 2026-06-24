@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-diet",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-diet",
+  "fileName": "Blue Wildebeest (Connochaetes taurinus) grazing ... (50910737976).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Blue_Wildebeest_%28Connochaetes_taurinus%29_grazing_..._%2850910737976%29.jpg",
+  "width": 4320,
+  "height": 2791,
+  "alt": "Blue wildebeest grazing on short savanna grass",
+  "caption": "Wildebeest are grazers that eat short grasses and need daily water.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "East Africa",
+  "acquisitionNotes": "Manually curated wildebeest diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Wildebeest_(Connochaetes_taurinus)_grazing_..._(50910737976).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Wildebeest_(Connochaetes_taurinus)_grazing_..._(50910737976).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

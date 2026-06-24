@@ -1,0 +1,167 @@
+{
+  "id": "animal-owl",
+  "slug": "owl",
+  "name": "Owl",
+  "commonNames": [
+    "Owl",
+    "Great Horned Owl",
+    "Hoot Owl",
+    "Tiger Owl"
+  ],
+  "scientificName": "Bubo virginianus",
+  "summary": "Great horned owls are large night hunters with ear tufts, yellow eyes, and silent flight. They live across the Americas, catch rabbits and rodents, and are among the most widespread owls on the continent.",
+  "heroTitle": "Owl Facts",
+  "metaTitle": "Owl Facts | Habitat, Diet, Flight & Photos",
+  "metaDescription": "Discover great horned owl facts with photos, forest habitat, hunting diet, chick life, and behavior. Learn where owls live, what they eat, and how they fly silently.",
+  "searchIntents": [
+    "owl facts",
+    "great horned owl facts",
+    "what do owls eat",
+    "where do owls live",
+    "how do owls hunt at night",
+    "why do owls hoot"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Bubo",
+    "species": "B. virginianus"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Brazil",
+    "Argentina",
+    "Colombia",
+    "Peru",
+    "Venezuela"
+  ],
+  "biomes": [
+    "forest",
+    "temperate forest",
+    "savanna",
+    "desert"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "rabbits",
+    "hares",
+    "rats",
+    "mice",
+    "birds",
+    "skunks"
+  ],
+  "lifespan": {
+    "wild": "13 to 15 years",
+    "captivity": "Up to 28 years in human care"
+  },
+  "size": {
+    "lengthMin": "18 inches",
+    "lengthMax": "25 inches",
+    "heightMin": "18 inches",
+    "heightMax": "25 inches",
+    "wingspanMin": "3.3 feet",
+    "wingspanMax": "4.8 feet"
+  },
+  "weight": {
+    "min": "2.5 pounds",
+    "max": "5.5 pounds"
+  },
+  "speed": "Up to 40 mph in a dive",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "nocturnal hunting",
+    "perch-and-pounce attacks",
+    "territorial hooting",
+    "nest reuse",
+    "silent flight"
+  ],
+  "adaptations": [
+    "excellent night vision",
+    "sharp hearing",
+    "silent wing feathers",
+    "powerful talons",
+    "facial disk"
+  ],
+  "predators": [
+    "eagles",
+    "larger owls",
+    "humans"
+  ],
+  "prey": [
+    "rabbits",
+    "hares",
+    "rats",
+    "mice",
+    "birds"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 30 to 37 days of incubation",
+    "offspringCount": "Usually 2 to 3 chicks"
+  },
+  "funFacts": [
+    "Great horned owls can rotate their heads far to the side, but not all the way around.",
+    "Special wing feathers help owls fly almost silently.",
+    "Their \"horns\" are really feather tufts, not ears.",
+    "A great horned owl's grip can be as strong as a large dog's bite.",
+    "Owls swallow small prey whole and later cough up pellets of fur and bone.",
+    "Their deep hoots can carry for miles on a quiet night."
+  ],
+  "faq": [
+    {
+      "question": "What is an owl?",
+      "answer": "An owl is a bird of prey active mostly at night. This page focuses on the great horned owl, a large owl found across the Americas."
+    },
+    {
+      "question": "Where do owls live?",
+      "answer": "Great horned owls live in forests, deserts, grasslands, and even city parks from Canada and Alaska south through the Americas."
+    },
+    {
+      "question": "What do owls eat?",
+      "answer": "Owls are carnivores that eat rabbits, rats, mice, birds, and other small animals they catch with their talons."
+    },
+    {
+      "question": "Why do owls hoot?",
+      "answer": "Owls hoot to defend territory and communicate with mates. A great horned owl's deep hoot is one of the most familiar owl sounds."
+    },
+    {
+      "question": "How do owls hunt in the dark?",
+      "answer": "Owls use excellent hearing and night vision. They perch quietly, listen for prey, then swoop down with silent wings."
+    },
+    {
+      "question": "Are owls endangered?",
+      "answer": "Great horned owls are listed as Least Concern and remain widespread. Local threats include car strikes and habitat loss."
+    },
+    {
+      "question": "What is a baby owl called?",
+      "answer": "A baby owl is called a chick or owlet. Chicks hatch blind and helpless and depend on their parents for food."
+    }
+  ],
+  "relatedAnimals": [
+    "eagle",
+    "penguin"
+  ],
+  "comparisonCandidates": [
+    "eagle"
+  ],
+  "galleryIds": [
+    "owl-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T08:00:00.000Z",
+  "publishedAt": "2026-06-24T08:00:00.000Z",
+  "habitat": "forest"
+}

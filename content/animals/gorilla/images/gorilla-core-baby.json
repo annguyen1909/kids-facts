@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-core-baby",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-core-baby",
+  "fileName": "Gorilla gorilla gorilla 350337595.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gorilla_gorilla_gorilla_350337595.jpg",
+  "width": 2048,
+  "height": 1536,
+  "alt": "Young western lowland gorilla in forest habitat",
+  "caption": "Infants ride on their mother's back and learn by watching the troop.",
+  "attributionText": "Photo by Tony King via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_350337595.jpg\">Tony King</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_350337595.jpg",
+    "creatorName": "Tony King",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
+  "updatedAt": "2026-06-24T09:05:05.825Z"
+}

@@ -2,17 +2,32 @@
   "id": "elephant-family",
   "animalSlug": "african-elephant",
   "slug": "elephant-family",
-  "fileName": "african-elephant-herd-family.webp",
-  "src": "https://images.unsplash.com/photo-1577979749830-f1d742b96791?auto=format&fit=crop&w=1200&q=80",
-  "width": 1200,
-  "height": 800,
-  "alt": "Elephant family moving together in grassland",
-  "caption": "Calves stay close to adults while learning where to travel.",
-  "credit": "Unsplash",
-  "license": "Editorial sample",
+  "fileName": "079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "width": 8640,
+  "height": 5760,
+  "alt": "Herd of African bush elephants drinking together at a waterhole",
+  "caption": "Female-led herds travel together and help protect calves.",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.191Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
   "imageType": "family",
-  "galleryTopics": ["family"],
-  "featuredOnPages": ["gallery", "behavior"],
-  "location": "Grassland",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Etosha National Park, Namibia",
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.191Z"
 }

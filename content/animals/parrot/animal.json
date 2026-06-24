@@ -1,0 +1,157 @@
+{
+  "id": "animal-parrot",
+  "slug": "parrot",
+  "name": "Parrot",
+  "commonNames": [
+    "Parrot",
+    "Scarlet Macaw",
+    "Red Macaw"
+  ],
+  "scientificName": "Ara macao",
+  "summary": "Scarlet macaws are huge, rainbow-colored parrots of tropical rainforests. They fly over the canopy in pairs, crack hard nuts with strong beaks, and are among the most famous parrots in the world.",
+  "heroTitle": "Parrot Facts",
+  "metaTitle": "Parrot Facts | Rainforest Habitat, Diet & Photos",
+  "metaDescription": "Discover scarlet macaw parrot facts with photos, rainforest habitat, fruit diet, chicks, and flight. Learn where macaws live and why they are so colorful.",
+  "searchIntents": [
+    "parrot facts",
+    "scarlet macaw facts",
+    "what do parrots eat",
+    "where do macaws live",
+    "how big is a scarlet macaw",
+    "are scarlet macaws endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Psittacidae",
+    "genus": "Ara",
+    "species": "A. macao"
+  },
+  "classificationLabels": [
+    "bird",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Mexico",
+    "Honduras",
+    "Costa Rica",
+    "Panama",
+    "Colombia",
+    "Ecuador",
+    "Peru",
+    "Brazil"
+  ],
+  "biomes": [
+    "tropical rainforest",
+    "lowland forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "fruit",
+    "nuts",
+    "seeds",
+    "flowers",
+    "leaves"
+  ],
+  "lifespan": {
+    "wild": "40 to 50 years",
+    "captivity": "Up to 75 years in human care"
+  },
+  "size": {
+    "lengthMin": "32 inches",
+    "lengthMax": "36 inches"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "2.5 pounds"
+  },
+  "speed": "Strong flier across forest canopy",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "pair bonding",
+    "loud calling",
+    "long-distance flight",
+    "nest in tree cavities",
+    "tool use with beak and feet"
+  ],
+  "adaptations": [
+    "hooked beak",
+    "zygodactyl feet",
+    "bright warning colors",
+    "powerful wings",
+    "loud voice"
+  ],
+  "predators": [
+    "harpy eagles",
+    "jaguars",
+    "snakes",
+    "humans"
+  ],
+  "prey": [
+    "fruit",
+    "nuts",
+    "seeds"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 24 to 28 days of incubation",
+    "offspringCount": "1 to 4 eggs per clutch"
+  },
+  "funFacts": [
+    "Scarlet macaws can live more than 50 years in the wild.",
+    "They use their feet like hands to hold food.",
+    "Macaw pairs often stay together for many years.",
+    "Their loud calls can be heard far across the rainforest.",
+    "Scarlet macaws are bright red, yellow, and blue.",
+    "They nest in holes high up in old trees."
+  ],
+  "faq": [
+    {
+      "question": "What is a parrot?",
+      "answer": "A parrot is a bird with a hooked beak and feet that can grip branches. The scarlet macaw is one of the largest and most colorful parrots."
+    },
+    {
+      "question": "Where do macaws live?",
+      "answer": "Scarlet macaws live in tropical rainforests from southern Mexico through Central America and into the Amazon region of South America."
+    },
+    {
+      "question": "What do parrots eat?",
+      "answer": "Scarlet macaws eat fruits, nuts, seeds, and flowers. Their strong beaks crack open hard nuts."
+    },
+    {
+      "question": "How big is a scarlet macaw?",
+      "answer": "Scarlet macaws are about 32 to 36 inches long including their long tail feathers."
+    },
+    {
+      "question": "Are scarlet macaws endangered?",
+      "answer": "Scarlet macaws are listed as Least Concern overall, but forest loss and illegal pet trade have reduced numbers in some regions."
+    },
+    {
+      "question": "How long do macaws live?",
+      "answer": "Wild scarlet macaws may live 40 to 50 years. In human care they can live even longer."
+    },
+    {
+      "question": "Can parrots talk?",
+      "answer": "Many parrots can copy sounds. Scarlet macaws are better known for loud natural calls than for mimicking human speech."
+    }
+  ],
+  "relatedAnimals": [
+    "eagle",
+    "owl",
+    "penguin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "parrot-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

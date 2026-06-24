@@ -1,0 +1,33 @@
+{
+  "id": "sloth-hero",
+  "animalSlug": "sloth",
+  "slug": "sloth-hero",
+  "fileName": "Brown-throated three-toed sloth female face.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Brown-throated_three-toed_sloth_female_face.JPG",
+  "width": 3997,
+  "height": 2665,
+  "alt": "Brown-throated three-toed sloth face with gentle expression",
+  "caption": "Three-toed sloths are slow-moving tree mammals famous for hanging upside down.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown-throated_three-toed_sloth_female_face.JPG\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown-throated_three-toed_sloth_female_face.JPG",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:11.989Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central America",
+  "acquisitionNotes": "Manually curated brown-throated sloth hero image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:11.989Z"
+}

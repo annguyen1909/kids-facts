@@ -1,0 +1,33 @@
+{
+  "id": "parrot-fun-fact",
+  "animalSlug": "parrot",
+  "slug": "parrot-fun-fact",
+  "fileName": "Scarlet macaw (Ara macao macao) in flight Yasuni.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Scarlet_macaw_%28Ara_macao_macao%29_in_flight_Yasuni.jpg",
+  "width": 4842,
+  "height": 3228,
+  "alt": "Scarlet macaw flying with wings spread wide",
+  "caption": "Macaws can fly long distances and call loudly across the rainforest.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Yasuní, Ecuador",
+  "acquisitionNotes": "Manually curated macaw flight image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_macao)_in_flight_Yasuni.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_macao)_in_flight_Yasuni.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:09.537Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fox-hero",
+  "animalSlug": "fox",
+  "slug": "fox-hero",
+  "fileName": "Alaska Red Fox (Vulpes vulpes).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alaska_Red_Fox_%28Vulpes_vulpes%29.jpg",
+  "width": 3805,
+  "height": 2750,
+  "alt": "Red fox standing in snowy Alaska habitat",
+  "caption": "Foxes are quick wild dogs with bushy tails and excellent hearing.",
+  "attributionText": "Photo by Gregory \"Slobirdr\" Smith via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alaska_Red_Fox_(Vulpes_vulpes).jpg\">Gregory \"Slobirdr\" Smith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alaska_Red_Fox_(Vulpes_vulpes).jpg",
+    "creatorName": "Gregory \"Slobirdr\" Smith",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Alaska, USA",
+  "acquisitionNotes": "Manually curated red fox hero image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z"
+}

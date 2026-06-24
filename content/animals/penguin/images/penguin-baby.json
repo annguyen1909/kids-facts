@@ -1,0 +1,33 @@
+{
+  "id": "penguin-baby",
+  "animalSlug": "penguin",
+  "slug": "penguin-baby",
+  "fileName": "Gentoo penguin juvenile Petermann Island.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gentoo_penguin_juvenile_Petermann_Island.jpg",
+  "width": 2560,
+  "height": 1920,
+  "alt": "Young gentoo penguin chick with gray down feathers on Petermann Island",
+  "caption": "Penguin chicks hatch covered in fluffy down that keeps them warm.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Petermann Island, Antarctica",
+  "acquisitionNotes": "Manually curated penguin chick image with verified species identification.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Jens Bludau via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gentoo_penguin_juvenile_Petermann_Island.jpg\">Jens Bludau</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gentoo_penguin_juvenile_Petermann_Island.jpg",
+    "creatorName": "Jens Bludau",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

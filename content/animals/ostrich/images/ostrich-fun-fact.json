@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-fun-fact",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-fun-fact",
+  "fileName": "Common ostrich (Struthio camelus australis) male running composite.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Common_ostrich_%28Struthio_camelus_australis%29_male_running_composite.jpg",
+  "width": 5940,
+  "height": 2620,
+  "alt": "Male ostrich running at high speed across open ground",
+  "caption": "Ostriches are the fastest birds on land and can sprint faster than 40 miles per hour.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated ostrich running image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_ostrich_(Struthio_camelus_australis)_male_running_composite.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_ostrich_(Struthio_camelus_australis)_male_running_composite.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "platypus-range",
+  "animalSlug": "platypus",
+  "slug": "platypus-range",
+  "fileName": "Platypus BrokenRiver QLD Australia.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Platypus_BrokenRiver_QLD_Australia.jpg",
+  "width": 1981,
+  "height": 1416,
+  "alt": "Platypus in an eastern Australian river",
+  "caption": "Platypuses live in eastern Australia and Tasmania along cool freshwater streams.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Queensland, Australia",
+  "acquisitionNotes": "Manually curated platypus range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Peter Scheunis via Wikimedia Commons, CC BY 1.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia.jpg\">Peter Scheunis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia.jpg",
+    "creatorName": "Peter Scheunis",
+    "licenseName": "CC BY 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

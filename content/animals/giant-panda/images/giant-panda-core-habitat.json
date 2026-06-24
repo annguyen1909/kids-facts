@@ -1,0 +1,33 @@
+{
+  "id": "giant-panda-core-habitat",
+  "animalSlug": "giant-panda",
+  "slug": "giant-panda-core-habitat",
+  "fileName": "1280px-Grosser_Panda.JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giant_Panda_2004-03-27.jpg",
+  "width": 1600,
+  "height": 1200,
+  "alt": "Giant panda in cool mountain bamboo forest habitat",
+  "caption": "Wild giant pandas live in cool, misty bamboo forests on mountain slopes.",
+  "attributionText": "Photo by Sheba_Also via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giant_Panda_2004-03-27.jpg\">Sheba_Also</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Panda_2004-03-27.jpg",
+    "creatorName": "Sheba_Also",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T03:28:27.024Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sichuan, China",
+  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
+  "updatedAt": "2026-06-23T03:28:27.024Z"
+}

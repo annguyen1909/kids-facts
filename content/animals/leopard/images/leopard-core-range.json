@@ -1,0 +1,33 @@
+{
+  "id": "leopard-core-range",
+  "animalSlug": "leopard",
+  "slug": "leopard-core-range",
+  "fileName": "Leopard, South Luangwa National Park (51872164960).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Leopard%2C_South_Luangwa_National_Park_%2851872164960%29.jpg",
+  "width": 3456,
+  "height": 5184,
+  "alt": "Leopard walking across open ground in a national park",
+  "caption": "Habitat loss and conflict with people put pressure on remaining wild leopard populations.",
+  "attributionText": "Photo by I've Got It On Film! via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopard%2C_South_Luangwa_National_Park_(51872164960).jpg\">I've Got It On Film!</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard%2C_South_Luangwa_National_Park_(51872164960).jpg",
+    "creatorName": "I've Got It On Film!",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:52.343Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Luangwa National Park, Zambia",
+  "acquisitionNotes": "Core article image curated separately from the leopard gallery set.",
+  "updatedAt": "2026-06-24T08:02:52.343Z"
+}

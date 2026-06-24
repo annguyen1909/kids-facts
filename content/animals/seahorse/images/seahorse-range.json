@@ -1,0 +1,33 @@
+{
+  "id": "seahorse-range",
+  "animalSlug": "seahorse",
+  "slug": "seahorse-range",
+  "fileName": "Hippocampus erectus 342225351.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Hippocampus_erectus_342225351.jpg",
+  "width": 720,
+  "height": 960,
+  "alt": "Lined seahorse in coastal Atlantic waters",
+  "caption": "Lined seahorses live along the Atlantic coast from Nova Scotia to Brazil.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Western Atlantic",
+  "acquisitionNotes": "Manually curated seahorse range image with verified species identification.",
+  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_342225351.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_342225351.jpg",
+    "creatorName": "Pauline Walsh Jacobson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:01:05.816Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

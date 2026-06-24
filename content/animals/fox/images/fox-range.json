@@ -1,0 +1,33 @@
+{
+  "id": "fox-range",
+  "animalSlug": "fox",
+  "slug": "fox-range",
+  "fileName": "Vulpes vulpes laying in snow.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vulpes_vulpes_laying_in_snow.jpg",
+  "width": 3072,
+  "height": 2040,
+  "alt": "Red fox resting in snowy winter landscape",
+  "caption": "Red foxes are widespread across Europe, Asia, North America, and North Africa.",
+  "attributionText": "Photo by Shiretoko-Shari Tourist Association via Wikimedia Commons, Attribution",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_laying_in_snow.jpg\">Shiretoko-Shari Tourist Association</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_laying_in_snow.jpg\">Attribution</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_laying_in_snow.jpg",
+    "creatorName": "Shiretoko-Shari Tourist Association",
+    "licenseName": "Attribution",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_laying_in_snow.jpg",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Northern Hemisphere",
+  "acquisitionNotes": "Manually curated fox range image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z"
+}

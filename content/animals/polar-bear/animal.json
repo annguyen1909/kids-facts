@@ -1,0 +1,156 @@
+{
+  "id": "animal-polar-bear",
+  "slug": "polar-bear",
+  "name": "Polar Bear",
+  "commonNames": [
+    "Polar Bear",
+    "White Bear",
+    "Ice Bear",
+    "Sea Bear"
+  ],
+  "scientificName": "Ursus maritimus",
+  "summary": "Polar bears are the largest land carnivores on Earth and live on Arctic sea ice. They hunt seals, swim long distances, and depend on cold ocean ice to survive.",
+  "heroTitle": "Polar Bear Facts",
+  "metaTitle": "Polar Bear Facts | Arctic Habitat, Diet & Photos",
+  "metaDescription": "Discover polar bear facts with photos, Arctic sea ice habitat, seal-hunting diet, cub life, and conservation. Learn where polar bears live and why ice matters.",
+  "searchIntents": [
+    "polar bear facts",
+    "what do polar bears eat",
+    "where do polar bears live",
+    "how big is a polar bear",
+    "are polar bears endangered",
+    "can polar bears swim"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Ursidae",
+    "genus": "Ursus",
+    "species": "U. maritimus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "Europe"
+  ],
+  "countries": [
+    "Canada",
+    "United States",
+    "Greenland",
+    "Norway",
+    "Russia"
+  ],
+  "biomes": [
+    "tundra",
+    "sea ice",
+    "arctic ocean"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "ringed seals",
+    "bearded seals",
+    "harp seals",
+    "walrus calves",
+    "fish"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 30 years in zoos"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "9 feet",
+    "heightMin": "3.5 feet",
+    "heightMax": "5 feet"
+  },
+  "weight": {
+    "min": "550 pounds",
+    "max": "1,700 pounds"
+  },
+  "speed": "Up to 25 mph on land in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary hunting",
+    "sea ice travel",
+    "long-distance swimming",
+    "den birthing",
+    "seal ambush"
+  ],
+  "adaptations": [
+    "thick blubber",
+    "water-repellent fur",
+    "large paws for snow and swimming",
+    "keen sense of smell",
+    "camouflage in snow"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "ringed seals",
+    "bearded seals",
+    "harp seals"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 8 months including delayed implantation",
+    "offspringCount": "Usually 1 to 3 cubs"
+  },
+  "funFacts": [
+    "Polar bear fur is hollow and looks white, but the skin underneath is black.",
+    "Polar bears are strong swimmers and may cross miles of open ocean.",
+    "A polar bear's sense of smell can detect a seal nearly a mile away.",
+    "Polar bears mainly hunt on sea ice, not on open land.",
+    "Cubs are born tiny in a snow den during the Arctic winter.",
+    "Polar bears are the largest bears in the world."
+  ],
+  "faq": [
+    {
+      "question": "What is a polar bear?",
+      "answer": "A polar bear is a huge Arctic bear that hunts seals on sea ice. It is the largest land carnivore alive today."
+    },
+    {
+      "question": "Where do polar bears live?",
+      "answer": "Polar bears live in the Arctic around Canada, Alaska, Greenland, Norway, and Russia. They travel on sea ice and coastal tundra."
+    },
+    {
+      "question": "What do polar bears eat?",
+      "answer": "Polar bears are carnivores that mainly eat seals. They catch seals at breathing holes or break into snow dens."
+    },
+    {
+      "question": "Are polar bears endangered?",
+      "answer": "Polar bears are listed as Vulnerable because climate change is melting the sea ice they need to hunt."
+    },
+    {
+      "question": "Can polar bears swim?",
+      "answer": "Yes. Polar bears are excellent swimmers and use their large front paws like paddles in the ocean."
+    },
+    {
+      "question": "Why is sea ice important for polar bears?",
+      "answer": "Sea ice lets polar bears reach seal hunting areas far from shore. Less ice means less time and space to find food."
+    },
+    {
+      "question": "What is a baby polar bear called?",
+      "answer": "A baby polar bear is called a cub. Cubs stay with their mother for about two and a half years."
+    }
+  ],
+  "relatedAnimals": [
+    "blue-whale",
+    "orca",
+    "penguin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "polar-bear-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T10:00:00.000Z",
+  "publishedAt": "2026-06-24T10:00:00.000Z",
+  "habitat": "tundra"
+}

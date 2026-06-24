@@ -1,0 +1,33 @@
+{
+  "id": "meerkat-core-baby",
+  "animalSlug": "meerkat",
+  "slug": "meerkat-core-baby",
+  "fileName": "Suricata suricatta - Maroparque 02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Suricata_suricatta_-_Maroparque_02.jpg",
+  "width": 4739,
+  "height": 3405,
+  "alt": "Young meerkat exploring near burrow habitat",
+  "caption": "Pups begin joining short foraging trips as they grow older.",
+  "attributionText": "Photo by H. Zel via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricata_suricatta_-_Maroparque_02.jpg\">H. Zel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricata_suricatta_-_Maroparque_02.jpg",
+    "creatorName": "H. Zel",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:13.126Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Spain",
+  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set.",
+  "updatedAt": "2026-06-24T09:39:13.126Z"
+}

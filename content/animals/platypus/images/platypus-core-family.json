@@ -1,0 +1,33 @@
+{
+  "id": "platypus-core-family",
+  "animalSlug": "platypus",
+  "slug": "platypus-core-family",
+  "fileName": "Ornithorhynchus anatinus 254191145.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ornithorhynchus_anatinus_254191145.jpg",
+  "width": 2048,
+  "height": 1536,
+  "alt": "Platypus swimming in calm freshwater",
+  "caption": "Mothers seal puggles inside riverbank burrows for protection after hatching.",
+  "attributionText": "Photo by george_vaughan via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus_254191145.jpg\">george_vaughan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus_254191145.jpg",
+    "creatorName": "george_vaughan",
+    "licenseName": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Core article image curated separately from the platypus gallery set.",
+  "updatedAt": "2026-06-24T09:30:06.111Z"
+}

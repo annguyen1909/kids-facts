@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-hero",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-hero",
+  "fileName": "Blue Wildebeest, Ngorongoro.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg",
+  "width": 2151,
+  "height": 1434,
+  "alt": "Blue wildebeest with curved horns and shaggy mane",
+  "caption": "Blue wildebeest are sturdy antelopes famous for huge migrations across African grasslands.",
+  "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Wildebeest%2C_Ngorongoro.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Wildebeest%2C_Ngorongoro.jpg",
+    "creatorName": "Muhammad Mahdi Karim",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Ngorongoro, Tanzania",
+  "acquisitionNotes": "Manually curated blue wildebeest hero image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z"
+}

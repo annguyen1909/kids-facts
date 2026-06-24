@@ -16,6 +16,7 @@ type AnimalImageFrameProps = {
   src: string;
   alt: string;
   aspect?: FrameAspect;
+  fit?: "cover" | "contain";
   priority?: boolean;
   sizes?: string;
   className?: string;
@@ -26,6 +27,7 @@ export function AnimalImageFrame({
   src,
   alt,
   aspect = "card",
+  fit = "cover",
   priority = false,
   sizes = "100vw",
   className,
@@ -38,6 +40,7 @@ export function AnimalImageFrame({
       className={cn(
         "relative overflow-hidden bg-[rgba(23,49,39,0.06)]",
         aspectClasses[aspect],
+        fit === "contain" && "p-3",
         className,
       )}
     >
@@ -48,7 +51,10 @@ export function AnimalImageFrame({
         priority={priority}
         sizes={sizes}
         unoptimized={isWikimediaCommonsUrl(src)}
-        className={cn("object-cover object-center", imageClassName)}
+        className={cn(
+          fit === "contain" ? "object-contain object-center" : "object-cover object-center",
+          imageClassName,
+        )}
       />
     </div>
   );

@@ -1,0 +1,33 @@
+{
+  "id": "owl-core-range",
+  "animalSlug": "owl",
+  "slug": "owl-core-range",
+  "fileName": "Great horned owl, Mammoth Hot Springs (fe9aadd3-2c92-47dd-a769-3c51b02c8469).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great_horned_owl%2C_Mammoth_Hot_Springs_%28fe9aadd3-2c92-47dd-a769-3c51b02c8469%29.jpg",
+  "width": 3384,
+  "height": 5076,
+  "alt": "Great horned owl in a cold mountain forest setting",
+  "caption": "Great horned owls are widespread and not considered endangered across most of their range.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Yellowstone National Park, USA",
+  "acquisitionNotes": "Core article image curated separately from the owl gallery set.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Neal Herbert via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(fe9aadd3-2c92-47dd-a769-3c51b02c8469).jpg\">Neal Herbert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(fe9aadd3-2c92-47dd-a769-3c51b02c8469).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(fe9aadd3-2c92-47dd-a769-3c51b02c8469).jpg",
+    "creatorName": "Neal Herbert",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(fe9aadd3-2c92-47dd-a769-3c51b02c8469).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

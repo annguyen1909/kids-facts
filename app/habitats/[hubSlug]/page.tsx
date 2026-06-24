@@ -1,13 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { HubPage } from "@/components/animals/hub-page";
-import { getAllHubs, resolveHubRoute } from "@/lib/content";
+import { getStaticHabitatHubRoutes, resolveHubRoute } from "@/lib/content";
 import { buildHubMetadata } from "@/lib/metadata";
 
 export function generateStaticParams() {
-  return getAllHubs()
-    .filter((hub) => hub.type === "habitats")
-    .map((hub) => ({ hubSlug: hub.slug }));
+  return getStaticHabitatHubRoutes();
 }
 
 export async function generateMetadata({

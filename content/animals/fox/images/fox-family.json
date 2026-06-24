@@ -1,0 +1,33 @@
+{
+  "id": "fox-family",
+  "animalSlug": "fox",
+  "slug": "fox-family",
+  "fileName": "Common foxes in the snow.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Common_foxes_in_the_snow.jpg",
+  "width": 2000,
+  "height": 1316,
+  "alt": "Two red foxes together in snowy habitat",
+  "caption": "Both parents often help feed and protect the young kits.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Northern Hemisphere",
+  "acquisitionNotes": "Manually curated fox family image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Wilhelm Kuhnert via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_foxes_in_the_snow.jpg\">Wilhelm Kuhnert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Common_foxes_in_the_snow.jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_foxes_in_the_snow.jpg",
+    "creatorName": "Wilhelm Kuhnert",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Common_foxes_in_the_snow.jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

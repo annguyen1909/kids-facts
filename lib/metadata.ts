@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import type {
   AnimalRecord,
-  AnimalSupportingPageRecord,
   ComparisonPageRecord,
   ComparisonRecord,
   HubRecord,
@@ -10,6 +9,10 @@ import { getAbsoluteUrl, getAnimalPrimaryImage } from "@/lib/images";
 import { siteConfig } from "@/lib/site-config";
 
 export function buildBaseMetadata(): Metadata {
+  const verification = siteConfig.googleSiteVerification
+    ? { google: siteConfig.googleSiteVerification }
+    : undefined;
+
   return {
     metadataBase: new URL(siteConfig.url),
     title: {
@@ -20,6 +23,7 @@ export function buildBaseMetadata(): Metadata {
     alternates: {
       canonical: "/",
     },
+    verification,
     openGraph: {
       type: "website",
       locale: siteConfig.locale,
@@ -116,16 +120,6 @@ export function buildAnimalMetadata(
       images: [image.src],
     },
   };
-}
-
-export function buildSupportingPageMetadata(
-  animal: AnimalRecord,
-  page: AnimalSupportingPageRecord,
-): Metadata {
-  return buildAnimalMetadata(animal, `/animals/${animal.core.slug}/${page.slug}`, {
-    title: page.metaTitle,
-    description: page.metaDescription,
-  });
 }
 
 export function buildComparisonMetadata(

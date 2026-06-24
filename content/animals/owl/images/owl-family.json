@@ -1,0 +1,33 @@
+{
+  "id": "owl-family",
+  "animalSlug": "owl",
+  "slug": "owl-family",
+  "fileName": "Great horned owl chicks (85771).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Great_horned_owl_chicks_%2885771%29.jpg",
+  "width": 1625,
+  "height": 1294,
+  "alt": "Two young great horned owl chicks together in a nest",
+  "caption": "Parents feed chicks for weeks until the young owls learn to hunt on their own.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated owl family image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl_chicks_(85771).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl_chicks_(85771).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

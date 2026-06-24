@@ -1,0 +1,22 @@
+{
+  "id": "grizzly-bear-gallery-main",
+  "animalSlug": "grizzly-bear",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Brown Bear Photo Gallery",
+  "metaTitle": "Brown Bear Photo Gallery",
+  "metaDescription": "Browse a brown bear photo gallery with wildlife photos.",
+  "intro": "Explore brown bear photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "grizzly-bear-hero",
+    "grizzly-bear-habitat",
+    "grizzly-bear-diet",
+    "grizzly-bear-baby",
+    "grizzly-bear-family",
+    "grizzly-bear-range",
+    "grizzly-bear-size",
+    "grizzly-bear-closeup",
+    "grizzly-bear-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:33:57.483Z"
+}

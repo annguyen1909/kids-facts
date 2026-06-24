@@ -1,0 +1,150 @@
+{
+  "id": "animal-chameleon",
+  "slug": "chameleon",
+  "name": "Chameleon",
+  "commonNames": [
+    "Chameleon",
+    "Veiled Chameleon",
+    "Yemen Chameleon"
+  ],
+  "scientificName": "Chamaeleo calyptratus",
+  "summary": "Veiled chameleons are tree-dwelling lizards with gripping feet, swiveling eyes, and a lightning-fast tongue for catching insects.",
+  "heroTitle": "Chameleon Facts",
+  "metaTitle": "Chameleon Facts | Habitat, Tongue & Photos",
+  "metaDescription": "Discover veiled chameleon facts with photos, tree habitat, insect diet, color change, and tongue hunting. Learn where chameleons live and how their eyes work.",
+  "searchIntents": [
+    "chameleon facts",
+    "what do chameleons eat",
+    "where do chameleons live",
+    "why do chameleons change color",
+    "how does a chameleon tongue work",
+    "are chameleons reptiles"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Chamaeleonidae",
+    "genus": "Chamaeleo",
+    "species": "C. calyptratus"
+  },
+  "classificationLabels": [
+    "reptile",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "Yemen",
+    "Saudi Arabia"
+  ],
+  "biomes": [
+    "tropical dry forest",
+    "mountain scrub"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "insects",
+    "spiders",
+    "worms",
+    "small lizards"
+  ],
+  "lifespan": {
+    "wild": "5 to 8 years",
+    "captivity": "Up to 8 years in human care"
+  },
+  "size": {
+    "lengthMin": "10 inches",
+    "lengthMax": "18 inches"
+  },
+  "weight": {
+    "min": "3 ounces",
+    "max": "6 ounces"
+  },
+  "speed": "Slow walker; very fast tongue strike",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "tongue hunting",
+    "tree climbing",
+    "color change",
+    "slow movement",
+    "solitary living"
+  ],
+  "adaptations": [
+    "independent eye movement",
+    "gripping feet and tail",
+    "sticky tongue",
+    "color-changing skin",
+    "casque on head"
+  ],
+  "predators": [
+    "birds",
+    "snakes",
+    "larger lizards",
+    "humans"
+  ],
+  "prey": [
+    "insects",
+    "spiders",
+    "worms"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "Eggs incubate about 6 months in soil",
+    "offspringCount": "Usually 20 to 70 eggs"
+  },
+  "funFacts": [
+    "Chameleons are reptiles, not amphibians.",
+    "Each eye can move separately to look in two directions at once.",
+    "A chameleon's tongue can shoot out faster than you can blink.",
+    "They change color because of mood, temperature, and light.",
+    "Veiled chameleons have a tall helmet-like casque on the head.",
+    "Their feet grip branches like mittens with two toes pointing each way."
+  ],
+  "faq": [
+    {
+      "question": "What is a chameleon?",
+      "answer": "A chameleon is a lizard with a curled tail, gripping feet, and eyes that can move independently."
+    },
+    {
+      "question": "Where do veiled chameleons live?",
+      "answer": "Veiled chameleons live in trees and bushes in Yemen and Saudi Arabia on the Arabian Peninsula."
+    },
+    {
+      "question": "What do chameleons eat?",
+      "answer": "Chameleons are carnivores that eat insects, spiders, and other small animals."
+    },
+    {
+      "question": "Why do chameleons change color?",
+      "answer": "Chameleons change color because of mood, temperature, stress, and light—not only to match the background."
+    },
+    {
+      "question": "How does a chameleon tongue work?",
+      "answer": "A chameleon shoots out a long sticky tongue to grab insects before pulling prey back into the mouth."
+    },
+    {
+      "question": "Are chameleons reptiles?",
+      "answer": "Yes. Chameleons are reptiles with dry scaly skin and eggs laid on land."
+    },
+    {
+      "question": "Are chameleons endangered?",
+      "answer": "Veiled chameleons are listed as Least Concern, but habitat loss and the pet trade affect wild populations."
+    }
+  ],
+  "relatedAnimals": [
+    "komodo-dragon",
+    "snake",
+    "sea-turtle"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "chameleon-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

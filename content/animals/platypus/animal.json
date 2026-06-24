@@ -1,0 +1,148 @@
+{
+  "id": "animal-platypus",
+  "slug": "platypus",
+  "name": "Platypus",
+  "commonNames": [
+    "Platypus",
+    "Duck-billed Platypus"
+  ],
+  "scientificName": "Ornithorhynchus anatinus",
+  "summary": "Platypuses are egg-laying mammals from Australia with duck-like bills, webbed feet, and waterproof fur. They hunt underwater in rivers and streams.",
+  "heroTitle": "Platypus Facts",
+  "metaTitle": "Platypus Facts | River Habitat, Diet & Photos",
+  "metaDescription": "Discover platypus facts with photos, river habitat, underwater hunting diet, puggle life, and unique adaptations. Learn where platypuses live and how their bills work.",
+  "searchIntents": [
+    "platypus facts",
+    "what do platypuses eat",
+    "where do platypuses live",
+    "is a platypus a mammal",
+    "what is a baby platypus called",
+    "why is the platypus unusual"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Monotremata",
+    "family": "Ornithorhynchidae",
+    "genus": "Ornithorhynchus",
+    "species": "O. anatinus"
+  },
+  "classificationLabels": [
+    "mammal"
+  ],
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "biomes": [
+    "river",
+    "temperate forest"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "insect larvae",
+    "worms",
+    "freshwater shrimp",
+    "crayfish",
+    "snails"
+  ],
+  "lifespan": {
+    "wild": "10 to 17 years",
+    "captivity": "Up to 20 years in human care"
+  },
+  "size": {
+    "lengthMin": "12 inches",
+    "lengthMax": "20 inches"
+  },
+  "weight": {
+    "min": "2 pounds",
+    "max": "5 pounds"
+  },
+  "speed": "Strong swimmer; slow walker on land",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "underwater hunting",
+    "burrow digging",
+    "egg laying",
+    "nocturnal activity",
+    "puggle rearing"
+  ],
+  "adaptations": [
+    "rubbery bill with electroreception",
+    "webbed feet",
+    "waterproof fur",
+    "venomous hind spurs in males",
+    "cheek pouches for food storage"
+  ],
+  "predators": [
+    "snakes",
+    "birds of prey",
+    "foxes",
+    "humans"
+  ],
+  "prey": [
+    "insect larvae",
+    "worms",
+    "crayfish",
+    "snails"
+  ],
+  "reproduction": {
+    "offspringName": "puggle",
+    "gestationOrIncubation": "Eggs incubate about 10 days, then months in burrow",
+    "offspringCount": "Usually 1 to 3 eggs"
+  },
+  "funFacts": [
+    "Platypuses are one of only two kinds of egg-laying mammals alive today.",
+    "A platypus bill can sense electric signals from prey underwater.",
+    "Male platypuses have venomous spurs on their hind legs.",
+    "Baby platypuses are called puggles.",
+    "Platypuses have no teeth as adults and grind food with horny plates.",
+    "They store food in cheek pouches before eating at the surface."
+  ],
+  "faq": [
+    {
+      "question": "What is a platypus?",
+      "answer": "A platypus is an unusual egg-laying mammal from Australia with a duck-like bill, webbed feet, and waterproof fur."
+    },
+    {
+      "question": "Is a platypus a mammal?",
+      "answer": "Yes. Platypuses are mammals because they have fur and feed milk to their young, even though they lay eggs."
+    },
+    {
+      "question": "Where do platypuses live?",
+      "answer": "Platypuses live along freshwater rivers, streams, and lakes in eastern Australia and Tasmania."
+    },
+    {
+      "question": "What do platypuses eat?",
+      "answer": "Platypuses eat insects, worms, shrimp, crayfish, and other small animals found in river mud."
+    },
+    {
+      "question": "What is a baby platypus called?",
+      "answer": "A baby platypus is called a puggle. Puggles hatch from eggs and then nurse from their mother in a burrow."
+    },
+    {
+      "question": "How do platypuses find food underwater?",
+      "answer": "They close their eyes and ears while diving and use their bill to detect movement and electric signals from prey."
+    },
+    {
+      "question": "Are platypuses endangered?",
+      "answer": "Platypuses are listed as Near Threatened. Pollution, drought, and damaged river habitat threaten some populations."
+    }
+  ],
+  "relatedAnimals": [
+    "koala",
+    "kangaroo",
+    "otter"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "platypus-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "river"
+}

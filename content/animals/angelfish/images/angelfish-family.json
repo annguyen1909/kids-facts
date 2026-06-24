@@ -1,0 +1,33 @@
+{
+  "id": "angelfish-family",
+  "animalSlug": "angelfish",
+  "slug": "angelfish-family",
+  "fileName": "Pez ángel emperador (Pomacanthus imperator), mar Rojo, Egipto, 2023-04-17, DD 103.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_103.jpg",
+  "width": 4883,
+  "height": 3255,
+  "alt": "Emperor angelfish patrolling its reef territory",
+  "caption": "Adult angelfish often defend a reef home range from other fish.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_103.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_103.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T10:39:20.375Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Red Sea, Egypt",
+  "acquisitionNotes": "Manually curated angelfish territory image with verified species identification.",
+  "updatedAt": "2026-06-24T10:39:20.375Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "parrot-habitat",
+  "animalSlug": "parrot",
+  "slug": "parrot-habitat",
+  "fileName": "Ara macao - La Palma 01.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ara_macao_-_La_Palma_01.jpg",
+  "width": 4638,
+  "height": 3491,
+  "alt": "Scarlet macaw in lush tropical forest habitat",
+  "caption": "Macaws live in tropical rainforests and fly above the forest canopy.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "La Palma, Colombia",
+  "acquisitionNotes": "Manually curated macaw habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ara_macao_-_La_Palma_01.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ara_macao_-_La_Palma_01.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:09.537Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

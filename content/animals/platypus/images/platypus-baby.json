@@ -1,0 +1,33 @@
+{
+  "id": "platypus-baby",
+  "animalSlug": "platypus",
+  "slug": "platypus-baby",
+  "fileName": "Ornithorhynchus anatinus, January 2015.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ornithorhynchus_anatinus%2C_January_2015.jpg",
+  "width": 5184,
+  "height": 3456,
+  "alt": "Small platypus in shallow river water",
+  "caption": "Baby platypuses are called puggles and hatch from eggs before nursing from their mother.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Manually curated young platypus image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Jim Bendon from Karratha, Australia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus%2C_January_2015.jpg\">Jim Bendon from Karratha, Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus%2C_January_2015.jpg",
+    "creatorName": "Jim Bendon from Karratha, Australia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -7,6 +7,16 @@
   "metaTitle": "Bottlenose Dolphin Photo Gallery",
   "metaDescription": "Browse bottlenose dolphin photos showing ocean habitat, pods, and close-up marine features.",
   "intro": "This gallery supports marine-animal search intent and educational observation.",
-  "imageSlugs": ["dolphin-hero", "dolphin-habitat", "dolphin-family", "dolphin-closeup"],
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "imageSlugs": [
+    "dolphin-hero",
+    "dolphin-habitat",
+    "dolphin-diet",
+    "dolphin-baby",
+    "dolphin-family",
+    "dolphin-range",
+    "dolphin-size",
+    "dolphin-closeup",
+    "dolphin-fun-fact"
+  ],
+  "updatedAt": "2026-06-22T00:00:00.000Z"
 }

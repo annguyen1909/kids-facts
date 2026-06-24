@@ -1,0 +1,33 @@
+{
+  "id": "fox-fun-fact",
+  "animalSlug": "fox",
+  "slug": "fox-fun-fact",
+  "fileName": "Red Fox - Vulpes vulpes (juvenile) - 7125303801.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Red_Fox_-_Vulpes_vulpes_%28juvenile%29_-_7125303801.jpg",
+  "width": 1257,
+  "height": 1930,
+  "alt": "Playful young red fox in open habitat",
+  "caption": "Fox kits practice pouncing and chasing games that later help them hunt.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually curated fox fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox_-_Vulpes_vulpes_(juvenile)_-_7125303801.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Fox_-_Vulpes_vulpes_(juvenile)_-_7125303801.jpg",
+    "creatorName": "Judy Gallagher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:54.051Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

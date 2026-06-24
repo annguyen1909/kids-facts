@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-hero",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-hero",
+  "fileName": "Gacela de Thomson (Eudorcas thomsonii), parque nacional de Amboseli, Kenia, 2024-05-22, DD 41.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gacela_de_Thomson_%28Eudorcas_thomsonii%29%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-22%2C_DD_41.jpg",
+  "width": 4679,
+  "height": 3119,
+  "alt": "Adult Thomson's gazelle standing alert in open habitat",
+  "caption": "Thomson's gazelles are fast antelopes built for life in open country.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Amboseli National Park, Kenya",
+  "acquisitionNotes": "Manually curated gazelle hero image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-22%2C_DD_41.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-22%2C_DD_41.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-size",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-size",
+  "fileName": "Struthio camelus MHNT.ZOO.2010.11.1.1.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Struthio_camelus_MHNT.ZOO.2010.11.1.1.jpg",
+  "width": 4157,
+  "height": 4157,
+  "alt": "Ostrich showing tall body and very long legs",
+  "caption": "Ostriches can stand about 7 to 9 feet tall and weigh up to 320 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated ostrich size image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Roger Culos via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_MHNT.ZOO.2010.11.1.1.jpg\">Roger Culos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_MHNT.ZOO.2010.11.1.1.jpg",
+    "creatorName": "Roger Culos",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

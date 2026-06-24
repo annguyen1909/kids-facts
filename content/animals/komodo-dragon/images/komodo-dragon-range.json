@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-range",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-range",
+  "fileName": "Landscape on Pulau Komodo - Indonesia.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Landscape_on_Pulau_Komodo_-_Indonesia.jpg",
+  "width": 4480,
+  "height": 6720,
+  "alt": "Dry island landscape on Pulau Komodo in Indonesia",
+  "caption": "Today wild Komodo dragons survive only on a few islands in eastern Indonesia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pulau Komodo, Indonesia",
+  "acquisitionNotes": "Manually curated Komodo dragon range image with verified species identification.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Landscape_on_Pulau_Komodo_-_Indonesia.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_on_Pulau_Komodo_-_Indonesia.jpg",
+    "creatorName": "Thomas Fuhrmann",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

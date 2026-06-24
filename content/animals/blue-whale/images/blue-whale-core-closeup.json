@@ -1,0 +1,33 @@
+{
+  "id": "blue-whale-core-closeup",
+  "animalSlug": "blue-whale",
+  "slug": "blue-whale-core-closeup",
+  "fileName": "Rug van blauwe vinvis Sri Lanka.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rug_van_blauwe_vinvis_Sri_Lanka.jpg",
+  "width": 1600,
+  "height": 1067,
+  "alt": "Massive blue whale back and dorsal fin rolling at the ocean surface",
+  "caption": "A blue whale's heart alone can weigh as much as a small car.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Sri Lanka",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
+  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "attributionText": "Photo by Peter van der Sluijs via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rug_van_blauwe_vinvis_Sri_Lanka.jpg\">Peter van der Sluijs</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rug_van_blauwe_vinvis_Sri_Lanka.jpg",
+    "creatorName": "Peter van der Sluijs",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T09:22:41.408Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

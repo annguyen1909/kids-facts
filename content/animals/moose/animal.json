@@ -1,0 +1,158 @@
+{
+  "id": "animal-moose",
+  "slug": "moose",
+  "name": "Moose",
+  "commonNames": [
+    "Moose",
+    "Eurasian Elk",
+    "Eurasian Moose"
+  ],
+  "scientificName": "Alces alces",
+  "summary": "Moose are the largest members of the deer family, with long legs, a bulbous nose, and huge antlers on bulls. They live in northern forests and wetlands and are icons of the wild north.",
+  "heroTitle": "Moose Facts",
+  "metaTitle": "Moose Facts | Forest Habitat, Antlers & Photos",
+  "metaDescription": "Discover moose facts with photos, boreal forest habitat, plant diet, calves, and antlers. Learn where moose live and how big the largest deer really are.",
+  "searchIntents": [
+    "moose facts",
+    "what do moose eat",
+    "where do moose live",
+    "how big is a moose",
+    "what is a baby moose called",
+    "why do moose have antlers"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Cervidae",
+    "genus": "Alces",
+    "species": "A. alces"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "countries": [
+    "Canada",
+    "United States",
+    "Norway",
+    "Sweden",
+    "Finland",
+    "Russia",
+    "Poland"
+  ],
+  "biomes": [
+    "boreal forest",
+    "wetland",
+    "taiga"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "leaves",
+    "twigs",
+    "bark",
+    "aquatic plants",
+    "berries"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years",
+    "captivity": "Up to 25 years in human care"
+  },
+  "size": {
+    "lengthMin": "7 feet",
+    "lengthMax": "10 feet"
+  },
+  "weight": {
+    "min": "800 pounds",
+    "max": "1,500 pounds"
+  },
+  "speed": "Can run up to 35 miles per hour",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "solitary browsing",
+    "wading in lakes",
+    "antler growth",
+    "seasonal rut",
+    "calf defense"
+  ],
+  "adaptations": [
+    "long legs",
+    "large antlers",
+    "heat-tolerant nose",
+    "excellent swimming",
+    "wide hooves"
+  ],
+  "predators": [
+    "wolves",
+    "bears",
+    "humans",
+    "cougars"
+  ],
+  "prey": [
+    "plants",
+    "aquatic vegetation"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 8 months",
+    "offspringCount": "1 to 2 calves per year"
+  },
+  "funFacts": [
+    "Moose are the largest deer in the world.",
+    "Only bull moose grow the huge wide antlers.",
+    "Moose are excellent swimmers and can dive for plants.",
+    "A moose's nose helps cool warm air in summer.",
+    "Calves can stand within hours of being born.",
+    "Moose are most active at dawn and dusk."
+  ],
+  "faq": [
+    {
+      "question": "What is a moose?",
+      "answer": "A moose is a very large deer with long legs, a long face, and big antlers on males. It is the largest member of the deer family."
+    },
+    {
+      "question": "Where do moose live?",
+      "answer": "Moose live in northern forests and wetlands across Canada, Alaska, Scandinavia, Russia, and parts of Europe and Asia."
+    },
+    {
+      "question": "What do moose eat?",
+      "answer": "Moose eat leaves, twigs, bark, and water plants. They browse on land and wade into lakes to feed."
+    },
+    {
+      "question": "How big is a moose?",
+      "answer": "Adult moose can stand over 6 feet tall at the shoulder and weigh more than 1,000 pounds."
+    },
+    {
+      "question": "What is a baby moose called?",
+      "answer": "A baby moose is called a calf. Calves are born in spring and stay with their mother for about a year."
+    },
+    {
+      "question": "Why do moose have antlers?",
+      "answer": "Bull moose grow antlers to compete for mates. They shed and regrow them each year."
+    },
+    {
+      "question": "Are moose dangerous?",
+      "answer": "Moose usually avoid people, but cows with calves and bulls in rut can be aggressive and should be given space."
+    }
+  ],
+  "relatedAnimals": [
+    "grizzly-bear",
+    "wolf",
+    "gazelle"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "moose-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "grizzly-bear-family",
+  "animalSlug": "grizzly-bear",
+  "slug": "grizzly-bear-family",
+  "fileName": "Mother Grizzly Bear & Cute Cub (48847665751).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mother_Grizzly_Bear_%26_Cute_Cub_%2848847665751%29.jpg",
+  "width": 5168,
+  "height": 3445,
+  "alt": "Mother grizzly bear with cub in wild habitat",
+  "caption": "Mother grizzlies fiercely protect their cubs while teaching them to find food.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated grizzly bear family image with verified species identification.",
+  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "attributionText": "Photo by Larry Lamsa via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mother_Grizzly_Bear_%26_Cute_Cub_(48847665751).jpg\">Larry Lamsa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mother_Grizzly_Bear_%26_Cute_Cub_(48847665751).jpg",
+    "creatorName": "Larry Lamsa",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:39:00.723Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

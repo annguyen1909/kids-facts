@@ -1,0 +1,33 @@
+{
+  "id": "eagle-core-baby",
+  "animalSlug": "eagle",
+  "slug": "eagle-core-baby",
+  "fileName": "Back to the Six Mile Lake eagles (Haliaeetus leucocephalus).\"feed me mom\". (19159890706).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Back_to_the_Six_Mile_Lake_eagles_%28Haliaeetus_leucocephalus%29.%22feed_me_mom%22._%2819159890706%29.jpg",
+  "width": 2660,
+  "height": 1773,
+  "alt": "Young bald eagle chick begging for food at the nest",
+  "caption": "Eaglets grow quickly and need many meals brought by their parents each day.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Six Mile Lake, Canada",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Murray Foubister via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Back_to_the_Six_Mile_Lake_eagles_(Haliaeetus_leucocephalus).%22feed_me_mom%22._(19159890706).jpg\">Murray Foubister</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_to_the_Six_Mile_Lake_eagles_(Haliaeetus_leucocephalus).%22feed_me_mom%22._(19159890706).jpg",
+    "creatorName": "Murray Foubister",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

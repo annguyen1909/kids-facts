@@ -1,0 +1,34 @@
+{
+  "id": "tiger-core-range",
+  "animalSlug": "tiger",
+  "slug": "tiger-core-range",
+  "fileName": "Bengal_tiger_in_Bandhavgarh_National_Park_02.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bengal_tiger_in_Bandhavgarh_National_Park_02.jpg",
+  "width": 3948,
+  "height": 2820,
+  "alt": "Bengal tiger resting in Bandhavgarh National Park, India",
+  "caption": "Habitat loss and poaching pushed wild tigers into fewer protected forests and reserves.",
+  "attributionText": "Photo by Bernard Gagnon via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Bandhavgarh_National_Park_02.jpg\">Bernard Gagnon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_in_Bandhavgarh_National_Park_02.jpg",
+    "creatorName": "Bernard Gagnon",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:30:00.000Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "range",
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Bandhavgarh National Park, India",
+  "acquisitionNotes": "Core article conservation image — tiger in protected national park reserve.",
+  "updatedAt": "2026-06-23T07:30:00.000Z"
+}

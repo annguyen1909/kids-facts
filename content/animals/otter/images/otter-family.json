@@ -1,0 +1,33 @@
+{
+  "id": "otter-family",
+  "animalSlug": "otter",
+  "slug": "otter-family",
+  "fileName": "Grouping -1 - a raft of California Sea Otters - Enhydra lutris nereis, Elkhorn Slough, Moss Landing, California.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Grouping_-1_-_a_raft_of_California_Sea_Otters_-_Enhydra_lutris_nereis%2C_Elkhorn_Slough%2C_Moss_Landing%2C_California.jpg",
+  "width": 5048,
+  "height": 1496,
+  "alt": "Group of sea otters resting together on the water",
+  "caption": "Sea otters sometimes rest in floating groups called rafts.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Elkhorn Slough, California",
+  "acquisitionNotes": "Manually curated otter family image with verified sea otter identification.",
+  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grouping_-1_-_a_raft_of_California_Sea_Otters_-_Enhydra_lutris_nereis%2C_Elkhorn_Slough%2C_Moss_Landing%2C_California.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grouping_-1_-_a_raft_of_California_Sea_Otters_-_Enhydra_lutris_nereis%2C_Elkhorn_Slough%2C_Moss_Landing%2C_California.jpg",
+    "creatorName": "Judy Gallagher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:50.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

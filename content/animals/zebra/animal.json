@@ -1,0 +1,158 @@
+{
+  "id": "animal-zebra",
+  "slug": "zebra",
+  "name": "Zebra",
+  "commonNames": [
+    "Zebra",
+    "Plains zebra",
+    "Common zebra"
+  ],
+  "scientificName": "Equus quagga",
+  "summary": "Zebras are striped hoofed mammals that live in African grasslands and savannas. They graze in herds, stay alert together, and use speed and powerful kicks to escape predators.",
+  "heroTitle": "Zebra Facts",
+  "metaTitle": "Zebra Facts | Habitat, Stripes, Diet & Photos",
+  "metaDescription": "Discover zebra facts with photos, stripes, herd behavior, grassland habitat, foals, and conservation. Learn why zebras live in groups and what their stripes may do.",
+  "searchIntents": [
+    "zebra facts",
+    "why do zebras have stripes",
+    "where do zebras live",
+    "what do zebras eat",
+    "what is a baby zebra called",
+    "how fast can a zebra run"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Equidae",
+    "genus": "Equus",
+    "species": "E. quagga"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "hoofed"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Botswana",
+    "Namibia",
+    "Zimbabwe",
+    "South Africa"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grass",
+    "young shoots",
+    "stems"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "6.5 feet",
+    "lengthMax": "8.5 feet",
+    "heightMin": "4 feet",
+    "heightMax": "5 feet"
+  },
+  "weight": {
+    "min": "440 pounds",
+    "max": "990 pounds"
+  },
+  "speed": "Up to 40 mph",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "herd living",
+    "grazing",
+    "migration",
+    "mutual grooming",
+    "strong defensive kicking"
+  ],
+  "adaptations": [
+    "striped coat",
+    "powerful legs",
+    "sharp hearing",
+    "wide-angle vision",
+    "strong teeth for grazing"
+  ],
+  "predators": [
+    "lions",
+    "hyenas",
+    "wild dogs",
+    "crocodiles",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "foal",
+    "gestationOrIncubation": "About 12 to 13 months",
+    "offspringCount": "Usually 1 foal"
+  },
+  "funFacts": [
+    "Every zebra has a unique stripe pattern.",
+    "A zebra foal can stand shortly after birth.",
+    "Zebras use powerful kicks to defend themselves from predators.",
+    "Zebras often live in herds with a lot of calling and body signals.",
+    "Scientists still study exactly how stripes help zebras the most.",
+    "Zebras can travel long distances to find fresh grazing and water."
+  ],
+  "faq": [
+    {
+      "question": "What is a zebra?",
+      "answer": "A zebra is an African hoofed mammal related to horses and donkeys. It is famous for its black-and-white striped coat."
+    },
+    {
+      "question": "Where do zebras live?",
+      "answer": "Zebras live in African savannas, grasslands, and open woodlands where they can graze and move in herds."
+    },
+    {
+      "question": "What do zebras eat?",
+      "answer": "Zebras are herbivores. They mainly eat grass, along with some shoots and stems."
+    },
+    {
+      "question": "Why do zebras have stripes?",
+      "answer": "Stripes may help confuse biting insects, make moving herds harder for predators to track, and help zebras recognize one another."
+    },
+    {
+      "question": "What is a baby zebra called?",
+      "answer": "A baby zebra is called a foal. Foals can stand and follow the herd soon after birth."
+    },
+    {
+      "question": "How fast can a zebra run?",
+      "answer": "A zebra can run up to about 40 miles per hour and can also kick very hard if cornered."
+    },
+    {
+      "question": "Do zebras live in groups?",
+      "answer": "Yes. Zebras usually live in family groups or larger herds, which helps them watch for danger together."
+    },
+    {
+      "question": "Are zebras endangered?",
+      "answer": "Some zebra populations are under pressure from habitat loss and fences. This page focuses on the plains zebra, which faces regional declines."
+    }
+  ],
+  "relatedAnimals": [
+    "gazelle",
+    "giraffe",
+    "lion"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "zebra-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "savanna"
+}

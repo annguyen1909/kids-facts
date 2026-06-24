@@ -1,0 +1,33 @@
+{
+  "id": "eagle-core-closeup",
+  "animalSlug": "eagle",
+  "slug": "eagle-core-closeup",
+  "fileName": "Bald Eagle Portrait.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bald_Eagle_Portrait.jpg",
+  "width": 2251,
+  "height": 2814,
+  "alt": "Bald eagle portrait showing white head and intense yellow eyes",
+  "caption": "Adult bald eagles develop their white head and tail when they are about five years old.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Saffron Blaze via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_Eagle_Portrait.jpg\">Saffron Blaze</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Portrait.jpg",
+    "creatorName": "Saffron Blaze",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

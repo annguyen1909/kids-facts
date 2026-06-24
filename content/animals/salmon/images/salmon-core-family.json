@@ -1,0 +1,33 @@
+{
+  "id": "salmon-core-family",
+  "animalSlug": "salmon",
+  "slug": "salmon-core-family",
+  "fileName": "Salmonlarvakils.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Salmonlarvakils.jpg",
+  "width": 1249,
+  "height": 1821,
+  "alt": "Very young salmon larvae after hatching",
+  "caption": "Salmon begin life as tiny larvae before growing into parr and smolts.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North Atlantic",
+  "acquisitionNotes": "Core article image curated separately from the salmon gallery set.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by Uwe Kils via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmonlarvakils.jpg\">Uwe Kils</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmonlarvakils.jpg",
+    "creatorName": "Uwe Kils",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -8,11 +8,13 @@
     "start": "next start",
     "lint": "eslint",
     "content:validate": "tsx scripts/validate-content.ts",
+    "content:validate-urls": "tsx scripts/validate-image-urls.ts",
     "new-animal": "tsx scripts/new-animal.ts",
     "create-animal": "tsx scripts/create-animal.ts",
     "import-animal": "tsx scripts/import-animal.ts",
     "import-bulk": "tsx scripts/import-bulk.ts",
-    "refresh-animal": "tsx scripts/refresh-animal.ts"
+    "refresh-animal": "tsx scripts/refresh-animal.ts",
+    "generate-decorations": "tsx scripts/generate-decorations.ts"
   },
   "dependencies": {
     "@mdx-js/react": "^3.1.1",
@@ -30,6 +32,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
+    "@google/genai": "^1.52.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",

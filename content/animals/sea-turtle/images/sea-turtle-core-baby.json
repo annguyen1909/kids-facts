@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-core-baby",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-core-baby",
+  "fileName": "Hatchling Green Turtle (Chelonia mydas) (6161271899).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hatchling_Green_Turtle_%28Chelonia_mydas%29_%286161271899%29.jpg",
+  "width": 2061,
+  "height": 1536,
+  "alt": "Green sea turtle hatchling crawling toward the ocean",
+  "caption": "Many hatchlings face danger from birds, crabs, and fish before reaching adulthood.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Tropical beach",
+  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set.",
+  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "attributionText": "Photo by Thomas Brown via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hatchling_Green_Turtle_(Chelonia_mydas)_(6161271899).jpg\">Thomas Brown</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hatchling_Green_Turtle_(Chelonia_mydas)_(6161271899).jpg",
+    "creatorName": "Thomas Brown",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

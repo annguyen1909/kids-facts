@@ -1,0 +1,159 @@
+{
+  "id": "animal-raccoon",
+  "slug": "raccoon",
+  "name": "Raccoon",
+  "commonNames": [
+    "Raccoon",
+    "Common Raccoon",
+    "Northern Raccoon"
+  ],
+  "scientificName": "Procyon lotor",
+  "summary": "Raccoons are clever North American mammals with black masks, ringed tails, and nimble front paws. They live in forests and cities and are famous for raiding trash cans at night.",
+  "heroTitle": "Raccoon Facts",
+  "metaTitle": "Raccoon Facts | Habitat, Diet, Paws & Photos",
+  "metaDescription": "Discover raccoon facts with photos, forest habitat, omnivore diet, kits, and night behavior. Learn where raccoons live and why they wash their food.",
+  "searchIntents": [
+    "raccoon facts",
+    "what do raccoons eat",
+    "where do raccoons live",
+    "what is a baby raccoon called",
+    "why do raccoons wash their food",
+    "are raccoons nocturnal"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Procyonidae",
+    "genus": "Procyon",
+    "species": "P. lotor"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Germany",
+    "Japan"
+  ],
+  "biomes": [
+    "temperate forest",
+    "wetland",
+    "urban"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "fruit",
+    "nuts",
+    "insects",
+    "fish",
+    "eggs",
+    "human food scraps"
+  ],
+  "lifespan": {
+    "wild": "2 to 3 years",
+    "captivity": "Up to 20 years in human care"
+  },
+  "size": {
+    "lengthMin": "16 inches",
+    "lengthMax": "28 inches"
+  },
+  "weight": {
+    "min": "8 pounds",
+    "max": "20 pounds"
+  },
+  "speed": "Quick climber and swimmer",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "nocturnal foraging",
+    "climbing",
+    "denning",
+    "food washing",
+    "urban scavenging"
+  ],
+  "adaptations": [
+    "sensitive front paws",
+    "black eye mask",
+    "ringed tail",
+    "sharp claws",
+    "excellent night vision"
+  ],
+  "predators": [
+    "coyotes",
+    "bobcats",
+    "great horned owls",
+    "humans"
+  ],
+  "prey": [
+    "insects",
+    "fish",
+    "frogs",
+    "small mammals"
+  ],
+  "reproduction": {
+    "offspringName": "kit",
+    "gestationOrIncubation": "About 63 days",
+    "offspringCount": "2 to 5 kits per litter"
+  },
+  "funFacts": [
+    "Raccoons are most active at night.",
+    "Their front paws can open jars, latches, and trash cans.",
+    "Baby raccoons are called kits.",
+    "Raccoons often dip food in water before eating.",
+    "They can climb trees and swim well.",
+    "Raccoons have spread to Europe and Japan after being introduced."
+  ],
+  "faq": [
+    {
+      "question": "What is a raccoon?",
+      "answer": "A raccoon is a medium-sized mammal with a black mask, ringed tail, and clever front paws. The common raccoon lives across North America."
+    },
+    {
+      "question": "Where do raccoons live?",
+      "answer": "Raccoons live in forests, wetlands, and cities across North America. They have also been introduced to parts of Europe and Asia."
+    },
+    {
+      "question": "What do raccoons eat?",
+      "answer": "Raccoons eat fruit, nuts, insects, fish, eggs, and many foods they find near people, including trash."
+    },
+    {
+      "question": "What is a baby raccoon called?",
+      "answer": "A baby raccoon is called a kit. Kits are born in spring and stay with their mother for months."
+    },
+    {
+      "question": "Why do raccoons wash their food?",
+      "answer": "Raccoons often dip food in water, which may help them feel their food better with their sensitive paws."
+    },
+    {
+      "question": "Are raccoons nocturnal?",
+      "answer": "Yes. Raccoons usually come out at night to search for food and avoid predators."
+    },
+    {
+      "question": "Are raccoons dangerous?",
+      "answer": "Wild raccoons should not be approached. They can bite if scared and may carry diseases."
+    }
+  ],
+  "relatedAnimals": [
+    "fox",
+    "wolf",
+    "grizzly-bear"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "raccoon-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "forest"
+}

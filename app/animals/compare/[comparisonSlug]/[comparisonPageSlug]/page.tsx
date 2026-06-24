@@ -7,6 +7,7 @@ import { getAllComparisons, resolveComparisonRoute } from "@/lib/content";
 import { getAbsoluteUrl } from "@/lib/images";
 import { buildComparisonMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema, buildComparisonSchema } from "@/lib/schema";
+import { disabledFeatureRobots, siteFeatures } from "@/lib/site-features";
 
 export function generateStaticParams() {
   return getAllComparisons().flatMap(({ comparison, pages }) =>
@@ -27,7 +28,10 @@ export async function generateMetadata({
   const { comparisonSlug, comparisonPageSlug } = await params;
   const resolved = resolveComparisonRoute(comparisonSlug, comparisonPageSlug);
   return resolved?.type === "comparison"
-    ? buildComparisonMetadata(resolved.comparison, resolved.page)
+    ? {
+        ...buildComparisonMetadata(resolved.comparison, resolved.page),
+        ...(siteFeatures.compare ? {} : { robots: disabledFeatureRobots }),
+      }
     : {};
 }
 

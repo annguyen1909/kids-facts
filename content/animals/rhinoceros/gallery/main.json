@@ -1,0 +1,22 @@
+{
+  "id": "rhinoceros-gallery-main",
+  "animalSlug": "rhinoceros",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "White Rhinoceros Photo Gallery",
+  "metaTitle": "White Rhinoceros Photo Gallery",
+  "metaDescription": "Browse a white rhinoceros photo gallery with wildlife photos.",
+  "intro": "Explore white rhinoceros photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "rhinoceros-hero",
+    "rhinoceros-habitat",
+    "rhinoceros-diet",
+    "rhinoceros-baby",
+    "rhinoceros-family",
+    "rhinoceros-range",
+    "rhinoceros-size",
+    "rhinoceros-closeup",
+    "rhinoceros-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T09:34:18.315Z"
+}

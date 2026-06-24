@@ -1,0 +1,22 @@
+{
+  "id": "animal-gallery-main",
+  "animalSlug": "animal",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Animal Photo Gallery",
+  "metaTitle": "Animal Photo Gallery",
+  "metaDescription": "Browse a animal photo gallery with wildlife photos.",
+  "intro": "Explore animal photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "animal-hero",
+    "animal-habitat",
+    "animal-diet",
+    "animal-baby",
+    "animal-family",
+    "animal-range",
+    "animal-size",
+    "animal-closeup",
+    "animal-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T07:57:34.489Z"
+}

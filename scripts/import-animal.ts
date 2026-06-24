@@ -90,7 +90,7 @@ async function main() {
 
     console.log("\nNext steps:");
     console.log("  1. Review animal.json taxonomy and reference summary");
-    console.log("  2. Replace TBD editorial content in core.mdx and supporting pages");
+    console.log("  2. Replace TBD editorial content in core.mdx");
     console.log("  3. Verify image attribution and replace weak images if needed");
     console.log("  4. Run npm run content:validate");
   } catch (error) {

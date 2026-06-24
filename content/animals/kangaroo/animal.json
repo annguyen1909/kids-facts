@@ -1,0 +1,146 @@
+{
+  "id": "animal-kangaroo",
+  "slug": "kangaroo",
+  "name": "Kangaroo",
+  "commonNames": [
+    "Kangaroo",
+    "Red Kangaroo",
+    "Big Red Kangaroo"
+  ],
+  "scientificName": "Macropus rufus",
+  "summary": "Red kangaroos are Australia's largest marsupials. They hop across dry grasslands on powerful hind legs, carry joeys in a pouch, and graze mostly on plants.",
+  "heroTitle": "Kangaroo Facts",
+  "metaTitle": "Kangaroo Facts | Habitat, Diet, Joeys & Photos",
+  "metaDescription": "Discover red kangaroo facts with photos, outback habitat, grazing diet, joey life, and hopping behavior. Learn where kangaroos live and how pouches work.",
+  "searchIntents": [
+    "kangaroo facts",
+    "what do kangaroos eat",
+    "where do kangaroos live",
+    "what is a baby kangaroo called",
+    "how high can a kangaroo jump",
+    "why do kangaroos have pouches"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Diprotodontia",
+    "family": "Macropodidae",
+    "genus": "Macropus",
+    "species": "M. rufus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "large"
+  ],
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "biomes": [
+    "savanna",
+    "desert",
+    "scrubland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grass",
+    "leaves",
+    "shrubs",
+    "herbs"
+  ],
+  "lifespan": {
+    "wild": "8 to 12 years",
+    "captivity": "Up to 20 years in human care"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "5.5 feet",
+    "heightMin": "4 feet",
+    "heightMax": "6 feet"
+  },
+  "weight": {
+    "min": "40 pounds",
+    "max": "200 pounds"
+  },
+  "speed": "Up to 35 mph hopping",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "hopping locomotion",
+    "grazing",
+    "mob living",
+    "pouch rearing",
+    "boxing displays"
+  ],
+  "adaptations": [
+    "powerful hind legs",
+    "long tail for balance",
+    "pouch for joeys",
+    "large ears",
+    "efficient hopping"
+  ],
+  "predators": [
+    "dingoes",
+    "eagles",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "joey",
+    "gestationOrIncubation": "About 33 days, then months in the pouch",
+    "offspringCount": "Usually 1 joey"
+  },
+  "funFacts": [
+    "A red kangaroo cannot walk easily on its hind legs but can hop very fast.",
+    "Joeys are born tiny and finish growing inside the mother's pouch.",
+    "Male kangaroos sometimes box with their front legs during disputes.",
+    "A kangaroo's tail helps it balance and can support its weight while sitting.",
+    "Red kangaroos are the largest marsupials in the world.",
+    "Kangaroos often rest in the shade during the hottest part of the day."
+  ],
+  "faq": [
+    {
+      "question": "What is a kangaroo?",
+      "answer": "A kangaroo is a marsupial mammal from Australia that moves by hopping and raises its young in a pouch."
+    },
+    {
+      "question": "Where do kangaroos live?",
+      "answer": "Red kangaroos live across dry inland Australia in grasslands, scrub, and open woodlands."
+    },
+    {
+      "question": "What do kangaroos eat?",
+      "answer": "Kangaroos are herbivores that graze on grasses, leaves, and shrubs."
+    },
+    {
+      "question": "What is a baby kangaroo called?",
+      "answer": "A baby kangaroo is called a joey. Joeys grow inside the mother's pouch after birth."
+    },
+    {
+      "question": "Why do kangaroos hop?",
+      "answer": "Hopping lets kangaroos move quickly across open ground while saving energy over long distances."
+    },
+    {
+      "question": "How high can a kangaroo jump?",
+      "answer": "A red kangaroo can leap more than 6 feet high and cover more than 25 feet in one bound."
+    },
+    {
+      "question": "Are kangaroos endangered?",
+      "answer": "Red kangaroos are listed as Least Concern and remain widespread, though drought can be hard on local populations."
+    }
+  ],
+  "relatedAnimals": [
+    "red-panda",
+    "zebra",
+    "african-elephant"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "kangaroo-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

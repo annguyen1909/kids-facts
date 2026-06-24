@@ -1,0 +1,33 @@
+{
+  "id": "owl-diet",
+  "animalSlug": "owl",
+  "slug": "owl-diet",
+  "fileName": "Talons, Great Horned Owl.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Talons%2C_Great_Horned_Owl.jpg",
+  "width": 2174,
+  "height": 2899,
+  "alt": "Close-up of great horned owl talons used for catching prey",
+  "caption": "Owls are carnivores that catch rabbits, rats, birds, and other small animals.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated owl diet image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Peter K Burian via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Talons%2C_Great_Horned_Owl.jpg\">Peter K Burian</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talons%2C_Great_Horned_Owl.jpg",
+    "creatorName": "Peter K Burian",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

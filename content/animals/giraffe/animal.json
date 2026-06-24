@@ -1,0 +1,158 @@
+{
+  "id": "animal-giraffe",
+  "slug": "giraffe",
+  "name": "Giraffe",
+  "commonNames": [
+    "Giraffe",
+    "Northern giraffe",
+    "Masai giraffe"
+  ],
+  "scientificName": "Giraffa camelopardalis",
+  "summary": "Giraffes are the tallest land animals on Earth. They use their long necks and tongues to browse leaves high in trees and live in loose herds across African savannas.",
+  "heroTitle": "Giraffe Facts",
+  "metaTitle": "Giraffe Facts | Habitat, Height, Diet & Photos",
+  "metaDescription": "Discover giraffe facts with photos, long-neck adaptations, habitat, diet, calves, and conservation. Learn how tall giraffes are and why they need savanna trees.",
+  "searchIntents": [
+    "giraffe facts",
+    "how tall is a giraffe",
+    "where do giraffes live",
+    "what do giraffes eat",
+    "why do giraffes have long necks",
+    "are giraffes endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Giraffidae",
+    "genus": "Giraffa",
+    "species": "G. camelopardalis"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "tall"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Botswana",
+    "South Africa",
+    "Niger"
+  ],
+  "biomes": [
+    "savanna",
+    "woodland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "acacia leaves",
+    "shoots",
+    "flowers",
+    "seed pods"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "8 feet",
+    "lengthMax": "14 feet",
+    "heightMin": "14 feet",
+    "heightMax": "19 feet"
+  },
+  "weight": {
+    "min": "1,200 pounds",
+    "max": "4,200 pounds"
+  },
+  "speed": "Up to 35 mph",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "browsing tall trees",
+    "loose herd living",
+    "calf guarding",
+    "neck sparring",
+    "watchful scanning"
+  ],
+  "adaptations": [
+    "long neck",
+    "long grasping tongue",
+    "powerful heart",
+    "tall legs",
+    "patterned coat camouflage"
+  ],
+  "predators": [
+    "lions",
+    "hyenas",
+    "crocodiles",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 15 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "A giraffe's tongue can be about 18 to 20 inches long.",
+    "Giraffes are the tallest land animals in the world.",
+    "Each giraffe has a unique patch pattern.",
+    "Newborn calves can stand not long after birth.",
+    "Giraffes sleep only for short periods at a time.",
+    "Male giraffes sometimes swing their necks in contests called necking."
+  ],
+  "faq": [
+    {
+      "question": "What is a giraffe?",
+      "answer": "A giraffe is a tall African mammal with a very long neck and legs. It is the tallest land animal on Earth."
+    },
+    {
+      "question": "Where do giraffes live?",
+      "answer": "Giraffes live in African savannas, open woodlands, and grasslands where trees grow far apart."
+    },
+    {
+      "question": "What do giraffes eat?",
+      "answer": "Giraffes are herbivores. They mainly eat leaves, shoots, flowers, and seed pods from tall trees such as acacias."
+    },
+    {
+      "question": "How tall is a giraffe?",
+      "answer": "Adult giraffes can grow to about 14 to 19 feet tall. Males are usually taller than females."
+    },
+    {
+      "question": "Why do giraffes have long tongues?",
+      "answer": "A giraffe's long tongue helps it pull leaves from thorny branches high above the ground."
+    },
+    {
+      "question": "What is a baby giraffe called?",
+      "answer": "A baby giraffe is called a calf. Calves can stand and walk soon after they are born."
+    },
+    {
+      "question": "Do giraffes live alone?",
+      "answer": "Giraffes usually live in loose groups called herds. The group may change as animals move around for food."
+    },
+    {
+      "question": "Are giraffes endangered?",
+      "answer": "Giraffes are listed as Vulnerable overall. Habitat loss and broken-up migration routes have reduced some wild populations."
+    }
+  ],
+  "relatedAnimals": [
+    "zebra",
+    "gazelle",
+    "african-elephant"
+  ],
+  "comparisonCandidates": [
+    "african-elephant"
+  ],
+  "galleryIds": [
+    "giraffe-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "savanna"
+}

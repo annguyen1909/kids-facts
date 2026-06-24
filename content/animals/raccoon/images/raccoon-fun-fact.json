@@ -1,0 +1,33 @@
+{
+  "id": "raccoon-fun-fact",
+  "animalSlug": "raccoon",
+  "slug": "raccoon-fun-fact",
+  "fileName": "Raccoon in a garbage can in Prospect Park (72564).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Raccoon_in_a_garbage_can_in_Prospect_Park_%2872564%29.jpg",
+  "width": 3492,
+  "height": 2740,
+  "alt": "Raccoon exploring a garbage can in a city park",
+  "caption": "Raccoons are famous for raiding trash cans and solving food puzzles.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Brooklyn, New York",
+  "acquisitionNotes": "Manually curated raccoon fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_in_a_garbage_can_in_Prospect_Park_(72564).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raccoon_in_a_garbage_can_in_Prospect_Park_(72564).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:34:23.392Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

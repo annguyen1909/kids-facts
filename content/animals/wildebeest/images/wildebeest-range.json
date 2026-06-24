@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-range",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-range",
+  "fileName": "Ñu común (Connochaetes taurinus), parque nacional de Amboseli, Kenia, 2024-05-23, DD 16.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%C3%91u_com%C3%BAn_%28Connochaetes_taurinus%29%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-23%2C_DD_16.jpg",
+  "width": 8060,
+  "height": 5373,
+  "alt": "Blue wildebeest on the East African savanna",
+  "caption": "Blue wildebeest range from Kenya and Tanzania south to South Africa and Namibia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Amboseli, Kenya",
+  "acquisitionNotes": "Manually curated wildebeest range image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%C3%91u_com%C3%BAn_(Connochaetes_taurinus)%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-23%2C_DD_16.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%91u_com%C3%BAn_(Connochaetes_taurinus)%2C_parque_nacional_de_Amboseli%2C_Kenia%2C_2024-05-23%2C_DD_16.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

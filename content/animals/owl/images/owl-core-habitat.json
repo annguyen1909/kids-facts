@@ -1,0 +1,33 @@
+{
+  "id": "owl-core-habitat",
+  "animalSlug": "owl",
+  "slug": "owl-core-habitat",
+  "fileName": "Great horned owl, Mammoth Hot Springs (dd86fa1f-ef1b-4549-98be-ad29024c7958).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Great_horned_owl%2C_Mammoth_Hot_Springs_%28dd86fa1f-ef1b-4549-98be-ad29024c7958%29.jpg",
+  "width": 4551,
+  "height": 2742,
+  "alt": "Great horned owl perched on a branch in woodland",
+  "caption": "These adaptable owls nest in trees, cliffs, and old nests left by other birds.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Yellowstone National Park, USA",
+  "acquisitionNotes": "Core article image curated separately from the owl gallery set.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Neal Herbert via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(dd86fa1f-ef1b-4549-98be-ad29024c7958).jpg\">Neal Herbert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(dd86fa1f-ef1b-4549-98be-ad29024c7958).jpg\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(dd86fa1f-ef1b-4549-98be-ad29024c7958).jpg",
+    "creatorName": "Neal Herbert",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Great_horned_owl%2C_Mammoth_Hot_Springs_(dd86fa1f-ef1b-4549-98be-ad29024c7958).jpg",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eagle-closeup",
+  "animalSlug": "eagle",
+  "slug": "eagle-closeup",
+  "fileName": "Bald Eagle Head sq.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bald_Eagle_Head_sq.jpg",
+  "width": 3000,
+  "height": 3000,
+  "alt": "Close-up bald eagle head with white feathers and yellow hooked beak",
+  "caption": "A bald eagle's sharp hooked beak and keen eyes help it spot prey from far away.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated bald eagle close-up image with verified species identification.",
+  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "attributionText": "Photo by Martin Falbisoner via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_Eagle_Head_sq.jpg\">Martin Falbisoner</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Head_sq.jpg",
+    "creatorName": "Martin Falbisoner",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T10:36:03.302Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

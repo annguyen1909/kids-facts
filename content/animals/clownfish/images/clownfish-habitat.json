@@ -1,0 +1,33 @@
+{
+  "id": "clownfish-habitat",
+  "animalSlug": "clownfish",
+  "slug": "clownfish-habitat",
+  "fileName": "Amphiprion ocellaris (Clown anemonefish) in Heteractis magnifica (Sea anemone).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Amphiprion_ocellaris_%28Clown_anemonefish%29_in_Heteractis_magnifica_%28Sea_anemone%29.jpg",
+  "width": 1260,
+  "height": 1680,
+  "alt": "Clownfish nestled among the tentacles of a magnificent sea anemone",
+  "caption": "Clownfish live on warm coral reefs, usually hiding inside stinging sea anemones.",
+  "attributionText": "Photo by Nhobgood Nick Hobgood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_in_Heteractis_magnifica_(Sea_anemone).jpg\">Nhobgood Nick Hobgood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_in_Heteractis_magnifica_(Sea_anemone).jpg",
+    "creatorName": "Nhobgood Nick Hobgood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:26.704Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef",
+  "acquisitionNotes": "Manually curated clownfish habitat image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:26.704Z"
+}

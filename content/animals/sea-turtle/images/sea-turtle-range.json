@@ -1,0 +1,33 @@
+{
+  "id": "sea-turtle-range",
+  "animalSlug": "sea-turtle",
+  "slug": "sea-turtle-range",
+  "fileName": "Green turtle Chelonia mydas is basking on Punaluu Beach Big Island of Hawaii.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Green_turtle_Chelonia_mydas_is_basking_on_Punaluu_Beach_Big_Island_of_Hawaii.jpg",
+  "width": 2000,
+  "height": 1554,
+  "alt": "Green sea turtle resting on a tropical beach",
+  "caption": "Green sea turtles live in tropical and subtropical oceans around the world.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Punaluu Beach, Hawaii, USA",
+  "acquisitionNotes": "Manually curated sea turtle range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_turtle_Chelonia_mydas_is_basking_on_Punaluu_Beach_Big_Island_of_Hawaii.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_turtle_Chelonia_mydas_is_basking_on_Punaluu_Beach_Big_Island_of_Hawaii.jpg",
+    "creatorName": "Brocken Inaglory",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:13.697Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

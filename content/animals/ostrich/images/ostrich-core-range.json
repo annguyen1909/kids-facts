@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-core-range",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-core-range",
+  "fileName": "Struthio camelus (Kunene).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Struthio_camelus_%28Kunene%29.jpg",
+  "width": 3427,
+  "height": 2569,
+  "alt": "Ostrich in semi-arid African landscape",
+  "caption": "Habitat loss and fencing have reduced ostrich numbers in some areas.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Kunene, Namibia",
+  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_(Kunene).jpg\">Hans Hillewaert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_(Kunene).jpg",
+    "creatorName": "Hans Hillewaert",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

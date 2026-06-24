@@ -1,0 +1,33 @@
+{
+  "id": "rhinoceros-diet",
+  "animalSlug": "rhinoceros",
+  "slug": "rhinoceros-diet",
+  "fileName": "White Rhinoceros (Ceratotherium simum) grazing along the road ... (33338608685).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/White_Rhinoceros_%28Ceratotherium_simum%29_grazing_along_the_road_..._%2833338608685%29.jpg",
+  "width": 3791,
+  "height": 3648,
+  "alt": "White rhinoceros grazing on grass",
+  "caption": "White rhinos are herbivores that graze on grasses and low plants.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Africa",
+  "acquisitionNotes": "Manually curated rhinoceros diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_grazing_along_the_road_..._(33338608685).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_grazing_along_the_road_..._(33338608685).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.739Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "animal-rhinoceros",
+  "slug": "rhinoceros",
+  "name": "Rhinoceros",
+  "commonNames": [
+    "Rhinoceros",
+    "White Rhinoceros",
+    "Square-lipped Rhinoceros"
+  ],
+  "scientificName": "Ceratotherium simum",
+  "summary": "White rhinoceroses are massive African grazers with two horns and wide mouths for eating grass. They live on open savannas and are among the largest land mammals.",
+  "heroTitle": "Rhinoceros Facts",
+  "metaTitle": "Rhinoceros Facts | Savanna Habitat, Horns & Photos",
+  "metaDescription": "Discover white rhinoceros facts with photos, savanna habitat, grass diet, calf life, and conservation. Learn where rhinos live and why horns put them at risk.",
+  "searchIntents": [
+    "rhinoceros facts",
+    "what do rhinos eat",
+    "where do rhinos live",
+    "how big is a rhinoceros",
+    "are rhinos endangered",
+    "what are rhino horns made of"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Perissodactyla",
+    "family": "Rhinocerotidae",
+    "genus": "Ceratotherium",
+    "species": "C. simum"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "South Africa",
+    "Namibia",
+    "Botswana",
+    "Zimbabwe",
+    "Kenya",
+    "Uganda"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grass",
+    "low-growing plants"
+  ],
+  "lifespan": {
+    "wild": "35 to 40 years",
+    "captivity": "Up to 50 years in human care"
+  },
+  "size": {
+    "lengthMin": "11 feet",
+    "lengthMax": "15 feet",
+    "heightMin": "5 feet",
+    "heightMax": "6 feet"
+  },
+  "weight": {
+    "min": "3,500 pounds",
+    "max": "5,500 pounds"
+  },
+  "speed": "Up to 30 mph in short bursts",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "grazing",
+    "mud wallowing",
+    "territory marking",
+    "calf guarding",
+    "savanna roaming"
+  ],
+  "adaptations": [
+    "thick skin",
+    "keratin horns",
+    "wide grazing lips",
+    "strong sense of smell",
+    "large body size"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 16 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "White rhinos are not white—the name may come from the Afrikaans word for wide.",
+    "Rhino horns are made of keratin, like human fingernails.",
+    "White rhinos have wide, square lips perfect for grazing grass.",
+    "A white rhino can eat more than 100 pounds of grass in a day.",
+    "Rhinos love mud baths that cool their skin and discourage insects.",
+    "Despite their bulk, rhinos can run surprisingly fast."
+  ],
+  "faq": [
+    {
+      "question": "What is a rhinoceros?",
+      "answer": "A rhinoceros is a huge plant-eating mammal with thick skin and one or two horns on its nose."
+    },
+    {
+      "question": "Where do white rhinos live?",
+      "answer": "Southern white rhinos live in grasslands and savannas of southern and eastern Africa."
+    },
+    {
+      "question": "What do rhinos eat?",
+      "answer": "White rhinos are herbivores that graze on grasses and other low plants."
+    },
+    {
+      "question": "Are rhinos endangered?",
+      "answer": "White rhinos are listed as Near Threatened. Poaching for horns remains a serious threat."
+    },
+    {
+      "question": "What are rhino horns made of?",
+      "answer": "Rhino horns are made of keratin, the same protein found in human hair and fingernails."
+    },
+    {
+      "question": "Why are they called white rhinos?",
+      "answer": "The name likely comes from the Afrikaans word wyd, meaning wide, referring to their broad grazing lips."
+    },
+    {
+      "question": "What is a baby rhino called?",
+      "answer": "A baby rhinoceros is called a calf. Calves stay close to their mothers for protection."
+    }
+  ],
+  "relatedAnimals": [
+    "african-elephant",
+    "zebra",
+    "hippopotamus"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "rhinoceros-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

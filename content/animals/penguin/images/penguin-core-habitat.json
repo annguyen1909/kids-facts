@@ -1,0 +1,33 @@
+{
+  "id": "penguin-core-habitat",
+  "animalSlug": "penguin",
+  "slug": "penguin-core-habitat",
+  "fileName": "SouthShetland-2016-Livingston Island (Hannah Point)–Gentoo penguin (Pygoscelis papua) 05.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/SouthShetland-2016-Livingston_Island_%28Hannah_Point%29%E2%80%93Gentoo_penguin_%28Pygoscelis_papua%29_05.jpg",
+  "width": 4275,
+  "height": 6413,
+  "alt": "Gentoo penguins on coastal rocks at Hannah Point, Livingston Island",
+  "caption": "Rocky shores and cold seas give penguins safe nesting sites near rich fishing grounds.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Hannah Point, Livingston Island, Antarctica",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
+  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "attributionText": "Photo by Godot13 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:SouthShetland-2016-Livingston_Island_(Hannah_Point)%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_05.jpg\">Godot13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SouthShetland-2016-Livingston_Island_(Hannah_Point)%E2%80%93Gentoo_penguin_(Pygoscelis_papua)_05.jpg",
+    "creatorName": "Godot13",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T07:33:33.464Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chimpanzee-range",
+  "animalSlug": "chimpanzee",
+  "slug": "chimpanzee-range",
+  "fileName": "016 Alpha male chimpanzee walking at Kibale forest National Park Photo by Giles Laurent.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/016_Alpha_male_chimpanzee_walking_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "width": 3550,
+  "height": 4437,
+  "alt": "Adult chimpanzee walking through African forest",
+  "caption": "Wild chimpanzees range from Senegal eastward to Uganda and Tanzania.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kibale Forest National Park, Uganda",
+  "acquisitionNotes": "Manually curated chimpanzee range image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:016_Alpha_male_chimpanzee_walking_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:016_Alpha_male_chimpanzee_walking_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:19.326Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

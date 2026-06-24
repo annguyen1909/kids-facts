@@ -1,0 +1,33 @@
+{
+  "id": "gazelle-size",
+  "animalSlug": "gazelle",
+  "slug": "gazelle-size",
+  "fileName": "Eudorcas thomsonii -Serengeti National Park, Tanzania-8.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg",
+  "width": 1600,
+  "height": 1067,
+  "alt": "Full-body Thomson's gazelle showing slim legs and horns",
+  "caption": "A gazelle's light body and long legs help it sprint and turn quickly.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Serengeti National Park, Tanzania",
+  "acquisitionNotes": "Manually curated gazelle size image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "attributionText": "Photo by Bob via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg\">Bob</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg",
+    "creatorName": "Bob",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.084Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

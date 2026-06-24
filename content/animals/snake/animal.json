@@ -1,0 +1,152 @@
+{
+  "id": "animal-snake",
+  "slug": "snake",
+  "name": "Ball Python",
+  "commonNames": [
+    "Ball Python",
+    "Royal Python",
+    "Snake"
+  ],
+  "scientificName": "Python regius",
+  "summary": "Ball pythons are calm African snakes with beautiful patterns. When frightened, they curl into a tight ball—and mothers coil around eggs to keep them warm.",
+  "heroTitle": "Ball Python Facts",
+  "metaTitle": "Ball Python Facts | Habitat, Diet & Photos",
+  "metaDescription": "Discover ball python facts with photos, savanna habitat, rodent diet, egg care, and defensive curling. Learn where ball pythons live and how snakes grow.",
+  "searchIntents": [
+    "ball python facts",
+    "snake facts",
+    "what do ball pythons eat",
+    "where do ball pythons live",
+    "why is it called a ball python",
+    "are ball pythons venomous"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "genus": "Python",
+    "species": "P. regius"
+  },
+  "classificationLabels": [
+    "reptile",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Senegal",
+    "Ghana",
+    "Nigeria",
+    "Cameroon",
+    "Uganda",
+    "Sudan"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland",
+    "forest edge"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "rodents",
+    "small birds",
+    "shrews"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years",
+    "captivity": "Up to 30 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "5 feet"
+  },
+  "weight": {
+    "min": "3 pounds",
+    "max": "5 pounds"
+  },
+  "speed": "Slow mover; quick strike when hunting",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "constriction",
+    "egg brooding",
+    "nocturnal hunting",
+    "defensive curling",
+    "shedding skin"
+  ],
+  "adaptations": [
+    "heat-sensing pits",
+    "stretchy jaws",
+    "camouflage patterns",
+    "muscle shivering for eggs",
+    "scaly skin"
+  ],
+  "predators": [
+    "birds of prey",
+    "large mammals",
+    "humans"
+  ],
+  "prey": [
+    "rodents",
+    "small birds"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "Eggs incubate about 2 months",
+    "offspringCount": "Usually 4 to 10 eggs"
+  },
+  "funFacts": [
+    "Ball pythons are also called royal pythons.",
+    "They are non-venomous constrictors.",
+    "When scared, they curl into a ball with the head tucked inside.",
+    "Females coil around eggs and shiver to warm them.",
+    "Snakes smell with their tongue flicking in the air.",
+    "Ball pythons shed their skin as they grow."
+  ],
+  "faq": [
+    {
+      "question": "What is a ball python?",
+      "answer": "A ball python is a non-venomous snake from Africa known for curling into a ball when frightened."
+    },
+    {
+      "question": "Where do ball pythons live?",
+      "answer": "Ball pythons live in grasslands, savannas, and forest edges in West and Central Africa."
+    },
+    {
+      "question": "What do ball pythons eat?",
+      "answer": "Ball pythons eat rodents, small birds, and other small mammals. They swallow prey whole."
+    },
+    {
+      "question": "Are ball pythons venomous?",
+      "answer": "No. Ball pythons are constrictors and do not have venom."
+    },
+    {
+      "question": "Why is it called a ball python?",
+      "answer": "It curls its body into a tight ball when threatened, hiding its head in the center."
+    },
+    {
+      "question": "Are snakes reptiles?",
+      "answer": "Yes. Snakes are reptiles with scaly skin and they lay eggs or give birth to live young depending on the species."
+    },
+    {
+      "question": "Are ball pythons endangered?",
+      "answer": "Ball pythons are listed as Near Threatened because of habitat loss and collection for the pet trade."
+    }
+  ],
+  "relatedAnimals": [
+    "komodo-dragon",
+    "chameleon",
+    "crocodile"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "snake-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T12:00:00.000Z",
+  "publishedAt": "2026-06-24T12:00:00.000Z",
+  "habitat": "savanna"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-range",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-range",
+  "fileName": "White shark.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg",
+  "width": 1200,
+  "height": 835,
+  "alt": "Great white shark in open ocean habitat",
+  "caption": "Great white sharks live in temperate and coastal oceans around the world.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated great white shark range image with verified species identification.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Pterantula (Terry Goss) at en.wikipedia via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_shark.jpg\">Pterantula (Terry Goss) at en.wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_shark.jpg",
+    "creatorName": "Pterantula (Terry Goss) at en.wikipedia",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

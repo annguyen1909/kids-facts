@@ -1,0 +1,33 @@
+{
+  "id": "owl-fun-fact",
+  "animalSlug": "owl",
+  "slug": "owl-fun-fact",
+  "fileName": "Great Horned Owl Flying (20087931318).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Great_Horned_Owl_Flying_%2820087931318%29.jpg",
+  "width": 3477,
+  "height": 2314,
+  "alt": "Great horned owl flying with wings spread wide",
+  "caption": "Owls fly almost silently because special feathers muffle the sound of their wings.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Manually curated owl fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T08:02:58.617Z",
+  "attributionText": "Photo by Eric Kilby from Somerville, MA, USA via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_Flying_(20087931318).jpg\">Eric Kilby from Somerville, MA, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_Flying_(20087931318).jpg",
+    "creatorName": "Eric Kilby from Somerville, MA, USA",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:02:58.617Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

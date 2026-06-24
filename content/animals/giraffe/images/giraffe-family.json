@@ -1,0 +1,33 @@
+{
+  "id": "giraffe-family",
+  "animalSlug": "giraffe",
+  "slug": "giraffe-family",
+  "fileName": "Giraffes (Giraffa camelopardalis) female and calf (14007572496).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Giraffes_%28Giraffa_camelopardalis%29_female_and_calf_%2814007572496%29.jpg",
+  "width": 3609,
+  "height": 2667,
+  "alt": "Adult giraffe and calf moving together in open country",
+  "caption": "Giraffes often travel in loose groups that help them stay watchful.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "African savanna",
+  "acquisitionNotes": "Manually curated giraffe family image with verified species identification.",
+  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_female_and_calf_(14007572496).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_female_and_calf_(14007572496).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:35.575Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

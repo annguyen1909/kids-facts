@@ -1,0 +1,34 @@
+{
+  "id": "dolphin-baby",
+  "animalSlug": "bottlenose-dolphin",
+  "slug": "dolphin-baby",
+  "fileName": "Bottlenose_dolphin_with_young.webp",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bottlenose_dolphin_with_young.JPG",
+  "width": 1679,
+  "height": 1153,
+  "alt": "Bottlenose dolphin mother swimming with her calf",
+  "caption": "Dolphin calves stay beside their mothers and learn how to hunt and communicate.",
+  "attributionText": "Photo by Peter Asprey via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bottlenose_dolphin_with_young.JPG\">Peter Asprey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bottlenose_dolphin_with_young.JPG",
+    "creatorName": "Peter Asprey",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T06:03:57.225Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Ocean",
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
+  "updatedAt": "2026-06-22T06:03:57.225Z"
+}

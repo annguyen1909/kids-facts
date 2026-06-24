@@ -1,0 +1,156 @@
+{
+  "id": "animal-orca",
+  "slug": "orca",
+  "name": "Orca",
+  "commonNames": [
+    "Orca",
+    "Killer whale"
+  ],
+  "scientificName": "Orcinus orca",
+  "summary": "Orcas are the largest members of the dolphin family. They are smart marine mammals that live in pods, use sound to communicate, and hunt fish or marine mammals in oceans around the world.",
+  "heroTitle": "Orca Facts",
+  "metaTitle": "Orca Facts | Habitat, Diet, Pod Life & Photos",
+  "metaDescription": "Discover orca facts with photos, ocean habitat, pod behavior, diet, calves, and conservation. Learn why orcas are dolphins and how pods hunt together.",
+  "searchIntents": [
+    "orca facts",
+    "are orcas whales or dolphins",
+    "where do orcas live",
+    "what do orcas eat",
+    "how big is an orca",
+    "what is an orca pod"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Delphinidae",
+    "genus": "Orcinus",
+    "species": "O. orca"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Norway",
+    "Iceland",
+    "New Zealand",
+    "Argentina"
+  ],
+  "biomes": [
+    "marine"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "squid",
+    "seals",
+    "penguins",
+    "other marine animals"
+  ],
+  "lifespan": {
+    "wild": "30 to 80 years"
+  },
+  "size": {
+    "lengthMin": "16 feet",
+    "lengthMax": "32 feet"
+  },
+  "weight": {
+    "min": "3,000 pounds",
+    "max": "12,000 pounds"
+  },
+  "speed": "Up to 34 mph",
+  "conservationStatus": "Data Deficient",
+  "populationTrend": "Varies by population",
+  "behaviors": [
+    "pod living",
+    "echolocation",
+    "cooperative hunting",
+    "surface breathing",
+    "family learning"
+  ],
+  "adaptations": [
+    "echolocation",
+    "powerful tail flukes",
+    "streamlined body",
+    "sharp conical teeth",
+    "strong social memory"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "fish",
+    "squid",
+    "seals",
+    "other marine animals"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 17 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "Orcas are actually the largest dolphins on Earth.",
+    "Each pod can have its own calls and hunting habits.",
+    "Orcas breathe air and must surface through a blowhole.",
+    "A tall dorsal fin can help identify an adult male orca.",
+    "Some orca populations specialize in fish while others hunt mammals.",
+    "Orca calves stay close to their mother for years."
+  ],
+  "faq": [
+    {
+      "question": "What is an orca?",
+      "answer": "An orca is a large marine mammal also called a killer whale. It is actually the biggest member of the dolphin family."
+    },
+    {
+      "question": "Are orcas whales or dolphins?",
+      "answer": "Orcas are dolphins. They belong to the dolphin family even though they are often called killer whales."
+    },
+    {
+      "question": "Where do orcas live?",
+      "answer": "Orcas live in oceans around the world, from cold polar seas to temperate coasts and open ocean waters."
+    },
+    {
+      "question": "What do orcas eat?",
+      "answer": "Orcas are carnivores that eat fish, squid, seals, and other marine animals depending on the pod."
+    },
+    {
+      "question": "What is an orca pod?",
+      "answer": "A pod is a family group of orcas that travels, hunts, rests, and communicates together."
+    },
+    {
+      "question": "What is a baby orca called?",
+      "answer": "A baby orca is called a calf. Calves stay close to their mother and learn pod calls and hunting habits."
+    },
+    {
+      "question": "How big is an orca?",
+      "answer": "Orcas can grow from about 16 to 32 feet long, and large males can weigh many thousands of pounds."
+    },
+    {
+      "question": "Are orcas endangered?",
+      "answer": "Orca conservation depends on the population. Some groups face serious threats from pollution, noise, and low food supply."
+    }
+  ],
+  "relatedAnimals": [
+    "bottlenose-dolphin",
+    "great-white-shark",
+    "otter"
+  ],
+  "comparisonCandidates": [
+    "bottlenose-dolphin"
+  ],
+  "galleryIds": [
+    "orca-gallery-main"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z",
+  "publishedAt": "2026-06-23T00:00:00.000Z",
+  "habitat": "ocean"
+}

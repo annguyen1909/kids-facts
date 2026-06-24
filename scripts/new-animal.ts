@@ -32,7 +32,7 @@ function main() {
     console.log("");
     console.log("Next steps:");
     console.log("  1. Replace TBD fields in animal.json");
-    console.log("  2. Write core.mdx and supporting pages");
+    console.log("  2. Write core.mdx with 6–8 sections");
     console.log("  3. Add real images under assets/images/animals/" + result.slug);
     console.log("  4. Update image JSON files and remove placeholder URLs");
     console.log("  5. Run npm run content:validate");

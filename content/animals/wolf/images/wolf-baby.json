@@ -1,0 +1,33 @@
+{
+  "id": "wolf-baby",
+  "animalSlug": "wolf",
+  "slug": "wolf-baby",
+  "fileName": "Wolf cub (5062848622).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Wolf_cub_%285062848622%29.jpg",
+  "width": 379,
+  "height": 250,
+  "alt": "Young wolf cub resting near den entrance",
+  "caption": "Wolf pups are born in a den and depend on the pack for food and protection.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Wildlife habitat",
+  "acquisitionNotes": "Manually curated wolf cub image with verified species identification.",
+  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "attributionText": "Photo by Superior National Forest via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wolf_cub_(5062848622).jpg\">Superior National Forest</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wolf_cub_(5062848622).jpg",
+    "creatorName": "Superior National Forest",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T08:52:45.879Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

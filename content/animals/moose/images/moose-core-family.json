@@ -1,0 +1,33 @@
+{
+  "id": "moose-core-family",
+  "animalSlug": "moose",
+  "slug": "moose-core-family",
+  "fileName": "Moose mother and calf on road.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Moose_mother_and_calf_on_road.jpg",
+  "width": 2382,
+  "height": 1870,
+  "alt": "Cow moose crossing a road with her calf",
+  "caption": "Calves stay with their mother for about a year before becoming independent.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "North America",
+  "acquisitionNotes": "Core article image curated separately from the moose gallery set.",
+  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "attributionText": "Photo by Veronika Ronkos via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Moose_mother_and_calf_on_road.jpg\">Veronika Ronkos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moose_mother_and_calf_on_road.jpg",
+    "creatorName": "Veronika Ronkos",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:11.790Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

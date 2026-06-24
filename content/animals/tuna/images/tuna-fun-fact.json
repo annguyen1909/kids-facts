@@ -1,0 +1,33 @@
+{
+  "id": "tuna-fun-fact",
+  "animalSlug": "tuna",
+  "slug": "tuna-fun-fact",
+  "fileName": "Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25187).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25187%29.jpg",
+  "width": 3008,
+  "height": 2000,
+  "alt": "Dense school of yellowfin tuna in blue water",
+  "caption": "Tuna are warm-blooded fish that can keep their muscles hot for fast chasing.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pacific Ocean",
+  "acquisitionNotes": "Manually curated tuna fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:11.144Z",
+  "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25187).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25187).jpg",
+    "creatorName": "Marc Taquet",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:11.144Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

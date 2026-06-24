@@ -1,0 +1,33 @@
+{
+  "id": "red-panda-core-habitat",
+  "animalSlug": "red-panda",
+  "slug": "red-panda-core-habitat",
+  "fileName": "RedPanda_SingalilaNationalPark_DFrame.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RedPanda_SingalilaNationalPark_DFrame.jpg",
+  "width": 1121,
+  "height": 896,
+  "alt": "Red panda climbing tree in cool Himalayan forest habitat",
+  "caption": "Red pandas live in temperate mountain forests with mossy trees and bamboo.",
+  "attributionText": "Photo by Ajit Hota via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:RedPanda_SingalilaNationalPark_DFrame.jpg\">Ajit Hota</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RedPanda_SingalilaNationalPark_DFrame.jpg",
+    "creatorName": "Ajit Hota",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-22T13:56:51Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Singalila National Park, India",
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
+  "updatedAt": "2026-06-22T13:56:51Z"
+}

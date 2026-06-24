@@ -1,0 +1,33 @@
+{
+  "id": "koala-core-family",
+  "animalSlug": "koala",
+  "slug": "koala-core-family",
+  "fileName": "Koala - Joey - Flickr - GregTheBusker.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Koala_-_Joey_-_Flickr_-_GregTheBusker.jpg",
+  "width": 3072,
+  "height": 2304,
+  "alt": "Koala mother with joey peeking from her fur",
+  "caption": "Joeys are born tiny and finish growing inside the mother's backward-opening pouch.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Core article image curated separately from the koala gallery set.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by Greg Schechter from San Francisco, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_-_Joey_-_Flickr_-_GregTheBusker.jpg\">Greg Schechter from San Francisco, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_-_Joey_-_Flickr_-_GregTheBusker.jpg",
+    "creatorName": "Greg Schechter from San Francisco, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

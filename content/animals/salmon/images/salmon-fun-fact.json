@@ -1,0 +1,33 @@
+{
+  "id": "salmon-fun-fact",
+  "animalSlug": "salmon",
+  "slug": "salmon-fun-fact",
+  "fileName": "Atlantic Salmon Fishing Cains River New Brunswick (8376386310).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Atlantic_Salmon_Fishing_Cains_River_New_Brunswick_%288376386310%29.jpg",
+  "width": 1944,
+  "height": 2592,
+  "alt": "Atlantic salmon leaping in a river",
+  "caption": "Adult salmon return to the same rivers where they hatched to spawn.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "New Brunswick, Canada",
+  "acquisitionNotes": "Manually curated salmon fun-fact image with verified species identification.",
+  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "attributionText": "Photo by James Mann from Moncton, New Brunswick, Canada via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Fishing_Cains_River_New_Brunswick_(8376386310).jpg\">James Mann from Moncton, New Brunswick, Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Fishing_Cains_River_New_Brunswick_(8376386310).jpg",
+    "creatorName": "James Mann from Moncton, New Brunswick, Canada",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

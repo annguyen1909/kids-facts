@@ -1,0 +1,33 @@
+{
+  "id": "great-white-shark-core-family",
+  "animalSlug": "great-white-shark",
+  "slug": "great-white-shark-core-family",
+  "fileName": "Great White Shark (Carcharodon carcharias) (32872319266).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Great_White_Shark_%28Carcharodon_carcharias%29_%2832872319266%29.jpg",
+  "width": 4412,
+  "height": 2863,
+  "alt": "Great white shark swimming alone in open water",
+  "caption": "Unlike pod-living dolphins, great white sharks usually travel by themselves.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set.",
+  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_White_Shark_(Carcharodon_carcharias)_(32872319266).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(Carcharodon_carcharias)_(32872319266).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T06:50:52.764Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

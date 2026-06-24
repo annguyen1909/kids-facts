@@ -1,0 +1,33 @@
+{
+  "id": "koala-diet",
+  "animalSlug": "koala",
+  "slug": "koala-diet",
+  "fileName": "Koala Eating (3337014192).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Koala_Eating_%283337014192%29.jpg",
+  "width": 2803,
+  "height": 2371,
+  "alt": "Koala chewing eucalyptus leaves",
+  "caption": "Koalas eat almost only eucalyptus leaves, which are tough and low in energy.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Australia",
+  "acquisitionNotes": "Manually curated koala diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "attributionText": "Photo by Rennett Stowe from USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_Eating_(3337014192).jpg\">Rennett Stowe from USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_Eating_(3337014192).jpg",
+    "creatorName": "Rennett Stowe from USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:22:12.494Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

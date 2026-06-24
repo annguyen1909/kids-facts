@@ -2,14 +2,17 @@
   "id": "animal-lion",
   "slug": "lion",
   "name": "Lion",
-  "commonNames": ["African lion", "Asiatic lion"],
+  "commonNames": [
+    "African lion",
+    "Asiatic lion"
+  ],
   "scientificName": "Panthera leo",
   "summary": "Lions are powerful social cats that live in prides across African savannas and one small wild population in India. They hunt in groups, defend territory together, and raise cubs as a family.",
-  "heroTitle": "Lion Facts for Kids",
-  "metaTitle": "Lion Facts for Kids | Habitat, Diet, Pride Life & Photos",
-  "metaDescription": "Discover lion facts for kids with photos, pride behavior, habitat, diet, life cycle, and conservation. Learn where lions live, what they eat, and how cubs grow up.",
+  "heroTitle": "Lion Facts",
+  "metaTitle": "Lion Facts | Habitat, Diet, Pride Life & Photos",
+  "metaDescription": "Discover lion facts with photos, pride behavior, habitat, diet, life cycle, and conservation. Learn where lions live, what they eat, and how cubs grow up.",
   "searchIntents": [
-    "lion facts for kids",
+    "lion facts",
     "what do lions eat",
     "where do lions live",
     "how big is a lion",
@@ -25,13 +28,33 @@
     "genus": "Panthera",
     "species": "P. leo"
   },
-  "classificationLabels": ["mammal", "carnivore", "large"],
-  "habitats": ["savanna", "grassland", "woodland"],
-  "continents": ["Africa", "Asia"],
-  "countries": ["Kenya", "Tanzania", "South Africa", "Botswana", "India"],
-  "biomes": ["savanna"],
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "South Africa",
+    "Botswana",
+    "India"
+  ],
+  "biomes": [
+    "savanna"
+  ],
   "dietType": "Carnivore",
-  "dietItems": ["zebra", "wildebeest", "antelope", "buffalo", "warthog"],
+  "dietItems": [
+    "zebra",
+    "wildebeest",
+    "antelope",
+    "buffalo",
+    "warthog"
+  ],
   "lifespan": {
     "wild": "10 to 14 years",
     "captivity": "Up to 20 years in human care"
@@ -63,8 +86,15 @@
     "mane protection",
     "short sprint speed"
   ],
-  "predators": ["humans"],
-  "prey": ["zebra", "wildebeest", "antelope", "buffalo"],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "zebra",
+    "wildebeest",
+    "antelope",
+    "buffalo"
+  ],
   "reproduction": {
     "offspringName": "cub",
     "gestationOrIncubation": "About 110 days",
@@ -81,82 +111,65 @@
   "faq": [
     {
       "question": "What is a lion?",
-      "answer": "A lion is a large wild cat and one of the biggest members of the cat family. Most lions live in Africa, and a small wild population lives in India.",
-      "targetPage": "core"
+      "answer": "A lion is a large wild cat and one of the biggest members of the cat family. Most lions live in Africa, and a small wild population lives in India."
     },
     {
       "question": "Why do lions live in prides?",
-      "answer": "Prides help lions protect cubs, defend territory, and hunt larger prey together. Group living gives lions a better chance of survival.",
-      "targetPage": "core"
+      "answer": "Prides help lions protect cubs, defend territory, and hunt larger prey together. Group living gives lions a better chance of survival."
     },
     {
       "question": "What do lions eat?",
-      "answer": "Lions are carnivores that eat meat. They often hunt hoofed animals such as zebra, wildebeest, and antelope.",
-      "targetPage": "diet"
+      "answer": "Lions are carnivores that eat meat. They often hunt hoofed animals such as zebra, wildebeest, and antelope."
     },
     {
       "question": "Where do lions live?",
-      "answer": "Most wild lions live in African savannas, grasslands, and open woodlands. A small group also lives in the Gir Forest of India.",
-      "targetPage": "habitat"
+      "answer": "Most wild lions live in African savannas, grasslands, and open woodlands. A small group also lives in the Gir Forest of India."
     },
     {
       "question": "How fast can a lion run?",
-      "answer": "A lion can sprint up to about 50 mph (80 km/h), but only for a short distance. Lions rely on stealth and teamwork more than long chases.",
-      "targetPage": "adaptations"
+      "answer": "A lion can sprint up to about 50 mph (80 km/h), but only for a short distance. Lions rely on stealth and teamwork more than long chases."
     },
     {
       "question": "What is a baby lion called?",
-      "answer": "A baby lion is called a cub. Cubs are born blind and depend on their mother and pride for food and protection.",
-      "targetPage": "babies"
+      "answer": "A baby lion is called a cub. Cubs are born blind and depend on their mother and pride for food and protection."
     },
     {
       "question": "How long do lions live?",
-      "answer": "Wild lions usually live about 10 to 14 years. Lions in zoos and sanctuaries can live longer with regular food and medical care.",
-      "targetPage": "life-cycle"
+      "answer": "Wild lions usually live about 10 to 14 years. Lions in zoos and sanctuaries can live longer with regular food and medical care."
     },
     {
       "question": "Are lions endangered?",
-      "answer": "Lions are listed as Vulnerable, which means their wild numbers are dropping and they need protection. Habitat loss and conflict with people are major threats.",
-      "targetPage": "predators-and-threats"
+      "answer": "Lions are listed as Vulnerable, which means their wild numbers are dropping and they need protection. Habitat loss and conflict with people are major threats."
     },
     {
       "question": "Do male and female lions look different?",
-      "answer": "Yes. Adult male lions usually have a thick mane around their head and neck. Females, called lionesses, are smaller and typically have no mane.",
-      "targetPage": "core"
+      "answer": "Yes. Adult male lions usually have a thick mane around their head and neck. Females, called lionesses, are smaller and typically have no mane."
     },
     {
       "question": "Who hunts in a lion pride?",
-      "answer": "Lionesses do most of the hunting. They often work together to stalk and chase prey, while males help defend the pride's territory.",
-      "targetPage": "behavior"
+      "answer": "Lionesses do most of the hunting. They often work together to stalk and chase prey, while males help defend the pride's territory."
     },
     {
       "question": "What helps lions hunt at night?",
-      "answer": "Lions have excellent night vision and a strong sense of smell. Their powerful legs and sharp claws help them make short, fast attacks.",
-      "targetPage": "adaptations"
+      "answer": "Lions have excellent night vision and a strong sense of smell. Their powerful legs and sharp claws help them make short, fast attacks."
     },
     {
       "question": "What threatens lions in the wild?",
-      "answer": "Lions face habitat loss, fewer prey animals, and conflict with people who raise livestock. Poaching and shrinking wild land also put pressure on lion populations.",
-      "targetPage": "predators-and-threats"
+      "answer": "Lions face habitat loss, fewer prey animals, and conflict with people who raise livestock. Poaching and shrinking wild land also put pressure on lion populations."
     }
   ],
-  "relatedAnimals": ["african-elephant", "bottlenose-dolphin"],
-  "comparisonCandidates": ["african-elephant"],
-  "galleryIds": [
-    "lion-gallery-main",
-    "lion-gallery-habitat",
-    "lion-gallery-baby",
-    "lion-gallery-diet"
+  "relatedAnimals": [
+    "tiger",
+    "leopard",
+    "african-elephant"
   ],
-  "supportingPageIds": [
-    "lion-diet",
-    "lion-habitat",
-    "lion-life-cycle",
-    "lion-behavior",
-    "lion-adaptations",
-    "lion-babies",
-    "lion-predators-and-threats"
+  "comparisonCandidates": [
+    "african-elephant"
+  ],
+  "galleryIds": [
+    "lion-gallery-main"
   ],
   "updatedAt": "2026-06-21T00:00:00.000Z",
-  "publishedAt": "2026-06-21T00:00:00.000Z"
+  "publishedAt": "2026-06-21T00:00:00.000Z",
+  "habitat": "savanna"
 }

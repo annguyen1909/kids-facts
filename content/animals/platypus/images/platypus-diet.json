@@ -1,0 +1,33 @@
+{
+  "id": "platypus-diet",
+  "animalSlug": "platypus",
+  "slug": "platypus-diet",
+  "fileName": "Duck-billed platypus (Ornithorhynchus anatinus) surfacing Scottsdale.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg",
+  "width": 3165,
+  "height": 3165,
+  "alt": "Platypus surfacing in water after diving for food",
+  "caption": "Platypuses hunt underwater for insects, worms, and small animals in river mud.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Scottsdale, Tasmania, Australia",
+  "acquisitionNotes": "Manually curated platypus diet image with verified species identification.",
+  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:30:06.111Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

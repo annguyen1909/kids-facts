@@ -1,0 +1,33 @@
+{
+  "id": "ostrich-diet",
+  "animalSlug": "ostrich",
+  "slug": "ostrich-diet",
+  "fileName": "Avestruz alta.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Avestruz_alta.jpg",
+  "width": 2592,
+  "height": 3872,
+  "alt": "Ostrich foraging on the ground for food",
+  "caption": "Ostriches eat plants, seeds, insects, and small animals they find on the ground.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Africa",
+  "acquisitionNotes": "Manually curated ostrich diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "attributionText": "Photo by Museum of Veterinary Anatomy FMVZ USP via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Avestruz_alta.jpg\">Museum of Veterinary Anatomy FMVZ USP</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avestruz_alta.jpg",
+    "creatorName": "Museum of Veterinary Anatomy FMVZ USP",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:14.851Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

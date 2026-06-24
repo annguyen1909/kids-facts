@@ -1,0 +1,33 @@
+{
+  "id": "wildebeest-core-family",
+  "animalSlug": "wildebeest",
+  "slug": "wildebeest-core-family",
+  "fileName": "Ñus comunes (Connochaetes taurinus), parque nacional de Tarangire, Tanzania, 2024-05-25, DD 38-43 PAN.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%C3%91us_comunes_%28Connochaetes_taurinus%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-25%2C_DD_38-43_PAN.jpg",
+  "width": 19205,
+  "height": 3125,
+  "alt": "Large herd of blue wildebeest spread across savanna",
+  "caption": "Being in a giant herd helps wildebeest confuse predators like lions.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Tarangire, Tanzania",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
+  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%C3%91us_comunes_(Connochaetes_taurinus)%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-25%2C_DD_38-43_PAN.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%91us_comunes_(Connochaetes_taurinus)%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-25%2C_DD_38-43_PAN.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:41:18.505Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

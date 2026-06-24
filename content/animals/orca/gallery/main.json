@@ -1,0 +1,22 @@
+{
+  "id": "orca-gallery-main",
+  "animalSlug": "orca",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Orca Photo Gallery",
+  "metaTitle": "Orca Photo Gallery",
+  "metaDescription": "Browse orca photos showing ocean habitat, pods, calves, dorsal fins, and cooperative hunting behavior.",
+  "intro": "Explore orca photos for learning and classroom observation, from pod life and calves to open-ocean swimming.",
+  "imageSlugs": [
+    "orca-hero",
+    "orca-habitat",
+    "orca-diet",
+    "orca-baby",
+    "orca-family",
+    "orca-range",
+    "orca-size",
+    "orca-closeup",
+    "orca-fun-fact"
+  ],
+  "updatedAt": "2026-06-23T00:00:00.000Z"
+}

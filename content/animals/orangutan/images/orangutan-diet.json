@@ -1,0 +1,33 @@
+{
+  "id": "orangutan-diet",
+  "animalSlug": "orangutan",
+  "slug": "orangutan-diet",
+  "fileName": "Orang Utan picking up some fruit (26426082272).jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Orang_Utan_picking_up_some_fruit_%2826426082272%29.jpg",
+  "width": 4000,
+  "height": 6000,
+  "alt": "Orangutan reaching for fruit in a tree",
+  "caption": "Orangutans eat fruit, leaves, bark, and other forest plants.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Borneo",
+  "acquisitionNotes": "Manually curated orangutan diet image with verified species identification.",
+  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "attributionText": "Photo by Thomas Quine via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orang_Utan_picking_up_some_fruit_(26426082272).jpg\">Thomas Quine</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orang_Utan_picking_up_some_fruit_(26426082272).jpg",
+    "creatorName": "Thomas Quine",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T12:32:11.033Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

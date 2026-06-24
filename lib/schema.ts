@@ -53,7 +53,7 @@ export function buildImageGallerySchema(
     "@context": "https://schema.org",
     "@type": "ImageGallery",
     name: `${animal.core.name} Photo Gallery`,
-    description: intro ?? `Wildlife photos of ${animal.core.name} for kids.`,
+    description: intro ?? `Wildlife photos of ${animal.core.name}.`,
     about: {
       "@type": "Thing",
       name: animal.core.name,

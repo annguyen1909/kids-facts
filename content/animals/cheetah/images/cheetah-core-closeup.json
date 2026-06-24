@@ -1,0 +1,33 @@
+{
+  "id": "cheetah-core-closeup",
+  "animalSlug": "cheetah",
+  "slug": "cheetah-core-closeup",
+  "fileName": "Cheetah portrait Whipsnade Zoo.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cheetah_portrait_Whipsnade_Zoo.jpg",
+  "width": 2736,
+  "height": 2468,
+  "alt": "Cheetah portrait showing eyes whiskers and spots",
+  "caption": "A cheetah's face is adapted for sharp daytime focus and quick reactions.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Whipsnade Zoo, England",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
+  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "attributionText": "Photo by William Warby via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cheetah_portrait_Whipsnade_Zoo.jpg\">William Warby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheetah_portrait_Whipsnade_Zoo.jpg",
+    "creatorName": "William Warby",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-23T05:02:36.035Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

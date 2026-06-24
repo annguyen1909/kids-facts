@@ -1,0 +1,33 @@
+{
+  "id": "kangaroo-core-baby",
+  "animalSlug": "kangaroo",
+  "slug": "kangaroo-core-baby",
+  "fileName": "Macropus rufus Boulia Wildlife Haven Herbert St Boulia Queensland P1070190.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1070190.jpg",
+  "width": 4000,
+  "height": 3000,
+  "alt": "Young red kangaroo near adults in wildlife habitat",
+  "caption": "Joeys peek out of the pouch before taking their first hops outside.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Boulia, Queensland, Australia",
+  "acquisitionNotes": "Core article image curated separately from the kangaroo gallery set.",
+  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "attributionText": "Photo by John Robert McPherson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1070190.jpg\">John Robert McPherson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1070190.jpg",
+    "creatorName": "John Robert McPherson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:10.468Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

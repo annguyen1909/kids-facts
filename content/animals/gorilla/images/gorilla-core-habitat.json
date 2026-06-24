@@ -1,0 +1,33 @@
+{
+  "id": "gorilla-core-habitat",
+  "animalSlug": "gorilla",
+  "slug": "gorilla-core-habitat",
+  "fileName": "Western lowland gorilla lying on ground - DPLA - cf2a6167cfbb9a0aebbd74a98936405a.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg",
+  "width": 1000,
+  "height": 1500,
+  "alt": "Western lowland gorilla resting on forest floor",
+  "caption": "Dense tropical forests give gorillas food, shade, and places to build nests.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Central Africa",
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
+  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg",
+    "creatorName": "Garst, Warren, 1922-2016, photographer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T09:05:05.825Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

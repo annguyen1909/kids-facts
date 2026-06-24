@@ -1,0 +1,33 @@
+{
+  "id": "komodo-dragon-diet",
+  "animalSlug": "komodo-dragon",
+  "slug": "komodo-dragon-diet",
+  "fileName": "Komodo Dragon Eating Rinca.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Komodo_Dragon_Eating_Rinca.jpg",
+  "width": 2492,
+  "height": 1670,
+  "alt": "Komodo dragon feeding on prey on Rinca Island",
+  "caption": "Komodo dragons are carnivores that hunt deer, pigs, and other large animals.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rinca Island, Indonesia",
+  "acquisitionNotes": "Manually curated Komodo dragon diet image with verified species identification.",
+  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "attributionText": "Photo by Mats Stafseng Einarsen via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Dragon_Eating_Rinca.jpg\">Mats Stafseng Einarsen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_Dragon_Eating_Rinca.jpg",
+    "creatorName": "Mats Stafseng Einarsen",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T02:55:48.501Z",
+    "reviewedBy": "editor@kidsfacts.local"
+  }
+}

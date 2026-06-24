@@ -4,6 +4,7 @@ import {
   validateContent,
   type ValidationIssue,
 } from "@/lib/content-validation";
+import { validateAnimalImageUrls } from "@/lib/validate-image-urls";
 
 function printIssues(label: string, issues: ValidationIssue[]) {
   if (issues.length === 0) return;
@@ -15,7 +16,7 @@ function printIssues(label: string, issues: ValidationIssue[]) {
   }
 }
 
-function main() {
+async function main() {
   const result = validateContent();
   const errors = result.issues.filter((issue) => issue.severity === "error");
   const warnings = result.issues.filter((issue) => issue.severity === "warning");
@@ -31,26 +32,32 @@ function main() {
   console.log("\nCompleteness");
   for (const entry of result.completeness) {
     const imageStatus = `${entry.images.present}/${entry.images.required} required images`;
-    const pageStatus = `${entry.supportingPages.present}/${entry.supportingPages.expected} default pages`;
+    const sectionStatus = `${entry.coreSections} core sections`;
     const flags = [
       entry.hasCoreBody ? "core body" : "missing core body",
       entry.hasHeroImage ? "hero image" : "missing hero image",
     ].join(", ");
 
-    console.log(`  ${entry.slug.padEnd(22)} ${imageStatus}, ${pageStatus}, ${flags}`);
+    console.log(`  ${entry.slug.padEnd(22)} ${imageStatus}, ${sectionStatus}, ${flags}`);
 
     if (entry.images.missing.length > 0) {
       console.log(`    missing images: ${entry.images.missing.join(", ")}`);
     }
-
-    if (entry.supportingPages.missing.length > 0) {
-      console.log(`    missing pages: ${entry.supportingPages.missing.join(", ")}`);
-    }
   }
 
+  if (result.animals.length > 0) {
+    console.log("\nChecking remote image URLs (this may take a minute)...");
+    const urlIssues = await validateAnimalImageUrls(result.animals);
+    printIssues("Broken image URLs:", urlIssues);
+    result.issues.push(...urlIssues);
+  }
+
+  const allErrors = result.issues.filter((issue) => issue.severity === "error");
+  const allWarnings = result.issues.filter((issue) => issue.severity === "warning");
+
   if (isValidationPassing(result)) {
-    if (warnings.length > 0) {
-      console.log(`\nValidation passed with ${warnings.length} warning(s).`);
+    if (allWarnings.length > 0) {
+      console.log(`\nValidation passed with ${allWarnings.length} warning(s).`);
       process.exit(0);
     }
 
@@ -58,8 +65,11 @@ function main() {
     process.exit(0);
   }
 
-  console.log(`\nValidation failed with ${errors.length} error(s).`);
+  console.log(`\nValidation failed with ${allErrors.length} error(s).`);
   process.exit(1);
 }
 
-main();
+main().catch((error) => {
+  console.error(error instanceof Error ? error.message : error);
+  process.exit(1);
+});
