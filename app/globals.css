@@ -447,6 +447,111 @@ img {
   color: var(--muted);
 }
 
+/* Core article explorer — compact on mobile */
+.core-article-explorer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.core-article-intro {
+  width: 100%;
+  max-width: 48rem;
+  border-radius: 1rem;
+  border: 1px solid var(--line);
+  background: white;
+  padding: 1rem;
+  box-shadow: var(--shadow);
+}
+
+.core-article-intro__title {
+  margin-top: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--forest-deep);
+}
+
+.core-article-intro__content {
+  margin-top: 0.625rem;
+}
+
+.core-article-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.75rem;
+}
+
+.core-section-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: 1rem;
+  border: 1px solid var(--line);
+  background: white;
+  box-shadow: 0 8px 22px rgba(23, 49, 39, 0.05);
+}
+
+.core-section-card__media {
+  border-bottom: 1px solid var(--line);
+}
+
+.core-section-card__body {
+  padding: 0.875rem 1rem 1rem;
+}
+
+.core-section-card__title {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--forest-deep);
+}
+
+.core-section-card__content {
+  margin-top: 0.5rem;
+}
+
+.core-article-intro .prose-compact,
+.core-section-card .prose-compact {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+@media (min-width: 640px) {
+  .core-article-explorer {
+    gap: 1rem;
+  }
+
+  .core-article-intro {
+    padding: 1.25rem 1.5rem;
+    border-radius: 1.25rem;
+  }
+
+  .core-article-intro__title {
+    font-size: 1.5rem;
+  }
+
+  .core-article-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .core-section-card__body {
+    padding: 1rem 1.125rem 1.125rem;
+  }
+
+  .core-section-card__title {
+    font-size: 1.125rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .core-article-intro__title {
+    font-size: 1.75rem;
+  }
+}
+
 /* Category / index live search */
 .animal-category-browser {
   display: flex;

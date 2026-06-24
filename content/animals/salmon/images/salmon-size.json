@@ -2,11 +2,11 @@
   "id": "salmon-size",
   "animalSlug": "salmon",
   "slug": "salmon-size",
-  "fileName": "Salmo salar.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg",
-  "width": 2472,
-  "height": 807,
-  "alt": "Atlantic salmon showing full body length",
+  "fileName": "Salmo salar-Atlantic Salmon-Atlanterhavsparken Norway (cropped).JPG",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_%28cropped%29.JPG",
+  "width": 1992,
+  "height": 1436,
+  "alt": "Adult Atlantic salmon showing full silver body length",
   "caption": "Adult Atlantic salmon can grow more than 3 feet long and weigh over 30 pounds.",
   "imageType": "size",
   "galleryTopics": [
@@ -15,19 +15,19 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "North Atlantic",
-  "acquisitionNotes": "Manually curated salmon size image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:10.265Z",
-  "attributionText": "Photo by Knepp, Timothy via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg\">Knepp, Timothy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg\">Public domain</a>",
+  "location": "Norway",
+  "acquisitionNotes": "Replaced duplicate lab specimen with a clear full-body aquarium photo.",
+  "updatedAt": "2026-06-24T14:30:25.424Z",
+  "attributionText": "Photo by Hans-Petter Fjeld via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_(cropped).JPG\">Hans-Petter Fjeld</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
-    "creatorName": "Knepp, Timothy",
-    "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_(cropped).JPG",
+    "creatorName": "Hans-Petter Fjeld",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T14:30:25.424Z",
     "reviewedBy": "editor@kidsfacts.local"
   }
 }

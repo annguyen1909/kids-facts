@@ -362,7 +362,7 @@ export function getImage(animal: AnimalRecord, slug: string) {
 }
 
 export function getRelatedAnimals(animal: AnimalRecord) {
-  const others = getAllAnimals().filter((entry) => entry.core.slug !== animal.core.slug);
+  const others = getPublishedAnimals().filter((entry) => entry.core.slug !== animal.core.slug);
 
   return {
     editorial: others.filter((entry) =>

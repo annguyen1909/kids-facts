@@ -1,10 +1,10 @@
-import { getAllAnimals, getAnimalBySlug, getRelatedAnimals } from "@/lib/content";
+import { getPublishedAnimals, getAnimalBySlug, getRelatedAnimals } from "@/lib/content";
 import { importAnimal, updateAnimal, findAnimalSlugByScientificName } from "@/lib/animals/importer";
 import type { ImportAnimalInput, ImportAnimalResult, UpdateAnimalInput } from "@/lib/animals/types";
 import type { AnimalImage, AnimalRecord } from "@/lib/types";
 
 export function searchAnimals(query?: string): AnimalRecord[] {
-  const animals = getAllAnimals();
+  const animals = getPublishedAnimals();
   if (!query?.trim()) return animals;
 
   const normalized = query.trim().toLowerCase();

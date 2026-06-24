@@ -2,11 +2,11 @@
   "id": "salmon-closeup",
   "animalSlug": "salmon",
   "slug": "salmon-closeup",
-  "fileName": "Salmo salar (crop).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Salmo_salar_%28crop%29.jpg",
-  "width": 2500,
-  "height": 800,
-  "alt": "Close-up of an Atlantic salmon head and gills",
+  "fileName": "Salmo salar, by 'n vismark in Pretoria, a.jpg",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Salmo_salar%2C_by_%27n_vismark_in_Pretoria%2C_a.jpg",
+  "width": 3888,
+  "height": 2592,
+  "alt": "Close-up of an adult Atlantic salmon in clear water",
   "caption": "Salmon can smell their home river from far out in the ocean.",
   "imageType": "closeup",
   "galleryTopics": [
@@ -15,19 +15,19 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "North Atlantic",
-  "acquisitionNotes": "Manually curated salmon close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:10.265Z",
-  "attributionText": "Photo by Knepp, Timothy via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar_(crop).jpg\">Knepp, Timothy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar_(crop).jpg\">Public domain</a>",
+  "location": "Pretoria, South Africa",
+  "acquisitionNotes": "Replaced unclear cropped specimen with a sharp close-up photo.",
+  "updatedAt": "2026-06-24T14:30:25.424Z",
+  "attributionText": "Photo by JMK via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar%2C_by_'n_vismark_in_Pretoria%2C_a.jpg\">JMK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar_(crop).jpg",
-    "creatorName": "Knepp, Timothy",
-    "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar_(crop).jpg",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar%2C_by_'n_vismark_in_Pretoria%2C_a.jpg",
+    "creatorName": "JMK",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-24T14:30:25.424Z",
     "reviewedBy": "editor@kidsfacts.local"
   }
 }

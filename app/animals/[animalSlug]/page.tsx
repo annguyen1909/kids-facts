@@ -171,12 +171,12 @@ export default async function AnimalCorePage({
 
       {/* Core article */}
       <AnimalSection tight>
-        <div className="mb-5 max-w-3xl">
+        <div className="mb-3 max-w-3xl sm:mb-5">
           <p className="eyebrow eyebrow--light">Core article</p>
-          <h2 className="section-title mt-3 text-[var(--forest-deep)]">
+          <h2 className="section-title mt-2 text-[var(--forest-deep)] sm:mt-3">
             {animal.core.name} in a nutshell
           </h2>
-          <p className="mt-2 text-base leading-7 text-[var(--muted)] sm:text-lg">
+          <p className="mt-2 text-sm leading-6 text-[var(--muted)] sm:text-base sm:leading-7">
             Habitat, diet, behavior, and more — everything on one page.
           </p>
         </div>
