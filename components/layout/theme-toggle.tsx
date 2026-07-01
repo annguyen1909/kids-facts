@@ -26,6 +26,7 @@ export function ThemeToggle() {
 
   useEffect(() => {
     const initial = getInitialTheme();
+    // eslint-disable-next-line
     setTheme(initial);
     // Sync class with actual stored/system preference on mount
     document.documentElement.classList.remove("dark", "light");

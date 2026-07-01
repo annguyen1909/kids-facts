@@ -1,30 +1,21 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Search } from "lucide-react";
 import { SiteHeaderNav } from "@/components/layout/site-header-nav";
 import { siteConfig } from "@/lib/site-config";
-
-function SearchField({ id, className }: { id: string; className?: string }) {
-  return (
-    <form action="/animals" className={className}>
-      <label htmlFor={id} className="sr-only">
-        Search animals
-      </label>
-      <div className="site-header__search">
-        <Search className="h-4 w-4 shrink-0 text-[var(--forest)]" aria-hidden />
-        <input
-          id={id}
-          name="query"
-          type="search"
-          placeholder="Search animals…"
-          className="site-header__search-input"
-        />
-      </div>
-    </form>
-  );
-}
+import { CommandMenu, CommandMenuAnimal } from "@/components/layout/command-menu";
+import { getPublishedAnimalCards } from "@/lib/content";
+import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
 
 export function SiteHeader() {
+  const animalCards = getPublishedAnimalCards();
+  const animals: CommandMenuAnimal[] = animalCards.map(a => ({
+    slug: a.core.slug,
+    name: a.core.name,
+    category: a.core.taxonomy.class,
+    habitat: a.core.habitat,
+    imageSrc: getAnimalImageForDisplay(getAnimalPrimaryImage(a)).src
+  }));
+
   return (
     <header className="site-header">
       <div className="section-shell site-header__bar">
@@ -47,8 +38,9 @@ export function SiteHeader() {
           <SiteHeaderNav variant="desktop" />
         </nav>
 
-        <SearchField id="site-search" className="site-header__search-desktop" />
-        <SearchField id="site-search-mobile" className="site-header__search-mobile" />
+        <div className="ml-auto flex items-center">
+          <CommandMenu animals={animals} />
+        </div>
       </div>
 
       <nav className="site-header__nav-mobile" aria-label="Main">
