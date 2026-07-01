@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import { AdSenseScript } from "@/components/layout/adsense-script";
 import { CookieConsent } from "@/components/layout/cookie-consent";
@@ -22,6 +22,13 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = buildBaseMetadata();
+
+export const viewport: Viewport = {
+  themeColor: "#09090b",
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
 
 export default function RootLayout({
   children,
