@@ -1,0 +1,22 @@
+{
+  "id": "cassowary-gallery-main",
+  "animalSlug": "cassowary",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Cassowary Photo Gallery",
+  "metaTitle": "Cassowary Photo Gallery",
+  "metaDescription": "Browse a cassowary photo gallery with wildlife images of the casque, dagger claw, rainforest habitat, chicks, feeding behavior, and range across Australia and New Guinea.",
+  "intro": "Explore cassowaries through photos organized for learning, image search, and classroom observation—from the striking casque and fearsome claw to chicks and dense rainforest habitat.",
+  "imageSlugs": [
+    "cassowary-hero",
+    "cassowary-habitat",
+    "cassowary-diet",
+    "cassowary-baby",
+    "cassowary-family",
+    "cassowary-range",
+    "cassowary-size",
+    "cassowary-closeup",
+    "cassowary-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

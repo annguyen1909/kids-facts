@@ -1,0 +1,137 @@
+{
+  "id": "animal-puffin",
+  "slug": "puffin",
+  "name": "Atlantic Puffin",
+  "commonNames": [
+    "Atlantic Puffin",
+    "Common Puffin",
+    "Sea Parrot",
+    "Clown of the Ocean"
+  ],
+  "scientificName": "Fratercula arctica",
+  "summary": "The Atlantic puffin is a small, charming seabird famous for its bright orange beak, black-and-white plumage, and penguin-like waddle. Spending most of their lives out at sea, they return to grassy clifftops in northern regions to breed in underground burrows.",
+  "heroTitle": "Atlantic Puffin Facts",
+  "metaTitle": "Atlantic Puffin Facts | Habitat, Diet, Beak & Photos",
+  "metaDescription": "Atlantic puffin facts for kids with photos, ocean cliff habitat, fish diet, colorful bill, and underground nesting burrows on one easy-to-read page.",
+  "searchIntents": [
+    "atlantic puffin facts",
+    "what do atlantic puffins eat",
+    "where do atlantic puffins live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Charadriiformes",
+    "family": "Alcidae",
+    "genus": "Fratercula",
+    "species": "F. arctica"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "habitat": "coast",
+  "continents": [
+    "Europe",
+    "North America"
+  ],
+  "countries": [
+    "Iceland",
+    "Norway",
+    "United Kingdom",
+    "Canada",
+    "Greenland",
+    "United States",
+    "Ireland"
+  ],
+  "biomes": [
+    "coast",
+    "open-ocean",
+    "tundra"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Sand eels",
+    "Capelin",
+    "Sprats",
+    "Herring",
+    "Small crustaceans"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years"
+  },
+  "size": {
+    "lengthMin": "26 cm",
+    "lengthMax": "29 cm"
+  },
+  "weight": {
+    "min": "380 g",
+    "max": "480 g"
+  },
+  "speed": "Up to 55 mph (88 km/h) flight speed",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "nesting in underground burrows",
+    "carrying multiple fish in beak",
+    "flying fast with rapid wingbeats",
+    "swimming and diving underwater",
+    "rubbing bills together (billing)"
+  ],
+  "adaptations": [
+    "large colorful bill that sheds plates in winter",
+    "special tongue and serrated beak to hold fish",
+    "waterproof feathers for cold ocean waters",
+    "strong webbed feet for swimming and digging",
+    "rapid wing beats for both flight and underwater swimming"
+  ],
+  "predators": [
+    "Great black-backed gulls",
+    "Skuas",
+    "Rats",
+    "Red foxes"
+  ],
+  "prey": [
+    "Sand eels",
+    "Capelin",
+    "Herring",
+    "Small fish"
+  ],
+  "reproduction": {
+    "offspringName": "puffling",
+    "gestationOrIncubation": "39 to 45 days",
+    "offspringCount": "1 egg"
+  },
+  "funFacts": [
+    "A baby puffin is called a puffling! It stays hidden deep inside its dark underground burrow until it is ready to fly out to sea at night.",
+    "Puffins are incredible flyers, flapping their wings up to 400 times a minute to fly at speeds up to 55 miles per hour.",
+    "They are also amazing divers, using their wings to 'fly' underwater to depths of 200 feet (60 meters) to catch fish.",
+    "A puffin's beak has special spines on the roof of its mouth and a flexible hinge, allowing it to carry up to 60 small fish at once to feed its baby!",
+    "Puffins spend the entire winter alone on the open ocean, far away from land, sleeping on the water's surface.",
+    "To show affection and renew their lifelong partnership, a mated pair of puffins will rub their colorful bills together in a behavior called 'billing'."
+  ],
+  "faq": [
+    {
+      "question": "What is an Atlantic puffin?",
+      "answer": "An Atlantic puffin is a small seabird belonging to the auk family, known for its colorful orange beak and penguin-like appearance."
+    },
+    {
+      "question": "Where do Atlantic puffins live?",
+      "answer": "They spend their winters on the open waters of the North Atlantic Ocean and return to rocky coasts and grassy clifftops in countries like Iceland, Canada, and the UK to breed in summer."
+    },
+    {
+      "question": "What do Atlantic puffins eat?",
+      "answer": "They are carnivores that eat mostly small fish like sand eels and capelin, diving deep underwater to catch them."
+    }
+  ],
+  "relatedAnimals": [
+    "penguin",
+    "flamingo"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "puffin-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

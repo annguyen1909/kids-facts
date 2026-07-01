@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-range",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-range",
+  "fileName": "american-bison-range-01-1200.webp",
+  "alt": "Herd of American bison spread across Hayden Valley grassland",
+  "caption": "Once millions roamed North America; today bison live mostly in parks and protected herds.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Hayden Valley, Yellowstone National Park, USA",
+  "src": "/images/animals/american-bison/web/american-bison-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Khoshhat via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:.American_Bison_in_Hayden_Valley.jpg\">Khoshhat</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:.American_Bison_in_Hayden_Valley.jpg",
+    "creatorName": "Khoshhat",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:18.206Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e3/.American_Bison_in_Hayden_Valley.jpg",
+  "updatedAt": "2026-06-28T09:54:18.206Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-range-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-range-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-range-01-1200.webp"
+  }
+}

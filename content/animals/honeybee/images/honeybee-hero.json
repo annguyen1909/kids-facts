@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-hero",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-hero",
+  "fileName": "honeybee-hero-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1517,
+  "alt": "Honey bee resting on a purple lavender flower collecting pollen",
+  "caption": "Honey bees are super pollinators that visit millions of flowers every day.",
+  "attributionText": "Photo by Martin Falbisoner via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bee_on_Lavender_Blossom_2.jpg\">Martin Falbisoner</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bee_on_Lavender_Blossom_2.jpg",
+    "creatorName": "Martin Falbisoner",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:25.502Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "France",
+  "acquisitionNotes": "Manually verified honeybee image for hero. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f7/Bee_on_Lavender_Blossom_2.jpg",
+  "updatedAt": "2026-06-25T14:58:25.502Z",
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-hero-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-hero-01-1200.webp"
+  }
+}

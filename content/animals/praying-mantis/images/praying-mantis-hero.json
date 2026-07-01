@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-hero",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-hero",
+  "fileName": "praying-mantis-hero-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-hero-01-1200.webp",
+  "width": 1200,
+  "height": 837,
+  "alt": "A close-up of a green praying mantis perched on a branch",
+  "caption": "Praying mantises are named for their unique front legs, which they fold as if praying.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "France",
+  "attributionText": "Photo by JLPC via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mante_religieuse_FR_2012.jpg\">JLPC</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mante_religieuse_FR_2012.jpg",
+    "creatorName": "JLPC",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:16.749Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f6/Mante_religieuse_FR_2012.jpg",
+  "updatedAt": "2026-06-25T15:08:16.749Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-hero-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-hero-01-1200.webp"
+  }
+}

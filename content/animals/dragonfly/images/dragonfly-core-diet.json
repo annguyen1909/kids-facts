@@ -1,0 +1,42 @@
+{
+  "id": "dragonfly-core-diet",
+  "animalSlug": "dragonfly",
+  "slug": "dragonfly-core-diet",
+  "fileName": "dragonfly-core-diet-01-1200.webp",
+  "src": "/images/animals/dragonfly/web/dragonfly-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1003,
+  "alt": "Emperor dragonfly exuvia showing its predatory life cycle",
+  "caption": "Dragonflies are fierce aerial hunters that catch insects in mid-flight.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "France",
+  "attributionText": "Photo by Didier Descouens via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Anax_imperator_Exuvie_MHNT_Parc_de_la_Maourine.jpg\">Didier Descouens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator_Exuvie_MHNT_Parc_de_la_Maourine.jpg",
+    "creatorName": "Didier Descouens",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:58.536Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article diet image — unique from gallery diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f1/Anax_imperator_Exuvie_MHNT_Parc_de_la_Maourine.jpg",
+  "updatedAt": "2026-06-25T14:51:58.536Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl7.jpg",
+  "creatorName": "Quartl",
+  "licenseName": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "srcSet": {
+    "web1200": "/images/animals/dragonfly/web/dragonfly-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/dragonfly/thumbnails/dragonfly-core-diet-01-400.webp",
+    "original": "/images/animals/dragonfly/web/dragonfly-core-diet-01-1200.webp"
+  }
+}

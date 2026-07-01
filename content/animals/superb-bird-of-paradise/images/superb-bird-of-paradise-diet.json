@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-diet",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-diet",
+  "fileName": "superb-bird-of-paradise-diet-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Female superb bird-of-paradise foraging actively along a mossy branch",
+  "caption": "The camouflaged females actively forage across tree trunks and branches for a rich diet of insects and small fruits.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Vogelkop, New Guinea",
+  "acquisitionNotes": "Excellent high-resolution foraging shot showcasing female morphology and diet habits. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Vogelkop_Lophorina_female_0A2A8909.jpg",
+  "updatedAt": "2026-06-29T12:04:23.307Z",
+  "attributionText": "Photo by JJ Harrison via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_female_0A2A8909.jpg\">JJ Harrison</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_female_0A2A8909.jpg",
+    "creatorName": "JJ Harrison",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:04:23.307Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-diet-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-diet-01-1200.webp"
+  }
+}

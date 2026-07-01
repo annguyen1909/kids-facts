@@ -2,10 +2,10 @@
   "id": "sloth-core-baby",
   "animalSlug": "sloth",
   "slug": "sloth-core-baby",
-  "fileName": "Brown-throated Three-toed Sloth imported from iNaturalist photo 233125662 on 15 March 2024.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Brown-throated_Three-toed_Sloth_imported_from_iNaturalist_photo_233125662_on_15_March_2024.jpg",
-  "width": 2048,
-  "height": 1536,
+  "fileName": "sloth-core-baby-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Young three-toed sloth in rainforest vegetation",
   "caption": "Infants learn which trees to feed from by copying their mothers.",
   "attributionText": "Photo by (c) Sebastian Serna Muñoz, some rights reserved (CC BY) via Wikimedia Commons, CC BY 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:22.730Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Core article image curated separately from the sloth gallery set.",
-  "updatedAt": "2026-06-24T09:30:11.989Z"
+  "acquisitionNotes": "Core article image curated separately from the sloth gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cb/Brown-throated_Three-toed_Sloth_imported_from_iNaturalist_photo_233125662_on_15_March_2024.jpg",
+  "updatedAt": "2026-06-25T15:11:22.730Z",
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-core-baby-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-core-baby-01-1200.webp"
+  }
 }

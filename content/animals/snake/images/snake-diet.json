@@ -2,10 +2,10 @@
   "id": "snake-diet",
   "animalSlug": "snake",
   "slug": "snake-diet",
-  "fileName": "Pythonidae Python regius 3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pythonidae_Python_regius_3.jpg",
-  "width": 2213,
-  "height": 2950,
+  "fileName": "snake-diet-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Ball python with prey in its coils",
   "caption": "Ball pythons eat small mammals and birds and swallow prey whole.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python diet image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Manually curated ball python diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/Pythonidae_Python_regius_3.jpg",
+  "updatedAt": "2026-06-25T15:11:51.279Z",
   "attributionText": "Photo by NasserHalaweh via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pythonidae_Python_regius_3.jpg\">NasserHalaweh</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:51.279Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-diet-01-400.webp",
+    "original": "/images/animals/snake/web/snake-diet-01-1200.webp"
   }
 }

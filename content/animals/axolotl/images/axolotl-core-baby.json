@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-core-baby",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-core-baby",
+  "fileName": "axolotl-core-baby-01-1200.webp",
+  "alt": "A young or baby Axolotl showing early development",
+  "caption": "Baby Axolotls must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 669,
+  "attributionText": "Photo by LoKiLeCh via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg\">LoKiLeCh</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axolotl_ganz.jpg",
+    "creatorName": "LoKiLeCh",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:18:06.122Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg",
+  "updatedAt": "2026-06-26T19:18:06.122Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-core-baby-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-core-baby-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "chameleon-core-habitat",
   "animalSlug": "chameleon",
   "slug": "chameleon-core-habitat",
-  "fileName": "Chamaeleo calyptratus Esapolis 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Chamaeleo_calyptratus_Esapolis_01.jpg",
-  "width": 4103,
-  "height": 3077,
+  "fileName": "chameleon-core-habitat-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Veiled chameleon climbing in leafy vegetation",
   "caption": "Tree branches give chameleons cover, hunting spots, and safe perches.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Italy",
-  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set.",
-  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "acquisitionNotes": "Core article image curated separately from the chameleon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Chamaeleo_calyptratus_Esapolis_01.jpg",
+  "updatedAt": "2026-06-25T14:49:57.996Z",
   "attributionText": "Photo by Syrio via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_Esapolis_01.jpg\">Syrio</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:57.996Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-core-habitat-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-core-habitat-01-1200.webp"
   }
 }

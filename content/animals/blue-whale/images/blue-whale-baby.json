@@ -2,10 +2,10 @@
   "id": "blue-whale-baby",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-baby",
-  "fileName": "BlueWhaleWithCalf.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BlueWhaleWithCalf.jpg",
-  "width": 2973,
-  "height": 1977,
+  "fileName": "blue-whale-baby-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-baby-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "Blue whale mother swimming beside her calf at the surface",
   "caption": "A newborn blue whale calf can weigh about three tons and grow very fast.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated blue whale calf image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale calf image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ee/BlueWhaleWithCalf.jpg",
+  "updatedAt": "2026-06-25T14:49:07.434Z",
   "attributionText": "Photo by Andreas Tille via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalf.jpg\">Andreas Tille</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:07.434Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-baby-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-baby-01-1200.webp"
   }
 }

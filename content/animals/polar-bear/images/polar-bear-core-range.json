@@ -2,10 +2,10 @@
   "id": "polar-bear-core-range",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-core-range",
-  "fileName": "Swimming Polar Bear 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Swimming_Polar_Bear_2.jpg",
-  "width": 1293,
-  "height": 909,
+  "fileName": "polar-bear-core-range-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 844,
   "alt": "Polar bear swimming between ice floes in open water",
   "caption": "Polar bears are listed as Vulnerable because warming climate is melting their sea ice habitat.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Arctic Ocean",
-  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
-  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a5/Swimming_Polar_Bear_2.jpg",
+  "updatedAt": "2026-06-25T15:07:43.429Z",
   "attributionText": "Photo by Ltshears via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Swimming_Polar_Bear_2.jpg\">Ltshears</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Swimming_Polar_Bear_2.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Swimming_Polar_Bear_2.jpg\">Ltshears</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swimming_Polar_Bear_2.jpg",
     "creatorName": "Ltshears",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Swimming_Polar_Bear_2.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:43.429Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-core-range-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-core-range-01-1200.webp"
   }
 }

@@ -13,7 +13,11 @@ import { buildComparisonMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema, buildComparisonSchema } from "@/lib/schema";
 import { disabledFeatureRobots, siteFeatures } from "@/lib/site-features";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
+  if (!siteFeatures.compare) return [];
+
   return getAllComparisons().map(({ comparison }) => ({
     comparisonSlug: comparison.slug,
   }));
@@ -24,6 +28,10 @@ export async function generateMetadata({
 }: {
   params: Promise<{ comparisonSlug: string }>;
 }): Promise<Metadata> {
+  if (!siteFeatures.compare) {
+    return { robots: disabledFeatureRobots };
+  }
+
   const { comparisonSlug } = await params;
   const resolved = resolveComparisonRoute(comparisonSlug);
   return resolved?.type === "comparison"
@@ -39,6 +47,8 @@ export default async function ComparisonOverviewPage({
 }: {
   params: Promise<{ comparisonSlug: string }>;
 }) {
+  if (!siteFeatures.compare) notFound();
+
   const { comparisonSlug } = await params;
   const resolved = resolveComparisonRoute(comparisonSlug);
   if (!resolved || resolved.type !== "comparison") notFound();
@@ -88,6 +98,7 @@ export default async function ComparisonOverviewPage({
                       alt={image.alt}
                       fill
                       unoptimized={image.unoptimized}
+                      referrerPolicy="no-referrer"
                       className="object-cover"
                       sizes="(max-width: 1024px) 100vw, 33vw"
                     />

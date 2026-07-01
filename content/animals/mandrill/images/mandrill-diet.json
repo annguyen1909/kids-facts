@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-diet",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-diet",
+  "fileName": "mandrill-diet-01-1200.webp",
+  "alt": "A Mandrill finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Mandrill.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-diet-01-1200.webp",
+  "width": 800,
+  "height": 1200,
+  "attributionText": "Photo by Malene Thyssen via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandril.jpg\">Malene Thyssen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandril.jpg",
+    "creatorName": "Malene Thyssen",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:45.825Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/Mandril.jpg",
+  "updatedAt": "2026-06-26T08:16:45.825Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-diet-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-diet-01-1200.webp"
+  }
+}

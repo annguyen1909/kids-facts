@@ -1,0 +1,38 @@
+{
+  "id": "cicada-core-baby",
+  "animalSlug": "cicada",
+  "slug": "cicada-core-baby",
+  "fileName": "cicada-core-baby-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-core-baby-01-1200.webp",
+  "width": 837,
+  "height": 804,
+  "alt": "A young or baby Cicada showing early development",
+  "caption": "Baby Cicadas must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Futureman1199 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:17-year_periodical_cicada_(Magicicada_septendecim)_2013a.jpg\">Futureman1199</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:17-year_periodical_cicada_(Magicicada_septendecim)_2013a.jpg",
+    "creatorName": "Futureman1199",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:52.670Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/aa/17-year_periodical_cicada_%28Magicicada_septendecim%29_2013a.jpg",
+  "updatedAt": "2026-06-25T14:50:52.670Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-core-baby-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-core-baby-01-1200.webp"
+  }
+}

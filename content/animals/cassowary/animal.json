@@ -1,0 +1,175 @@
+{
+  "id": "animal-cassowary",
+  "slug": "cassowary",
+  "name": "Cassowary",
+  "commonNames": [
+    "southern cassowary",
+    "double-wattled cassowary"
+  ],
+  "scientificName": "Casuarius casuarius",
+  "summary": "The cassowary is a large flightless bird from the rainforests of Australia and New Guinea, widely considered the world's most dangerous bird. It carries a tall bony casque on its head and a razor-sharp inner toe claw up to 4 inches long. Fathers raise chicks alone after the female moves on.",
+  "heroTitle": "Cassowary Facts",
+  "metaTitle": "Cassowary Facts | World's Most Dangerous Bird, Habitat & Photos",
+  "metaDescription": "Discover cassowary facts with photos, casque and claw details, rainforest habitat, diet, and conservation. Learn why the cassowary is considered the world's most dangerous bird.",
+  "searchIntents": [
+    "cassowary facts",
+    "what is the most dangerous bird",
+    "where do cassowaries live",
+    "what do cassowaries eat",
+    "cassowary claw",
+    "cassowary casque"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Casuariiformes",
+    "family": "Casuariidae",
+    "genus": "Casuarius",
+    "species": "C. casuarius"
+  },
+  "classificationLabels": [
+    "bird",
+    "omnivore",
+    "large"
+  ],
+  "continents": [
+    "Oceania"
+  ],
+  "countries": [
+    "Australia",
+    "Papua New Guinea",
+    "Indonesia"
+  ],
+  "biomes": [
+    "tropical rainforest"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "fruit",
+    "fungi",
+    "insects",
+    "small vertebrates",
+    "carrion",
+    "seeds"
+  ],
+  "lifespan": {
+    "wild": "Up to 19 years",
+    "captivity": "Up to 40 years"
+  },
+  "size": {
+    "lengthMin": "3.3 feet",
+    "lengthMax": "5.6 feet",
+    "heightMin": "4 feet",
+    "heightMax": "5.6 feet"
+  },
+  "weight": {
+    "min": "64 pounds",
+    "max": "167 pounds"
+  },
+  "speed": "Up to 31 mph",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary living",
+    "territorial defense",
+    "paternal chick rearing",
+    "fruit foraging",
+    "seed dispersal"
+  ],
+  "adaptations": [
+    "bony casque helmet",
+    "dagger-like inner toe claw",
+    "powerful legs",
+    "dense hair-like feathers",
+    "strong kicks"
+  ],
+  "predators": [
+    "humans",
+    "dogs",
+    "wild pigs"
+  ],
+  "prey": [
+    "fruit",
+    "fungi",
+    "insects",
+    "small vertebrates"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "About 50 days (egg incubation)",
+    "offspringCount": "3 to 5 eggs per clutch"
+  },
+  "funFacts": [
+    "The cassowary is widely regarded as the world's most dangerous bird—its inner toe carries a dagger-like claw up to 4 inches (10 cm) long capable of serious injury.",
+    "After the female lays eggs and leaves, the male incubates them alone for about 50 days and then raises the chicks entirely by himself for up to 16 months.",
+    "The cassowary's bony casque may help it push through dense rainforest undergrowth, amplify low-frequency calls, or display dominance—scientists are still debating.",
+    "Cassowaries are critical seed dispersers: they eat large fruits and pass seeds intact, helping many rainforest plants reproduce.",
+    "The cassowary can run at up to 31 mph (50 km/h) and swim across rivers with ease.",
+    "Cassowary chicks are striped brown and cream for camouflage; they lose these stripes as they mature."
+  ],
+  "faq": [
+    {
+      "question": "What is a cassowary?",
+      "answer": "A cassowary is a large flightless bird native to the rainforests of Australia and New Guinea. It is famous for its bony head casque and its sharp inner toe claw."
+    },
+    {
+      "question": "Why is the cassowary called the world's most dangerous bird?",
+      "answer": "The cassowary's inner toe has a claw up to 4 inches (10 cm) long that it can use as a dagger. When threatened, it kicks forward with great force. Attacks have caused serious injuries and occasionally death."
+    },
+    {
+      "question": "What is the casque on a cassowary's head?",
+      "answer": "The casque is a bony helmet-like growth on the cassowary's head. Its exact purpose is debated—possible functions include pushing through dense forest, amplifying calls, and signaling dominance."
+    },
+    {
+      "question": "Where do cassowaries live?",
+      "answer": "Cassowaries live in the dense tropical rainforests of Australia (mainly Queensland), Papua New Guinea, and parts of Indonesia. They need large areas of intact forest to survive."
+    },
+    {
+      "question": "What do cassowaries eat?",
+      "answer": "Cassowaries are omnivores. They eat mainly fallen fruit, fungi, insects, and small vertebrates. They are one of the few animals that can digest fruits from toxic rainforest plants."
+    },
+    {
+      "question": "How do male cassowaries raise chicks?",
+      "answer": "After the female lays 3 to 5 eggs and leaves, the male incubates the eggs for about 50 days. He then raises the chicks alone, protecting and guiding them for up to 16 months."
+    },
+    {
+      "question": "How big is a cassowary?",
+      "answer": "Adult cassowaries stand 4 to 5.6 feet (1.2–1.7 m) tall and can weigh up to 167 pounds (76 kg). Females are larger than males and have brighter colored wattles."
+    },
+    {
+      "question": "Are cassowaries endangered?",
+      "answer": "The southern cassowary is listed as Vulnerable. Habitat loss from deforestation, vehicle strikes, and predation by dogs and pigs are the biggest threats."
+    },
+    {
+      "question": "Can cassowaries fly?",
+      "answer": "No. Cassowaries are flightless birds. Their wings are reduced to small stubs with a few stiff quills. Instead they rely on powerful legs for running and swimming."
+    },
+    {
+      "question": "How fast can a cassowary run?",
+      "answer": "Cassowaries can run at up to 31 mph (50 km/h) through dense forest. They are also strong swimmers and can cross rivers when needed."
+    },
+    {
+      "question": "What role do cassowaries play in the ecosystem?",
+      "answer": "Cassowaries are important seed dispersers. They eat large fruits and deposit seeds far from the parent tree in their droppings, helping over 150 plant species regenerate."
+    },
+    {
+      "question": "How long do cassowaries live?",
+      "answer": "Wild cassowaries live up to about 19 years. In captivity, with regular food and care, they can live up to 40 years."
+    }
+  ],
+  "relatedAnimals": [
+    "ostrich",
+    "penguin",
+    "eagle"
+  ],
+  "comparisonCandidates": [
+    "ostrich"
+  ],
+  "galleryIds": [
+    "cassowary-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "forest"
+}

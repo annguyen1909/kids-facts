@@ -2,10 +2,10 @@
   "id": "tuna-core-diet",
   "animalSlug": "tuna",
   "slug": "tuna-core-diet",
-  "fileName": "Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25199).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25199%29.jpg",
-  "width": 3008,
-  "height": 2000,
+  "fileName": "tuna-core-diet-01-1200.webp",
+  "src": "/images/animals/tuna/web/tuna-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "School of yellowfin tuna in feeding habitat",
   "caption": "They hunt fast prey like flying fish, mackerel, and squid.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Core article image curated separately from the tuna gallery set.",
-  "updatedAt": "2026-06-24T12:39:11.144Z",
+  "acquisitionNotes": "Core article image curated separately from the tuna gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b4/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25199%29.jpg",
+  "updatedAt": "2026-06-25T15:13:44.335Z",
   "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25199).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:11.144Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:13:44.335Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tuna/web/tuna-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tuna/thumbnails/tuna-core-diet-01-400.webp",
+    "original": "/images/animals/tuna/web/tuna-core-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-core-baby",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-core-baby",
+  "fileName": "whale-shark-core-baby-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A young juvenile whale shark near the surface",
+  "caption": "Very little is known about where baby whale sharks grow up.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Mexico",
+  "attributionText": "Photo by Florian Guyader via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus_450094718.jpg\">Florian Guyader</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_450094718.jpg",
+    "creatorName": "Florian Guyader",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:04.563Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Rhincodon_typus_450094718.jpg",
+  "updatedAt": "2026-06-25T15:14:04.563Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-core-baby-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-core-baby-01-1200.webp"
+  }
+}

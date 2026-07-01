@@ -44,9 +44,7 @@ export type AnimalImage = {
   src: string;
   srcSet?: {
     original: string;
-    web1600: string;
     web1200: string;
-    web800: string;
     thumbnail400: string;
   };
   width: number;
@@ -71,6 +69,7 @@ export type AnimalImage = {
   featuredOnPages: Array<"core" | "gallery">;
   location: string;
   acquisitionNotes?: string;
+  objectPosition?: string;
   updatedAt: string;
 };
 
@@ -199,6 +198,8 @@ export type AnimalRecord = {
   galleries: AnimalGalleryRecord[];
   images: AnimalImage[];
 };
+
+export type AnimalCardRecord = Pick<AnimalRecord, "core" | "images">;
 
 export type ComparisonResolvedRecord = {
   comparison: ComparisonRecord;

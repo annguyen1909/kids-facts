@@ -1,0 +1,38 @@
+{
+  "id": "puffin-fun-fact",
+  "animalSlug": "puffin",
+  "slug": "puffin-fun-fact",
+  "fileName": "puffin-fun-fact-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Atlantic Puffin showing a unique behavior or adaptation",
+  "caption": "Did you know that the Atlantic Puffin has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Romaniviatores via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:02_Atlantic_puffin_on_Treshnish_Isles_by_Romaniviatores.jpg\">Romaniviatores</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:02_Atlantic_puffin_on_Treshnish_Isles_by_Romaniviatores.jpg",
+    "creatorName": "Romaniviatores",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:44.437Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/26/02_Atlantic_puffin_on_Treshnish_Isles_by_Romaniviatores.jpg",
+  "updatedAt": "2026-06-25T15:08:44.437Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-fun-fact-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-fun-fact-01-1200.webp"
+  }
+}

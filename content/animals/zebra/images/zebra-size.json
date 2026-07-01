@@ -2,10 +2,10 @@
   "id": "zebra-size",
   "animalSlug": "zebra",
   "slug": "zebra-size",
-  "fileName": "Equus quagga burchellii - Etosha, 2014.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg",
-  "width": 4120,
-  "height": 2747,
+  "fileName": "zebra-size-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Full-body zebra showing sturdy legs and striped coat",
   "caption": "A zebra's sturdy body and powerful legs help it run and kick hard.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Etosha National Park, Namibia",
-  "acquisitionNotes": "Manually curated zebra size image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Manually curated zebra size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg",
+  "updatedAt": "2026-06-25T15:15:21.071Z",
   "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha%2C_2014.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha,_2014.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha%2C_2014.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha,_2014.jpg",
     "creatorName": "Yathin S Krishnappa",
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:21.071Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-size-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-size-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-size-01-1200.webp"
   }
 }

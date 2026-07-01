@@ -1,10 +1,13 @@
 import type { MetadataRoute } from "next";
 import { getAnimalCategorySlugs } from "@/lib/animal-categories";
 import {
+  getAllHubs,
   getPublishedAnimals,
   getHabitatClusters,
   getDietClusters,
 } from "@/lib/content";
+import { getAbsoluteUrl } from "@/lib/images";
+import { isIndexablePath } from "@/lib/routes";
 import { siteFeatures } from "@/lib/site-features";
 import { siteConfig } from "@/lib/site-config";
 
@@ -78,14 +81,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
       lastModified: animal.core.updatedAt,
-      images: animal.images.map((image) => image.src),
+      images: animal.images.map((image) => getAbsoluteUrl(image.src)),
     },
-    ...animal.images.map((image) => ({
-      url: `${siteConfig.url}/animals/${animal.core.slug}/images/${image.slug}`,
-      changeFrequency: "monthly" as const,
-      priority: 0.45,
-      lastModified: image.updatedAt,
-    })),
   ]);
 
   const habitatHubPages: MetadataRoute.Sitemap = siteFeatures.habitats
@@ -106,6 +103,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }))
     : [];
 
+  const editorialHubPages: MetadataRoute.Sitemap = getAllHubs()
+    .filter((hub) => {
+      if (hub.type === "habitats" || hub.type === "diets") return false;
+      return isIndexablePath(`/${hub.type}/${hub.slug}`);
+    })
+    .map((hub) => ({
+      url: `${siteConfig.url}/${hub.type}/${hub.slug}`,
+      changeFrequency: "weekly" as const,
+      priority: hub.type === "families" ? 0.7 : 0.68,
+      lastModified: hub.updatedAt,
+    }));
+
   const categoryPages: MetadataRoute.Sitemap = getAnimalCategorySlugs().map((slug) => ({
     url: `${siteConfig.url}/animals/${slug}`,
     changeFrequency: "weekly",
@@ -121,5 +130,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...animalPages,
     ...habitatHubPages,
     ...dietHubPages,
+    ...editorialHubPages,
   ];
 }

@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-fun-fact",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-fun-fact",
+  "fileName": "narwhal-fun-fact-01-1200.webp",
+  "alt": "Illustration of a male narwhal skull showing the long spiral tusk tooth",
+  "caption": "A narwhal's tusk is actually an elongated tooth that can grow more than 8 feet long.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Arctic Ocean",
+  "src": "/images/animals/narwhal/web/narwhal-fun-fact-01-1200.webp",
+  "width": 174,
+  "height": 1013,
+  "attributionText": "Photo by Anonymous Unknown author via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:EB1911_Cetacea_-_Fig._8.%E2%80%94Upper_surface_of_the_Skull_of_male_Narwhal_(Monodon_monoceros).jpg\">Anonymous Unknown author</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:EB1911_Cetacea_-_Fig._8.%E2%80%94Upper_surface_of_the_Skull_of_male_Narwhal_(Monodon_monoceros).jpg",
+    "creatorName": "Anonymous Unknown author",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:06:08.006Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Distinct fun-fact gallery image — unique from the pod baby photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/23/EB1911_Cetacea_-_Fig._8.%E2%80%94Upper_surface_of_the_Skull_of_male_Narwhal_%28Monodon_monoceros%29.jpg",
+  "updatedAt": "2026-06-26T19:06:08.006Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-fun-fact-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-fun-fact-01-1200.webp"
+  }
+}

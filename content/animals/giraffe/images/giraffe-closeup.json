@@ -2,10 +2,10 @@
   "id": "giraffe-closeup",
   "animalSlug": "giraffe",
   "slug": "giraffe-closeup",
-  "fileName": "Giraffa camelopardalis tippelskirchi 2010-04-24 closeup.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Giraffa_camelopardalis_tippelskirchi_2010-04-24_closeup.JPG",
-  "width": 4752,
-  "height": 3168,
+  "fileName": "giraffe-closeup-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up giraffe head with long eyelashes",
   "caption": "Large eyes and long eyelashes help protect a giraffe's face while browsing.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated giraffe close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "acquisitionNotes": "Manually curated giraffe close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Giraffa_camelopardalis_tippelskirchi_2010-04-24_closeup.JPG",
+  "updatedAt": "2026-06-25T14:55:45.422Z",
   "attributionText": "Photo by Captain-tucker via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_tippelskirchi_2010-04-24_closeup.JPG\">Captain-tucker</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:45.422Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-closeup-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-closeup-01-1200.webp"
   }
 }

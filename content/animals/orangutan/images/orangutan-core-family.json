@@ -2,10 +2,10 @@
   "id": "orangutan-core-family",
   "animalSlug": "orangutan",
   "slug": "orangutan-core-family",
-  "fileName": "Baby Orangutan resting on back.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Baby_Orangutan_resting_on_back.jpg",
-  "width": 3024,
-  "height": 4032,
+  "fileName": "orangutan-core-family-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Infant orangutan resting on its mother's back",
   "caption": "Young orangutans learn forest skills by watching their mothers for years.",
   "attributionText": "Photo by Mbrickn via Wikimedia Commons, CC BY 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:17.127Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Southeast Asia",
-  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.033Z"
+  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/48/Baby_Orangutan_resting_on_back.jpg",
+  "updatedAt": "2026-06-25T15:04:17.127Z",
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-core-family-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-core-family-01-1200.webp"
+  }
 }

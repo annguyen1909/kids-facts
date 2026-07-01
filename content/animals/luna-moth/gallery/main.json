@@ -1,0 +1,22 @@
+{
+  "id": "luna-moth-gallery-main",
+  "animalSlug": "luna-moth",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Luna Moth Photo Gallery",
+  "metaTitle": "Luna Moth Photo Gallery",
+  "metaDescription": "Browse a Luna moth photo gallery with wildlife photos.",
+  "intro": "Explore Luna moth photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "luna-moth-hero",
+    "luna-moth-habitat",
+    "luna-moth-diet",
+    "luna-moth-baby",
+    "luna-moth-family",
+    "luna-moth-range",
+    "luna-moth-size",
+    "luna-moth-closeup",
+    "luna-moth-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

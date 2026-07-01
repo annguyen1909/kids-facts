@@ -2,10 +2,10 @@
   "id": "meerkat-core-baby",
   "animalSlug": "meerkat",
   "slug": "meerkat-core-baby",
-  "fileName": "Suricata suricatta - Maroparque 02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Suricata_suricatta_-_Maroparque_02.jpg",
-  "width": 4739,
-  "height": 3405,
+  "fileName": "meerkat-core-baby-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 862,
   "alt": "Young meerkat exploring near burrow habitat",
   "caption": "Pups begin joining short foraging trips as they grow older.",
   "attributionText": "Photo by H. Zel via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:02:49.313Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Spain",
-  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9b/Suricata_suricatta_-_Maroparque_02.jpg",
+  "updatedAt": "2026-06-25T15:02:49.313Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-core-baby-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-core-baby-01-1200.webp"
+  }
 }

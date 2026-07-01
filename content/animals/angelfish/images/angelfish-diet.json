@@ -2,23 +2,23 @@
   "id": "angelfish-diet",
   "animalSlug": "angelfish",
   "slug": "angelfish-diet",
-  "fileName": "Pez ángel emperador (Pomacanthus imperator), mar Rojo, Egipto, 2023-04-14, DD 30.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_30.jpg",
-  "width": 3930,
-  "height": 2620,
+  "fileName": "angelfish-diet-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Emperor angelfish searching for food on a reef",
   "caption": "Angelfish eat sponges, algae, and small animals they find on the reef.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_30.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_mar_Rojo,_Egipto,_2023-04-14,_DD_30.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_30.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_mar_Rojo,_Egipto,_2023-04-14,_DD_30.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:51.787Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Red Sea, Egypt",
-  "acquisitionNotes": "Manually curated angelfish diet image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:20.375Z"
+  "acquisitionNotes": "Manually curated angelfish diet image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-14%2C_DD_30.jpg",
+  "updatedAt": "2026-06-25T14:48:51.787Z",
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-diet-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-diet-01-1200.webp"
+  }
 }

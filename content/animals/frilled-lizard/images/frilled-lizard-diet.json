@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-diet",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-diet",
+  "fileName": "frilled-lizard-diet-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-diet-01-1200.webp",
+  "width": 1179,
+  "height": 771,
+  "alt": "A Frilled Lizard finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Frilled Lizard.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Miklos Schiberna via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii.jpg\">Miklos Schiberna</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii.jpg",
+    "creatorName": "Miklos Schiberna",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:05:05.947Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified frilled-lizard image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Chlamydosaurus_kingii.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Chlamydosaurus_kingii.jpg",
+  "updatedAt": "2026-06-26T19:05:05.947Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-diet-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-diet-01-1200.webp"
+  }
+}

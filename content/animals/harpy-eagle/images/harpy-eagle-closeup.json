@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-closeup",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-closeup",
+  "fileName": "harpy-eagle-closeup-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1048,
+  "alt": "Intimate close-up of a harpy eagle's powerful curved beak and intense, deep-set dark eyes",
+  "caption": "The formidable hooked beak and highly specialized facial feathers help direct vital acoustic and visual signals.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Falconry display",
+  "acquisitionNotes": "Crisp, extreme detail close-up of beak and facial feather structure. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Harpia_harpyja_-falconry_-head-8a.jpg",
+  "updatedAt": "2026-06-29T11:55:13.453Z",
+  "attributionText": "Photo by Jitze Couperus via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-falconry_-head-8a.jpg\">Jitze Couperus</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-falconry_-head-8a.jpg",
+    "creatorName": "Jitze Couperus",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:13.453Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-closeup-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-closeup-01-1200.webp"
+  }
+}

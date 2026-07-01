@@ -1,0 +1,22 @@
+{
+  "id": "lionfish-gallery-main",
+  "animalSlug": "lionfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Lionfish Photo Gallery",
+  "metaTitle": "Lionfish Photo Gallery",
+  "metaDescription": "Browse a lionfish photo gallery with wildlife photos.",
+  "intro": "Explore lionfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "lionfish-hero",
+    "lionfish-habitat",
+    "lionfish-diet",
+    "lionfish-baby",
+    "lionfish-family",
+    "lionfish-range",
+    "lionfish-size",
+    "lionfish-closeup",
+    "lionfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

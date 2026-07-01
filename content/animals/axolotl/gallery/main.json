@@ -1,0 +1,22 @@
+{
+  "id": "axolotl-gallery-main",
+  "animalSlug": "axolotl",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Axolotl Photo Gallery",
+  "metaTitle": "Axolotl Photo Gallery",
+  "metaDescription": "Browse an axolotl photo gallery with wildlife images of external gills, Lake Xochimilco habitat, feeding behavior, eggs, color variants, and regeneration.",
+  "intro": "Explore axolotls through photos organized for learning, image search, and classroom observation—from feathery gills and color variants to Lake Xochimilco canals.",
+  "imageSlugs": [
+    "axolotl-hero",
+    "axolotl-habitat",
+    "axolotl-diet",
+    "axolotl-baby",
+    "axolotl-family",
+    "axolotl-range",
+    "axolotl-size",
+    "axolotl-closeup",
+    "axolotl-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

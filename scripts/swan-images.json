@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Cygne tuberculé juvénile (Cygnus olor) - tête (1).jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Mute Swan in the wild",
+    "caption": "The Mute Swan is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Mute swan (Cygnus olor) looking for food in waves, Windermere, England.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mute Swan navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Mute swans (Cygnus olor) and cygnets.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mute Swan finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Mute Swan.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Mute swan (Cygnus olor) in Bowness-on-Windermere, England.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Mute Swan showing early development",
+    "caption": "Baby Mute Swans must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Cygnus olor flirt edit.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Mute Swans interacting with each other",
+    "caption": "While often solitary, some Mute Swans interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Höckerschwan Cygnus olor 7b Richard Bartz.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mute Swan traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:093 Wild Mute swan at Lake Geneva during sunset Photo by Giles Laurent.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Mute Swan",
+    "caption": "The size of a Mute Swan can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Mute swan cygnet pontoon in Prospect Park (80364).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Mute Swan",
+    "caption": "A close-up view reveals the intricate details of a Mute Swan's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:092 Wild Mute swan in flight at Lake Geneva during golden hour of sunset Photo by Giles Laurent.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mute Swan showing a unique behavior or adaptation",
+    "caption": "Did you know that the Mute Swan has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:CygnusOlorNaturalHabitatMorning.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Mute Swan navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Mute swan (Cygnus olor) taking off.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Mute Swan finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Mute Swan.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Junger Höckerschwan, Cygnus olor 09.JPG",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Mute Swans interacting with each other",
+    "caption": "While often solitary, some Mute Swans interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Cygnus olor portrait (MK).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Mute Swan showing early development",
+    "caption": "Baby Mute Swans must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Cygnus olor, nests with eggs, Höckerschwan mit Nest.JPG",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Mute Swan traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

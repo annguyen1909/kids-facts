@@ -2,10 +2,10 @@
   "id": "eagle-core-diet",
   "animalSlug": "eagle",
   "slug": "eagle-core-diet",
-  "fileName": "Bald eagles eating salmon (39714815601).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bald_eagles_eating_salmon_%2839714815601%29.jpg",
-  "width": 5235,
-  "height": 3490,
+  "fileName": "eagle-core-diet-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Bald eagles feeding on salmon along a riverbank",
   "caption": "During salmon runs, eagles gather along rivers to catch and eat fish.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Pacific Northwest, United States",
-  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Bald_eagles_eating_salmon_%2839714815601%29.jpg",
+  "updatedAt": "2026-06-25T14:52:21.845Z",
   "attributionText": "Photo by Analise Zocher via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagles_eating_salmon_(39714815601).jpg\">Analise Zocher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:21.845Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-core-diet-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-core-diet-01-1200.webp"
   }
 }

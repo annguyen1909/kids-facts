@@ -1,0 +1,42 @@
+{
+  "id": "leafcutter-ant-core-range",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-core-range",
+  "fileName": "leafcutter-ant-core-range-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-range-01-1200.webp",
+  "width": 1000,
+  "height": 665,
+  "alt": "A Leafcutter Ant traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atta_cephalotes_0zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atta_cephalotes_0zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:42.175Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Atta_cephalotes_0zz.jpg",
+  "updatedAt": "2026-06-25T15:00:42.175Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atta_cephalotes_0zz.jpg",
+  "creatorName": "Photo by David J. Stang",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-core-range-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-range-01-1200.webp"
+  }
+}

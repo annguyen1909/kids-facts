@@ -2,23 +2,23 @@
   "id": "wolf-range",
   "animalSlug": "wolf",
   "slug": "wolf-range",
-  "fileName": "Front view of a resting Canis lupus ssp.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Front_view_of_a_resting_Canis_lupus_ssp.jpg",
-  "width": 3914,
-  "height": 4886,
+  "fileName": "wolf-range-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-range-01-1200.webp",
+  "width": 1200,
+  "height": 1498,
   "alt": "Gray wolf resting in open northern habitat",
   "caption": "Wild wolves once lived across much of North America, Europe, and Asia.",
   "attributionText": "Photo by Gary Kramer via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg\">Gary Kramer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg\">Gary Kramer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg",
     "creatorName": "Gary Kramer",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_a_resting_Canis_lupus_ssp.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:03.851Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Northern Hemisphere",
-  "acquisitionNotes": "Manually curated wolf range image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:45.879Z"
+  "acquisitionNotes": "Manually curated wolf range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/70/Front_view_of_a_resting_Canis_lupus_ssp.jpg",
+  "updatedAt": "2026-06-25T15:15:03.851Z",
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-range-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-range-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-range-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-baby",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-baby",
+  "fileName": "peregrine-falcon-baby-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A mother peregrine falcon feeding her four fluffy white chicks in a nest",
+  "caption": "Peregrine falcon chicks, called eyases, are born covered in fluffy white down.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Yellowstone National Park, USA",
+  "attributionText": "Photo by Jacob W. Frank via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_and_four_chicks_(ed4d091b-79a4-4752-be96-589ad25c39c7).jpg\">Jacob W. Frank</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_and_four_chicks_(ed4d091b-79a4-4752-be96-589ad25c39c7).jpg",
+    "creatorName": "Jacob W. Frank",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:06:48.938Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3a/Peregrine_falcon_%28Falco_peregrinus%29_and_four_chicks_%28ed4d091b-79a4-4752-be96-589ad25c39c7%29.jpg",
+  "updatedAt": "2026-06-25T15:06:48.938Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-baby-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-baby-01-1200.webp"
+  }
+}

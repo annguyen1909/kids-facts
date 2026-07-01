@@ -1,0 +1,38 @@
+{
+  "id": "peacock-diet",
+  "animalSlug": "peacock",
+  "slug": "peacock-diet",
+  "fileName": "peacock-diet-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "alt": "Wild Indian peacock foraging on the ground in natural habitat",
+  "caption": "Peacocks are omnivores, pecking at seeds, berries, insects, and small reptiles as they walk through forests and grasslands.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pavo_cristatus_Phasianidae.jpg\">This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavo_cristatus_Phasianidae.jpg",
+    "creatorName": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:24.648Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Pavo_cristatus_Phasianidae.jpg",
+  "updatedAt": "2026-06-25T15:06:24.648Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-diet-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-diet-01-1200.webp"
+  }
+}

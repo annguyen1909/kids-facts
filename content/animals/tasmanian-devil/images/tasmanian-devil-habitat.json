@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-habitat",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-habitat",
+  "fileName": "tasmanian-devil-habitat-01-1200.webp",
+  "alt": "A Tasmanian Devil navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 783,
+  "attributionText": "Photo by Sarcophilus_harrisii_taranna.jpg : JJ Harrison ( jjharrison89@facebook.com ) derivative work: Purpy Pupple ( talk ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna_edit.jpg\">Sarcophilus_harrisii_taranna.jpg : JJ Harrison ( jjharrison89@facebook.com ) derivative work: Purpy Pupple ( talk )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna_edit.jpg",
+    "creatorName": "Sarcophilus_harrisii_taranna.jpg : JJ Harrison ( jjharrison89@facebook.com ) derivative work: Purpy Pupple ( talk )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:39.135Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dd/Sarcophilus_harrisii_taranna_edit.jpg",
+  "updatedAt": "2026-06-26T08:17:39.135Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-habitat-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-habitat-01-1200.webp"
+  }
+}

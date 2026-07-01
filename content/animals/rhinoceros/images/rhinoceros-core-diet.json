@@ -2,10 +2,10 @@
   "id": "rhinoceros-core-diet",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-core-diet",
-  "fileName": "White Rhinoceros (Ceratotherium simum) female grazing ... - Flickr - berniedup.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/White_Rhinoceros_%28Ceratotherium_simum%29_female_grazing_..._-_Flickr_-_berniedup.jpg",
-  "width": 4683,
-  "height": 2913,
+  "fileName": "rhinoceros-core-diet-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 746,
   "alt": "Female white rhinoceros grazing on savanna grass",
   "caption": "Their wide, square lips are perfect for cropping short grasses close to the ground.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/White_Rhinoceros_%28Ceratotherium_simum%29_female_grazing_..._-_Flickr_-_berniedup.jpg",
+  "updatedAt": "2026-06-25T15:09:47.645Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_female_grazing_..._-_Flickr_-_berniedup.jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:47.645Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-core-diet-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-core-diet-01-1200.webp"
   }
 }

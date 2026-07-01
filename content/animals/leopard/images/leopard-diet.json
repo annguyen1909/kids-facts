@@ -2,10 +2,10 @@
   "id": "leopard-diet",
   "animalSlug": "leopard",
   "slug": "leopard-diet",
-  "fileName": "Leopard eating a Duiker.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Leopard_eating_a_Duiker.jpg",
-  "width": 5184,
-  "height": 3456,
+  "fileName": "leopard-diet-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Leopard feeding on a small antelope prey",
   "caption": "Leopards are carnivores that hunt antelope, deer, and other medium-sized animals.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated leopard diet image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Manually curated leopard diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Leopard_eating_a_Duiker.jpg",
+  "updatedAt": "2026-06-25T15:01:10.143Z",
   "attributionText": "Photo by Jasmine Nears via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopard_eating_a_Duiker.jpg\">Jasmine Nears</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:10.143Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-diet-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-diet-01-1200.webp"
   }
 }

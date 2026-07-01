@@ -1,0 +1,39 @@
+{
+  "id": "cassowary-hero",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-hero",
+  "fileName": "cassowary-hero-01-1200.webp",
+  "alt": "A Southern Cassowary in the wild near Etty Bay, Australia",
+  "caption": "The Southern Cassowary is a large, flightless bird known for its brilliant blue neck and prominent casque.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Etty Bay, Australia",
+  "src": "/images/animals/cassowary/web/cassowary-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "attributionText": "Photo by Tiaangobius20 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Southern_Cassowary_near_Etty_Bay.jpg\">Tiaangobius20</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_near_Etty_Bay.jpg",
+    "creatorName": "Tiaangobius20",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:13.526Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b0/Southern_Cassowary_near_Etty_Bay.jpg",
+  "objectPosition": "top",
+  "updatedAt": "2026-06-26T08:16:13.526Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-hero-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-hero-01-1200.webp"
+  }
+}

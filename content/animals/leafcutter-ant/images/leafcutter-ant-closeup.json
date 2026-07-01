@@ -1,0 +1,38 @@
+{
+  "id": "leafcutter-ant-closeup",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-closeup",
+  "fileName": "leafcutter-ant-closeup-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "alt": "A detailed close-up showing the physical features of a Leafcutter Ant",
+  "caption": "A close-up view reveals the intricate details of a Leafcutter Ant's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leaf-cutter_ant_(Atta_cephalotes)_Belize_3.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_ant_(Atta_cephalotes)_Belize_3.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:39.328Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified leafcutter-ant image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a7/Leaf-cutter_ant_%28Atta_cephalotes%29_Belize_3.jpg",
+  "updatedAt": "2026-06-25T15:00:39.328Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-closeup-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-closeup-01-1200.webp"
+  }
+}

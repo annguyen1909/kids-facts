@@ -59,7 +59,7 @@ export function AnimalCategorySection({
       <div
         className={
           compact
-            ? "grid gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
+            ? "grid grid-cols-2 gap-2.5 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
             : "grid gap-5 lg:grid-cols-3"
         }
       >

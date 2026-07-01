@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-baby",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-baby",
+  "fileName": "hammerhead-shark-baby-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-baby-01-1200.webp",
+  "width": 1002,
+  "height": 750,
+  "alt": "A young or baby Great Hammerhead Shark showing early development",
+  "caption": "Baby Great Hammerhead Sharks must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Apex Predators Program, NOAA/NEFSC via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_embryos_nefsc.jpg\">Apex Predators Program, NOAA/NEFSC</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_embryos_nefsc.jpg",
+    "creatorName": "Apex Predators Program, NOAA/NEFSC",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:20:05.392Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e0/Sphyrna_mokarran_embryos_nefsc.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e0/Sphyrna_mokarran_embryos_nefsc.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e0/Sphyrna_mokarran_embryos_nefsc.jpg",
+  "updatedAt": "2026-06-26T19:20:05.392Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-baby-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-baby-01-1200.webp"
+  }
+}

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import { useConsentStatus } from "@/lib/consent";
 import { siteConfig } from "@/lib/site-config";
 
 declare global {
@@ -18,17 +19,21 @@ export function AdSenseUnit({
   format?: "auto" | "rectangle" | "horizontal";
   className?: string;
 }) {
+  const consent = useConsentStatus();
+  const canShowAds =
+    consent === "accepted" && siteConfig.adsEnabled && Boolean(siteConfig.adsenseClientId);
+
   useEffect(() => {
-    if (!siteConfig.adsEnabled || !siteConfig.adsenseClientId) return;
+    if (!canShowAds) return;
     try {
       window.adsbygoogle = window.adsbygoogle || [];
       window.adsbygoogle.push({});
     } catch {
       // Ad blockers or script load failures — ignore.
     }
-  }, []);
+  }, [canShowAds]);
 
-  if (!siteConfig.adsEnabled || !siteConfig.adsenseClientId) return null;
+  if (!canShowAds || !siteConfig.adsenseClientId) return null;
 
   return (
     <ins

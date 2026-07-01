@@ -1,0 +1,38 @@
+{
+  "id": "blue-footed-booby-habitat",
+  "animalSlug": "blue-footed-booby",
+  "slug": "blue-footed-booby-habitat",
+  "fileName": "blue-footed-booby-habitat-01-1200.webp",
+  "src": "/images/animals/blue-footed-booby/web/blue-footed-booby-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Blue-footed booby resting on coastal volcanic rock formations",
+  "caption": "They nest and roost on the rocky shores and scrubland islands of the tropical eastern Pacific Ocean.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Santa Cruz Island, Galapagos",
+  "acquisitionNotes": "Manually curated blue-footed booby habitat image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7e/Sula_nebouxii_-Santa_Cruz%2C_Galapagos_Islands%2C_Ecuador-8_%281%29.jpg",
+  "updatedAt": "2026-06-29T07:23:05.809Z",
+  "attributionText": "Photo by Ndecam from London, UK via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sula_nebouxii_-Santa_Cruz,_Galapagos_Islands,_Ecuador-8_(1).jpg\">Ndecam from London, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sula_nebouxii_-Santa_Cruz,_Galapagos_Islands,_Ecuador-8_(1).jpg",
+    "creatorName": "Ndecam from London, UK",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:05.809Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-footed-booby/web/blue-footed-booby-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-footed-booby/thumbnails/blue-footed-booby-habitat-01-400.webp",
+    "original": "/images/animals/blue-footed-booby/web/blue-footed-booby-habitat-01-1200.webp"
+  }
+}

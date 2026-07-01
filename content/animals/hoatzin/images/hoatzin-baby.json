@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-baby",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-baby",
+  "fileName": "hoatzin-baby-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Hoatzin nest view displaying dense branch structure over water",
+  "caption": "Hoatzin chicks possess remarkable reptile-like claws on their wing tips, allowing them to climb tree branches if they fall into the water.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arauca, Colombia",
+  "acquisitionNotes": "Curated hoatzin specimen depicting nesting and developmental habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Opisthocomus_hoazin_Chenchena_Hoatzin_%286555073507%29.jpg",
+  "updatedAt": "2026-06-29T12:23:38.797Z",
+  "attributionText": "Photo by Félix Uribe from Rionegro, Antioquia, Colombia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_Chenchena_Hoatzin_(6555073507).jpg\">Félix Uribe from Rionegro, Antioquia, Colombia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_Chenchena_Hoatzin_(6555073507).jpg",
+    "creatorName": "Félix Uribe from Rionegro, Antioquia, Colombia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:38.797Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-baby-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-baby-01-1200.webp"
+  }
+}

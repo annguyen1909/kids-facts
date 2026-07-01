@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-closeup",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-closeup",
+  "fileName": "kingfisher-closeup-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A detailed close-up showing the physical features of a Common Kingfisher",
+  "caption": "A close-up view reveals the intricate details of a Common Kingfisher's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Alexis Lours via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_Kingfisher_2025_09_28_03.jpg\">Alexis Lours</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_2025_09_28_03.jpg",
+    "creatorName": "Alexis Lours",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:12.658Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e6/Common_Kingfisher_2025_09_28_03.jpg",
+  "updatedAt": "2026-06-25T14:59:12.658Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-closeup-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-closeup-01-1200.webp"
+  }
+}

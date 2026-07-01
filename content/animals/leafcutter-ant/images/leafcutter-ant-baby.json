@@ -1,0 +1,38 @@
+{
+  "id": "leafcutter-ant-baby",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-baby",
+  "fileName": "leafcutter-ant-baby-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A young or baby Leafcutter Ant showing early development",
+  "caption": "Baby Leafcutter Ants must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leaf-cutter_ant_(Atta_cephalotes)_Belize_5.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_ant_(Atta_cephalotes)_Belize_5.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:36.834Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified leafcutter-ant image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0f/Leaf-cutter_ant_%28Atta_cephalotes%29_Belize_5.jpg",
+  "updatedAt": "2026-06-25T15:00:36.834Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-baby-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-baby-01-1200.webp"
+  }
+}

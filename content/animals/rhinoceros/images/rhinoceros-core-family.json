@@ -2,8 +2,8 @@
   "id": "rhinoceros-core-family",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-core-family",
-  "fileName": "White rhino and young.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/White_rhino_and_young.jpg",
+  "fileName": "rhinoceros-core-family-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-core-family-01-1200.webp",
   "width": 1024,
   "height": 683,
   "alt": "White rhinoceros with young calf in habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e3/White_rhino_and_young.jpg",
+  "updatedAt": "2026-06-25T15:09:45.639Z",
   "attributionText": "Photo by Hein waschefort via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhino_and_young.jpg\">Hein waschefort</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:45.639Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-core-family-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-core-family-01-1200.webp"
   }
 }

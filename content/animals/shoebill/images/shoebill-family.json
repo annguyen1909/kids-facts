@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-family",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-family",
+  "fileName": "shoebill-family-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Shoebill in its zoo enclosure representing social behavior",
+  "caption": "Although mostly solitary, shoebills pair up during the breeding season to build large nests.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Prague Zoo",
+  "acquisitionNotes": "Manually curated shoebill family image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/71/Prague_07-2016_Zoo_img09_Balaeniceps_rex.jpg",
+  "updatedAt": "2026-06-29T07:22:04.265Z",
+  "attributionText": "Photo by A.Savin via Wikimedia Commons, FAL",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Prague_07-2016_Zoo_img09_Balaeniceps_rex.jpg\">A.Savin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">FAL</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_Zoo_img09_Balaeniceps_rex.jpg",
+    "creatorName": "A.Savin",
+    "licenseName": "FAL",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:04.265Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-family-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-family-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-family-01-1200.webp"
+  }
+}

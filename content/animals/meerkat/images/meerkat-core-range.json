@@ -2,23 +2,23 @@
   "id": "meerkat-core-range",
   "animalSlug": "meerkat",
   "slug": "meerkat-core-range",
-  "fileName": "Suricata suricatta, Duisburg (DE) -- 2023 -- 0356.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Suricata_suricatta%2C_Duisburg_%28DE%29_--_2023_--_0356.jpg",
-  "width": 5886,
-  "height": 3924,
+  "fileName": "meerkat-core-range-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Meerkat in open habitat showing species range context",
   "caption": "Drought and habitat loss can make life harder for wild meerkat groups.",
   "attributionText": "Photo by Anil Öztas via Wikimedia Commons, FAL",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricata_suricatta%2C_Duisburg_(DE)_--_2023_--_0356.jpg\">Anil Öztas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://artlibre.org/licence/lal/en\">FAL</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricata_suricatta,_Duisburg_(DE)_--_2023_--_0356.jpg\">Anil Öztas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">FAL</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricata_suricatta%2C_Duisburg_(DE)_--_2023_--_0356.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricata_suricatta,_Duisburg_(DE)_--_2023_--_0356.jpg",
     "creatorName": "Anil Öztas",
     "licenseName": "FAL",
-    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:02:57.173Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Duisburg, Germany",
-  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d3/Suricata_suricatta%2C_Duisburg_%28DE%29_--_2023_--_0356.jpg",
+  "updatedAt": "2026-06-25T15:02:57.173Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-core-range-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-core-range-01-1200.webp"
+  }
 }

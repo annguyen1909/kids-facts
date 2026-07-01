@@ -1,0 +1,42 @@
+{
+  "id": "leafcutter-ant-core-diet",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-core-diet",
+  "fileName": "leafcutter-ant-core-diet-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Leafcutter Ant finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Leafcutter Ant.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6788328005).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6788328005).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:41.488Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f4/Leaf-cutter_Ant_%28Atta_cephalotes%29_%286788328005%29.jpg",
+  "updatedAt": "2026-06-25T15:00:41.488Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6788328005).jpg",
+  "creatorName": "Bernard DUPONT from FRANCE",
+  "licenseName": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-core-diet-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-diet-01-1200.webp"
+  }
+}

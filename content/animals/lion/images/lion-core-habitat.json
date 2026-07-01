@@ -2,10 +2,10 @@
   "id": "lion-core-habitat",
   "animalSlug": "lion",
   "slug": "lion-core-habitat",
-  "fileName": "1280px-Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg/1280px-Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg",
-  "width": 1280,
-  "height": 853,
+  "fileName": "lion-core-habitat-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "African lion resting on dry savanna in Tarangire National Park",
   "caption": "Most lions live in African savannas where grassland supports large prey herds.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:25.722Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Tarangire National Park, Tanzania",
-  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/43/Le%C3%B3n_%28Panthera_leo%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_99.jpg",
+  "updatedAt": "2026-06-25T15:01:25.722Z",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-core-habitat-01-400.webp",
+    "original": "/images/animals/lion/web/lion-core-habitat-01-1200.webp"
+  }
 }

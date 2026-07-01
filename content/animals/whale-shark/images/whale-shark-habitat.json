@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-habitat",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-habitat",
+  "fileName": "whale-shark-habitat-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 726,
+  "alt": "A whale shark swimming through clear waters of the Red Sea near coral reefs",
+  "caption": "They live in warm, tropical oceans and seas around the world.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Red Sea, Egypt",
+  "attributionText": "Photo by Derek Keats from Johannesburg, South Africa via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Whale_shark,_Rhincodon_typus,_at_Daedalus_in_the_Egyptian_Red_Sea._(35827412321).jpg\">Derek Keats from Johannesburg, South Africa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whale_shark,_Rhincodon_typus,_at_Daedalus_in_the_Egyptian_Red_Sea._(35827412321).jpg",
+    "creatorName": "Derek Keats from Johannesburg, South Africa",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:12.558Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4e/Whale_shark%2C_Rhincodon_typus%2C_at_Daedalus_in_the_Egyptian_Red_Sea._%2835827412321%29.jpg",
+  "updatedAt": "2026-06-25T15:14:12.558Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-habitat-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-habitat-01-1200.webp"
+  }
+}

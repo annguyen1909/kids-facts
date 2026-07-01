@@ -1,0 +1,38 @@
+{
+  "id": "firefly-hero",
+  "animalSlug": "firefly",
+  "slug": "firefly-hero",
+  "fileName": "firefly-hero-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-hero-01-1200.webp",
+  "width": 1024,
+  "height": 900,
+  "alt": "A beautiful portrait of a Firefly in the wild",
+  "caption": "The Firefly is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by art farmer from evansville indiana, usa via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_3.jpg\">art farmer from evansville indiana, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_3.jpg",
+    "creatorName": "art farmer from evansville indiana, usa",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:10.027Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9a/Photinus_pyralis_Firefly_3.jpg",
+  "updatedAt": "2026-06-25T14:53:10.027Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-hero-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-hero-01-1200.webp"
+  }
+}

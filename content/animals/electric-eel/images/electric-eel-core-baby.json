@@ -1,0 +1,38 @@
+{
+  "id": "electric-eel-core-baby",
+  "animalSlug": "electric-eel",
+  "slug": "electric-eel-core-baby",
+  "fileName": "electric-eel-core-baby-01-1200.webp",
+  "alt": "A young electric eel swimming through freshwater",
+  "caption": "Juvenile electric eels must adapt quickly, feeding on small invertebrates before growing large enough to hunt fish.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Amazon Basin",
+  "src": "/images/animals/electric-eel/web/electric-eel-core-baby-01-1200.webp",
+  "width": 800,
+  "height": 800,
+  "attributionText": "Photo by opencage via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Electric_eel_Electrophorus_electricus.jpg\">opencage</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric_eel_Electrophorus_electricus.jpg",
+    "creatorName": "opencage",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:19:05.257Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified electric-eel image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Electric_eel_Electrophorus_electricus.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Electric_eel_Electrophorus_electricus.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Electric_eel_Electrophorus_electricus.jpg",
+  "updatedAt": "2026-06-26T19:19:05.257Z",
+  "srcSet": {
+    "web1200": "/images/animals/electric-eel/web/electric-eel-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/electric-eel/thumbnails/electric-eel-core-baby-01-400.webp",
+    "original": "/images/animals/electric-eel/web/electric-eel-core-baby-01-1200.webp"
+  }
+}

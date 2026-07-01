@@ -1,0 +1,22 @@
+{
+  "id": "electric-eel-gallery-main",
+  "animalSlug": "electric-eel",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Electric Eel Photo Gallery",
+  "metaTitle": "Electric Eel Photo Gallery",
+  "metaDescription": "Browse an electric-eel photo gallery with wildlife photos.",
+  "intro": "Explore electric-eel photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "electric-eel-hero",
+    "electric-eel-habitat",
+    "electric-eel-diet",
+    "electric-eel-baby",
+    "electric-eel-family",
+    "electric-eel-range",
+    "electric-eel-size",
+    "electric-eel-closeup",
+    "electric-eel-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

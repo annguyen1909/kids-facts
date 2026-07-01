@@ -2,10 +2,10 @@
   "id": "orca-core-range",
   "animalSlug": "orca",
   "slug": "orca-core-range",
-  "fileName": "Cattle Point Orca (20472954654).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cattle_Point_Orca_%2820472954654%29.jpg",
-  "width": 3264,
-  "height": 2448,
+  "fileName": "orca-core-range-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Orca surfacing in broad coastal habitat",
   "caption": "Different orca populations travel through very large ocean ranges.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Cattle Point, Pacific Northwest",
-  "acquisitionNotes": "Core article image curated separately from the orca gallery set.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Core article image curated separately from the orca gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c2/Cattle_Point_Orca_%2820472954654%29.jpg",
+  "updatedAt": "2026-06-25T15:04:32.920Z",
   "attributionText": "Photo by Bureau of Land Management Oregon and Washington via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cattle_Point_Orca_(20472954654).jpg\">Bureau of Land Management Oregon and Washington</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Cattle_Point_Orca_(20472954654).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cattle_Point_Orca_(20472954654).jpg\">Bureau of Land Management Oregon and Washington</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattle_Point_Orca_(20472954654).jpg",
     "creatorName": "Bureau of Land Management Oregon and Washington",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cattle_Point_Orca_(20472954654).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:32.920Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-core-range-01-400.webp",
+    "original": "/images/animals/orca/web/orca-core-range-01-1200.webp"
   }
 }

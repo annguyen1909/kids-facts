@@ -2,8 +2,8 @@
   "id": "grizzly-bear-baby",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-baby",
-  "fileName": "Grizzly bear cub standing in the water.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Grizzly_bear_cub_standing_in_the_water.jpg",
+  "fileName": "grizzly-bear-baby-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-baby-01-1200.webp",
   "width": 1050,
   "height": 700,
   "alt": "Young grizzly bear cub standing in shallow water",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated grizzly bear cub image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Manually curated grizzly bear cub image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/Grizzly_bear_cub_standing_in_the_water.jpg",
+  "updatedAt": "2026-06-25T14:56:52.173Z",
   "attributionText": "Photo by Steve Hillebrand, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_cub_standing_in_the_water.jpg\">Steve Hillebrand, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_cub_standing_in_the_water.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_cub_standing_in_the_water.jpg\">Steve Hillebrand, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_cub_standing_in_the_water.jpg",
     "creatorName": "Steve Hillebrand, U.S. Fish and Wildlife Service",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_cub_standing_in_the_water.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:52.173Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-baby-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-baby-01-1200.webp"
   }
 }

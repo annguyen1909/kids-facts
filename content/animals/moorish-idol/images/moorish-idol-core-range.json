@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-core-range",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-core-range",
+  "alt": "Stately moorish idol swimming peacefully in the crystal clear waters of the Maldives",
+  "caption": "Protecting global coral reefs from climate bleaching is critical to ensuring these breathtaking icons continue to thrive.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Maldives",
+  "fileName": "moorish-idol-core-range-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1209,
+  "attributionText": "Photo by Jean-Paul Boerekamps via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_419963037.jpg\">Jean-Paul Boerekamps</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_419963037.jpg",
+    "creatorName": "Jean-Paul Boerekamps",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T12:24:02.502Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core range and conservation overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/73/Zanclus_cornutus_419963037.jpg",
+  "updatedAt": "2026-06-29T12:24:02.502Z",
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-core-range-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-core-range-01-1200.webp"
+  }
+}

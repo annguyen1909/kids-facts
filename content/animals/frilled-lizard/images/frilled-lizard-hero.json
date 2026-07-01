@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-hero",
+  "slug": "frilled-lizard-hero",
+  "animalSlug": "frilled-lizard",
+  "fileName": "frilled-lizard-hero-01-1200.webp",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:05:08.594Z",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-hero-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-hero-01-1200.webp"
+  },
+  "alt": "Frilled lizard with its neck frill fully extended in a defensive display",
+  "caption": "When threatened, the frilled lizard spreads its bright frill to startle predators.",
+  "attributionText": "Photo by Richard N Horne via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_frilled_lizard_(Chlamydosaurus_kingii).jpg\">Richard N Horne</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_frilled_lizard_(Chlamydosaurus_kingii).jpg",
+    "creatorName": "Richard N Horne",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:05:08.594Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "New South Wales, Australia",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3b/A_frilled_lizard_%28Chlamydosaurus_kingii%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3b/A_frilled_lizard_%28Chlamydosaurus_kingii%29.jpg"
+}

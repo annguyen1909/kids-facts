@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-core-range",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-core-range",
+  "fileName": "whale-shark-core-range-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-core-range-01-1200.webp",
+  "width": 1178,
+  "height": 884,
+  "alt": "A whale shark migrating through the ocean",
+  "caption": "They are found in warm oceans around the equator.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Madagascar",
+  "attributionText": "Photo by Slunky via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus_344681934.jpg\">Slunky</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_344681934.jpg",
+    "creatorName": "Slunky",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:07.192Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0a/Rhincodon_typus_344681934.jpg",
+  "updatedAt": "2026-06-25T15:14:07.192Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-core-range-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-core-range-01-1200.webp"
+  }
+}

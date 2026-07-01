@@ -1,0 +1,38 @@
+{
+  "id": "cicada-core-range",
+  "animalSlug": "cicada",
+  "slug": "cicada-core-range",
+  "fileName": "cicada-core-range-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-core-range-01-1200.webp",
+  "width": 480,
+  "height": 552,
+  "alt": "A Cicada traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Fontaine K, Cooley J, Simon C (2007) via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_pair_of_Magicicada_septendecim_mating_(Brood_IX)_-_journal.pone.0000892.g004B.png\">Fontaine K, Cooley J, Simon C (2007)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_pair_of_Magicicada_septendecim_mating_(Brood_IX)_-_journal.pone.0000892.g004B.png",
+    "creatorName": "Fontaine K, Cooley J, Simon C (2007)",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:56.470Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/20/A_pair_of_Magicicada_septendecim_mating_%28Brood_IX%29_-_journal.pone.0000892.g004B.png",
+  "updatedAt": "2026-06-25T14:50:56.470Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-core-range-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-core-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-family",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-family",
+  "fileName": "ocean-sunfish-family-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-family-01-1200.webp",
+  "width": 1200,
+  "height": 899,
+  "alt": "Two ocean sunfish viewed together near the ocean surface",
+  "caption": "While commonly found cruising alone, sunfish occasionally gather in small groups at cleaning stations.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Mediterranean Sea",
+  "acquisitionNotes": "Manually curated ocean sunfish family image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b0/Mola_mola_%28Mediterranean%29.jpg",
+  "updatedAt": "2026-06-29T07:22:49.731Z",
+  "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola_(Mediterranean).jpg\">Hans Hillewaert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola_(Mediterranean).jpg",
+    "creatorName": "Hans Hillewaert",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:49.731Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-family-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-family-01-1200.webp"
+  }
+}

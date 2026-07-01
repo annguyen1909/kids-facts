@@ -2,10 +2,10 @@
   "id": "crocodile-baby",
   "animalSlug": "crocodile",
   "slug": "crocodile-baby",
-  "fileName": "Crocodylus niloticus - Rancho Texas Park - Tías - Lanzarote -PC15.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Crocodylus_niloticus_-_Rancho_Texas_Park_-_T%C3%ADas_-_Lanzarote_-PC15.jpg",
-  "width": 5616,
-  "height": 3094,
+  "fileName": "crocodile-baby-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-baby-01-1200.webp",
+  "width": 1200,
+  "height": 661,
   "alt": "Young Nile crocodile hatchling",
   "caption": "Baby crocodiles hatch from eggs and are guarded by their mother.",
   "attributionText": "Photo by Luis Miguel Bugallo Sánchez (Lmbuga) via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:34.624Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Lanzarote, Spain",
-  "acquisitionNotes": "Manually curated crocodile hatchling image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:15.558Z"
+  "acquisitionNotes": "Manually curated crocodile hatchling image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/82/Crocodylus_niloticus_-_Rancho_Texas_Park_-_T%C3%ADas_-_Lanzarote_-PC15.jpg",
+  "updatedAt": "2026-06-25T14:51:34.624Z",
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-baby-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-baby-01-1200.webp"
+  }
 }

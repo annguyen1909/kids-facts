@@ -1,0 +1,22 @@
+{
+  "id": "narwhal-gallery-main",
+  "animalSlug": "narwhal",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Narwhal Photo Gallery",
+  "metaTitle": "Narwhal Photo Gallery",
+  "metaDescription": "Browse a narwhal photo gallery with wildlife images of tusks, Arctic habitat, calves, pods, diving behavior, and sea ice environments.",
+  "intro": "Explore narwhals through photos organized for learning, image search, and classroom observation—from tusks and calves to Arctic ice and deep ocean dives.",
+  "imageSlugs": [
+    "narwhal-hero",
+    "narwhal-habitat",
+    "narwhal-diet",
+    "narwhal-baby",
+    "narwhal-family",
+    "narwhal-range",
+    "narwhal-size",
+    "narwhal-closeup",
+    "narwhal-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

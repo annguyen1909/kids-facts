@@ -2,8 +2,8 @@
   "id": "flamingo-core-family",
   "animalSlug": "flamingo",
   "slug": "flamingo-core-family",
-  "fileName": "Caribbean flamingo5.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Caribbean_flamingo5.jpg",
+  "fileName": "flamingo-core-family-01-1200.webp",
+  "src": "/images/animals/flamingo/web/flamingo-core-family-01-1200.webp",
   "width": 1200,
   "height": 803,
   "alt": "Group of American flamingos in a breeding colony",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Caribbean",
-  "acquisitionNotes": "Core article image curated separately from the flamingo gallery set.",
-  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "acquisitionNotes": "Core article image curated separately from the flamingo gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Caribbean_flamingo5.jpg",
+  "updatedAt": "2026-06-25T14:53:18.720Z",
   "attributionText": "Photo by Martin Pettitt from Bury St Edmunds, UK via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Caribbean_flamingo5.jpg\">Martin Pettitt from Bury St Edmunds, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:18.720Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-core-family-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-core-family-01-1200.webp"
   }
 }

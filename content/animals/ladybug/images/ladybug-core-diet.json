@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-core-diet",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-core-diet",
+  "fileName": "ladybug-core-diet-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-core-diet-01-1200.webp",
+  "width": 730,
+  "height": 978,
+  "alt": "A ladybug hunting on a plant leaf covered in aphids",
+  "caption": "Farmers love ladybugs because they protect crops from sap-sucking pests.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "USA",
+  "attributionText": "Photo by CheapCamera via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:The_Aphid_Party_is_Over!_Attack_of_the_Ladybug.jpg\">CheapCamera</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Aphid_Party_is_Over!_Attack_of_the_Ladybug.jpg",
+    "creatorName": "CheapCamera",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:14.520Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Aphid_Party_is_Over%21_Attack_of_the_Ladybug.jpg",
+  "updatedAt": "2026-06-25T15:00:14.520Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-core-diet-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-core-diet-01-1200.webp"
+  }
+}

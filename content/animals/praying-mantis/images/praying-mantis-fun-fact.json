@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-fun-fact",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-fun-fact",
+  "fileName": "praying-mantis-fun-fact-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Praying mantis camouflaged among green leaves and stems",
+  "caption": "Mantises use camouflage to hide from birds and frogs, as well as to sneak up on prey.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Kerala, India",
+  "attributionText": "Photo by Devanshy at Malayalam Wikipedia via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Praying_mantis_camouflaging.jpg\">Devanshy at Malayalam Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praying_mantis_camouflaging.jpg",
+    "creatorName": "Devanshy at Malayalam Wikipedia",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:14.056Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a6/Praying_mantis_camouflaging.jpg",
+  "updatedAt": "2026-06-25T15:08:14.056Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-fun-fact-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-fun-fact-01-1200.webp"
+  }
+}

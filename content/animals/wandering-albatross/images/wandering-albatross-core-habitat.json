@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-core-habitat",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-core-habitat",
+  "alt": "A majestic wandering albatross banking gracefully against the dramatic Southern Ocean sky",
+  "caption": "Preserving remote subantarctic island ecosystems and clean oceanic flight corridors is essential for the long-term survival of the species.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Crozet Archipelago",
+  "fileName": "wandering-albatross-core-habitat-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "attributionText": "Photo by Antoine Lamielle via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2020-11_Crozet_Islands_-_Wandering_albatross_07.jpg\">Antoine Lamielle</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-11_Crozet_Islands_-_Wandering_albatross_07.jpg",
+    "creatorName": "Antoine Lamielle",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:58.715Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-resolution 5568x3132 core habitat view. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b6/2020-11_Crozet_Islands_-_Wandering_albatross_07.jpg",
+  "updatedAt": "2026-06-29T12:05:58.715Z",
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-core-habitat-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-core-habitat-01-1200.webp"
+  }
+}

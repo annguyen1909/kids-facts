@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-core-range",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-core-range",
+  "fileName": "kingfisher-core-range-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Common Kingfisher traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_kingfishers_(Alcedo_atthis_ispida)_male_passing_fish_to_female.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_kingfishers_(Alcedo_atthis_ispida)_male_passing_fish_to_female.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:27.905Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/78/Common_kingfishers_%28Alcedo_atthis_ispida%29_male_passing_fish_to_female.jpg",
+  "updatedAt": "2026-06-25T14:59:27.905Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-core-range-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-core-range-01-1200.webp"
+  }
+}

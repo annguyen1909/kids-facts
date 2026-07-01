@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-baby",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-baby",
+  "fileName": "galapagos-tortoise-baby-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-baby-01-1200.webp",
+  "width": 1200,
+  "height": 793,
+  "alt": "A small juvenile Galapagos giant tortoise walking on volcanic soil",
+  "caption": "Hatchling tortoises emerge from underground nests and are about the size of a tennis ball.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by John Brew via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_41250276.jpg\">John Brew</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_41250276.jpg",
+    "creatorName": "John Brew",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:18.973Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/df/Chelonoidis_vandenburghi_41250276.jpg",
+  "updatedAt": "2026-06-25T14:54:18.973Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-baby-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-baby-01-1200.webp"
+  }
+}

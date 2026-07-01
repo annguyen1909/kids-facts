@@ -2,10 +2,10 @@
   "id": "gorilla-range",
   "animalSlug": "gorilla",
   "slug": "gorilla-range",
-  "fileName": "Gorilla Male Global.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gorilla_Male_Global.jpg",
-  "width": 13130,
-  "height": 10000,
+  "fileName": "gorilla-range-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-range-01-1200.webp",
+  "width": 1200,
+  "height": 914,
   "alt": "Adult male gorilla in forest showing species range habitat",
   "caption": "Wild western lowland gorillas survive in forests across central and western Africa.",
   "attributionText": "Photo by Didier Descouens via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:22.382Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla range image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z"
+  "acquisitionNotes": "Manually curated gorilla range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c3/Gorilla_Male_Global.jpg",
+  "updatedAt": "2026-06-25T14:56:22.382Z",
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-range-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-range-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-range-01-1200.webp"
+  }
 }

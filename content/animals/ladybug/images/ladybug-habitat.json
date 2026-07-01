@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-habitat",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-habitat",
+  "fileName": "ladybug-habitat-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A ladybug walking on a yellow wildflower in a sun-drenched grassy meadow",
+  "caption": "They live in grasslands, deciduous forests, agricultural fields, and home gardens.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Viernheim, Germany",
+  "attributionText": "Photo by Stephan Sprinz via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Siebenpunkt-Marienk%C3%A4fer_(Coccinella_septempunctata)_auf_Bl%C3%BCte_im_FFH-Gebiet_%22Viernheimer_Waldheide_und_angrenzende_Fl%C3%A4chen%22.jpg\">Stephan Sprinz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siebenpunkt-Marienk%C3%A4fer_(Coccinella_septempunctata)_auf_Bl%C3%BCte_im_FFH-Gebiet_%22Viernheimer_Waldheide_und_angrenzende_Fl%C3%A4chen%22.jpg",
+    "creatorName": "Stephan Sprinz",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:34.925Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1f/Siebenpunkt-Marienk%C3%A4fer_%28Coccinella_septempunctata%29_auf_Bl%C3%BCte_im_FFH-Gebiet_%22Viernheimer_Waldheide_und_angrenzende_Fl%C3%A4chen%22.jpg",
+  "updatedAt": "2026-06-25T15:00:34.925Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-habitat-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-habitat-01-1200.webp"
+  }
+}

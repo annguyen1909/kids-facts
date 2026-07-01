@@ -2,10 +2,10 @@
   "id": "dolphin-baby",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-baby",
-  "fileName": "Bottlenose_dolphin_with_young.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bottlenose_dolphin_with_young.JPG",
-  "width": 1679,
-  "height": 1153,
+  "fileName": "dolphin-baby-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-baby-01-1200.webp",
+  "width": 1200,
+  "height": 824,
   "alt": "Bottlenose dolphin mother swimming with her calf",
   "caption": "Dolphin calves stay beside their mothers and learn how to hunt and communicate.",
   "attributionText": "Photo by Peter Asprey via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:36.275Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Ocean",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0e/Bottlenose_dolphin_with_young.JPG Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0e/Bottlenose_dolphin_with_young.JPG",
+  "updatedAt": "2026-07-01T12:33:36.275Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-baby-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-baby-01-1200.webp"
+  }
 }

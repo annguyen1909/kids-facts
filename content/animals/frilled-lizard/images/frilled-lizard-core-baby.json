@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-core-baby",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-core-baby",
+  "fileName": "frilled-lizard-core-baby-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A young or baby Frilled Lizard showing early development",
+  "caption": "Baby Frilled Lizards must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Mark Bolnik via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_166372167.jpg\">Mark Bolnik</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_166372167.jpg",
+    "creatorName": "Mark Bolnik",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:04:09.430Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified frilled-lizard image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/55/Chlamydosaurus_kingii_166372167.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/55/Chlamydosaurus_kingii_166372167.jpg",
+  "updatedAt": "2026-06-26T19:04:09.430Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-core-baby-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-core-baby-01-1200.webp"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "seahorse-core-family",
   "animalSlug": "seahorse",
   "slug": "seahorse-core-family",
-  "fileName": "Lined Seahorse- Hippocampus erectus (6042886100).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lined_Seahorse-_Hippocampus_erectus_%286042886100%29.jpg",
+  "fileName": "seahorse-core-family-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-core-family-01-1200.webp",
   "width": 471,
   "height": 640,
   "alt": "Lined seahorse pair in coastal habitat",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:59.909Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
-  "updatedAt": "2026-06-24T10:01:05.816Z"
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bf/Lined_Seahorse-_Hippocampus_erectus_%286042886100%29.jpg",
+  "updatedAt": "2026-06-25T15:10:59.909Z",
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-core-family-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-core-family-01-1200.webp"
+  }
 }

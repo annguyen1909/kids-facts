@@ -2,11 +2,11 @@
   "id": "ostrich-core-diet",
   "animalSlug": "ostrich",
   "slug": "ostrich-core-diet",
-  "fileName": "Ostrich (Struthio camelus) male with chicks (6511046161).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostrich_%28Struthio_camelus%29_male_with_chicks_%286511046161%29.jpg",
-  "width": 4320,
-  "height": 2592,
-  "alt": "Male ostrich watching over chicks while they feed",
+  "fileName": "ostrich-core-diet-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "alt": "Ostrich grazing alongside zebras and a warthog on open savanna",
   "caption": "They swallow small stones to help grind food in their stomach.",
   "imageType": "diet",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Africa",
-  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_male_with_chicks_(6511046161).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "location": "Nairobi National Park, Kenya",
+  "acquisitionNotes": "Core article diet — savanna grazing scene, unique from gallery diet photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/82/Zebras%2C_ostrich_and_warthog_feeding_at_Nairobi_National_Park.jpg",
+  "updatedAt": "2026-06-28T09:18:55.152Z",
+  "attributionText": "Photo by Erahmbuthia via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebras,_ostrich_and_warthog_feeding_at_Nairobi_National_Park.jpg\">Erahmbuthia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_male_with_chicks_(6511046161).jpg",
-    "creatorName": "Bernard DUPONT from FRANCE",
-    "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zebras,_ostrich_and_warthog_feeding_at_Nairobi_National_Park.jpg",
+    "creatorName": "Erahmbuthia",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:55.152Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-core-diet-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-core-diet-01-1200.webp"
   }
 }

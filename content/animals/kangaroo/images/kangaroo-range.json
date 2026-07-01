@@ -2,10 +2,10 @@
   "id": "kangaroo-range",
   "animalSlug": "kangaroo",
   "slug": "kangaroo-range",
-  "fileName": "Red kangaroo (Macropus rufus) in Australian Wildlife Park, Albany, April 2022 10.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_kangaroo_%28Macropus_rufus%29_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_10.jpg",
-  "width": 3264,
-  "height": 2448,
+  "fileName": "kangaroo-range-01-1200.webp",
+  "src": "/images/animals/kangaroo/web/kangaroo-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Red kangaroo in open Australian wildlife habitat",
   "caption": "Red kangaroos range across most of mainland Australia in dry inland regions.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Albany, Western Australia",
-  "acquisitionNotes": "Manually curated kangaroo range image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "acquisitionNotes": "Manually curated kangaroo range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_kangaroo_%28Macropus_rufus%29_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_10.jpg",
+  "updatedAt": "2026-06-25T14:59:07.536Z",
   "attributionText": "Photo by Calistemon via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_10.jpg\">Calistemon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park,_Albany,_April_2022_10.jpg\">Calistemon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park%2C_Albany%2C_April_2022_10.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_kangaroo_(Macropus_rufus)_in_Australian_Wildlife_Park,_Albany,_April_2022_10.jpg",
     "creatorName": "Calistemon",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:10.468Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:07.536Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kangaroo/web/kangaroo-range-01-1200.webp",
+    "thumbnail400": "/images/animals/kangaroo/thumbnails/kangaroo-range-01-400.webp",
+    "original": "/images/animals/kangaroo/web/kangaroo-range-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-core-baby",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-core-baby",
+  "fileName": "cassowary-core-baby-01-1200.webp",
+  "alt": "A young or baby Cassowary showing early development",
+  "caption": "Baby Cassowarys must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 962,
+  "attributionText": "Photo by Wairambar Rainforest via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_333553365.jpg\">Wairambar Rainforest</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_333553365.jpg",
+    "creatorName": "Wairambar Rainforest",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:53.583Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/05/Casuarius_casuarius_333553365.jpg",
+  "updatedAt": "2026-06-26T08:15:53.583Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-core-baby-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-core-baby-01-1200.webp"
+  }
+}

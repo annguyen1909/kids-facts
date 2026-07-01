@@ -1,0 +1,22 @@
+{
+  "id": "ruby-throated-hummingbird-gallery-main",
+  "animalSlug": "ruby-throated-hummingbird",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ruby-throated Hummingbird Photo Gallery",
+  "metaTitle": "Ruby-throated Hummingbird Photo Gallery",
+  "metaDescription": "Browse a ruby-throated hummingbird photo gallery with wildlife photos.",
+  "intro": "Explore ruby-throated hummingbird photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "ruby-throated-hummingbird-hero",
+    "ruby-throated-hummingbird-habitat",
+    "ruby-throated-hummingbird-diet",
+    "ruby-throated-hummingbird-baby",
+    "ruby-throated-hummingbird-family",
+    "ruby-throated-hummingbird-range",
+    "ruby-throated-hummingbird-size",
+    "ruby-throated-hummingbird-closeup",
+    "ruby-throated-hummingbird-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T15:30:02.187Z"
+}

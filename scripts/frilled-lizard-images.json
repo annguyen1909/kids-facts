@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Chlamydosaurus kingii 01.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Frilled Lizard in the wild",
+    "caption": "The Frilled Lizard is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Kragenechse Chlamydosaurus kingii.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Frilled Lizard navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Chlamydosaurus kingii.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Frilled Lizard finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Frilled Lizard.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Frill-necked Lizard (Chlamydosaurus kingii) (8692607976).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Frilled Lizard showing early development",
+    "caption": "Baby Frilled Lizards must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Chlamydosaurus kingii - 5582.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Frilled Lizards interacting with each other",
+    "caption": "While often solitary, some Frilled Lizards interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Chlamydosaurus kingii - 5581.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Frilled Lizard traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:A frilled lizard (Chlamydosaurus kingii).jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Frilled Lizard",
+    "caption": "The size of a Frilled Lizard can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Chlamydosaurus kingii 103835180.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Frilled Lizard",
+    "caption": "A close-up view reveals the intricate details of a Frilled Lizard's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Chlamydosaurus kingii 166372055.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Frilled Lizard showing a unique behavior or adaptation",
+    "caption": "Did you know that the Frilled Lizard has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Chlamydosaurus kingii 166371984.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Frilled Lizard navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Chlamydosaurus kingii 166371854.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Frilled Lizard finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Frilled Lizard.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Chlamydosaurus kingii 85963801.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Frilled Lizards interacting with each other",
+    "caption": "While often solitary, some Frilled Lizards interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Chlamydosaurus kingii 166372167.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Frilled Lizard showing early development",
+    "caption": "Baby Frilled Lizards must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Chlamydosaurus kingii 188046849.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Frilled Lizard traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

@@ -2,12 +2,12 @@
   "id": "gorilla-baby",
   "animalSlug": "gorilla",
   "slug": "gorilla-baby",
-  "fileName": "Female gorilla with 8 months old baby boy gorilla in SF zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg",
-  "width": 2143,
-  "height": 1700,
-  "alt": "Mother western lowland gorilla holding her infant",
-  "caption": "Baby gorillas stay close to their mothers for years while learning forest skills.",
+  "fileName": "gorilla-baby-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-baby-01-1200.webp",
+  "width": 1200,
+  "height": 952,
+  "alt": "Wild western lowland gorilla mother carrying her baby in the rainforest",
+  "caption": "Gorilla mothers carry their infants for the first few months and nurse them for up to 3 years.",
   "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:09.492Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "San Francisco Zoo, USA",
-  "acquisitionNotes": "Manually curated gorilla infant image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z"
+  "acquisitionNotes": "Manually curated gorilla infant image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Female_gorilla_with_8_months_old_baby_boy_gorilla_in_SF_zoo.jpg",
+  "updatedAt": "2026-06-25T14:56:09.492Z",
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-baby-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-baby-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-fun-fact",
+  "slug": "frilled-lizard-fun-fact",
+  "animalSlug": "frilled-lizard",
+  "fileName": "frilled-lizard-fun-fact-01-1200.webp",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "updatedAt": "2026-06-26T19:05:07.667Z",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-fun-fact-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-fun-fact-01-1200.webp"
+  },
+  "alt": "Frilled lizard sprinting upright on its hind legs across open ground",
+  "caption": "When escape is the best defense, the frilled lizard can rear up and run on its hind legs.",
+  "attributionText": "Photo by Matt from Melbourne, Australia via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692599712).jpg\">Matt from Melbourne, Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692599712).jpg",
+    "creatorName": "Matt from Melbourne, Australia",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:05:07.667Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Northern Territory, Australia",
+  "acquisitionNotes": "Distinct fun-fact gallery image — running display, not the hero frill shot. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692599712%29.jpg"
+}

@@ -2,10 +2,10 @@
   "id": "elephant-hero",
   "animalSlug": "african-elephant",
   "slug": "elephant-hero",
-  "fileName": "African_bush_elephant_(Loxodonta_africana),_Masai_Mara.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/African_bush_elephant_%28Loxodonta_africana%29%2C_Masai_Mara.jpg",
-  "width": 5068,
-  "height": 3379,
+  "fileName": "elephant-hero-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "African bush elephant walking across grassland in Masai Mara, Kenya",
   "caption": "African elephants are the largest land animals alive today.",
   "attributionText": "Photo by Hobbyfotowiki via Wikimedia Commons, CC0",
@@ -17,8 +17,8 @@
     "licenseName": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:42.652Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Masai Mara, Kenya",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/64/African_bush_elephant_%28Loxodonta_africana%29%2C_Masai_Mara.jpg",
+  "updatedAt": "2026-06-25T14:48:42.652Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-hero-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-hero-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-core-range",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-core-range",
+  "alt": "A colorful mandarinfish hovering peacefully in the waters of Sulawesi",
+  "caption": "Sustainable aquarium trade practices and strict habitat protection are critical to ensuring the future preservation of wild mandarinfish populations.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Lembeh Strait, Sulawesi, Indonesia",
+  "fileName": "mandarinfish-core-range-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 720,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandarinfishes_(Synchiropus_splendidus)_(6076583055).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandarinfishes_(Synchiropus_splendidus)_(6076583055).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:58:20.346Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Pristine 4416x2649 core conservation wrap-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Mandarinfishes_%28Synchiropus_splendidus%29_%286076583055%29.jpg",
+  "updatedAt": "2026-06-29T11:58:20.346Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-core-range-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-core-range-01-1200.webp"
+  }
+}

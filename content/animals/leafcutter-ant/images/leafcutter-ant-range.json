@@ -1,0 +1,38 @@
+{
+  "id": "leafcutter-ant-range",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-range",
+  "fileName": "leafcutter-ant-range-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-range-01-1200.webp",
+  "width": 640,
+  "height": 522,
+  "alt": "A Leafcutter Ant traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by US gov via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leaf-cutting_ant.jpg\">US gov</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutting_ant.jpg",
+    "creatorName": "US gov",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:00:47.865Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified leafcutter-ant image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4e/Leaf-cutting_ant.jpg",
+  "updatedAt": "2026-06-25T15:00:47.865Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-range-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-range-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-range-01-1200.webp"
+  }
+}

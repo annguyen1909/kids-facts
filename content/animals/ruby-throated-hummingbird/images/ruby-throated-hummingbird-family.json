@@ -1,0 +1,39 @@
+{
+  "id": "ruby-throated-hummingbird-family",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-family",
+  "fileName": "ruby-throated-hummingbird-family-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-family-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "Ruby-throated hummingbird hovering in front of a red tube-shaped hummingbird feeder",
+  "caption": "Although solitary and territorial, multiple hummingbirds will visit the same food sources.",
+  "attributionText": "Photo by U.S. Fish and Wildlife Service - Midwest Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_(49938069306).jpg\">U.S. Fish and Wildlife Service - Midwest Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_(49938069306).jpg",
+    "creatorName": "U.S. Fish and Wildlife Service - Midwest Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:10:07.561Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for family. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/ba/Ruby-throated_hummingbird_%2849938069306%29.jpg",
+  "updatedAt": "2026-06-25T15:10:07.561Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-family-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-family-01-1200.webp"
+  }
+}

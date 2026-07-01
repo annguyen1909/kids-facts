@@ -1,0 +1,22 @@
+{
+  "id": "dragonfly-gallery-main",
+  "animalSlug": "dragonfly",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Dragonfly Photo Gallery",
+  "metaTitle": "Dragonfly Photo Gallery",
+  "metaDescription": "Browse a dragonfly photo gallery with wildlife photos.",
+  "intro": "Explore dragonfly photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "dragonfly-hero",
+    "dragonfly-habitat",
+    "dragonfly-diet",
+    "dragonfly-baby",
+    "dragonfly-family",
+    "dragonfly-range",
+    "dragonfly-size",
+    "dragonfly-closeup",
+    "dragonfly-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

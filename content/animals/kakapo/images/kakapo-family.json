@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-family",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-family",
+  "fileName": "kakapo-family-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-family-01-1200.webp",
+  "width": 573,
+  "height": 412,
+  "alt": "Two young kakapo chicks resting together in their protected nesting box",
+  "caption": "Female kakapo raise the chicks entirely alone, nesting in secure hollows at the base of large forest trees.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Department of Conservation facility",
+  "acquisitionNotes": "Curated family and sibling dynamics image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b1/Kakapo_chicks.jpg",
+  "updatedAt": "2026-06-29T11:55:51.262Z",
+  "attributionText": "Photo by Department of Conservation via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kakapo_chicks.jpg\">Department of Conservation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakapo_chicks.jpg",
+    "creatorName": "Department of Conservation",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:51.262Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-family-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-family-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-family-01-1200.webp"
+  }
+}

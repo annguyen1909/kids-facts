@@ -2,23 +2,23 @@
   "id": "giant-panda-core-baby",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-core-baby",
-  "fileName": "1280px-Yun_Zi_-_Baby_Giant_Panda_-_IMG_1740_(4305518945).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Giant_panda_%28Ailuropoda_melanoleuca%29_1.jpg",
-  "width": 2048,
-  "height": 1536,
-  "alt": "Giant panda cub exploring bamboo forest under its mother's care",
+  "fileName": "giant-panda-core-baby-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Giant panda cub exploring bamboo forest",
   "caption": "Panda cubs are born tiny and depend on their mother for months.",
-  "attributionText": "Photo by Sheba_Also via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giant_panda_(Ailuropoda_melanoleuca)_1.jpg\">Sheba_Also</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "attributionText": "Photo by Original uploader was Ailuropoda at en.wikipedia via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Su_Lin_giant_panda_bear_cub_at_the_San_Diego_Zoo.jpg\">Original uploader was Ailuropoda at en.wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_panda_(Ailuropoda_melanoleuca)_1.jpg",
-    "creatorName": "Sheba_Also",
-    "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Su_Lin_giant_panda_bear_cub_at_the_San_Diego_Zoo.jpg",
+    "creatorName": "Original uploader was Ailuropoda at en.wikipedia",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:10.006Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -27,7 +27,12 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Sichuan, China",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "location": "San Diego, USA",
+  "acquisitionNotes": "Core article baby image — verified Commons file. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3a/Su_Lin_giant_panda_bear_cub_at_the_San_Diego_Zoo.jpg",
+  "updatedAt": "2026-06-25T14:55:10.006Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-core-baby-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-core-baby-01-1200.webp"
+  }
 }

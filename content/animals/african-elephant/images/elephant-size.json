@@ -2,23 +2,23 @@
   "id": "elephant-size",
   "animalSlug": "african-elephant",
   "slug": "elephant-size",
-  "fileName": "178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
-  "width": 8213,
-  "height": 5475,
+  "fileName": "elephant-size-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Full-body view of a large male African bush elephant on open plains",
   "caption": "Adult African elephants can stand up to 13 feet tall and weigh more than 6 tons.",
   "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
     "creatorName": "Giles Laurent",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:44.609Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "size",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Etosha National Park, Namibia",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T14:48:44.609Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-size-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-size-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-size-01-1200.webp"
+  }
 }

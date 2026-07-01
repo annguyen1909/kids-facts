@@ -1,0 +1,22 @@
+{
+  "id": "gila-monster-gallery-main",
+  "animalSlug": "gila-monster",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Gila Monster Photo Gallery",
+  "metaTitle": "Gila Monster Photo Gallery",
+  "metaDescription": "Browse a Gila monster photo gallery with wildlife photos.",
+  "intro": "Explore Gila monster photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "gila-monster-hero",
+    "gila-monster-habitat",
+    "gila-monster-diet",
+    "gila-monster-baby",
+    "gila-monster-family",
+    "gila-monster-range",
+    "gila-monster-size",
+    "gila-monster-closeup",
+    "gila-monster-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

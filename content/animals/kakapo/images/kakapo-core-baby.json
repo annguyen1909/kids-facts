@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-core-baby",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-core-baby",
+  "alt": "Close-up of young developing kakapo chicks being monitored by conservationists",
+  "caption": "Extensive conservation tracking and supplementary feeding have successfully boosted chick survival rates in recent decades.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "New Zealand",
+  "fileName": "kakapo-core-baby-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-core-baby-01-1200.webp",
+  "width": 365,
+  "height": 396,
+  "attributionText": "Photo by Department of Conservation via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kakapo_chicks_(8528275645).jpg\">Department of Conservation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakapo_chicks_(8528275645).jpg",
+    "creatorName": "Department of Conservation",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:44.964Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core baby monitoring and conservation image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bc/Kakapo_chicks_%288528275645%29.jpg",
+  "updatedAt": "2026-06-29T11:55:44.964Z",
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-core-baby-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-core-baby-01-1200.webp"
+  }
+}

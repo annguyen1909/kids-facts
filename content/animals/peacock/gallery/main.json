@@ -1,0 +1,22 @@
+{
+  "id": "peacock-gallery-main",
+  "animalSlug": "peacock",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Peacock Photo Gallery",
+  "metaTitle": "Peacock Photo Gallery",
+  "metaDescription": "Browse a peacock photo gallery with wildlife photos.",
+  "intro": "Explore peacock photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "peacock-hero",
+    "peacock-habitat",
+    "peacock-diet",
+    "peacock-baby",
+    "peacock-family",
+    "peacock-range",
+    "peacock-size",
+    "peacock-closeup",
+    "peacock-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

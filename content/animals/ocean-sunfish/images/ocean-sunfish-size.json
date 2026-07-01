@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-size",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-size",
+  "fileName": "ocean-sunfish-size-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-size-01-1200.webp",
+  "width": 1200,
+  "height": 938,
+  "alt": "NOAA photograph displaying the immense lateral disc size of an adult Mola mola",
+  "caption": "As the heaviest bony fish in the world, large sunfish can reach 10 feet (3 meters) vertically and weigh over 4,000 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Open ocean",
+  "acquisitionNotes": "Manually curated ocean sunfish size image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/98/Mola_mola.jpg",
+  "updatedAt": "2026-06-29T07:22:51.559Z",
+  "attributionText": "Photo by U.S. National Oceanic and Atmospheric Administration via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola.jpg\">U.S. National Oceanic and Atmospheric Administration</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola.jpg",
+    "creatorName": "U.S. National Oceanic and Atmospheric Administration",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T07:22:51.559Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-size-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-size-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-size-01-1200.webp"
+  }
+}

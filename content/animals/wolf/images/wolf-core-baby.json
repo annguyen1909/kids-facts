@@ -2,10 +2,10 @@
   "id": "wolf-core-baby",
   "animalSlug": "wolf",
   "slug": "wolf-core-baby",
-  "fileName": "Wolf Cub (42921676624).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Wolf_Cub_%2842921676624%29.jpg",
-  "width": 4584,
-  "height": 2356,
+  "fileName": "wolf-core-baby-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 617,
   "alt": "Small wolf cub exploring near cover",
   "caption": "Pups learn to hunt and travel with the pack over their first year of life.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/39/Wolf_Cub_%2842921676624%29.jpg",
+  "updatedAt": "2026-06-25T15:14:45.394Z",
   "attributionText": "Photo by Arwen_7 via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wolf_Cub_(42921676624).jpg\">Arwen_7</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:45.394Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-core-baby-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-core-baby-01-1200.webp"
   }
 }

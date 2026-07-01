@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-core-baby",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-core-baby",
+  "alt": "An adolescent moorish idol showing fully formed black and yellow vertical bands",
+  "caption": "As juveniles mature into full adulthood, their trailing dorsal pennant lengthens dramatically.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Tropical reef view",
+  "fileName": "moorish-idol-core-baby-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "attributionText": "Photo by norcalmc via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_419172045.jpg\">norcalmc</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_419172045.jpg",
+    "creatorName": "norcalmc",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:59.763Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile development image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Zanclus_cornutus_419172045.jpg",
+  "updatedAt": "2026-06-29T12:23:59.763Z",
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-core-baby-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-core-baby-01-1200.webp"
+  }
+}

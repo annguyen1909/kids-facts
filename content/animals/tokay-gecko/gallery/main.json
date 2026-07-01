@@ -1,0 +1,22 @@
+{
+  "id": "tokay-gecko-gallery-main",
+  "animalSlug": "tokay-gecko",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Tokay Gecko Photo Gallery",
+  "metaTitle": "Tokay Gecko Photo Gallery",
+  "metaDescription": "Browse a tokay gecko photo gallery with wildlife photos.",
+  "intro": "Explore tokay gecko photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "tokay-gecko-hero",
+    "tokay-gecko-habitat",
+    "tokay-gecko-diet",
+    "tokay-gecko-baby",
+    "tokay-gecko-family",
+    "tokay-gecko-range",
+    "tokay-gecko-size",
+    "tokay-gecko-closeup",
+    "tokay-gecko-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T15:31:07.187Z"
+}

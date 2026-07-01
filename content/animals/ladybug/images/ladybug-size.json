@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-size",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-size",
+  "fileName": "ladybug-size-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A ladybug on a leaf showing its small round body size",
+  "caption": "Ladybugs are very small, growing to only about 0.3 inches (7 to 10 mm) long.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Hungary",
+  "attributionText": "Photo by Zsolt BARNA ( Kabóca ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Seven-spot_ladybird_1.jpg\">Zsolt BARNA ( Kabóca )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seven-spot_ladybird_1.jpg",
+    "creatorName": "Zsolt BARNA ( Kabóca )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:36.156Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8e/Seven-spot_ladybird_1.jpg",
+  "updatedAt": "2026-06-25T15:00:36.156Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-size-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-size-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-size-01-1200.webp"
+  }
+}

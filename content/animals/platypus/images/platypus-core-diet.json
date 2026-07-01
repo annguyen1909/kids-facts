@@ -2,10 +2,10 @@
   "id": "platypus-core-diet",
   "animalSlug": "platypus",
   "slug": "platypus-core-diet",
-  "fileName": "Duck-billed platypus (Ornithorhynchus anatinus) diving Scottsdale.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_diving_Scottsdale.jpg",
-  "width": 4000,
-  "height": 4000,
+  "fileName": "platypus-core-diet-01-1200.webp",
+  "src": "/images/animals/platypus/web/platypus-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Platypus diving underwater to search for prey",
   "caption": "They close their eyes and ears underwater and rely on their bill to find food.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Scottsdale, Tasmania, Australia",
-  "acquisitionNotes": "Core article image curated separately from the platypus gallery set.",
-  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "acquisitionNotes": "Core article image curated separately from the platypus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b4/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_diving_Scottsdale.jpg",
+  "updatedAt": "2026-06-25T15:07:16.004Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_diving_Scottsdale.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:06.111Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:16.004Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/platypus/web/platypus-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/platypus/thumbnails/platypus-core-diet-01-400.webp",
+    "original": "/images/animals/platypus/web/platypus-core-diet-01-1200.webp"
   }
 }

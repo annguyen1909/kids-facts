@@ -2,10 +2,10 @@
   "id": "dolphin-fun-fact",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-fun-fact",
-  "fileName": "Tursiops_truncatus_01.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg",
-  "width": 3000,
-  "height": 1995,
+  "fileName": "dolphin-fun-fact-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "Bottlenose dolphin riding the wake behind a boat on the Banana River",
   "caption": "Dolphins often surf boat wakes and waves just for fun and to save energy.",
   "attributionText": "Photo by NASA via Wikimedia Commons, Public domain",
@@ -17,8 +17,8 @@
     "licenseName": "Public domain",
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:42.865Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "fun-fact",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Banana River, Florida, USA",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg",
+  "updatedAt": "2026-07-01T12:33:42.865Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-fun-fact-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-fun-fact-01-1200.webp"
+  }
 }

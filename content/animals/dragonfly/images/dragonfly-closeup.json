@@ -1,0 +1,38 @@
+{
+  "id": "dragonfly-closeup",
+  "animalSlug": "dragonfly",
+  "slug": "dragonfly-closeup",
+  "fileName": "dragonfly-closeup-01-1200.webp",
+  "src": "/images/animals/dragonfly/web/dragonfly-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1691,
+  "alt": "A detailed close-up showing the physical features of a Emperor Dragonfly",
+  "caption": "A close-up view reveals the intricate details of a Emperor Dragonfly's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Yerpo via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Anax_imperator_exuvia2.jpg\">Yerpo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator_exuvia2.jpg",
+    "creatorName": "Yerpo",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:54.601Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified dragonfly image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Anax_imperator_exuvia2.jpg",
+  "updatedAt": "2026-06-25T14:51:54.601Z",
+  "srcSet": {
+    "web1200": "/images/animals/dragonfly/web/dragonfly-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/dragonfly/thumbnails/dragonfly-closeup-01-400.webp",
+    "original": "/images/animals/dragonfly/web/dragonfly-closeup-01-1200.webp"
+  }
+}

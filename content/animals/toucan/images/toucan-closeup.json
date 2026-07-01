@@ -1,0 +1,38 @@
+{
+  "id": "toucan-closeup",
+  "animalSlug": "toucan",
+  "slug": "toucan-closeup",
+  "fileName": "toucan-closeup-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A detailed close-up showing the physical features of a Toco Toucan",
+  "caption": "A close-up view reveals the intricate details of a Toco Toucan's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:090_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:090_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:16.780Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/090_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:13:16.780Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-closeup-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-closeup-01-1200.webp"
+  }
+}

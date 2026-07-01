@@ -1,0 +1,131 @@
+{
+  "id": "animal-firefly",
+  "slug": "firefly",
+  "name": "Firefly",
+  "commonNames": [
+    "Firefly",
+    "Lightning Bug",
+    "Glow Fly"
+  ],
+  "scientificName": "Photinus pyralis",
+  "summary": "The firefly, also known as the lightning bug, is a small beetle famous for its bioluminescence—the ability to produce cold light from its abdomen. They use these glowing flash patterns at night to talk to each other and find mates in forests and meadows.",
+  "heroTitle": "Firefly Facts",
+  "metaTitle": "Firefly Facts | Habitat, Diet, Glowing Light & Photos",
+  "metaDescription": "Firefly facts for kids with photos, meadow/forest habitat, diet, glowing bioluminescent light, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "firefly facts",
+    "what do fireflies eat",
+    "where do fireflies live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Lampyridae",
+    "genus": "Photinus",
+    "species": "P. pyralis"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Canada"
+  ],
+  "biomes": [
+    "temperate forest",
+    "grassland",
+    "wetland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Snails",
+    "Slugs",
+    "Worms",
+    "Pollen",
+    "Nectar"
+  ],
+  "lifespan": {
+    "wild": "1 to 2 years (mostly as larvae)"
+  },
+  "size": {
+    "lengthMin": "1.0 cm",
+    "lengthMax": "1.5 cm"
+  },
+  "weight": {
+    "min": "0.1 g",
+    "max": "0.2 g"
+  },
+  "speed": "Slow, fluttering flight",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "glowing at night",
+    "flying slowly near the ground",
+    "larvae hunting snails in damp soil",
+    "attracting mates with species-specific flashes",
+    "resting on grass blades during the day"
+  ],
+  "adaptations": [
+    "bioluminescent light organ in abdomen",
+    "chemical defenses that taste bad",
+    "soft flexible wing covers",
+    "excellent night vision",
+    "glow-in-the-dark warning colors"
+  ],
+  "predators": [
+    "Frogs",
+    "Spiders",
+    "Bats",
+    "Birds"
+  ],
+  "prey": [
+    "Snails",
+    "Slugs",
+    "Worms"
+  ],
+  "reproduction": {
+    "offspringName": "glowworm",
+    "gestationOrIncubation": "3 to 4 weeks",
+    "offspringCount": "100 to 500 eggs"
+  },
+  "funFacts": [
+    "Fireflies are not actually flies—they are beetles! They have soft, flexible wing covers called elytra that protect their flying wings.",
+    "The light produced by a firefly is called cold light because it produces no heat! A normal lightbulb loses 90% of its energy as heat, but a firefly's light is 100% efficient.",
+    "They use their glowing lights to speak to each other. Each species has its own special pattern of flashes, like a secret Morse code, to find mates.",
+    "Even firefly eggs and larvae can glow! Baby fireflies are often called 'glowworms' and live in damp soil where they hunt snails.",
+    "Fireflies taste terrible to predators! They contain defensive chemicals that make them poisonous to birds and lizards, so their light acts as a warning.",
+    "Fireflies love warm, humid summer nights. During the day, they hide in tall grass or under leaves to stay cool and moist."
+  ],
+  "faq": [
+    {
+      "question": "What is a firefly?",
+      "answer": "A firefly, also known as a lightning bug, is a small nocturnal beetle famous for its ability to produce glowing light from its abdomen."
+    },
+    {
+      "question": "Where do fireflies live?",
+      "answer": "They live in warm, humid forests, grassy meadows, wetlands, and parks near rivers and ponds across North America and other temperate regions."
+    },
+    {
+      "question": "How and why do fireflies light up?",
+      "answer": "They mix chemicals (luciferin and oxygen) inside a light organ in their abdomen to produce a chemical light without heat. They flash their lights to communicate, find mates, and warn predators that they taste bad."
+    }
+  ],
+  "relatedAnimals": [
+    "ladybug",
+    "honeybee",
+    "luna-moth"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "firefly-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

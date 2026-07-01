@@ -2,23 +2,23 @@
   "id": "tiger-core-baby",
   "animalSlug": "tiger",
   "slug": "tiger-core-baby",
-  "fileName": "Tiger_cub_(India,_2010).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tiger_cub_%28India%2C_2010%29.jpg",
-  "width": 1831,
-  "height": 887,
+  "fileName": "tiger-core-baby-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 581,
   "alt": "Young tiger cub resting in grass in India",
   "caption": "Tiger cubs stay hidden in a den while their mother hunts nearby.",
   "attributionText": "Photo by Davidvraju via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tiger_cub_(India,_2010).jpg\">Davidvraju</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tiger_cub_(India,_2010).jpg\">Davidvraju</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_cub_(India,_2010).jpg",
     "creatorName": "Davidvraju",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T12:00:00.000Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:12:42.586Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "India",
-  "acquisitionNotes": "Core article life-cycle image — cub portrait separate from gallery walking cub.",
-  "updatedAt": "2026-06-22T12:00:00.000Z"
+  "acquisitionNotes": "Core article life-cycle image — cub portrait separate from gallery walking cub. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/be/Tiger_cub_%28India%2C_2010%29.jpg",
+  "updatedAt": "2026-06-25T15:12:42.586Z",
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-core-baby-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-core-baby-01-1200.webp"
+  }
 }

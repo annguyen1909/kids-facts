@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-hero",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-hero",
+  "fileName": "peregrine-falcon-hero-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1216,
+  "alt": "A peregrine falcon perched majestically on a branch, showing its slate-grey back and barred breast",
+  "caption": "The peregrine falcon is the fastest animal in the world, capable of diving at over 200 mph.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "India",
+  "attributionText": "Photo by Sumeet Moghe via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(male)_cropped.jpg\">Sumeet Moghe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(male)_cropped.jpg",
+    "creatorName": "Sumeet Moghe",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:09.134Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Peregrine_Falcon_%28male%29_cropped.jpg",
+  "updatedAt": "2026-06-25T15:07:09.134Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-hero-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-hero-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "octopus-fun-fact",
   "animalSlug": "octopus",
   "slug": "octopus-fun-fact",
-  "fileName": "Octopus vulgaris 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Octopus_vulgaris_2.jpg",
-  "width": 3332,
-  "height": 2432,
+  "fileName": "octopus-fun-fact-01-1200.webp",
+  "src": "/images/animals/octopus/web/octopus-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 876,
   "alt": "Common octopus changing texture on the seafloor",
   "caption": "Octopuses can change color and skin texture in seconds to hide or communicate.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Mediterranean Sea",
-  "acquisitionNotes": "Manually curated octopus fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:21.349Z",
+  "acquisitionNotes": "Manually curated octopus fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9f/Octopus_vulgaris_2.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9f/Octopus_vulgaris_2.jpg",
+  "updatedAt": "2026-06-26T19:14:08.874Z",
   "attributionText": "Photo by Albert Kok at Dutch Wikipedia ( Original text: Albert Kok ) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg\">Albert Kok at Dutch Wikipedia ( Original text: Albert Kok )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg\">Albert Kok at Dutch Wikipedia ( Original text: Albert Kok )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg",
     "creatorName": "Albert Kok at Dutch Wikipedia ( Original text: Albert Kok )",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_2.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T10:39:21.349Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:14:08.874Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/octopus/web/octopus-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/octopus/thumbnails/octopus-fun-fact-01-400.webp",
+    "original": "/images/animals/octopus/web/octopus-fun-fact-01-1200.webp"
   }
 }

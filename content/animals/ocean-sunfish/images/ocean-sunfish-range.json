@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-range",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-range",
+  "fileName": "ocean-sunfish-range-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Ocean sunfish navigating coastal waters off Walvis Bay, Namibia",
+  "caption": "They are highly migratory, crossing extensive oceanic distances to follow warm currents and prey concentrations.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Walvis Bay, Namibia",
+  "acquisitionNotes": "Manually curated ocean sunfish range image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/35/Mola_mola_K1.jpg",
+  "updatedAt": "2026-06-29T07:22:52.151Z",
+  "attributionText": "Photo by H.-U. Küenle via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola_K1.jpg\">H.-U. Küenle</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola_K1.jpg",
+    "creatorName": "H.-U. Küenle",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:52.151Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-range-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-range-01-1200.webp"
+  }
+}

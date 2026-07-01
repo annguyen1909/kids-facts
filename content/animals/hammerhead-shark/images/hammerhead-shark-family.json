@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-family",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-family",
+  "fileName": "hammerhead-shark-family-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A group of Great Hammerhead Sharks interacting with each other",
+  "caption": "While often solitary, some Great Hammerhead Sharks interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Dave M from Atlanta via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_head.jpg\">Dave M from Atlanta</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_head.jpg",
+    "creatorName": "Dave M from Atlanta",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:21:03.421Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Sphyrna_mokarran_head.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Sphyrna_mokarran_head.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Sphyrna_mokarran_head.jpg",
+  "updatedAt": "2026-06-26T19:21:03.421Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-family-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-family-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-family-01-1200.webp"
+  }
+}

@@ -46,7 +46,7 @@ content/
         [image-slug].json
 ```
 
-Use [assets/images/animals/_template/metadata/image-template.json](/Users/annguyen19/Desktop/CODE/kids-facts/assets/images/animals/_template/metadata/image-template.json) as the source template.
+Use [assets/images/animals/_template/metadata/image-template.json](/Users/annguyen19/Desktop/CODE/wildlifedb/assets/images/animals/_template/metadata/image-template.json) as the source template.
 
 ## Naming Convention
 

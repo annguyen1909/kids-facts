@@ -1,0 +1,38 @@
+{
+  "id": "peacock-hero",
+  "animalSlug": "peacock",
+  "slug": "peacock-hero",
+  "fileName": "peacock-hero-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Male Indian peafowl with iridescent blue neck and train feathers in Jim Corbett National Park",
+  "caption": "Male peafowls are famous for their brilliant plumage and spectacular courtship displays.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Jim Corbett National Park, India",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T18:18:47.218Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Replaced feather macro with wild Indian peafowl hero photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/023_Indian_peafowl_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-26T18:18:47.218Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-hero-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-hero-01-1200.webp"
+  }
+}

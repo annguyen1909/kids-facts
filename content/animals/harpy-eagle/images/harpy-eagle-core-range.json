@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-core-range",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-core-range",
+  "alt": "Stately harpy eagle standing tall against a natural wooden perch",
+  "caption": "Extensive deforestation and habitat fragmentation represent the greatest ongoing threats to remaining wild populations.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Weltvogelpark Walsrode",
+  "fileName": "harpy-eagle-core-range-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1855,
+  "attributionText": "Photo by Quartl via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja_qtl1.jpg\">Quartl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_qtl1.jpg",
+    "creatorName": "Quartl",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:27.931Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core range and conservation overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d1/Harpia_harpyja_qtl1.jpg",
+  "updatedAt": "2026-06-29T11:55:27.931Z",
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-core-range-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-core-range-01-1200.webp"
+  }
+}

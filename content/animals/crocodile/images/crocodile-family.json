@@ -2,10 +2,10 @@
   "id": "crocodile-family",
   "animalSlug": "crocodile",
   "slug": "crocodile-family",
-  "fileName": "Cocodrilo del Nilo (Crocodylus niloticus), parque nacional de Chobe, Botsuana, 2018-07-28, DD 86.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cocodrilo_del_Nilo_%28Crocodylus_niloticus%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_86.jpg",
-  "width": 6324,
-  "height": 3130,
+  "fileName": "crocodile-family-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-family-01-1200.webp",
+  "width": 1200,
+  "height": 594,
   "alt": "Several Nile crocodiles together at a river",
   "caption": "Crocodiles often bask together on riverbanks where food is plentiful.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Chobe National Park, Botswana",
-  "acquisitionNotes": "Manually curated crocodile group image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "acquisitionNotes": "Manually curated crocodile group image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Cocodrilo_del_Nilo_%28Crocodylus_niloticus%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_86.jpg",
+  "updatedAt": "2026-06-25T14:51:48.957Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_86.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_86.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_86.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cocodrilo_del_Nilo_(Crocodylus_niloticus),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_86.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:48.957Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-family-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-family-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-family-01-1200.webp"
   }
 }

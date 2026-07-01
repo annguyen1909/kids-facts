@@ -60,12 +60,14 @@ export async function fetchImportedImages(input: {
   const imageByType: Partial<Record<AnimalImageKind, ImportedImage>> = {};
   const usedUrls = new Set<string>();
 
-  const baseCandidates = await fallbackCandidates(input.scientificName, input.commonName);
+  const scientificName = input.scientificName.replace(/\s*\(.*\)\s*$/, "").split(/\s+/).slice(0, 3).join(" ");
+
+  const baseCandidates = await fallbackCandidates(scientificName, input.commonName);
   if (baseCandidates.length > 0) sources.add("Wikimedia Commons");
 
   for (const imageType of REQUIRED_IMAGE_TYPES) {
     const terms = IMAGE_SEARCH_QUERIES[imageType];
-    let candidates = await searchCandidates(input.scientificName, input.commonName, terms);
+    let candidates = await searchCandidates(scientificName, input.commonName, terms);
 
     if (candidates.length === 0) {
       candidates = baseCandidates;
@@ -77,7 +79,7 @@ export async function fetchImportedImages(input: {
         preferredTerms: terms,
         preferLandscape: imageType === "hero" || imageType === "habitat" || imageType === "range",
         minWidth: imageType === "hero" ? 1200 : 800,
-        scientificName: input.scientificName,
+        scientificName: scientificName,
         commonName: input.commonName,
       },
     );
@@ -103,7 +105,7 @@ export async function fetchImportedImages(input: {
       preferredTerms: ["wildlife", "animal"],
       preferLandscape: true,
       minWidth: 1200,
-      scientificName: input.scientificName,
+      scientificName: scientificName,
       commonName: input.commonName,
     });
 
@@ -114,11 +116,11 @@ export async function fetchImportedImages(input: {
   }
 
   if (!imageByType.hero) {
-    const inaturalist = await searchINaturalistImages(input.scientificName);
-    const wiki = await searchWikipediaImages(input.scientificName);
+    const inaturalist = await searchINaturalistImages(scientificName);
+    const wiki = await searchWikipediaImages(scientificName);
     const rescue = pickBestImage([...inaturalist, ...wiki], {
       preferLandscape: true,
-      scientificName: input.scientificName,
+      scientificName: scientificName,
       commonName: input.commonName,
     });
 
@@ -144,7 +146,8 @@ export async function fetchHeroImage(input: {
   scientificName: string;
   commonName: string;
 }): Promise<{ hero?: ImportedImage; source?: string; warnings: string[] }> {
-  const scientific = await searchWikimediaRaw(`${input.scientificName} animal`, 12);
+  const scientificName = input.scientificName.replace(/\s*\(.*\)\s*$/, "").split(/\s+/).slice(0, 3).join(" ");
+  const scientific = await searchWikimediaRaw(`${scientificName} animal`, 12);
   const common =
     input.commonName.trim().length > 0
       ? await searchWikimediaRaw(`${input.commonName} animal`, 12)
@@ -154,7 +157,7 @@ export async function fetchHeroImage(input: {
     preferredTerms: ["wildlife", "animal"],
     preferLandscape: true,
     minWidth: 1200,
-    scientificName: input.scientificName,
+    scientificName: scientificName,
     commonName: input.commonName,
   });
 
@@ -166,11 +169,11 @@ export async function fetchHeroImage(input: {
     };
   }
 
-  const fallback = await fallbackCandidates(input.scientificName, input.commonName);
+  const fallback = await fallbackCandidates(scientificName, input.commonName);
   const rescued = pickBestImage(fallback, {
     preferLandscape: true,
     minWidth: 900,
-    scientificName: input.scientificName,
+    scientificName: scientificName,
     commonName: input.commonName,
   });
 

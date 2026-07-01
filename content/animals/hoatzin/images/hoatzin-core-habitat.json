@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-core-habitat",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-core-habitat",
+  "alt": "Beautiful hoatzin sitting gracefully amidst rich Colombian foliage",
+  "caption": "Maintaining dense overhanging river vegetation is essential to protecting hoatzin breeding colonies from predators.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Armenia, Colombia",
+  "fileName": "hoatzin-core-habitat-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 839,
+  "attributionText": "Photo by Alejandro Bayer Tamayo from Armenia, Colombia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_(Pava_hedionda)_(14253577154).jpg\">Alejandro Bayer Tamayo from Armenia, Colombia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_(Pava_hedionda)_(14253577154).jpg",
+    "creatorName": "Alejandro Bayer Tamayo from Armenia, Colombia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:43.223Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-quality core habitat shot showcasing excellent clarity and greenery. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a9/Opisthocomus_hoazin_%28Pava_hedionda%29_%2814253577154%29.jpg",
+  "updatedAt": "2026-06-29T12:23:43.223Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-core-habitat-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-core-habitat-01-1200.webp"
+  }
+}

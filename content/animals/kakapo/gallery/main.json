@@ -1,0 +1,22 @@
+{
+  "id": "kakapo-gallery-main",
+  "animalSlug": "kakapo",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Kakapo Photo Gallery",
+  "metaTitle": "Kakapo Photo Gallery",
+  "metaDescription": "Browse a kakapo photo gallery with wildlife photos.",
+  "intro": "Explore kakapo photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "kakapo-hero",
+    "kakapo-habitat",
+    "kakapo-diet",
+    "kakapo-baby",
+    "kakapo-family",
+    "kakapo-range",
+    "kakapo-size",
+    "kakapo-closeup",
+    "kakapo-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:25.138Z"
+}

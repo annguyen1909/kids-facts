@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-core-range",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-core-range",
+  "fileName": "tokay-gecko-core-range-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 766,
+  "alt": "Tokay gecko moving across rock habitat in the wild",
+  "caption": "Tokay geckos have been introduced to warm climates outside Asia, including Florida.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Florida, United States",
+  "attributionText": "Photo by Oleg Kosterin via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gekko_gecko_106845652.jpg\">Oleg Kosterin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_106845652.jpg",
+    "creatorName": "Oleg Kosterin",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:09.265Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tokay gecko image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/70/Gekko_gecko_106845652.jpg",
+  "updatedAt": "2026-06-25T15:13:09.265Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-core-range-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-core-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-core-baby",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-core-baby",
+  "fileName": "ladybug-core-baby-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-core-baby-01-1200.webp",
+  "width": 887,
+  "height": 592,
+  "alt": "Newly hatched tiny ladybug larvae on a leaf next to yellow egg shells",
+  "caption": "Females lay clusters of tiny, yellow eggs under leaves near aphid colonies.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Bulgaria",
+  "attributionText": "Photo by Bogdan Nikolovv via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Newly-hatched_small_larva_of_Coccinella_septempunctata.jpg\">Bogdan Nikolovv</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newly-hatched_small_larva_of_Coccinella_septempunctata.jpg",
+    "creatorName": "Bogdan Nikolovv",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:00:14.006Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Newly-hatched_small_larva_of_Coccinella_septempunctata.jpg",
+  "updatedAt": "2026-06-25T15:00:14.006Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-core-baby-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-core-baby-01-1200.webp"
+  }
+}

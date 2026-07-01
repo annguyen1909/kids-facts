@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-core-diet",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-core-diet",
+  "fileName": "american-bison-core-diet-01-1200.webp",
+  "alt": "Herd of American bison grazing across open prairie",
+  "caption": "A grown bison can eat many pounds of grass every day to fuel its huge body.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "United States",
+  "src": "/images/animals/american-bison/web/american-bison-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Department of the Interior. U.S. Fish and Wildlife Service. National Conservation Training Center. 10/1997-8888 via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_herd_grazing_-_DPLA_-_b0483ac8edcd14a4e989973bc99b1b09.jpg\">Department of the Interior. U.S. Fish and Wildlife Service. National Conservation Training Center. 10/1997-8888</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_herd_grazing_-_DPLA_-_b0483ac8edcd14a4e989973bc99b1b09.jpg",
+    "creatorName": "Department of the Interior. U.S. Fish and Wildlife Service. National Conservation Training Center. 10/1997-8888",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:11.628Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d3/Bison_herd_grazing_-_DPLA_-_b0483ac8edcd14a4e989973bc99b1b09.jpg",
+  "updatedAt": "2026-06-28T09:54:11.628Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-core-diet-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-core-diet-01-1200.webp"
+  }
+}

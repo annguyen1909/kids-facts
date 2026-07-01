@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-core-family",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-core-family",
+  "fileName": "honeybee-core-family-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Close-up of a fresh yellow honeycomb dripping with sweet honey",
+  "caption": "Worker bees store honey in comb cells to feed the colony during winter months.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "India",
+  "attributionText": "Photo by Vraj Acharya via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fresh_honeycomb_dripping_honey_India.jpg\">Vraj Acharya</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fresh_honeycomb_dripping_honey_India.jpg",
+    "creatorName": "Vraj Acharya",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:18.221Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified honeybee image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e6/Fresh_honeycomb_dripping_honey_India.jpg",
+  "updatedAt": "2026-06-25T14:58:18.221Z",
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-core-family-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-core-family-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-core-diet",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-core-diet",
+  "alt": "Archerfish stalking an insect target near the calm water surface",
+  "caption": "They are capable of hitting targets up to 1.5 meters (5 feet) away, adjusting the force of the water jet based on the size of the prey.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Aquarium display",
+  "fileName": "archerfish-core-diet-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 681,
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9452.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9452.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:07.721Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-resolution 3000x1702 core diet hunting posture photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1b/Toxotes_jaculatrix_-_9452.jpg",
+  "updatedAt": "2026-06-29T11:54:07.721Z",
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-core-diet-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-core-diet-01-1200.webp"
+  }
+}

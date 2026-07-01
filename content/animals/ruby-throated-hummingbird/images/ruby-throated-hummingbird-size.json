@@ -1,0 +1,38 @@
+{
+  "id": "ruby-throated-hummingbird-size",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-size",
+  "fileName": "ruby-throated-hummingbird-size-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Female ruby-throated hummingbird perched on a thin garden twig, showing its tiny size",
+  "caption": "A ruby-throated hummingbird is incredibly small, weighing less than a single penny.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Fairfax County, Virginia",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for size. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e5/Ruby-Throated_Hummingbird_Female_Perched_on_Branch_09.jpg",
+  "updatedAt": "2026-06-25T15:10:14.971Z",
+  "attributionText": "Photo by Amaury Laporte via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ruby-Throated_Hummingbird_Female_Perched_on_Branch_09.jpg\">Amaury Laporte</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby-Throated_Hummingbird_Female_Perched_on_Branch_09.jpg",
+    "creatorName": "Amaury Laporte",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:14.971Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-size-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-size-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-size-01-1200.webp"
+  }
+}

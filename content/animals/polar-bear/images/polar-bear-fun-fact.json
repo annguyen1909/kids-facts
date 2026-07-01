@@ -2,8 +2,8 @@
   "id": "polar-bear-fun-fact",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-fun-fact",
-  "fileName": "Polar bear swimming in the ocean near Baillie Islands (39469 LS).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Polar_bear_swimming_in_the_ocean_near_Baillie_Islands_%2839469_LS%29.jpg",
+  "fileName": "polar-bear-fun-fact-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-fun-fact-01-1200.webp",
   "width": 1024,
   "height": 633,
   "alt": "Polar bear swimming in open Arctic water",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:45.039Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "fun-fact",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Baillie Islands, Arctic Canada",
-  "acquisitionNotes": "Manually curated polar bear fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Manually curated polar bear fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Polar_bear_swimming_in_the_ocean_near_Baillie_Islands_%2839469_LS%29.jpg",
+  "updatedAt": "2026-06-25T15:07:45.039Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-fun-fact-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-fun-fact-01-1200.webp"
+  }
 }

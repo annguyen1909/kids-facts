@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-fun-fact",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-fun-fact",
+  "fileName": "american-bison-fun-fact-01-1200.webp",
+  "alt": "American bison covered in snow resting during a winter storm",
+  "caption": "Bison are built for blizzards and swing their huge heads to sweep snow off the grass.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Yellowstone National Park, Wyoming, USA",
+  "src": "/images/animals/american-bison/web/american-bison-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Yellowstone National Park via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_snow-covered_bison_resting_in_a_winter_storm_(33335764868).jpg\">Yellowstone National Park</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_snow-covered_bison_resting_in_a_winter_storm_(33335764868).jpg",
+    "creatorName": "Yellowstone National Park",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:16.341Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a9/A_snow-covered_bison_resting_in_a_winter_storm_%2833335764868%29.jpg",
+  "updatedAt": "2026-06-28T09:54:16.341Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-fun-fact-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-fun-fact-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-core-family",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-core-family",
+  "alt": "A beautiful banded archerfish resting near its schooling peers",
+  "caption": "During the rainy season, mature archerfish migrate from coastal brackish waters upstream into flooded freshwater rivers to broadcast spawn.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Zoo Frankfurt",
+  "fileName": "archerfish-core-family-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by NasserHalaweh via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotidae_Toxotes_jaculatrix_2.jpg\">NasserHalaweh</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotidae_Toxotes_jaculatrix_2.jpg",
+    "creatorName": "NasserHalaweh",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:22.597Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-resolution core family reproduction overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/67/Toxotidae_Toxotes_jaculatrix_2.jpg",
+  "updatedAt": "2026-06-29T11:54:22.597Z",
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-core-family-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-core-family-01-1200.webp"
+  }
+}

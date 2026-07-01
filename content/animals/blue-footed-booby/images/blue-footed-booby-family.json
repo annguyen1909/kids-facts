@@ -1,0 +1,38 @@
+{
+  "id": "blue-footed-booby-family",
+  "animalSlug": "blue-footed-booby",
+  "slug": "blue-footed-booby-family",
+  "fileName": "blue-footed-booby-family-01-1200.webp",
+  "src": "/images/animals/blue-footed-booby/web/blue-footed-booby-family-01-1200.webp",
+  "width": 1200,
+  "height": 894,
+  "alt": "Pair of blue-footed boobies engaging in their famous high-stepping mating ritual",
+  "caption": "Pairs form strong bonds through an elaborate courtship dance where they lift and flaunt their vibrant blue feet.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Lobos Island, Galapagos",
+  "acquisitionNotes": "Manually curated blue-footed booby family image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8b/Piquero_patiazul_%28Sula_nebouxii%29%2C_isla_Lobos%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-25%2C_DD_35.JPG",
+  "updatedAt": "2026-06-29T07:23:04.427Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_isla_Lobos,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_35.JPG\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_isla_Lobos,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-25,_DD_35.JPG",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:04.427Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-footed-booby/web/blue-footed-booby-family-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-footed-booby/thumbnails/blue-footed-booby-family-01-400.webp",
+    "original": "/images/animals/blue-footed-booby/web/blue-footed-booby-family-01-1200.webp"
+  }
+}

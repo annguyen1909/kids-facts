@@ -2,10 +2,10 @@
   "id": "kangaroo-hero",
   "animalSlug": "kangaroo",
   "slug": "kangaroo-hero",
-  "fileName": "Red Kangaroos at Sturt National Park NSW.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_Kangaroos_at_Sturt_National_Park_NSW.jpg",
-  "width": 5000,
-  "height": 3333,
+  "fileName": "kangaroo-hero-01-1200.webp",
+  "src": "/images/animals/kangaroo/web/kangaroo-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red kangaroos standing in dry outback grassland",
   "caption": "Red kangaroos are the largest marsupials and famous for powerful hopping.",
   "attributionText": "Photo by PotMart186 via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:10.468Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:07.150Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Sturt National Park, New South Wales, Australia",
-  "acquisitionNotes": "Manually curated red kangaroo hero image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:10.468Z"
+  "acquisitionNotes": "Manually curated red kangaroo hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_Kangaroos_at_Sturt_National_Park_NSW.jpg",
+  "updatedAt": "2026-06-25T14:59:07.150Z",
+  "srcSet": {
+    "web1200": "/images/animals/kangaroo/web/kangaroo-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/kangaroo/thumbnails/kangaroo-hero-01-400.webp",
+    "original": "/images/animals/kangaroo/web/kangaroo-hero-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-core-range",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-core-range",
+  "fileName": "jaguar-core-range-01-1200.webp",
+  "alt": "A Jaguar traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro.JPG\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro.JPG",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:19.376Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2e/Jaguar_%28Panthera_onca_palustris%29_male_Rio_Negro.JPG",
+  "updatedAt": "2026-06-26T08:11:19.376Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-core-range-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-core-range-01-1200.webp"
+  }
+}

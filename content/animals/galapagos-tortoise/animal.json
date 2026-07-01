@@ -1,0 +1,149 @@
+{
+  "id": "animal-galapagos-tortoise",
+  "slug": "galapagos-tortoise",
+  "name": "Galápagos Tortoise",
+  "commonNames": [
+    "Galápagos Tortoise",
+    "Galápagos giant tortoise",
+    "Giant tortoise"
+  ],
+  "scientificName": "Chelonoidis niger",
+  "summary": "Galápagos tortoises are enormous island reptiles with heavy shells, long lives, and a calm, slow way of moving. They graze on grasses and cactus across the Galápagos Islands and are among the biggest tortoises in the world.",
+  "heroTitle": "Galápagos Tortoise Facts",
+  "metaTitle": "Galápagos Tortoise Facts | Diet, Lifespan & Photos",
+  "metaDescription": "Discover Galápagos tortoise facts with photos, island habitat, plant diet, hatchlings, shell types, and conservation.",
+  "searchIntents": [
+    "galapagos tortoise facts",
+    "what do galapagos tortoises eat",
+    "where do galapagos tortoises live",
+    "how long do galapagos tortoises live",
+    "how big is a galapagos tortoise",
+    "are galapagos tortoises endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "genus": "Chelonoidis",
+    "species": "C. niger"
+  },
+  "classificationLabels": [
+    "reptile",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "South America"
+  ],
+  "countries": [
+    "Ecuador"
+  ],
+  "biomes": [
+    "grassland",
+    "shrubland",
+    "tropical dry forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grasses",
+    "leaves",
+    "cactus pads",
+    "fruit",
+    "flowers"
+  ],
+  "lifespan": {
+    "wild": "80 to 120 years",
+    "captivity": "More than 150 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "6 feet"
+  },
+  "weight": {
+    "min": "250 pounds",
+    "max": "900 pounds"
+  },
+  "speed": "About 0.2 mph on land",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "slow grazing",
+    "sun basking",
+    "mud wallowing",
+    "seasonal migration uphill and downhill",
+    "long daytime resting"
+  ],
+  "adaptations": [
+    "huge protective shell",
+    "elephant-like legs",
+    "ability to store water",
+    "long neck for reaching plants",
+    "very slow metabolism"
+  ],
+  "predators": [
+    "humans",
+    "feral dogs",
+    "rats",
+    "pigs"
+  ],
+  "prey": [
+    "grasses",
+    "cactus",
+    "leaves"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "Eggs incubate in warm soil for about 4 to 8 months",
+    "offspringCount": "Usually 2 to 16 eggs per nest"
+  },
+  "funFacts": [
+    "Galápagos tortoises can live longer than many people.",
+    "Different island tortoises can have dome-shaped or saddleback shells.",
+    "They help spread plant seeds across the islands in their droppings.",
+    "A Galápagos tortoise can go a very long time without food or fresh water.",
+    "These giant reptiles often cool off in muddy wallows.",
+    "Some tortoise populations have recovered because of captive breeding and island restoration."
+  ],
+  "faq": [
+    {
+      "question": "What is a Galápagos tortoise?",
+      "answer": "A Galápagos tortoise is a giant tortoise native to the Galápagos Islands. It is one of the largest tortoises alive today."
+    },
+    {
+      "question": "Where do Galápagos tortoises live?",
+      "answer": "They live only on the Galápagos Islands, an Ecuadorian archipelago in the Pacific Ocean west of South America."
+    },
+    {
+      "question": "What do Galápagos tortoises eat?",
+      "answer": "They are herbivores that eat grasses, leaves, cactus pads, fruit, and other island plants."
+    },
+    {
+      "question": "How long do Galápagos tortoises live?",
+      "answer": "Many live 80 years or more in the wild, and some in human care have lived well past 100 years."
+    },
+    {
+      "question": "Why do some Galápagos tortoises have different shell shapes?",
+      "answer": "Shell shapes vary by island habitat. Saddleback shells help tortoises stretch higher for food, while dome shells suit places with more low plants."
+    },
+    {
+      "question": "Are Galápagos tortoises endangered?",
+      "answer": "Many Galápagos tortoise populations were badly reduced in the past. Protection and breeding programs have helped some island groups recover, but they still need conservation."
+    }
+  ],
+  "relatedAnimals": [
+    "sea-turtle",
+    "iguana",
+    "komodo-dragon"
+  ],
+  "comparisonCandidates": [
+    "sea-turtle"
+  ],
+  "galleryIds": [
+    "galapagos-tortoise-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "grassland"
+}

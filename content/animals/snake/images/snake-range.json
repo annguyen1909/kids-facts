@@ -2,8 +2,8 @@
   "id": "snake-range",
   "animalSlug": "snake",
   "slug": "snake-range",
-  "fileName": "Python Regius.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Python_Regius.jpg",
+  "fileName": "snake-range-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-range-01-1200.webp",
   "width": 1200,
   "height": 800,
   "alt": "Ball python in West African habitat setting",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python range image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Manually curated ball python range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/48/Python_Regius.jpg",
+  "updatedAt": "2026-06-25T15:11:55.703Z",
   "attributionText": "Photo by Stanislava Kamencayová via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python_Regius.jpg\">Stanislava Kamencayová</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:55.703Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-range-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-range-01-400.webp",
+    "original": "/images/animals/snake/web/snake-range-01-1200.webp"
   }
 }

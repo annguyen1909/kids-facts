@@ -2,23 +2,23 @@
   "id": "crocodile-core-habitat",
   "animalSlug": "crocodile",
   "slug": "crocodile-core-habitat",
-  "fileName": "Nile Crocodiles, Mara River, Kenya (50149919253).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Nile_Crocodiles%2C_Mara_River%2C_Kenya_%2850149919253%29.jpg",
-  "width": 4188,
-  "height": 2686,
+  "fileName": "crocodile-core-habitat-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 770,
   "alt": "Nile crocodiles along the Mara River in Kenya",
   "caption": "River crossings used by migrating animals are famous crocodile hunting spots.",
   "attributionText": "Photo by Ray in Manila via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_Crocodiles%2C_Mara_River%2C_Kenya_(50149919253).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_Crocodiles,_Mara_River,_Kenya_(50149919253).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_Crocodiles%2C_Mara_River%2C_Kenya_(50149919253).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nile_Crocodiles,_Mara_River,_Kenya_(50149919253).jpg",
     "creatorName": "Ray in Manila",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:42.571Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Mara River, Kenya",
-  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set.",
-  "updatedAt": "2026-06-24T10:01:15.558Z"
+  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bc/Nile_Crocodiles%2C_Mara_River%2C_Kenya_%2850149919253%29.jpg",
+  "updatedAt": "2026-06-25T14:51:42.571Z",
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-core-habitat-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-core-habitat-01-1200.webp"
+  }
 }

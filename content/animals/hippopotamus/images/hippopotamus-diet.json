@@ -2,10 +2,10 @@
   "id": "hippopotamus-diet",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-diet",
-  "fileName": "Nocturnal Grazing Hippopotamus at Murchison Falls National Park.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg",
-  "width": 1837,
-  "height": 2406,
+  "fileName": "hippopotamus-diet-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1572,
   "alt": "Hippopotamus grazing on grass at night near water",
   "caption": "Hippos leave the water at night to graze on grasses and other plants.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Murchison Falls National Park, Uganda",
-  "acquisitionNotes": "Manually curated hippopotamus diet image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z",
+  "acquisitionNotes": "Manually curated hippopotamus diet image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/19/Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/19/Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg",
+  "updatedAt": "2026-06-26T19:13:03.262Z",
   "attributionText": "Photo by BMKME via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg\">BMKME</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg\">BMKME</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nocturnal_Grazing_Hippopotamus_at_Murchison_Falls_National_Park.jpg",
     "creatorName": "BMKME",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:03.262Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-diet-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-diet-01-1200.webp"
   }
 }

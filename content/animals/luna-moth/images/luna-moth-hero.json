@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-hero",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-hero",
+  "fileName": "luna-moth-hero-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1201,
+  "alt": "A beautiful portrait of a Luna Moth in the wild",
+  "caption": "The Luna Moth is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by David notMD via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Actias_luna-male.jpg\">David notMD</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actias_luna-male.jpg",
+    "creatorName": "David notMD",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:19.758Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Actias_luna-male.jpg",
+  "updatedAt": "2026-06-25T15:02:19.758Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-hero-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-hero-01-1200.webp"
+  }
+}

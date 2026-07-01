@@ -2,23 +2,23 @@
   "id": "elephant-family",
   "animalSlug": "african-elephant",
   "slug": "elephant-family",
-  "fileName": "079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
-  "width": 8640,
-  "height": 5760,
+  "fileName": "elephant-family-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Herd of African bush elephants drinking together at a waterhole",
   "caption": "Female-led herds travel together and help protect calves.",
   "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
     "creatorName": "Giles Laurent",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:38.123Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Etosha National Park, Namibia",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/079_Herd_of_African_bush_elephants_drinking_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T14:48:38.123Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-family-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-family-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-family-01-1200.webp"
+  }
 }

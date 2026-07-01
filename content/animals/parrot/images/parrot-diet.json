@@ -2,10 +2,10 @@
   "id": "parrot-diet",
   "animalSlug": "parrot",
   "slug": "parrot-diet",
-  "fileName": "Scarlet macaw (Ara macao cyanopterus) Copan.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg",
-  "width": 5435,
-  "height": 3623,
+  "fileName": "parrot-diet-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Scarlet macaw feeding while perched on a branch",
   "caption": "Macaws eat fruits, nuts, seeds, and flowers found in the forest.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Copán, Honduras",
-  "acquisitionNotes": "Manually curated macaw diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Manually curated macaw diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg",
+  "updatedAt": "2026-06-25T15:05:57.064Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:57.064Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-diet-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-diet-01-1200.webp"
   }
 }

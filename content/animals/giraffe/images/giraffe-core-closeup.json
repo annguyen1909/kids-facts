@@ -2,8 +2,8 @@
   "id": "giraffe-core-closeup",
   "animalSlug": "giraffe",
   "slug": "giraffe-core-closeup",
-  "fileName": "Giraffe-closeup-head.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Giraffe-closeup-head.jpg",
+  "fileName": "giraffe-core-closeup-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-core-closeup-01-1200.webp",
   "width": 788,
   "height": 1322,
   "alt": "Giraffe face showing ears eyes and patterned fur",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "South Africa",
-  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Giraffe-closeup-head.jpg",
+  "updatedAt": "2026-06-25T14:55:45.913Z",
   "attributionText": "Photo by Rob Hooft via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe-closeup-head.jpg\">Rob Hooft</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe-closeup-head.jpg\">Rob Hooft</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe-closeup-head.jpg",
     "creatorName": "Rob Hooft",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:45.913Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-core-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-core-closeup-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-core-closeup-01-1200.webp"
   }
 }

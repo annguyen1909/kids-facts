@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-core-baby",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-core-baby",
+  "fileName": "jaguar-core-baby-01-1200.webp",
+  "alt": "A mother jaguar gently holding her small cub by the neck",
+  "caption": "A mother jaguar carries her cub to safety in her mouth. Cubs stay with their mother for about two years to learn hunting.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Stone Zoo, USA",
+  "src": "/images/animals/jaguar/web/jaguar-core-baby-01-1200.webp",
+  "width": 661,
+  "height": 531,
+  "attributionText": "Photo by John Harrison at https://www.flickr.com/photos/15512543@N04/ via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguarpickingupcub08.jpg\">John Harrison at https://www.flickr.com/photos/15512543@N04/</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguarpickingupcub08.jpg",
+    "creatorName": "John Harrison at https://www.flickr.com/photos/15512543@N04/",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:32:09.913Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Jaguarpickingupcub08.jpg",
+  "updatedAt": "2026-06-26T08:32:09.913Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-core-baby-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-core-baby-01-1200.webp"
+  }
+}

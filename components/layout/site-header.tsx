@@ -1,36 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Search } from "lucide-react";
+import { SiteHeaderNav } from "@/components/layout/site-header-nav";
 import { siteConfig } from "@/lib/site-config";
-
-const quickLinks = [
-  { href: "/animals", label: "Animals", tone: "forest" },
-  { href: "/habitats", label: "Habitats", tone: "sky" },
-  { href: "/diets", label: "Diets", tone: "warm" },
-] as const;
-
-const navToneClass = {
-  forest:
-    "hover:border-[var(--forest)] hover:bg-[rgba(61,143,110,0.12)] hover:text-[var(--forest-deep)]",
-  sky: "hover:border-[var(--sky)] hover:bg-[rgba(122,168,196,0.16)] hover:text-[var(--sky-deep)]",
-  warm: "hover:border-[var(--warm)] hover:bg-[rgba(199,122,56,0.14)] hover:text-[var(--warm)]",
-} as const;
-
-function NavLink({
-  href,
-  label,
-  tone,
-}: {
-  href: string;
-  label: string;
-  tone: (typeof quickLinks)[number]["tone"];
-}) {
-  return (
-    <Link href={href} className={`site-header__nav-link ${navToneClass[tone]}`}>
-      {label}
-    </Link>
-  );
-}
 
 function SearchField({ id, className }: { id: string; className?: string }) {
   return (
@@ -55,7 +27,6 @@ function SearchField({ id, className }: { id: string; className?: string }) {
 export function SiteHeader() {
   return (
     <header className="site-header">
-      <div className="site-header__accent" aria-hidden />
       <div className="section-shell site-header__bar">
         <Link href="/" className="site-header__brand">
           <Image
@@ -73,9 +44,7 @@ export function SiteHeader() {
         </Link>
 
         <nav className="site-header__nav-desktop" aria-label="Main">
-          {quickLinks.map((link) => (
-            <NavLink key={link.href} {...link} />
-          ))}
+          <SiteHeaderNav variant="desktop" />
         </nav>
 
         <SearchField id="site-search" className="site-header__search-desktop" />
@@ -84,9 +53,7 @@ export function SiteHeader() {
 
       <nav className="site-header__nav-mobile" aria-label="Main">
         <div className="site-header__nav-mobile-track">
-          {quickLinks.map((link) => (
-            <NavLink key={link.href} {...link} />
-          ))}
+          <SiteHeaderNav variant="mobile" />
         </div>
       </nav>
     </header>

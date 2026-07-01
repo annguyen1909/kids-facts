@@ -2,8 +2,8 @@
   "id": "flamingo-family",
   "animalSlug": "flamingo",
   "slug": "flamingo-family",
-  "fileName": "Flamingo and offspring.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flamingo_and_offspring.jpg",
+  "fileName": "flamingo-family-01-1200.webp",
+  "src": "/images/animals/flamingo/web/flamingo-family-01-1200.webp",
   "width": 574,
   "height": 863,
   "alt": "Adult flamingo standing beside its chick",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Caribbean",
-  "acquisitionNotes": "Manually curated flamingo family image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "acquisitionNotes": "Manually curated flamingo family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Flamingo_and_offspring.jpg",
+  "updatedAt": "2026-06-25T14:53:22.765Z",
   "attributionText": "Photo by Steve from washington, dc, usa via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Flamingo_and_offspring.jpg\">Steve from washington, dc, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:22.765Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-family-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-family-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-family-01-1200.webp"
   }
 }

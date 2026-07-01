@@ -2,23 +2,23 @@
   "id": "giraffe-diet",
   "animalSlug": "giraffe",
   "slug": "giraffe-diet",
-  "fileName": "Giraffe feeding, Tanzania.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Giraffe_feeding%2C_Tanzania.jpg",
-  "width": 1600,
-  "height": 1066,
+  "fileName": "giraffe-diet-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Giraffe reaching into a tree to feed",
   "caption": "A giraffe uses its long tongue and lips to pull leaves around thorns.",
   "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe_feeding%2C_Tanzania.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe_feeding,_Tanzania.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe_feeding%2C_Tanzania.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe_feeding,_Tanzania.jpg",
     "creatorName": "Muhammad Mahdi Karim",
     "licenseName": "GFDL 1.2",
-    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:01.490Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tanzania",
-  "acquisitionNotes": "Manually curated giraffe diet image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.575Z"
+  "acquisitionNotes": "Manually curated giraffe diet image with verified species identification. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d2/Giraffe_feeding%2C_Tanzania.jpg",
+  "updatedAt": "2026-06-25T14:56:01.490Z",
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-diet-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-diet-01-1200.webp"
+  }
 }

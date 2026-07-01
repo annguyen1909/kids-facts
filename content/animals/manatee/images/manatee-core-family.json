@@ -1,0 +1,38 @@
+{
+  "id": "manatee-core-family",
+  "animalSlug": "manatee",
+  "slug": "manatee-core-family",
+  "fileName": "manatee-core-family-01-1200.webp",
+  "alt": "Close-up of a manatee face breaking the water surface",
+  "caption": "Stiff whiskers around a manatee's mouth help it feel food and muddy bottoms.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-core-family-01-1200.webp",
+  "width": 1000,
+  "height": 694,
+  "attributionText": "Photo by Fritz Geller-Grimm via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Trichechus_manatus_fg02.JPG\">Fritz Geller-Grimm</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trichechus_manatus_fg02.JPG",
+    "creatorName": "Fritz Geller-Grimm",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:26.663Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/de/Trichechus_manatus_fg02.JPG",
+  "updatedAt": "2026-06-26T08:16:26.663Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-core-family-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-core-family-01-1200.webp"
+  }
+}

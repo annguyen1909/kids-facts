@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-diet",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-diet",
+  "fileName": "shoebill-diet-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "alt": "Shoebill waiting motionless near shallow water for prey",
+  "caption": "They are patient predators that stand motionless before plunging at lungfish, frogs, and snakes.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Norway Zoo display",
+  "acquisitionNotes": "Manually curated shoebill diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/58/Balaeniceps_rex_%286337861664%29.jpg",
+  "updatedAt": "2026-06-29T07:22:02.612Z",
+  "attributionText": "Photo by Ruben Undheim from Trondheim, Norway via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(6337861664).jpg\">Ruben Undheim from Trondheim, Norway</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(6337861664).jpg",
+    "creatorName": "Ruben Undheim from Trondheim, Norway",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:02.612Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-diet-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-diet-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "chimpanzee-core-habitat",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-core-habitat",
-  "fileName": "Chimpanzee group in grass - DPLA - 0967cd1afee86eca2051d7f372f0c770.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Chimpanzee_group_in_grass_-_DPLA_-_0967cd1afee86eca2051d7f372f0c770.jpg",
-  "width": 3500,
-  "height": 2428,
+  "fileName": "chimpanzee-core-habitat-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 832,
   "alt": "Chimpanzees moving through grassy forest edge habitat",
   "caption": "Forests with fruiting trees and water sources support healthy chimpanzee communities.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/63/Chimpanzee_group_in_grass_-_DPLA_-_0967cd1afee86eca2051d7f372f0c770.jpg",
+  "updatedAt": "2026-06-25T14:50:43.595Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee_group_in_grass_-_DPLA_-_0967cd1afee86eca2051d7f372f0c770.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:43.595Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-core-habitat-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-core-habitat-01-1200.webp"
   }
 }

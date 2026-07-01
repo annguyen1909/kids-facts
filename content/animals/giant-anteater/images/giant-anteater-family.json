@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-family",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-family",
+  "fileName": "giant-anteater-family-01-1200.webp",
+  "alt": "Mother giant anteater carrying her pup on her back across open grass",
+  "caption": "Anteaters live alone, so the only family group is a mother and the single pup she carries.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-family-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "attributionText": "Photo by Marcelocalazansbrasil74 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1-bandeira_com_filhote_em_pastagem.jpg\">Marcelocalazansbrasil74</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1-bandeira_com_filhote_em_pastagem.jpg",
+    "creatorName": "Marcelocalazansbrasil74",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:38.606Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e3/Tamandu%C3%A1-bandeira_com_filhote_em_pastagem.jpg",
+  "updatedAt": "2026-06-28T10:16:38.606Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-family-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-family-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-family-01-1200.webp"
+  }
+}

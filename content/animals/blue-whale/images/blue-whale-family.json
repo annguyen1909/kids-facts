@@ -2,10 +2,10 @@
   "id": "blue-whale-family",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-family",
-  "fileName": "BlueWhaleWithCalfDiving.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/BlueWhaleWithCalfDiving.jpg",
-  "width": 2900,
-  "height": 1868,
+  "fileName": "blue-whale-family-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-family-01-1200.webp",
+  "width": 1200,
+  "height": 773,
   "alt": "Blue whale mother and calf diving together beneath the surface",
   "caption": "A mother blue whale stays close to her calf for months while it learns to swim and feed.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated blue whale family image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8c/BlueWhaleWithCalfDiving.jpg",
+  "updatedAt": "2026-06-25T14:49:13.940Z",
   "attributionText": "Photo by Andreas Tille via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:BlueWhaleWithCalfDiving.jpg\">Andreas Tille</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:13.940Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-family-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-family-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-family-01-1200.webp"
   }
 }

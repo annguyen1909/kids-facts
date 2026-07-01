@@ -1,0 +1,153 @@
+{
+  "id": "animal-whale-shark",
+  "slug": "whale-shark",
+  "name": "Whale Shark",
+  "commonNames": [
+    "Whale Shark",
+    "Whaleshark",
+    "Butanding"
+  ],
+  "scientificName": "Rhincodon typus",
+  "summary": "Whale sharks are enormous spotted sharks that cruise warm oceans and feed by filtering tiny prey from the water. They are gentle giants and the largest fish alive today.",
+  "heroTitle": "Whale Shark Facts",
+  "metaTitle": "Whale Shark Facts | Size, Diet & Ocean Photos",
+  "metaDescription": "Discover whale shark facts with photos, giant size, warm ocean habitat, filter-feeding diet, pups, and conservation.",
+  "searchIntents": [
+    "whale shark facts",
+    "what do whale sharks eat",
+    "where do whale sharks live",
+    "how big is a whale shark",
+    "are whale sharks dangerous",
+    "are whale sharks endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Rhincodontidae",
+    "genus": "Rhincodon",
+    "species": "R. typus"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "Mexico",
+    "Philippines",
+    "Australia",
+    "Maldives",
+    "Indonesia",
+    "Tanzania"
+  ],
+  "biomes": [
+    "marine",
+    "open-ocean",
+    "coast"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "plankton",
+    "krill",
+    "fish eggs",
+    "small fish",
+    "shrimp"
+  ],
+  "lifespan": {
+    "wild": "70 to 100 years"
+  },
+  "size": {
+    "lengthMin": "18 feet",
+    "lengthMax": "40 feet"
+  },
+  "weight": {
+    "min": "15,000 pounds",
+    "max": "40,000 pounds"
+  },
+  "speed": "About 3 mph on long ocean cruises",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "slow ocean cruising",
+    "filter feeding",
+    "surface feeding",
+    "seasonal aggregation",
+    "deep diving"
+  ],
+  "adaptations": [
+    "very wide mouth",
+    "gill filters for trapping food",
+    "thick spotted skin",
+    "powerful tail",
+    "long-distance navigation"
+  ],
+  "predators": [
+    "orcas",
+    "large sharks",
+    "humans"
+  ],
+  "prey": [
+    "plankton",
+    "fish eggs",
+    "small fish",
+    "krill"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "Probably more than 12 months",
+    "offspringCount": "Many pups may develop in one mother"
+  },
+  "funFacts": [
+    "The whale shark is the largest fish species on Earth.",
+    "Each whale shark has a unique pattern of white spots, like a fingerprint.",
+    "Despite their size, whale sharks eat tiny prey such as plankton and fish eggs.",
+    "They can dive very deep even though they are often seen near the surface.",
+    "Whale sharks are sharks, not whales, because they breathe with gills.",
+    "Young whale sharks are still mysterious because scientists rarely see where they grow up."
+  ],
+  "faq": [
+    {
+      "question": "What is a whale shark?",
+      "answer": "A whale shark is a giant shark and the biggest fish alive today. It has a broad mouth and pale spots on dark skin."
+    },
+    {
+      "question": "Where do whale sharks live?",
+      "answer": "Whale sharks live in warm tropical and subtropical oceans around the world."
+    },
+    {
+      "question": "What do whale sharks eat?",
+      "answer": "They eat plankton, fish eggs, shrimp, and other tiny prey by filtering seawater through their gills."
+    },
+    {
+      "question": "Are whale sharks dangerous to humans?",
+      "answer": "No. Whale sharks are gentle filter feeders and are not known for attacking people."
+    },
+    {
+      "question": "How big is a whale shark?",
+      "answer": "Large adults can grow far longer than a car and weigh many tons."
+    },
+    {
+      "question": "Are whale sharks endangered?",
+      "answer": "Yes. Whale sharks are listed as Endangered because of fishing, bycatch, ship strikes, and ocean pollution."
+    }
+  ],
+  "relatedAnimals": [
+    "manta-ray",
+    "great-white-shark",
+    "hammerhead-shark"
+  ],
+  "comparisonCandidates": [
+    "manta-ray"
+  ],
+  "galleryIds": [
+    "whale-shark-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "ocean"
+}

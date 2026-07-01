@@ -2,10 +2,10 @@
   "id": "rhinoceros-fun-fact",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-fun-fact",
-  "fileName": "White Rhinoceros Protect 2019-07-27.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/White_Rhinoceros_Protect_2019-07-27.jpg",
-  "width": 3812,
-  "height": 2541,
+  "fileName": "rhinoceros-fun-fact-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "White rhinoceros standing alert in open habitat",
   "caption": "Despite their size, white rhinos can run faster than 30 mph in short bursts.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Manually curated rhinoceros fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Manually curated rhinoceros fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/White_Rhinoceros_Protect_2019-07-27.jpg",
+  "updatedAt": "2026-06-25T15:09:51.908Z",
   "attributionText": "Photo by Axel Tschentscher via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_Protect_2019-07-27.jpg\">Axel Tschentscher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:51.908Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-fun-fact-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-fun-fact-01-1200.webp"
   }
 }

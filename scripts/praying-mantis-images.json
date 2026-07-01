@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Mante religieuse FR 2012.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "A close-up of a green praying mantis perched on a branch",
+    "caption": "Praying mantises are named for their unique front legs, which they fold as if praying.",
+    "location": "France"
+  },
+  "habitat": {
+    "fileTitle": "File:Krems ad Donau Rehberg Europaschutzgebiet Kamp-und Kremstal Mantis-5549.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "Praying mantis blending in with dry grasses in its natural grassland habitat",
+    "caption": "They live in warm grasslands, meadows, and gardens where they can easily blend in.",
+    "location": "Krems ad Donau, Austria"
+  },
+  "diet": {
+    "fileTitle": "File:European mantis (Mantis religiosa) eating a cicada 02.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "A praying mantis holding and eating a large cicada in its grasp",
+    "caption": "As carnivores, mantises eat other insects and are excellent garden helpers by controlling pests.",
+    "location": "Germany"
+  },
+  "baby": {
+    "fileTitle": "File:Praying mantis (Mantis religiosa) ootheca Cap Bon.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "A protective frothy brown praying mantis ootheca attached to a twigs",
+    "caption": "Baby mantises hatch from a hard, protective egg case called an ootheca.",
+    "location": "Cap Bon, Tunisia"
+  },
+  "family": {
+    "fileTitle": "File:Mantis religiosa (Mantidae) (Praying Mantis) - (nymph), Otok Krk, Croatia.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "A tiny green praying mantis nymph resting on a stem",
+    "caption": "Young mantises, or nymphs, look just like adults but are much smaller and lack wings.",
+    "location": "Krk, Croatia"
+  },
+  "range": {
+    "fileTitle": "File:Mantis religiosa in Aveyron 01.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "A brown praying mantis crawling upward on a thin twig",
+    "caption": "Praying mantises can be found on several continents, including Europe, Asia, Africa, and North America.",
+    "location": "Aveyron, France"
+  },
+  "size": {
+    "fileTitle": "File:Europäische Gottesanbeterin Mantis religiosa 2.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "A green praying mantis showing its body length on a vertical flower bud",
+    "caption": "Adult European mantises grow to about 2 to 3 inches (5 to 8 cm) in length.",
+    "location": "Germany"
+  },
+  "closeup": {
+    "fileTitle": "File:Mantis religiosa, immature female, Sète 03.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a praying mantis's face showing large compound eyes and antennae",
+    "caption": "A mantis has large eyes and a flexible neck that allows it to turn its head 180 degrees.",
+    "location": "Sète, France"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Praying mantis camouflaging.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "Praying mantis camouflaged among green leaves and stems",
+    "caption": "Mantises use camouflage to hide from birds and frogs, as well as to sneak up on prey.",
+    "location": "Kerala, India"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Europäische Gottesanbeterin.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "A green praying mantis standing alert on a leaf in a garden",
+    "caption": "Meadows and home gardens provide a perfect habitat for hunting prey.",
+    "location": "Germany"
+  },
+  "core-diet": {
+    "fileTitle": "File:Europäische Gottesanbeterin (Mantis religiosa) 01.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "A praying mantis waiting patiently on a twig to strike",
+    "caption": "They are ambush predators, standing motionless until prey comes close.",
+    "location": "Germany"
+  },
+  "core-family": {
+    "fileTitle": "File:Mantis religiosa, immature female, Sète 04.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "A praying mantis turning its head to look directly at the camera",
+    "caption": "European mantises are solitary animals and defend their hunting territory.",
+    "location": "Sète, France"
+  },
+  "core-baby": {
+    "fileTitle": "File:Mantide religiosa 1.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "A tiny newly hatched mantis nymph climbing a green plant stem",
+    "caption": "Hundreds of tiny nymphs hatch from a single ootheca in spring.",
+    "location": "Italy"
+  },
+  "core-range": {
+    "fileTitle": "File:European mantis.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "A brown praying mantis climbing green foliage",
+    "caption": "They have successfully adapted to many climates worldwide.",
+    "location": "Ukraine"
+  }
+}

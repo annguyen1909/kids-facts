@@ -1,0 +1,173 @@
+{
+  "id": "animal-axolotl",
+  "slug": "axolotl",
+  "name": "Axolotl",
+  "commonNames": [
+    "Mexican walking fish",
+    "Mexican salamander",
+    "water monster"
+  ],
+  "scientificName": "Ambystoma mexicanum",
+  "summary": "The axolotl is a remarkable Mexican salamander that retains its larval features—including external gills—throughout its entire life. It can regenerate lost limbs, heart tissue, and even parts of its brain. In the wild it exists only in the canals of Lake Xochimilco near Mexico City, where it is critically endangered.",
+  "heroTitle": "Axolotl Facts",
+  "metaTitle": "Axolotl Facts | Regeneration, Habitat, Diet & Photos",
+  "metaDescription": "Discover axolotl facts with photos, regeneration science, Lake Xochimilco habitat, diet, and conservation. Learn what makes this Mexican salamander so extraordinary.",
+  "searchIntents": [
+    "axolotl facts",
+    "can axolotls regenerate limbs",
+    "where do axolotls live",
+    "what do axolotls eat",
+    "axolotl endangered",
+    "what is an axolotl"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "Urodela",
+    "family": "Ambystomatidae",
+    "genus": "Ambystoma",
+    "species": "A. mexicanum"
+  },
+  "classificationLabels": [
+    "amphibian",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "biomes": [
+    "freshwater lake",
+    "canal"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "worms",
+    "insect larvae",
+    "small fish",
+    "crustaceans",
+    "mollusks"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years",
+    "captivity": "Up to 15 years"
+  },
+  "size": {
+    "lengthMin": "6 inches",
+    "lengthMax": "18 inches",
+    "heightMin": "N/A",
+    "heightMax": "N/A"
+  },
+  "weight": {
+    "min": "2.1 ounces",
+    "max": "10.6 ounces"
+  },
+  "speed": "Slow swimmer, relies on ambush",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "neoteny",
+    "nocturnal feeding",
+    "bottom dwelling",
+    "limb regeneration",
+    "suction feeding"
+  ],
+  "adaptations": [
+    "external feathery gills",
+    "neoteny (permanent larval state)",
+    "regenerative ability",
+    "lateral line system",
+    "permeable skin"
+  ],
+  "predators": [
+    "herons",
+    "large fish",
+    "humans"
+  ],
+  "prey": [
+    "worms",
+    "insect larvae",
+    "small fish",
+    "crustaceans"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "10 to 14 days (egg incubation)",
+    "offspringCount": "100 to 1,000 eggs per clutch"
+  },
+  "funFacts": [
+    "Axolotls can fully regenerate a lost limb—complete with bone, muscle, and nerves—within weeks.",
+    "Unlike most amphibians, axolotls never metamorphose; they keep their external gills and aquatic lifestyle for their entire lives.",
+    "Axolotls can also regenerate heart tissue and portions of their brain, making them invaluable to medical research.",
+    "The name 'axolotl' comes from Nahuatl, the Aztec language, and roughly means 'water monster' or 'water servant of Xolotl,' the dog-headed Aztec god.",
+    "Wild axolotls are found only in the canal system of Lake Xochimilco within Mexico City—one of the most restricted ranges of any vertebrate.",
+    "Axolotls can be leucistic (pale pink with dark eyes), melanoid (all black), or wild-type (dark with golden speckles), and many color variants exist in captivity."
+  ],
+  "faq": [
+    {
+      "question": "What is an axolotl?",
+      "answer": "An axolotl is a type of salamander native to Mexico. Unlike most amphibians, it keeps its larval features—including external gills—for its entire life instead of undergoing metamorphosis."
+    },
+    {
+      "question": "Can axolotls really regenerate limbs?",
+      "answer": "Yes. Axolotls can regrow a fully functional limb, including bones, muscles, blood vessels, and nerves, within weeks. They can also regenerate heart tissue and parts of their brain."
+    },
+    {
+      "question": "Where do axolotls live in the wild?",
+      "answer": "Wild axolotls are found only in the canals and remnant lake areas of Lake Xochimilco in Mexico City. This tiny habitat makes them one of the world's rarest vertebrates."
+    },
+    {
+      "question": "What do axolotls eat?",
+      "answer": "Axolotls are carnivores. They eat worms, insect larvae, small fish, crustaceans, and mollusks. They hunt using suction, rapidly opening their mouths to draw prey in."
+    },
+    {
+      "question": "Are axolotls fish?",
+      "answer": "No. Axolotls are amphibians—closely related to salamanders and newts—not fish. They are sometimes called 'Mexican walking fish' because of their legs, but they are not fish."
+    },
+    {
+      "question": "Why don't axolotls transform into land animals?",
+      "answer": "Axolotls exhibit neoteny—they become sexually mature while retaining larval characteristics. They produce hormones that suppress metamorphosis, keeping them aquatic their whole lives."
+    },
+    {
+      "question": "Are axolotls endangered?",
+      "answer": "Yes. Axolotls are Critically Endangered in the wild. Pollution, habitat loss, invasive fish species, and water drainage from Lake Xochimilco have pushed wild populations to very low numbers."
+    },
+    {
+      "question": "How big do axolotls get?",
+      "answer": "Most axolotls reach 6 to 12 inches (15–30 cm), though some grow up to 18 inches (45 cm). Wild individuals tend to be slightly smaller than those kept in captivity."
+    },
+    {
+      "question": "Can axolotls be kept as pets?",
+      "answer": "Yes. Axolotls are popular in captivity and are bred in large numbers. Captive populations are genetically distinct from the wild ones, which are still critically endangered."
+    },
+    {
+      "question": "How long do axolotls live?",
+      "answer": "Axolotls typically live 10 to 15 years both in the wild and in captivity. Good water quality and diet are key to a long, healthy life."
+    },
+    {
+      "question": "What is neoteny?",
+      "answer": "Neoteny is the retention of juvenile or larval features into adulthood. Axolotls are a classic example—they keep their external gills and aquatic lifestyle even when fully grown and sexually mature."
+    },
+    {
+      "question": "Why is the axolotl important to science?",
+      "answer": "Axolotls' extraordinary regeneration ability makes them one of the most studied animals in biology. Scientists study them to learn how tissues and organs might one day be regenerated in humans."
+    }
+  ],
+  "relatedAnimals": [
+    "chameleon",
+    "frilled-lizard"
+  ],
+  "comparisonCandidates": [
+    "chameleon"
+  ],
+  "galleryIds": [
+    "axolotl-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "wetland"
+}

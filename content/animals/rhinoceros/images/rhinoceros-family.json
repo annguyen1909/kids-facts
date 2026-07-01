@@ -2,10 +2,10 @@
   "id": "rhinoceros-family",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-family",
-  "fileName": "White rhinoceros (Ceratotherium simum) with calf Kruger.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/White_rhinoceros_%28Ceratotherium_simum%29_with_calf_Kruger.jpg",
-  "width": 4920,
-  "height": 3280,
+  "fileName": "rhinoceros-family-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "White rhinoceros mother with calf in savanna",
   "caption": "Calves follow mothers across open grassland while learning where to graze.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Manually curated rhinoceros family image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Manually curated rhinoceros family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e5/White_rhinoceros_%28Ceratotherium_simum%29_with_calf_Kruger.jpg",
+  "updatedAt": "2026-06-25T15:09:56.406Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_with_calf_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:56.406Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-family-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-family-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-family-01-1200.webp"
   }
 }

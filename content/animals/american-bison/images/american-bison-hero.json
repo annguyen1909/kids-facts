@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-hero",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-hero",
+  "fileName": "american-bison-hero-01-1200.webp",
+  "alt": "American bison standing in open grassland under a wide sky",
+  "caption": "American bison are huge, shaggy grazers with a humped shoulder and short, curved horns.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "United States",
+  "src": "/images/animals/american-bison/web/american-bison-hero-01-1200.webp",
+  "width": 1200,
+  "height": 783,
+  "attributionText": "Photo by Jack Dykinga via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg\">Jack Dykinga</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg",
+    "creatorName": "Jack Dykinga",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:16.785Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg",
+  "updatedAt": "2026-06-28T09:54:16.785Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-hero-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-hero-01-1200.webp"
+  }
+}

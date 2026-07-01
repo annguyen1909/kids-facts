@@ -1,0 +1,38 @@
+{
+  "id": "iguana-diet",
+  "animalSlug": "iguana",
+  "slug": "iguana-diet",
+  "fileName": "iguana-diet-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-diet-01-1200.webp",
+  "width": 1200,
+  "height": 855,
+  "alt": "A Green Iguana finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Green Iguana.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Wilfredor via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_in_the_Maracaibo_wild.jpg\">Wilfredor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_in_the_Maracaibo_wild.jpg",
+    "creatorName": "Wilfredor",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:37.446Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2b/Iguana_in_the_Maracaibo_wild.jpg",
+  "updatedAt": "2026-06-25T14:58:37.446Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-diet-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-diet-01-1200.webp"
+  }
+}

@@ -2,23 +2,23 @@
   "id": "giant-panda-core-family",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-core-family",
-  "fileName": "1280px-Ailuropoda_melanoleuca_%28Panda_g%C3%A9ant%29_-_445.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Juvenile_Giant_Panda.jpg",
-  "width": 1024,
-  "height": 768,
-  "alt": "Juvenile giant panda resting beside an adult in bamboo forest",
+  "fileName": "giant-panda-core-family-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Juvenile giant panda with mother in bamboo forest",
   "caption": "A mother panda cares for her cub alone, teaching it to climb and eat bamboo.",
-  "attributionText": "Photo by Sheba_Also via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Juvenile_Giant_Panda.jpg\">Sheba_Also</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "attributionText": "Photo by Alpha from Melbourne, Australia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tourists_at_Year_Old_Panda_Cub_Enclosure_-_Panda_Research_Centre,_Chengdu_(1483867220).jpg\">Alpha from Melbourne, Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Juvenile_Giant_Panda.jpg",
-    "creatorName": "Sheba_Also",
-    "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tourists_at_Year_Old_Panda_Cub_Enclosure_-_Panda_Research_Centre,_Chengdu_(1483867220).jpg",
+    "creatorName": "Alpha from Melbourne, Australia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:11.775Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -27,7 +27,12 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Sichuan, China",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "location": "Chengdu, China",
+  "acquisitionNotes": "Core article family image — verified Commons file. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d8/Tourists_at_Year_Old_Panda_Cub_Enclosure_-_Panda_Research_Centre%2C_Chengdu_%281483867220%29.jpg",
+  "updatedAt": "2026-06-25T14:55:11.775Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-core-family-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-core-family-01-1200.webp"
+  }
 }

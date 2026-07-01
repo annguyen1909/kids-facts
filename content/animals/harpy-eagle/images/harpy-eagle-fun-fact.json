@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-fun-fact",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-fun-fact",
+  "fileName": "harpy-eagle-fun-fact-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 891,
+  "alt": "Harpy eagle with its crown feathers flared in an alert, formidable display",
+  "caption": "When alert or listening for prey, the harpy eagle flares its distinct double crest to create a spectacular acoustic facial disc.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Darien Gap, Panama",
+  "acquisitionNotes": "Curated fun-fact image showing double crest flare in the wild. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/19/Harpia_harpyja_-_Harpy_Eagle._-_Flickr_-_gailhampshire_%281%29.jpg",
+  "updatedAt": "2026-06-29T11:55:31.989Z",
+  "attributionText": "Photo by gailhampshire from Cradley, Malvern, U.K via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-_Harpy_Eagle._-_Flickr_-_gailhampshire_(1).jpg\">gailhampshire from Cradley, Malvern, U.K</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-_Harpy_Eagle._-_Flickr_-_gailhampshire_(1).jpg",
+    "creatorName": "gailhampshire from Cradley, Malvern, U.K",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:31.989Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-fun-fact-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-fun-fact-01-1200.webp"
+  }
+}

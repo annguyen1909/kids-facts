@@ -2,10 +2,10 @@
   "id": "grizzly-bear-fun-fact",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-fun-fact",
-  "fileName": "Grizzly bear tracks. Katmai National Park, Alaska (27990776112).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Grizzly_bear_tracks._Katmai_National_Park%2C_Alaska_%2827990776112%29.jpg",
-  "width": 4865,
-  "height": 3243,
+  "fileName": "grizzly-bear-fun-fact-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Grizzly bear tracks in mud at Katmai National Park",
   "caption": "Grizzly bears can run faster than 30 mph in short bursts despite their size.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Katmai National Park, Alaska, USA",
-  "acquisitionNotes": "Manually curated grizzly bear fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Manually curated grizzly bear fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/77/Grizzly_bear_tracks._Katmai_National_Park%2C_Alaska_%2827990776112%29.jpg",
+  "updatedAt": "2026-06-25T14:57:03.776Z",
   "attributionText": "Photo by Paxson Woelber via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_tracks._Katmai_National_Park%2C_Alaska_(27990776112).jpg\">Paxson Woelber</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_tracks._Katmai_National_Park,_Alaska_(27990776112).jpg\">Paxson Woelber</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_tracks._Katmai_National_Park%2C_Alaska_(27990776112).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_tracks._Katmai_National_Park,_Alaska_(27990776112).jpg",
     "creatorName": "Paxson Woelber",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:57:03.776Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-fun-fact-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-fun-fact-01-1200.webp"
   }
 }

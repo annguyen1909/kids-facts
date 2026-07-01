@@ -2,10 +2,10 @@
   "id": "hippopotamus-family",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-family",
-  "fileName": "Hipopótamo (Hippopotamus amphibius), parque nacional de Chobe, Botsuana, 2018-07-28, DD 82.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg",
-  "width": 8688,
-  "height": 5291,
+  "fileName": "hippopotamus-family-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-family-01-1200.webp",
+  "width": 1200,
+  "height": 730,
   "alt": "Hippopotamus family group in shallow river water",
   "caption": "Hippos gather in groups called pods, often with mothers and young together.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Chobe National Park, Botswana",
-  "acquisitionNotes": "Manually curated hippopotamus family image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z",
+  "acquisitionNotes": "Manually curated hippopotamus family image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg",
+  "updatedAt": "2026-06-26T19:13:04.690Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_82.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamo_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_82.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:04.690Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-family-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-family-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-family-01-1200.webp"
   }
 }

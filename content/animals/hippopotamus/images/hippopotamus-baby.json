@@ -2,23 +2,23 @@
   "id": "hippopotamus-baby",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-baby",
-  "fileName": "Mother hippo with her baby.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Mother_hippo_with_her_baby.jpg",
-  "width": 1600,
-  "height": 1200,
+  "fileName": "hippopotamus-baby-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Mother hippopotamus with a small calf beside her",
   "caption": "A baby hippo is called a calf and stays close to its mother for protection.",
   "attributionText": "Photo by No machine-readable author provided. Nash dvd assumed (based on copyright claims). via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mother_hippo_with_her_baby.jpg\">No machine-readable author provided. Nash dvd assumed (based on copyright claims).</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Mother_hippo_with_her_baby.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mother_hippo_with_her_baby.jpg\">No machine-readable author provided. Nash dvd assumed (based on copyright claims).</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mother_hippo_with_her_baby.jpg",
     "creatorName": "No machine-readable author provided. Nash dvd assumed (based on copyright claims).",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mother_hippo_with_her_baby.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:12:04.987Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "African river",
-  "acquisitionNotes": "Manually curated hippopotamus calf image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "acquisitionNotes": "Manually curated hippopotamus calf image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/df/Mother_hippo_with_her_baby.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/df/Mother_hippo_with_her_baby.jpg",
+  "updatedAt": "2026-06-26T19:12:04.987Z",
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-baby-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-baby-01-1200.webp"
+  }
 }

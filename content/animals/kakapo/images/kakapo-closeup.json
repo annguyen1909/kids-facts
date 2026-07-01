@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-closeup",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-closeup",
+  "fileName": "kakapo-closeup-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Stunning close-up of a juvenile kakapo's facial disc, delicate whiskers, and rounded beak",
+  "caption": "They possess a specialized owl-like facial disc and highly sensitive rictal bristles to navigate the dark forest floor.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anchor Island, Dusky Sound, New Zealand",
+  "acquisitionNotes": "Exquisite crisp close-up of sensory facial vibrissae and beak structure. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/K%C4%81k%C4%81p%C5%8D_head.jpg",
+  "updatedAt": "2026-06-29T11:55:47.124Z",
+  "attributionText": "Photo by Kimberley Collins via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:K%C4%81k%C4%81p%C5%8D_head.jpg\">Kimberley Collins</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C4%81k%C4%81p%C5%8D_head.jpg",
+    "creatorName": "Kimberley Collins",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:47.124Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-closeup-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-closeup-01-1200.webp"
+  }
+}

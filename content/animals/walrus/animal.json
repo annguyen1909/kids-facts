@@ -1,0 +1,158 @@
+{
+  "id": "animal-walrus",
+  "slug": "walrus",
+  "name": "Walrus",
+  "commonNames": [
+    "Walrus",
+    "Atlantic Walrus",
+    "Pacific Walrus"
+  ],
+  "scientificName": "Odobenus rosmarus",
+  "summary": "The walrus is a giant Arctic sea mammal with long ivory tusks, a thick mustache of whiskers, and a heavy, blubbery body. Walruses dive for clams on the seafloor and gather in huge, noisy herds on ice and beaches.",
+  "heroTitle": "Walrus Facts",
+  "metaTitle": "Walrus Facts | Habitat, Diet, Tusks & Photos",
+  "metaDescription": "Discover walrus facts with photos, Arctic habitat, clam diet, calves, and herd life. Learn what walrus tusks and whiskers are for and why walruses gather in huge groups.",
+  "searchIntents": [
+    "walrus facts",
+    "what do walruses eat",
+    "where do walruses live",
+    "what are walrus tusks for",
+    "how big is a walrus",
+    "are walruses endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Odobenidae",
+    "genus": "Odobenus",
+    "species": "O. rosmarus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Russia",
+    "Norway",
+    "Greenland"
+  ],
+  "biomes": [
+    "Arctic ocean",
+    "sea ice",
+    "coastal beach",
+    "shallow sea"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "clams",
+    "mussels",
+    "sea snails",
+    "worms",
+    "shrimp"
+  ],
+  "lifespan": {
+    "wild": "About 30 to 40 years",
+    "captivity": "Around 30 years"
+  },
+  "size": {
+    "lengthMin": "7.25 feet",
+    "lengthMax": "11.5 feet",
+    "heightMin": "Tusks can grow about 3 feet long",
+    "heightMax": "Tusks can grow about 3 feet long"
+  },
+  "weight": {
+    "min": "880 pounds",
+    "max": "3700 pounds"
+  },
+  "speed": "Up to 22 mph in water",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "diving for shellfish",
+    "hauling out in herds",
+    "using whiskers to find food",
+    "tooth-walking on ice",
+    "loud vocalizing"
+  ],
+  "adaptations": [
+    "thick blubber",
+    "long tusks",
+    "sensitive whiskers",
+    "air pouches for floating",
+    "skin that changes color with warmth"
+  ],
+  "predators": [
+    "polar bears",
+    "orcas",
+    "humans"
+  ],
+  "prey": [
+    "clams",
+    "mussels",
+    "sea snails"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 15 to 16 months",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "A walrus's tusks are giant teeth that keep growing and can reach about three feet long.",
+    "The name walrus comes from words meaning 'tooth-walker,' because it uses its tusks to haul out onto ice.",
+    "Walruses have hundreds of stiff whiskers that feel around the dark seafloor for clams.",
+    "A hungry walrus can slurp up thousands of clams in a single meal using strong suction.",
+    "A walrus's skin can look pale when it is cold and turn pinkish when it warms up in the sun.",
+    "Walruses are very social and pile together by the thousands on ice and beaches."
+  ],
+  "faq": [
+    {
+      "question": "What is a walrus?",
+      "answer": "A walrus is a large Arctic sea mammal with long tusks, bristly whiskers, and a thick, blubbery body. It belongs to the same group of flippered mammals as seals and sea lions."
+    },
+    {
+      "question": "Where do walruses live?",
+      "answer": "Walruses live in the cold Arctic seas around Alaska, Canada, Russia, Greenland, and Norway. They rest on floating sea ice and on rocky coastal beaches."
+    },
+    {
+      "question": "What do walruses eat?",
+      "answer": "Walruses mostly eat shellfish from the seafloor, especially clams. They use their whiskers to find food in the dark and strong suction to slurp the soft animal out of its shell."
+    },
+    {
+      "question": "What are walrus tusks for?",
+      "answer": "Both male and female walruses have tusks. They use them to haul their bodies onto the ice, to show off to rivals, and to keep breathing holes open in the sea ice."
+    },
+    {
+      "question": "How big is a walrus?",
+      "answer": "Walruses are huge. Big males can weigh over a ton and a half, more than a small car, while females are about half that size."
+    },
+    {
+      "question": "Are walruses endangered?",
+      "answer": "Walruses are listed as Vulnerable. Their biggest worry is climate change, because melting sea ice takes away the resting places they need near their feeding grounds."
+    }
+  ],
+  "relatedAnimals": [
+    "polar-bear",
+    "narwhal",
+    "orca",
+    "otter"
+  ],
+  "comparisonCandidates": [
+    "narwhal"
+  ],
+  "galleryIds": [
+    "walrus-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "polar"
+}

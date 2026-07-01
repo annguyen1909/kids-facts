@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-baby",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-baby",
+  "fileName": "giant-anteater-baby-01-1200.webp",
+  "alt": "Baby giant anteater riding on its mother's back in grassland",
+  "caption": "A baby anteater, called a pup, rides on its mother's back for many months after it is born.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "South America",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-baby-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "attributionText": "Photo by djcooker via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla_345917023.jpg\">djcooker</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla_345917023.jpg",
+    "creatorName": "djcooker",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:36.167Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Myrmecophaga_tridactyla_345917023.jpg",
+  "updatedAt": "2026-06-28T10:16:36.167Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-baby-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-baby-01-1200.webp"
+  }
+}

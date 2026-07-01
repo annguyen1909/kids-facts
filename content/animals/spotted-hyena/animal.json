@@ -1,0 +1,159 @@
+{
+  "id": "animal-spotted-hyena",
+  "slug": "spotted-hyena",
+  "name": "Spotted Hyena",
+  "commonNames": [
+    "Spotted Hyena",
+    "Laughing Hyena"
+  ],
+  "scientificName": "Crocuta crocuta",
+  "summary": "The spotted hyena is a powerful African carnivore famous for its giggling calls and bone-crushing jaws. It lives in large female-led family groups called clans and is both a skilled hunter and a clever scavenger.",
+  "heroTitle": "Spotted Hyena Facts",
+  "metaTitle": "Spotted Hyena Facts | Habitat, Diet, Clans & Photos",
+  "metaDescription": "Discover spotted hyena facts with photos, African habitat, hunting and scavenging diet, cub life, and clan behavior. Learn why hyenas 'laugh' and how their clans work.",
+  "searchIntents": [
+    "spotted hyena facts",
+    "what do hyenas eat",
+    "where do spotted hyenas live",
+    "why do hyenas laugh",
+    "how big is a spotted hyena",
+    "are spotted hyenas dogs"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Hyaenidae",
+    "genus": "Crocuta",
+    "species": "C. crocuta"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Botswana",
+    "South Africa",
+    "Zambia",
+    "Ethiopia",
+    "Uganda"
+  ],
+  "biomes": [
+    "savanna",
+    "grassland",
+    "woodland",
+    "semi-desert"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "wildebeest",
+    "zebra",
+    "gazelle",
+    "antelope",
+    "carrion",
+    "birds"
+  ],
+  "lifespan": {
+    "wild": "Around 12 years",
+    "captivity": "Up to 25 years in zoos"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "5.5 feet",
+    "heightMin": "2.3 feet",
+    "heightMax": "3 feet"
+  },
+  "weight": {
+    "min": "90 pounds",
+    "max": "190 pounds"
+  },
+  "speed": "Up to 37 mph in short bursts",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "living in clans",
+    "cooperative hunting",
+    "scavenging",
+    "vocal communication",
+    "scent marking"
+  ],
+  "adaptations": [
+    "bone-crushing jaws",
+    "strong digestion",
+    "keen senses",
+    "stamina for long chases",
+    "spotted camouflage"
+  ],
+  "predators": [
+    "lions",
+    "humans"
+  ],
+  "prey": [
+    "wildebeest",
+    "zebra",
+    "gazelle",
+    "antelope"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 110 days",
+    "offspringCount": "Usually 1 to 3 cubs"
+  },
+  "funFacts": [
+    "A spotted hyena's giggling 'laugh' is really a sound that shares excitement or stress, not happiness.",
+    "Hyena clans can have up to 80 members and are always led by a top female.",
+    "Their jaws are strong enough to crack open large bones that other predators cannot eat.",
+    "Spotted hyenas are excellent hunters and catch much of their own food instead of only scavenging.",
+    "Cubs are born with their eyes open and already have some teeth.",
+    "Hyenas are more closely related to cats and mongooses than to dogs."
+  ],
+  "faq": [
+    {
+      "question": "What is a spotted hyena?",
+      "answer": "A spotted hyena is a large African carnivore with sandy, spotted fur and powerful jaws. It lives in family groups called clans and both hunts and scavenges for food."
+    },
+    {
+      "question": "Where do spotted hyenas live?",
+      "answer": "Spotted hyenas live across sub-Saharan Africa in savannas, grasslands, woodlands, and semi-deserts, from Kenya and Tanzania to southern Africa."
+    },
+    {
+      "question": "What do spotted hyenas eat?",
+      "answer": "Spotted hyenas are carnivores. They hunt animals such as wildebeest, zebra, and gazelle, and they also scavenge meat and bones left behind by other predators."
+    },
+    {
+      "question": "Why do hyenas laugh?",
+      "answer": "The 'laugh' is a giggling call hyenas make when they are excited or nervous, often around food. It helps clan members send messages to each other."
+    },
+    {
+      "question": "Are spotted hyenas dogs?",
+      "answer": "No. Even though they look a little like dogs, hyenas belong to their own family, Hyaenidae, and are more closely related to cats and mongooses."
+    },
+    {
+      "question": "Are spotted hyenas endangered?",
+      "answer": "Spotted hyenas are listed as Least Concern, but their numbers are slowly dropping in some areas because of habitat loss and conflict with people."
+    }
+  ],
+  "relatedAnimals": [
+    "lion",
+    "cheetah",
+    "leopard",
+    "wildebeest"
+  ],
+  "comparisonCandidates": [
+    "lion"
+  ],
+  "galleryIds": [
+    "spotted-hyena-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "savanna"
+}

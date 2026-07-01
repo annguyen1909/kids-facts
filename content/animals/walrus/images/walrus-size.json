@@ -1,0 +1,38 @@
+{
+  "id": "walrus-size",
+  "animalSlug": "walrus",
+  "slug": "walrus-size",
+  "fileName": "walrus-size-01-1200.webp",
+  "alt": "Full body view of a massive male walrus on a beach",
+  "caption": "Big male walruses can weigh over a ton, as much as a small car.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Alaska, USA",
+  "src": "/images/animals/walrus/web/walrus-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pacific_Walrus_-_Bull_(8247646168).jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacific_Walrus_-_Bull_(8247646168).jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:24.121Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Pacific_Walrus_-_Bull_%288247646168%29.jpg",
+  "updatedAt": "2026-06-28T10:03:24.121Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-size-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-size-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-size-01-1200.webp"
+  }
+}

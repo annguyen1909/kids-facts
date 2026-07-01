@@ -2,23 +2,23 @@
   "id": "polar-bear-core-habitat",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-core-habitat",
-  "fileName": "Polar bears near north pole.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Polar_bears_near_north_pole.jpg",
-  "width": 2100,
-  "height": 1575,
+  "fileName": "polar-bear-core-habitat-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Polar bears on sea ice in the high Arctic",
   "caption": "Sea ice is the main platform polar bears use to hunt seals and travel.",
   "attributionText": "Photo by Chief Yeoman Alphonso Braggs, US-Navy via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg\">Chief Yeoman Alphonso Braggs, US-Navy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg\">Chief Yeoman Alphonso Braggs, US-Navy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg",
     "creatorName": "Chief Yeoman Alphonso Braggs, US-Navy",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:43.579Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "High Arctic",
-  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Polar_bears_near_north_pole.jpg",
+  "updatedAt": "2026-06-25T15:07:43.579Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-core-habitat-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-core-habitat-01-1200.webp"
+  }
 }

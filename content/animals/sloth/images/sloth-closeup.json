@@ -2,10 +2,10 @@
   "id": "sloth-closeup",
   "animalSlug": "sloth",
   "slug": "sloth-closeup",
-  "fileName": "MC Drei-Finger-Faultier.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MC_Drei-Finger-Faultier.jpg",
-  "width": 2000,
-  "height": 1334,
+  "fileName": "sloth-closeup-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up of a three-toed sloth face with dark eye mask",
   "caption": "Sloths have curved claws and a slow metabolism that matches their leafy diet.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Germany",
-  "acquisitionNotes": "Manually curated sloth close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Manually curated sloth close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2e/MC_Drei-Finger-Faultier.jpg",
+  "updatedAt": "2026-06-25T15:11:21.121Z",
   "attributionText": "Photo by Christian Mehlführer, User:Chmehl via Wikimedia Commons, CC BY 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:MC_Drei-Finger-Faultier.jpg\">Christian Mehlführer, User:Chmehl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:21.121Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-closeup-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-closeup-01-1200.webp"
   }
 }

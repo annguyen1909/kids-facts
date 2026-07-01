@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-fun-fact",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-fun-fact",
+  "fileName": "lionfish-fun-fact-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "A Lionfish showing a unique behavior or adaptation",
+  "caption": "Did you know that the Lionfish has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_le%C3%B3n_colorado_(Pterois_volitans),_Anilao,_Filipinas,_2023-08-21,_DD_140.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_le%C3%B3n_colorado_(Pterois_volitans),_Anilao,_Filipinas,_2023-08-21,_DD_140.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:54.508Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Pez_le%C3%B3n_colorado_%28Pterois_volitans%29%2C_Anilao%2C_Filipinas%2C_2023-08-21%2C_DD_140.jpg",
+  "updatedAt": "2026-06-25T15:01:54.508Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-fun-fact-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-fun-fact-01-1200.webp"
+  }
+}

@@ -4,10 +4,11 @@ import type {
   ComparisonRecord,
   HubRecord,
 } from "@/lib/types";
+import { stripFaqMarkdown } from "@/lib/faq-markdown";
 import { getAbsoluteUrl, getAnimalPrimaryImage } from "@/lib/images";
 import { siteConfig } from "@/lib/site-config";
 
-type ListItem = { name: string; item: string };
+type ListItem = { name: string; item?: string };
 
 export function buildOrganizationSchema() {
   return {
@@ -32,11 +33,13 @@ export function buildWebsiteSchema() {
 }
 
 export function buildImageSchema(image: AnimalImage) {
+  const imageUrl = getAbsoluteUrl(image.src);
+
   return {
     "@context": "https://schema.org",
     "@type": "ImageObject",
-    contentUrl: image.src,
-    url: image.src,
+    contentUrl: imageUrl,
+    url: imageUrl,
     caption: image.caption,
     description: image.alt,
     width: image.width,
@@ -60,7 +63,8 @@ export function buildImageGallerySchema(
     },
     associatedMedia: images.map((image) => ({
       "@type": "ImageObject",
-      contentUrl: image.src,
+      contentUrl: getAbsoluteUrl(image.src),
+      url: getAbsoluteUrl(image.src),
       caption: image.caption,
       description: image.alt,
       width: image.width,
@@ -77,7 +81,7 @@ export function buildBreadcrumbSchema(items: ListItem[]) {
       "@type": "ListItem",
       position: index + 1,
       name: item.name,
-      item: item.item,
+      ...(item.item ? { item: item.item } : {}),
     })),
   };
 }
@@ -110,8 +114,8 @@ export function buildAnimalArticleSchema(
         url: getAbsoluteUrl("/brand/logo-mark.svg"),
       },
     },
-    image: animal.images.map((image) => image.src),
-    thumbnailUrl: primaryImage.src,
+    image: animal.images.map((image) => getAbsoluteUrl(image.src)),
+    thumbnailUrl: getAbsoluteUrl(primaryImage.src),
     keywords: [
       animal.core.name,
       animal.core.scientificName,
@@ -152,7 +156,10 @@ export function buildComparisonSchema(
       { "@type": "Thing", name: animalB.core.name },
     ],
     dateModified: comparison.updatedAt,
-    image: [getAnimalPrimaryImage(animalA).src, getAnimalPrimaryImage(animalB).src],
+    image: [
+      getAbsoluteUrl(getAnimalPrimaryImage(animalA).src),
+      getAbsoluteUrl(getAnimalPrimaryImage(animalB).src),
+    ],
   };
 }
 
@@ -167,7 +174,7 @@ export function buildFaqSchema(
       name: item.question,
       acceptedAnswer: {
         "@type": "Answer",
-        text: item.answer,
+        text: stripFaqMarkdown(item.answer),
       },
     })),
   };

@@ -1,0 +1,145 @@
+{
+  "id": "animal-leafy-seadragon",
+  "slug": "leafy-seadragon",
+  "name": "Leafy Seadragon",
+  "commonNames": [
+    "Leafy Seadragon",
+    "Glauert's Seadragon",
+    "Leafie"
+  ],
+  "scientificName": "Phycodurus eques",
+  "summary": "The leafy seadragon is a master of marine camouflage, adorned with flowing leaf-like appendages that make it look exactly like a piece of drifting seaweed. Endemic to the cool coastal waters of southern Australia, it sucks up tiny mysid shrimp using its long, pipe-like snout.",
+  "heroTitle": "Leafy Seadragon Facts",
+  "metaTitle": "Leafy Seadragon Facts | Flawless Camouflage & Photos",
+  "metaDescription": "Discover leafy seadragon facts with crystal clear photos, Australian kelp habitat, mysid shrimp diet, flawless seaweed camouflage, and male egg incubation.",
+  "searchIntents": [
+    "leafy seadragon facts",
+    "is a leafy seadragon a seahorse",
+    "what do leafy seadragons eat",
+    "where do leafy seadragons live",
+    "how do leafy seadragons camouflage",
+    "leafy seadragon male pregnancy"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "genus": "Phycodurus",
+    "species": "P. eques"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "small"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "biomes": [
+    "marine",
+    "seagrass meadow",
+    "kelp forest"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "mysid shrimp",
+    "plankton",
+    "larval fish",
+    "small amphipods"
+  ],
+  "lifespan": {
+    "wild": "7 to 10 years",
+    "captivity": "Up to 9 years in specialized aquariums"
+  },
+  "size": {
+    "lengthMin": "10 inches",
+    "lengthMax": "14 inches"
+  },
+  "weight": {
+    "min": "4 ounces",
+    "max": "8 ounces"
+  },
+  "speed": "Very slow and gentle drift swimmer, mimicking unattached swaying seaweed",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "kelp drifting",
+    "camouflaging",
+    "independent eye movement",
+    "solitary foraging",
+    "courtship mirroring"
+  ],
+  "adaptations": [
+    "extensive leaf-like skin appendages for camouflage",
+    "long tubular snout for vacuuming prey",
+    "independently moving eyes",
+    "transparent dorsal and pectoral fins for subtle steering",
+    "specialized brood patch on male's tail for carrying eggs"
+  ],
+  "predators": [
+    "large predatory fish",
+    "crabs",
+    "humans (illegal collection and habitat loss)"
+  ],
+  "prey": [
+    "mysid shrimp",
+    "zooplankton",
+    "fish larvae"
+  ],
+  "reproduction": {
+    "offspringName": "fry",
+    "gestationOrIncubation": "Male incubates eggs for 4 to 9 weeks depending on water temperature",
+    "offspringCount": "250 to 300 eggs per clutch"
+  },
+  "funFacts": [
+    "Their spectacular leaf-like appendages are used entirely for camouflage, not swimming. They steer using tiny, transparent fins that beat rapidly to move them along.",
+    "Like their close seahorse relatives, it is the male leafy seadragon that gets pregnant, carrying and incubating the eggs on a specialized brood patch on the underside of his tail.",
+    "They lack teeth and a stomach, meaning they must feed near-continuously by using their long tubular snout to vacuum up thousands of tiny mysid shrimp every day.",
+    "The leafy seadragon is the official marine emblem of South Australia.",
+    "Their eyes can move independently of one another, allowing them to scan for potential predators and floating shrimp at the exact same time.",
+    "Leafy seadragons can change color slightly depending on their diet, age, location, and stress level."
+  ],
+  "faq": [
+    {
+      "question": "What is a leafy seadragon?",
+      "answer": "A leafy seadragon is a spectacular marine fish belonging to the same family as seahorses and pipefish, famous for its elaborate leaf-like camouflage."
+    },
+    {
+      "question": "Where do leafy seadragons live?",
+      "answer": "They are endemic to the cool coastal waters, seagrass meadows, and rocky kelp reefs of southern Australia, from Western Australia across to Victoria."
+    },
+    {
+      "question": "Is a leafy seadragon a seahorse?",
+      "answer": "While they belong to the same family (Syngnathidae), leafy seadragons are in a distinct genus. Unlike seahorses, seadragons cannot curl their tails around seagrass stems to anchor themselves."
+    },
+    {
+      "question": "What do leafy seadragons eat?",
+      "answer": "They are strict carnivores that feed almost exclusively on swarms of tiny mysid shrimp, as well as zooplankton and small amphipods."
+    },
+    {
+      "question": "How do leafy seadragons reproduce?",
+      "answer": "The female deposits up to 300 bright pink eggs onto a specialized vascularized brood patch located on the underside of the male's tail. The male fertilizes and incubates the eggs until they hatch as independent miniature fry."
+    },
+    {
+      "question": "Are leafy seadragons endangered?",
+      "answer": "They are currently listed as Least Concern thanks to strict Australian legal protections that stopped illegal collection for the aquarium trade, though they remain sensitive to coastal pollution and seagrass habitat loss."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "ocean-sunfish",
+    "bottlenose-dolphin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "leafy-seadragon-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

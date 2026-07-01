@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-core-baby",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-core-baby",
+  "alt": "A beautiful juvenile mandarinfish navigating the shallow reef in Lembeh",
+  "caption": "As juveniles settle onto the reef, they immediately seek out small crevices in branching staghorn corals for shelter.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Lembeh, Indonesia",
+  "fileName": "mandarinfish-core-baby-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 913,
+  "attributionText": "Photo by Silke Baron via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_4.jpg\">Silke Baron</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_4.jpg",
+    "creatorName": "Silke Baron",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:56:08.478Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile development overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a2/Synchiropus_splendidus_4.jpg",
+  "updatedAt": "2026-06-29T11:56:08.478Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-core-baby-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-core-baby-01-1200.webp"
+  }
+}

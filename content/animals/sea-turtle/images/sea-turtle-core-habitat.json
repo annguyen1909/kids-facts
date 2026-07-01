@@ -2,23 +2,23 @@
   "id": "sea-turtle-core-habitat",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-core-habitat",
-  "fileName": "Green Sea Turtle (31041167698).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Green_Sea_Turtle_%2831041167698%29.jpg",
+  "fileName": "sea-turtle-core-habitat-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-core-habitat-01-1200.webp",
   "width": 1200,
   "height": 800,
   "alt": "Green sea turtle swimming in open tropical ocean",
   "caption": "Coral reefs and seagrass beds provide food and shelter for young and adult turtles.",
   "attributionText": "Photo by National Marine Sanctuaries via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg\">National Marine Sanctuaries</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg\">National Marine Sanctuaries</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg",
     "creatorName": "National Marine Sanctuaries",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:39.269Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Tropical ocean",
-  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set.",
-  "updatedAt": "2026-06-24T09:05:13.697Z"
+  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Green_Sea_Turtle_%2831041167698%29.jpg",
+  "updatedAt": "2026-06-25T15:10:39.269Z",
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-core-habitat-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-core-habitat-01-1200.webp"
+  }
 }

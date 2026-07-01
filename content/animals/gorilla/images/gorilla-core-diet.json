@@ -2,8 +2,8 @@
   "id": "gorilla-core-diet",
   "animalSlug": "gorilla",
   "slug": "gorilla-core-diet",
-  "fileName": "Gorilla gorilla01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gorilla_gorilla01.jpg",
+  "fileName": "gorilla-core-diet-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-core-diet-01-1200.webp",
   "width": 763,
   "height": 512,
   "alt": "Western lowland gorilla feeding on forest vegetation",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b7/Gorilla_gorilla01.jpg",
+  "updatedAt": "2026-06-25T14:56:10.620Z",
   "attributionText": "Photo by Pierre Fidenci via Wikimedia Commons, CC BY-SA 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gorilla_gorilla01.jpg\">Pierre Fidenci</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:10.620Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-core-diet-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-core-diet-01-1200.webp"
   }
 }

@@ -2,8 +2,8 @@
   "id": "zebra-closeup",
   "animalSlug": "zebra",
   "slug": "zebra-closeup",
-  "fileName": "Zebra portrait.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Zebra_portrait.jpg",
+  "fileName": "zebra-closeup-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-closeup-01-1200.webp",
   "width": 1200,
   "height": 1800,
   "alt": "Close-up zebra face with bold black and white stripes",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "African grassland",
-  "acquisitionNotes": "Manually curated zebra close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Manually curated zebra close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Zebra_portrait.jpg",
+  "updatedAt": "2026-06-25T15:15:06.602Z",
   "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebra_portrait.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebra_portrait.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zebra_portrait.jpg",
     "creatorName": "Muhammad Mahdi Karim",
     "licenseName": "GFDL 1.2",
-    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:06.602Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-closeup-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-closeup-01-1200.webp"
   }
 }

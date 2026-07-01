@@ -1,0 +1,22 @@
+{
+  "id": "shoebill-gallery-main",
+  "animalSlug": "shoebill",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Shoebill Photo Gallery",
+  "metaTitle": "Shoebill Photo Gallery",
+  "metaDescription": "Browse a shoebill photo gallery with wildlife photos.",
+  "intro": "Explore shoebill photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "shoebill-hero",
+    "shoebill-habitat",
+    "shoebill-diet",
+    "shoebill-baby",
+    "shoebill-family",
+    "shoebill-range",
+    "shoebill-size",
+    "shoebill-closeup",
+    "shoebill-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T07:15:56.458Z"
+}

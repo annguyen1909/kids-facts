@@ -2,23 +2,23 @@
   "id": "giraffe-range",
   "animalSlug": "giraffe",
   "slug": "giraffe-range",
-  "fileName": "Giraffe in it's natural habitat near lake naivasha in kenya.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Giraffe_in_it%27s_natural_habitat_near_lake_naivasha_in_kenya.jpg",
-  "width": 2128,
-  "height": 4608,
+  "fileName": "giraffe-range-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-range-01-1200.webp",
+  "width": 1200,
+  "height": 2598,
   "alt": "Giraffe in open Kenyan habitat near acacia trees",
   "caption": "Giraffes live across parts of Africa where trees and open grassland meet.",
   "attributionText": "Photo by Muturimukabi via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe_in_it's_natural_habitat_near_lake_naivasha_in_kenya.jpg\">Muturimukabi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffe_in_it%27s_natural_habitat_near_lake_naivasha_in_kenya.jpg\">Muturimukabi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe_in_it's_natural_habitat_near_lake_naivasha_in_kenya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffe_in_it%27s_natural_habitat_near_lake_naivasha_in_kenya.jpg",
     "creatorName": "Muturimukabi",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:07.596Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Lake Naivasha, Kenya",
-  "acquisitionNotes": "Manually curated giraffe range image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.575Z"
+  "acquisitionNotes": "Manually curated giraffe range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/Giraffe_in_it%27s_natural_habitat_near_lake_naivasha_in_kenya.jpg",
+  "updatedAt": "2026-06-25T14:56:07.596Z",
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-range-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-range-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-range-01-1200.webp"
+  }
 }

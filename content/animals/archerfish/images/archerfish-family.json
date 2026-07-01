@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-family",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-family",
+  "fileName": "archerfish-family-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-family-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "A harmonious school of archerfish swimming together in a large aquatic display",
+  "caption": "Archerfish are highly social, frequently living in small schools where they compete intensely to grab insects shot down by their peers.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Dubai Aquarium",
+  "acquisitionNotes": "Curated high-resolution photograph showing schooling dynamics and social feeding competition. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Aussie_Aquarium_in_Dubai.jpg",
+  "updatedAt": "2026-06-29T11:54:53.469Z",
+  "attributionText": "Photo by Gameraquai via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Aussie_Aquarium_in_Dubai.jpg\">Gameraquai</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aussie_Aquarium_in_Dubai.jpg",
+    "creatorName": "Gameraquai",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T11:54:53.469Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-family-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-family-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-family-01-1200.webp"
+  }
+}

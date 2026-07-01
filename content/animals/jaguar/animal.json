@@ -1,0 +1,173 @@
+{
+  "id": "animal-jaguar",
+  "slug": "jaguar",
+  "name": "Jaguar",
+  "commonNames": [
+    "El tigre",
+    "American tiger"
+  ],
+  "scientificName": "Panthera onca",
+  "summary": "Jaguars are the largest wild cats in the Americas and powerful hunters that use stealth, strong jaws, and spotted coats to ambush prey in tropical forests and wetlands.",
+  "heroTitle": "Jaguar Facts",
+  "metaTitle": "Jaguar Facts | Habitat, Diet, Spots & Photos",
+  "metaDescription": "Discover jaguar facts with photos, rainforest habitat, hunting diet, cub life, and conservation. Learn where jaguars live, what they eat, and why their spots are unique.",
+  "searchIntents": [
+    "jaguar facts",
+    "what do jaguars eat",
+    "where do jaguars live",
+    "how big is a jaguar",
+    "are jaguars endangered",
+    "jaguar vs leopard difference"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "species": "P. onca"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "South America",
+    "North America"
+  ],
+  "countries": [
+    "Brazil",
+    "Bolivia",
+    "Peru",
+    "Colombia",
+    "Venezuela",
+    "Mexico",
+    "Belize",
+    "Panama"
+  ],
+  "biomes": [
+    "rainforest",
+    "wetland",
+    "grassland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "capybara",
+    "deer",
+    "peccary",
+    "caiman",
+    "fish",
+    "turtles"
+  ],
+  "lifespan": {
+    "wild": "12 to 15 years",
+    "captivity": "Up to 23 years in human care"
+  },
+  "size": {
+    "lengthMin": "3.8 feet",
+    "lengthMax": "6 feet",
+    "heightMin": "2 feet",
+    "heightMax": "2.5 feet"
+  },
+  "weight": {
+    "min": "100 pounds",
+    "max": "250 pounds"
+  },
+  "speed": "Up to 50 mph in short bursts",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary hunting",
+    "ambush predator",
+    "swimming",
+    "tree climbing",
+    "scent marking"
+  ],
+  "adaptations": [
+    "rosette coat pattern",
+    "powerful jaw",
+    "compact muscular body",
+    "night vision",
+    "webbed paws"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "capybara",
+    "deer",
+    "peccary",
+    "caiman"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 93 to 105 days",
+    "offspringCount": "1 to 4 cubs per litter"
+  },
+  "funFacts": [
+    "A jaguar's jaw is so strong it can bite through a turtle's shell.",
+    "Jaguars are excellent swimmers and often hunt fish and caiman in rivers.",
+    "Each jaguar has a unique rosette pattern, like a fingerprint.",
+    "The word jaguar comes from a native word meaning 'one who kills with one leap'.",
+    "Black jaguars are not a different species—they are the same animal with darker pigment.",
+    "Jaguars can roar, unlike most other spotted cats."
+  ],
+  "faq": [
+    {
+      "question": "What is a jaguar?",
+      "answer": "A jaguar is the largest wild cat in the Americas and the third largest cat in the world. It has a spotted coat, powerful jaws, and lives mainly in tropical forests and wetlands."
+    },
+    {
+      "question": "Where do jaguars live?",
+      "answer": "Jaguars are found mostly in South and Central America. The Amazon Basin in Brazil holds the largest jaguar population. Small numbers also survive in Mexico and the southwestern United States."
+    },
+    {
+      "question": "What do jaguars eat?",
+      "answer": "Jaguars eat a wide range of prey including capybara, deer, peccary, caiman, fish, and turtles. Their powerful jaws allow them to bite through hard shells and thick hides."
+    },
+    {
+      "question": "How is a jaguar different from a leopard?",
+      "answer": "Jaguars are bigger and stockier than leopards. A jaguar's rosette spots have small dots inside them, while a leopard's rosettes are usually plain. Jaguars also live in the Americas while leopards live in Africa and Asia."
+    },
+    {
+      "question": "Are jaguars good swimmers?",
+      "answer": "Yes. Jaguars love water and are strong swimmers. They often wade into rivers and lakes to hunt fish, caiman, and turtles—something most other large cats avoid."
+    },
+    {
+      "question": "What is a baby jaguar called?",
+      "answer": "A baby jaguar is called a cub. Cubs are born with their eyes closed and stay with their mother for up to two years while learning to hunt."
+    },
+    {
+      "question": "Are jaguars endangered?",
+      "answer": "Jaguars are listed as Near Threatened. Deforestation, illegal hunting, and conflict with cattle ranchers have reduced their range significantly over the past century."
+    },
+    {
+      "question": "Do jaguars roar?",
+      "answer": "Yes, jaguars can roar. This separates them from smaller spotted cats like cheetahs and ocelots. A jaguar's roar sounds like a deep, repetitive cough."
+    },
+    {
+      "question": "Why are jaguars spotted?",
+      "answer": "The spotted coat helps jaguars blend into dappled forest light. Each jaguar has a unique rosette pattern that helps researchers identify individual animals in the wild."
+    },
+    {
+      "question": "What is a black jaguar?",
+      "answer": "A black jaguar is not a different species. It is the same jaguar with a gene that causes very dark pigmentation, called melanism. The spots are still visible in bright light."
+    }
+  ],
+  "relatedAnimals": [
+    "leopard",
+    "lion",
+    "cheetah"
+  ],
+  "comparisonCandidates": [
+    "leopard"
+  ],
+  "galleryIds": [
+    "jaguar-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "forest"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-habitat",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-habitat",
+  "fileName": "jaguar-habitat-01-1200.webp",
+  "alt": "A Jaguar navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:24.787Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ae/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2.jpg",
+  "updatedAt": "2026-06-26T08:11:24.787Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-habitat-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-habitat-01-1200.webp"
+  }
+}

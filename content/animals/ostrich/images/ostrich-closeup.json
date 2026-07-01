@@ -2,11 +2,11 @@
   "id": "ostrich-closeup",
   "animalSlug": "ostrich",
   "slug": "ostrich-closeup",
-  "fileName": "Struthio camelus - male - Rülzheim.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Struthio_camelus_-_male_-_R%C3%BClzheim.jpg",
-  "width": 6000,
-  "height": 4000,
-  "alt": "Close-up of a male ostrich head and beak",
+  "fileName": "ostrich-closeup-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Wild ostrich standing in open bushland at Etosha National Park",
   "caption": "Ostriches have the largest eyes of any land animal, which helps them spot danger.",
   "imageType": "closeup",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Rülzheim, Germany",
-  "acquisitionNotes": "Manually curated ostrich close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_male_-_R%C3%BClzheim.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "location": "Etosha National Park, Namibia",
+  "acquisitionNotes": "Medium full-body wild shot — avoids tight head-only crops in thumbnails. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d8/Struthio_camelus_-_Etosha_2014_%281%29.jpg",
+  "updatedAt": "2026-06-28T09:18:52.924Z",
+  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(1).jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_male_-_R%C3%BClzheim.jpg",
-    "creatorName": "H. Zell",
-    "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_-_Etosha_2014_(1).jpg",
+    "creatorName": "Yathin S Krishnappa",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:52.924Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-closeup-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-closeup-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "walrus-core-range",
+  "animalSlug": "walrus",
+  "slug": "walrus-core-range",
+  "fileName": "walrus-core-range-01-1200.webp",
+  "alt": "Walruses hauled out on a rocky Arctic island beach",
+  "caption": "When sea ice melts, walruses gather on coastal beaches across the Arctic to rest.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Round Island, Alaska, USA",
+  "src": "/images/animals/walrus/web/walrus-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "attributionText": "Photo by U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pacific_walrus_hauled_out_on_a_round_island_beach.jpg\">U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacific_walrus_hauled_out_on_a_round_island_beach.jpg",
+    "creatorName": "U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:11.251Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e3/Pacific_walrus_hauled_out_on_a_round_island_beach.jpg",
+  "updatedAt": "2026-06-28T10:03:11.251Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-core-range-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-core-range-01-1200.webp"
+  }
+}

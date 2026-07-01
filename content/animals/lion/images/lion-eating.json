@@ -2,22 +2,22 @@
   "id": "lion-eating",
   "animalSlug": "lion",
   "slug": "lion-eating",
-  "fileName": "lions-feeding-at-kill.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lioness_at_kill.jpg",
-  "width": 1920,
-  "height": 1280,
-  "alt": "Lioness feeding at a prey carcass",
+  "fileName": "lion-eating-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-eating-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "African lion feeding on zebra remains after a hunt",
   "caption": "After a hunt, pride members gather to feed on the kill.",
-  "attributionText": "Photo by Clément Bardot via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lioness_at_kill.jpg",
-    "creatorName": "Clément Bardot",
-    "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_on_zebra_remains_..._(52153558417).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:26.532Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -27,6 +27,12 @@
     "gallery"
   ],
   "location": "Savanna",
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Gallery diet image — unique from core diet image. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/26/Lion_%28Panthera_leo%29_on_zebra_remains_..._%2852153558417%29.jpg",
+  "updatedAt": "2026-06-25T15:01:26.532Z",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_on_zebra_remains_..._(52153558417).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-eating-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-eating-01-400.webp",
+    "original": "/images/animals/lion/web/lion-eating-01-1200.webp"
+  }
 }

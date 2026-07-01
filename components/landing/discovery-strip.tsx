@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BookOpen, Leaf, Salad, Shapes } from "lucide-react";
+import { BookOpen, Compass, Leaf, Salad, Shapes } from "lucide-react";
 
 const paths = [
   {
@@ -40,8 +40,9 @@ const toneClass = {
 
 export function DiscoveryStrip() {
   return (
-    <div className="discovery-strip">
-      {paths.map((path) => {
+    <nav className="discovery-strip" aria-label="Discovery paths">
+      <span className="discovery-strip__rail" aria-hidden="true" />
+      {paths.map((path, index) => {
         const Icon = path.icon;
 
         return (
@@ -50,8 +51,15 @@ export function DiscoveryStrip() {
             href={path.href}
             className={`discovery-card ${toneClass[path.tone]}`}
           >
+            <span className="discovery-card__step" aria-hidden="true">
+              {String(index + 1).padStart(2, "0")}
+            </span>
             <span className="discovery-card__icon" aria-hidden>
-              <Icon className="h-5 w-5" strokeWidth={2.25} />
+              {index === 0 ? (
+                <Compass className="h-5 w-5" strokeWidth={2.25} />
+              ) : (
+                <Icon className="h-5 w-5" strokeWidth={2.25} />
+              )}
             </span>
             <span className="discovery-card__body">
               <span className="discovery-card__label">{path.label}</span>
@@ -61,6 +69,6 @@ export function DiscoveryStrip() {
           </Link>
         );
       })}
-    </div>
+    </nav>
   );
 }

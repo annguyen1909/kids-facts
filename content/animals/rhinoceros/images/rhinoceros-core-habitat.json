@@ -2,11 +2,11 @@
   "id": "rhinoceros-core-habitat",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-core-habitat",
-  "fileName": "Ceratotherium simum simum (Rhinocéros blanc du Sud) - 385.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ceratotherium_simum_simum_%28Rhinoc%C3%A9ros_blanc_du_Sud%29_-_385.jpg",
-  "width": 2437,
-  "height": 1625,
-  "alt": "Southern white rhinoceros in grassy savanna habitat",
+  "fileName": "rhinoceros-core-habitat-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 762,
+  "alt": "White rhinoceros in protected savanna reserve habitat",
   "caption": "Open grasslands with water and mud wallows support healthy rhino populations.",
   "imageType": "habitat",
   "galleryTopics": [
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
-  "attributionText": "Photo by Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract . via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_simum_(Rhinoc%C3%A9ros_blanc_du_Sud)_-_385.jpg\">Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "acquisitionNotes": "Core article image — unique from gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Rinoceronte_blanco_%28Ceratotherium_simum%29%2C_Santuario_de_Rinocerontes_Khama%2C_Botsuana%2C_2018-08-02%2C_DD_09.jpg",
+  "updatedAt": "2026-06-25T15:09:47.677Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_09.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_simum_(Rhinoc%C3%A9ros_blanc_du_Sud)_-_385.jpg",
-    "creatorName": "Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_09.jpg",
+    "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:47.677Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-core-habitat-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-core-habitat-01-1200.webp"
   }
 }

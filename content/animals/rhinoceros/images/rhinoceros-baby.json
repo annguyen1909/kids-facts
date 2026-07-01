@@ -2,10 +2,10 @@
   "id": "rhinoceros-baby",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-baby",
-  "fileName": "075 White rhinoceros mother and her newborn baby in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
-  "width": 8571,
-  "height": 5714,
+  "fileName": "rhinoceros-baby-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Mother white rhinoceros with newborn calf",
   "caption": "A baby rhinoceros is called a calf and stays close to its mother for protection.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Kalahari Desert, Namibia",
-  "acquisitionNotes": "Manually curated rhinoceros calf image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Manually curated rhinoceros calf image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a6/075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:09:44.499Z",
   "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:44.499Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-baby-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-baby-01-1200.webp"
   }
 }

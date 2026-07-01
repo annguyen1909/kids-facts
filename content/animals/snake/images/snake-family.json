@@ -2,8 +2,8 @@
   "id": "snake-family",
   "animalSlug": "snake",
   "slug": "snake-family",
-  "fileName": "Ball python lucy.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+  "fileName": "snake-family-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-family-01-1200.webp",
   "width": 988,
   "height": 848,
   "alt": "Adult ball python coiled in a resting pose",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:51.741Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z"
+  "acquisitionNotes": "Manually curated ball python image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+  "updatedAt": "2026-06-25T15:11:51.741Z",
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-family-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-family-01-400.webp",
+    "original": "/images/animals/snake/web/snake-family-01-1200.webp"
+  }
 }

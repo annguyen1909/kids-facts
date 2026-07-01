@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-hero",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-hero",
+  "fileName": "archerfish-hero-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "Stunning banded archerfish swimming alertly near the water surface, showcasing its sharp snout and distinctive black vertical bars",
+  "caption": "The archerfish is a remarkable brackish-water fish world-famous for its ability to shoot down insect prey with water droplets.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Aquarium display",
+  "acquisitionNotes": "Pristine 6016x4016 high-resolution hero shot capturing flawless body profile and distinct black vertical banding. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/57/Toxotes_jaculatrix_-_9318.jpg",
+  "updatedAt": "2026-06-29T11:54:59.764Z",
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9318.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9318.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:59.764Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-hero-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-hero-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-baby",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-baby",
+  "fileName": "ocean-sunfish-baby-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-baby-01-1200.webp",
+  "width": 1200,
+  "height": 979,
+  "alt": "Young, developing sunfish swimming in clear aquarium water",
+  "caption": "Newly hatched sunfish larvae are minuscule and protected by a star-like spiky covering before growing into giant disks.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Nordsøen Oceanarium, Denmark",
+  "acquisitionNotes": "Manually curated juvenile sunfish image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/84/Sunfish2.jpg",
+  "updatedAt": "2026-06-29T07:22:33.460Z",
+  "attributionText": "Photo by Per-Ola Norman via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sunfish2.jpg\">Per-Ola Norman</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunfish2.jpg",
+    "creatorName": "Per-Ola Norman",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T07:22:33.460Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-baby-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-baby-01-1200.webp"
+  }
+}

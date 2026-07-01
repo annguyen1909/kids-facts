@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-family",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-family",
+  "fileName": "luna-moth-family-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A group of Luna Moths interacting with each other",
+  "caption": "While often solitary, some Luna Moths interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Henrysz via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Luna_moth_front_(Actias_Luna).jpg\">Henrysz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luna_moth_front_(Actias_Luna).jpg",
+    "creatorName": "Henrysz",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:09.011Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/Luna_moth_front_%28Actias_Luna%29.jpg",
+  "updatedAt": "2026-06-25T15:02:09.011Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-family-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-family-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-family-01-1200.webp"
+  }
+}

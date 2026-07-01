@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-core-range",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-core-range",
+  "fileName": "american-bison-core-range-01-1200.webp",
+  "alt": "American bison walking through deep snow in winter",
+  "caption": "Bison travel across their range in every season, pushing through deep winter snow.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Yellowstone National Park, Wyoming, USA",
+  "src": "/images/animals/american-bison/web/american-bison-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Jacob W. Frank via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_walking_in_the_snow_near_Tower_Junction_(0d7cef53-54d5-4ae9-83ed-31c122815864).jpg\">Jacob W. Frank</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_walking_in_the_snow_near_Tower_Junction_(0d7cef53-54d5-4ae9-83ed-31c122815864).jpg",
+    "creatorName": "Jacob W. Frank",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:17.288Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f6/Bison_walking_in_the_snow_near_Tower_Junction_%280d7cef53-54d5-4ae9-83ed-31c122815864%29.jpg",
+  "updatedAt": "2026-06-28T09:54:17.288Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-core-range-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-core-range-01-1200.webp"
+  }
+}

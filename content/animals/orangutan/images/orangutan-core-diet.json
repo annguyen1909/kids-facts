@@ -2,10 +2,10 @@
   "id": "orangutan-core-diet",
   "animalSlug": "orangutan",
   "slug": "orangutan-core-diet",
-  "fileName": "Bornean Orangutan DSCN0685.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bornean_Orangutan_DSCN0685.jpg",
-  "width": 4608,
-  "height": 3456,
+  "fileName": "orangutan-core-diet-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Bornean orangutan feeding in forest vegetation",
   "caption": "Fruit is a favorite food when trees are fruiting in the forest.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d4/Bornean_Orangutan_DSCN0685.jpg",
+  "updatedAt": "2026-06-25T15:04:15.265Z",
   "attributionText": "Photo by Rohitjahnavi via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_DSCN0685.jpg\">Rohitjahnavi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:15.265Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-core-diet-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-core-diet-01-1200.webp"
   }
 }

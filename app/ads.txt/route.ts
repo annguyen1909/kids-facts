@@ -1,12 +1,12 @@
 import { siteConfig } from "@/lib/site-config";
 
 export function GET() {
-  const clientId = siteConfig.adsenseClientId;
-  if (!clientId) {
+  const publisherId = siteConfig.adsensePublisherId;
+  if (!publisherId) {
     return new Response("AdSense client ID not configured.", { status: 404 });
   }
 
-  const body = `google.com, ${clientId}, DIRECT, f08c47fec0942fa0\n`;
+  const body = `google.com, ${publisherId}, DIRECT, f08c47fec0942fa0\n`;
 
   return new Response(body, {
     headers: {

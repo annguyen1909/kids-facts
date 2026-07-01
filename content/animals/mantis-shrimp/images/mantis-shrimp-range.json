@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-range",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-range",
+  "fileName": "mantis-shrimp-range-01-1200.webp",
+  "alt": "A Mantis Shrimp traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_mantis_(Odontodactylus_scyllarus),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_42.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_mantis_(Odontodactylus_scyllarus),_Zanz%C3%ADbar,_Tanzania,_2024-05-29,_DD_42.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:21.749Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b0/Camar%C3%B3n_mantis_%28Odontodactylus_scyllarus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_42.jpg",
+  "updatedAt": "2026-06-26T08:17:21.749Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-range-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-range-01-1200.webp"
+  }
+}

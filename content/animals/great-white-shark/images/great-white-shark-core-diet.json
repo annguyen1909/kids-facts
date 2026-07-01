@@ -2,10 +2,10 @@
   "id": "great-white-shark-core-diet",
   "animalSlug": "great-white-shark",
   "slug": "great-white-shark-core-diet",
-  "fileName": "Cape Agulhas white shark JF2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cape_Agulhas_white_shark_JF2.jpg",
-  "width": 2740,
-  "height": 1836,
+  "fileName": "great-white-shark-core-diet-01-1200.webp",
+  "src": "/images/animals/great-white-shark/web/great-white-shark-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 804,
   "alt": "Great white shark turning near the surface during a hunt",
   "caption": "Great white sharks often attack from below with a fast upward burst.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Cape Agulhas, South Africa",
-  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set.",
-  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "acquisitionNotes": "Core article image curated separately from the great white shark gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/37/Cape_Agulhas_white_shark_JF2.jpg",
+  "updatedAt": "2026-06-25T14:56:29.980Z",
   "attributionText": "Photo by Wolves201 via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cape_Agulhas_white_shark_JF2.jpg\">Wolves201</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.764Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:29.980Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/great-white-shark/web/great-white-shark-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/great-white-shark/thumbnails/great-white-shark-core-diet-01-400.webp",
+    "original": "/images/animals/great-white-shark/web/great-white-shark-core-diet-01-1200.webp"
   }
 }

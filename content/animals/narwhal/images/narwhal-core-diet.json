@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-core-diet",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-core-diet",
+  "fileName": "narwhal-core-diet-01-1200.webp",
+  "alt": "A Narwhal finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Narwhal.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 284,
+  "attributionText": "Photo by https://wellcomeimages.org/indexplus/obf_images/3c/c9/94c29676966483711eda0991beca.jpg Gallery: https://wellcomeimages.org/indexplus/image/V0018439.html Wellcome Collection gallery (2018-03-30): https://wellcomecollection.org/works/hbvj89sd CC-BY-4.0 via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Horn_of_the_narwhal_(Monodon_monoceros),_or_horn_of_the_unic_Wellcome_V0018439.jpg\">https://wellcomeimages.org/indexplus/obf_images/3c/c9/94c29676966483711eda0991beca.jpg Gallery: https://wellcomeimages.org/indexplus/image/V0018439.html Wellcome Collection gallery (2018-03-30): https://wellcomecollection.org/works/hbvj89sd CC-BY-4.0</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horn_of_the_narwhal_(Monodon_monoceros),_or_horn_of_the_unic_Wellcome_V0018439.jpg",
+    "creatorName": "https://wellcomeimages.org/indexplus/obf_images/3c/c9/94c29676966483711eda0991beca.jpg Gallery: https://wellcomeimages.org/indexplus/image/V0018439.html Wellcome Collection gallery (2018-03-30): https://wellcomecollection.org/works/hbvj89sd CC-BY-4.0",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:06:05.292Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3d/Horn_of_the_narwhal_%28Monodon_monoceros%29%2C_or_horn_of_the_unic_Wellcome_V0018439.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3d/Horn_of_the_narwhal_%28Monodon_monoceros%29%2C_or_horn_of_the_unic_Wellcome_V0018439.jpg",
+  "updatedAt": "2026-06-26T19:06:05.292Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-core-diet-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-core-diet-01-1200.webp"
+  }
+}

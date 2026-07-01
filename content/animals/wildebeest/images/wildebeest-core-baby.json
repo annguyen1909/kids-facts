@@ -2,10 +2,10 @@
   "id": "wildebeest-core-baby",
   "animalSlug": "wildebeest",
   "slug": "wildebeest-core-baby",
-  "fileName": "039 Juvenile blue wildebeest covered in mud running in the Serengeti National Park Photo by Giles Laurent.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
-  "width": 6666,
-  "height": 4444,
+  "fileName": "wildebeest-core-baby-01-1200.webp",
+  "src": "/images/animals/wildebeest/web/wildebeest-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Juvenile wildebeest running through mud on the savanna",
   "caption": "Most calves are born during the same few weeks each year.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Serengeti, Tanzania",
-  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set.",
-  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "acquisitionNotes": "Core article image curated separately from the wildebeest gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:14:30.333Z",
   "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:18.505Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:30.333Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wildebeest/web/wildebeest-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/wildebeest/thumbnails/wildebeest-core-baby-01-400.webp",
+    "original": "/images/animals/wildebeest/web/wildebeest-core-baby-01-1200.webp"
   }
 }

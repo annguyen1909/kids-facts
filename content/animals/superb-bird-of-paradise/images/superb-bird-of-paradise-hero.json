@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-hero",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-hero",
+  "fileName": "superb-bird-of-paradise-hero-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Male superb bird-of-paradise in full courtship display with jet-black cape and iridescent blue-green breast shield",
+  "caption": "The superb bird-of-paradise is famous for its mesmerizing, shape-shifting courtship dance.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Vogelkop, New Guinea",
+  "acquisitionNotes": "Breathtaking high-resolution hero display image capturing the iconic black disc and neon green shield. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Vogelkop_Lophorina_male_display_0A2A9062.jpg",
+  "updatedAt": "2026-06-29T12:04:34.952Z",
+  "attributionText": "Photo by JJ Harrison via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_male_display_0A2A9062.jpg\">JJ Harrison</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_male_display_0A2A9062.jpg",
+    "creatorName": "JJ Harrison",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:04:34.952Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-hero-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-hero-01-1200.webp"
+  }
+}

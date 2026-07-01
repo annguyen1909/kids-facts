@@ -1,0 +1,22 @@
+{
+  "id": "iguana-gallery-main",
+  "animalSlug": "iguana",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Green Iguana Photo Gallery",
+  "metaTitle": "Green Iguana Photo Gallery",
+  "metaDescription": "Browse a green iguana photo gallery with wildlife photos.",
+  "intro": "Explore green iguana photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "iguana-hero",
+    "iguana-habitat",
+    "iguana-diet",
+    "iguana-baby",
+    "iguana-family",
+    "iguana-range",
+    "iguana-size",
+    "iguana-closeup",
+    "iguana-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

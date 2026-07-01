@@ -1,0 +1,38 @@
+{
+  "id": "firefly-size",
+  "animalSlug": "firefly",
+  "slug": "firefly-size",
+  "fileName": "firefly-size-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-size-01-1200.webp",
+  "width": 1006,
+  "height": 886,
+  "alt": "A photo showing the size of a Firefly",
+  "caption": "The size of a Firefly can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Jacy Lucier via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis.jpg\">Jacy Lucier</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis.jpg",
+    "creatorName": "Jacy Lucier",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:11.149Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Photinus_pyralis.jpg",
+  "updatedAt": "2026-06-25T14:53:11.149Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-size-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-size-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-size-01-1200.webp"
+  }
+}

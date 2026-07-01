@@ -1,0 +1,38 @@
+{
+  "id": "blue-footed-booby-size",
+  "animalSlug": "blue-footed-booby",
+  "slug": "blue-footed-booby-size",
+  "fileName": "blue-footed-booby-size-01-1200.webp",
+  "src": "/images/animals/blue-footed-booby/web/blue-footed-booby-size-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "Full body profile of a blue-footed booby displaying its elegant wings and streamlined shape",
+  "caption": "They are medium-sized seabirds with long pointed wings spanning around 5 feet (1.5 meters).",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Seymour Norte island, Galapagos",
+  "acquisitionNotes": "Manually curated blue-footed booby size image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Blue-footed_booby_02.jpg",
+  "updatedAt": "2026-06-29T07:23:09.854Z",
+  "attributionText": "Photo by Bernard Gagnon via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue-footed_booby_02.jpg\">Bernard Gagnon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue-footed_booby_02.jpg",
+    "creatorName": "Bernard Gagnon",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:09.854Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-footed-booby/web/blue-footed-booby-size-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-footed-booby/thumbnails/blue-footed-booby-size-01-400.webp",
+    "original": "/images/animals/blue-footed-booby/web/blue-footed-booby-size-01-1200.webp"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "lionfish-core-diet",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-core-diet",
+  "fileName": "lionfish-core-diet-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 976,
+  "alt": "A Lionfish finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Lionfish.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by and (C)2007 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Lionfish_Pterois_volitans_Left_Side_2460px.jpg\">Photo by and (C)2007 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Lionfish_Pterois_volitans_Left_Side_2460px.jpg",
+    "creatorName": "Photo by and (C)2007 Derek Ramsey ( Ram-Man )",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:48.938Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/70/Red_Lionfish_Pterois_volitans_Left_Side_2460px.jpg",
+  "updatedAt": "2026-06-25T15:01:48.938Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Lionfish_Pterois_volitans_Left_Side_2460px.jpg",
+  "creatorName": "Photo by and (C)2007 Derek Ramsey ( Ram-Man )",
+  "licenseName": "CC BY-SA 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-core-diet-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-core-diet-01-1200.webp"
+  }
+}

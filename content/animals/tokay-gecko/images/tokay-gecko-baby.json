@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-baby",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-baby",
+  "fileName": "tokay-gecko-baby-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-baby-01-1200.webp",
+  "width": 1008,
+  "height": 669,
+  "alt": "Juvenile tokay gecko hunting insects at night",
+  "caption": "Baby tokay geckos emerge at night, hunting insects with their large lidless eyes.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "East Timor",
+  "attributionText": "Photo by Hinrich Kaiser via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_gecko_(Gekko_gecko)_juvenile.jpg\">Hinrich Kaiser</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_gecko_(Gekko_gecko)_juvenile.jpg",
+    "creatorName": "Hinrich Kaiser",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:53.313Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tokay gecko image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8c/Tokay_gecko_%28Gekko_gecko%29_juvenile.jpg",
+  "updatedAt": "2026-06-25T15:12:53.313Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-baby-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-baby-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "sloth-range",
   "animalSlug": "sloth",
   "slug": "sloth-range",
-  "fileName": "Bicho-preguiça, animal do Pico do Jaraguá.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bicho-pregui%C3%A7a%2C_animal_do_Pico_do_Jaragu%C3%A1.jpg",
-  "width": 1920,
-  "height": 1080,
+  "fileName": "sloth-range-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-range-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Three-toed sloth in tropical forest habitat",
   "caption": "Brown-throated sloths range across Central America and northern South America.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "São Paulo, Brazil",
-  "acquisitionNotes": "Manually curated sloth range image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Manually curated sloth range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5b/Bicho-pregui%C3%A7a%2C_animal_do_Pico_do_Jaragu%C3%A1.jpg",
+  "updatedAt": "2026-06-25T15:11:32.110Z",
   "attributionText": "Photo by Ritadecassiadecarvalho via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a%2C_animal_do_Pico_do_Jaragu%C3%A1.jpg\">Ritadecassiadecarvalho</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a,_animal_do_Pico_do_Jaragu%C3%A1.jpg\">Ritadecassiadecarvalho</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a%2C_animal_do_Pico_do_Jaragu%C3%A1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bicho-pregui%C3%A7a,_animal_do_Pico_do_Jaragu%C3%A1.jpg",
     "creatorName": "Ritadecassiadecarvalho",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:32.110Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-range-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-range-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-range-01-1200.webp"
   }
 }

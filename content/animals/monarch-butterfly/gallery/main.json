@@ -1,0 +1,22 @@
+{
+  "id": "monarch-butterfly-gallery-main",
+  "animalSlug": "monarch-butterfly",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Monarch Butterfly Photo Gallery",
+  "metaTitle": "Monarch Butterfly Photo Gallery",
+  "metaDescription": "Browse a monarch butterfly photo gallery with wildlife photos.",
+  "intro": "Explore monarch butterfly photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "monarch-butterfly-hero",
+    "monarch-butterfly-habitat",
+    "monarch-butterfly-diet",
+    "monarch-butterfly-baby",
+    "monarch-butterfly-family",
+    "monarch-butterfly-range",
+    "monarch-butterfly-size",
+    "monarch-butterfly-closeup",
+    "monarch-butterfly-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T15:27:42.930Z"
+}

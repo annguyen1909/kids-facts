@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-diet",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-diet",
+  "fileName": "hammerhead-shark-diet-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-diet-01-1200.webp",
+  "width": 571,
+  "height": 436,
+  "alt": "A Great Hammerhead Shark finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Great Hammerhead Shark.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by D Ross Robertson via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_jaws.jpg\">D Ross Robertson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_jaws.jpg",
+    "creatorName": "D Ross Robertson",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:21:03.020Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Sphyrna_mokarran_jaws.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Sphyrna_mokarran_jaws.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Sphyrna_mokarran_jaws.jpg",
+  "updatedAt": "2026-06-26T19:21:03.020Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-diet-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-diet-01-1200.webp"
+  }
+}

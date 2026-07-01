@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-core-diet",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-core-diet",
+  "fileName": "praying-mantis-core-diet-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A praying mantis waiting patiently on a twig to strike",
+  "caption": "They are ambush predators, standing motionless until prey comes close.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Germany",
+  "attributionText": "Photo by Stephan Sprinz via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Gottesanbeterin_(Mantis_religiosa)_01.jpg\">Stephan Sprinz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Gottesanbeterin_(Mantis_religiosa)_01.jpg",
+    "creatorName": "Stephan Sprinz",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:05.874Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Europ%C3%A4ische_Gottesanbeterin_%28Mantis_religiosa%29_01.jpg",
+  "updatedAt": "2026-06-25T15:08:05.874Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-core-diet-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-core-diet-01-1200.webp"
+  }
+}

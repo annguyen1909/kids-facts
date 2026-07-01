@@ -2,10 +2,10 @@
   "id": "wolf-size",
   "animalSlug": "wolf",
   "slug": "wolf-size",
-  "fileName": "Loup gris (Canis lupus ).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Loup_gris_%28Canis_lupus_%29.jpg",
-  "width": 2694,
-  "height": 3117,
+  "fileName": "wolf-size-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-size-01-1200.webp",
+  "width": 1200,
+  "height": 1388,
   "alt": "Full-body gray wolf showing size and build",
   "caption": "Adult wolves are the largest wild members of the dog family in most regions.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Europe",
-  "acquisitionNotes": "Manually curated wolf size image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Manually curated wolf size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e8/Loup_gris_%28Canis_lupus_%29.jpg",
+  "updatedAt": "2026-06-25T15:15:05.614Z",
   "attributionText": "Photo by Clément Bardot via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Loup_gris_(Canis_lupus_).jpg\">Clément Bardot</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:05.614Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-size-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-size-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-size-01-1200.webp"
   }
 }

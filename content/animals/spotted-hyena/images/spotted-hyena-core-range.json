@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-core-range",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-core-range",
+  "fileName": "spotted-hyena-core-range-01-1200.webp",
+  "alt": "Spotted hyena crossing the Serengeti grassland in Tanzania",
+  "caption": "Hyenas travel long distances across their home range to find food and water.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Serengeti National Park, Tanzania",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_parque_nacional_Serengueti,_Tanzania,_2024-05-26,_DD_24.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_parque_nacional_Serengueti,_Tanzania,_2024-05-26,_DD_24.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:18.525Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Hiena_manchada_%28Crocuta_crocuta%29%2C_parque_nacional_Serengueti%2C_Tanzania%2C_2024-05-26%2C_DD_24.jpg",
+  "updatedAt": "2026-06-28T09:46:18.525Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-core-range-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-core-range-01-1200.webp"
+  }
+}

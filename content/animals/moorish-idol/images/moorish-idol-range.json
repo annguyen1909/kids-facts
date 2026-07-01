@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-range",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-range",
+  "fileName": "moorish-idol-range-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-range-01-1200.webp",
+  "width": 1200,
+  "height": 677,
+  "alt": "Moorish idol cruising through temperate waters in South Africa",
+  "caption": "Their extensive range spans from East Africa and South Africa all the way across the Pacific to Hawaii and Easter Island.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "South Africa",
+  "acquisitionNotes": "High-quality composition representing Indian Ocean regional habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/Zanclus_cornutus_387908169.jpg",
+  "updatedAt": "2026-06-29T12:24:26.295Z",
+  "attributionText": "Photo by Andra Waagmeester via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_387908169.jpg\">Andra Waagmeester</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_387908169.jpg",
+    "creatorName": "Andra Waagmeester",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T12:24:26.295Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-range-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-range-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-range-01-1200.webp"
+  }
+}

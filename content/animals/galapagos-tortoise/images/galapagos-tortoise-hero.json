@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-hero",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-hero",
+  "fileName": "galapagos-tortoise-hero-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A massive adult Galapagos giant tortoise standing in grassy green vegetation",
+  "caption": "The Galapagos giant tortoise is the largest living species of tortoise on Earth.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Kevin Gepford via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_giant_Gal%C3%A1pagos_tortoise_(Chelonoidis_niger_donfaustoi).jpg\">Kevin Gepford</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_giant_Gal%C3%A1pagos_tortoise_(Chelonoidis_niger_donfaustoi).jpg",
+    "creatorName": "Kevin Gepford",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:40.934Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f0/A_giant_Gal%C3%A1pagos_tortoise_%28Chelonoidis_niger_donfaustoi%29.jpg",
+  "updatedAt": "2026-06-25T14:54:40.934Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-hero-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-hero-01-1200.webp"
+  }
+}

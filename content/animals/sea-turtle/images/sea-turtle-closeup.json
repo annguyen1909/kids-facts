@@ -2,10 +2,10 @@
   "id": "sea-turtle-closeup",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-closeup",
-  "fileName": "Total internal reflection of Chelonia mydas.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg",
-  "width": 2000,
-  "height": 1500,
+  "fileName": "sea-turtle-closeup-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Close-up green sea turtle face underwater",
   "caption": "Sea turtles breathe air and have hard shells that protect their bodies.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Tropical ocean",
-  "acquisitionNotes": "Manually curated sea turtle close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Manually curated sea turtle close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5c/Total_internal_reflection_of_Chelonia_mydas.jpg",
+  "updatedAt": "2026-06-25T15:10:36.096Z",
   "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Total_internal_reflection_of_Chelonia_mydas.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:36.096Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-closeup-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-closeup-01-1200.webp"
   }
 }

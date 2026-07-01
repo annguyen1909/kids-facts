@@ -2,10 +2,10 @@
   "id": "komodo-dragon-hero",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-hero",
-  "fileName": "Komodo Dragon (Varanus Komodoensis).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Komodo_Dragon_%28Varanus_Komodoensis%29.jpg",
-  "width": 3888,
-  "height": 2592,
+  "fileName": "komodo-dragon-hero-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Adult Komodo dragon standing on dry ground in Indonesia",
   "caption": "Komodo dragons are the largest living lizards on Earth.",
   "imageType": "hero",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Komodo National Park, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon hero image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/51/Komodo_Dragon_%28Varanus_Komodoensis%29.jpg",
+  "updatedAt": "2026-06-25T15:00:09.319Z",
   "attributionText": "Photo by Alibasdaysar via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Dragon_(Varanus_Komodoensis).jpg\">Alibasdaysar</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:09.319Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-hero-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-hero-01-1200.webp"
   }
 }

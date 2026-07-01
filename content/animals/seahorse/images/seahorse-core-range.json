@@ -2,12 +2,12 @@
   "id": "seahorse-core-range",
   "animalSlug": "seahorse",
   "slug": "seahorse-core-range",
-  "fileName": "Dwarf Seahorses at the New England Aquarium.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Dwarf_Seahorses_at_the_New_England_Aquarium.jpg",
-  "width": 3024,
-  "height": 4032,
-  "alt": "Seahorses in a seagrass-style aquarium habitat",
-  "caption": "Seahorses are threatened by habitat loss and collection for aquariums.",
+  "fileName": "seahorse-core-range-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Pacific seahorse clinging to coral in the wild ocean",
+  "caption": "Seahorses use their prehensile tails to anchor themselves to coral and seagrass in the wild.",
   "imageType": "range",
   "galleryTopics": [
     "range"
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
-  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Dwarf_Seahorses_at_the_New_England_Aquarium.jpg",
+  "updatedAt": "2026-06-25T15:11:03.909Z",
   "attributionText": "Photo by Camcintire via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dwarf_Seahorses_at_the_New_England_Aquarium.jpg\">Camcintire</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:03.909Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-core-range-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-core-range-01-1200.webp"
   }
 }

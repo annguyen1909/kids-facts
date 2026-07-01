@@ -1,0 +1,154 @@
+{
+  "id": "animal-tokay-gecko",
+  "slug": "tokay-gecko",
+  "name": "Tokay Gecko",
+  "commonNames": [
+    "Tokay Gecko",
+    "Spotted Gecko",
+    "Tokay"
+  ],
+  "scientificName": "Gekko gecko",
+  "summary": "Tokay geckos are large, colorful nocturnal lizards famous for their bright blue-grey bodies covered in orange and red spots, and their loud barking 'To-kay' calls. They are native to Southeast Asian rainforests and are famous climbing experts, using microscopic hairs on their toes to climb vertical walls and hang upside down.",
+  "heroTitle": "Tokay Gecko Facts",
+  "metaTitle": "Tokay Gecko Facts | Habitat, Diet, Sticky Toes & Photos",
+  "metaDescription": "Discover Tokay gecko facts with photos, vertical wall climbing, vocal barking call, insect diet, night vision, and quick facts. Learn how they stick and live.",
+  "searchIntents": [
+    "tokay gecko facts",
+    "how do geckos stick to walls",
+    "why do tokay geckos bark",
+    "what do tokay geckos eat",
+    "where do tokay geckos live",
+    "do geckos regrow tails"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "genus": "Gekko",
+    "species": "G. gecko"
+  },
+  "classificationLabels": [
+    "reptile"
+  ],
+  "continents": [
+    "Asia",
+    "North America"
+  ],
+  "countries": [
+    "Thailand",
+    "Vietnam",
+    "Indonesia",
+    "India",
+    "Malaysia",
+    "Philippines",
+    "United States"
+  ],
+  "biomes": [
+    "tropical forest",
+    "rainforest",
+    "urban"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "insects",
+    "spiders",
+    "crickets",
+    "cockroaches",
+    "small rodents"
+  ],
+  "lifespan": {
+    "wild": "7 to 10 years",
+    "captivity": "Up to 15 years in proper terrariums"
+  },
+  "size": {
+    "lengthMin": "11 inches",
+    "lengthMax": "15 inches"
+  },
+  "weight": {
+    "min": "5 ounces",
+    "max": "10 ounces"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "nocturnal hunting",
+    "climbing",
+    "territorial defense",
+    "vocal barking",
+    "active hunting"
+  ],
+  "adaptations": [
+    "microscopic toe pads",
+    "detachable tail",
+    "vertical slit eyes",
+    "loud vocalizations",
+    "strong bite"
+  ],
+  "predators": [
+    "snakes",
+    "birds",
+    "cats",
+    "larger lizards"
+  ],
+  "prey": [
+    "insects",
+    "spiders",
+    "cockroaches",
+    "small rodents"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "90 to 120 days",
+    "offspringCount": "Usually 2 eggs"
+  },
+  "funFacts": [
+    "Tokay geckos are named after the loud, barking 'To-kay! To-kay!' sound that males make to attract mates and defend their territory.",
+    "Thanks to millions of microscopic hairs on their toe pads (called setae), Tokay geckos can stick to smooth glass ceilings and walk upside down!",
+    "When grabbed by a predator, a Tokay gecko can detach its tail to distract the enemy while it runs away. It will grow a new tail later!",
+    "Tokay geckos do not have eyelids; instead, they have a clear scale covering their eyes, which they keep clean by licking with their long tongues!",
+    "They have incredibly powerful jaws and a very strong bite—once a Tokay gecko bites down, it often refuses to let go!",
+    "Their night vision is 350 times more sensitive than human eyes, allowing them to see color even in pitch-black darkness."
+  ],
+  "faq": [
+    {
+      "question": "What is a Tokay gecko?",
+      "answer": "A Tokay gecko is a large, colorful lizard native to Southeast Asia, famous for its blue and orange skin and its loud, barking call."
+    },
+    {
+      "question": "How do they walk on ceilings?",
+      "answer": "Their toes are covered in millions of microscopic hairs that create a special molecular stickiness, allowing them to climb walls and ceilings easily."
+    },
+    {
+      "question": "Why do they bark?",
+      "answer": "Male Tokay geckos make a loud 'To-kay!' sound to mark their territory and warn other geckos to stay away, as well as to attract females."
+    },
+    {
+      "question": "What do they eat?",
+      "answer": "They are carnivores that eat insects, spiders, cockroaches, and occasionally small birds, rodents, or other lizards."
+    },
+    {
+      "question": "Do geckos have eyelids?",
+      "answer": "No, they do not have eyelids. They protect their eyes with a clear scale and lick their eyes with their tongue to clean off dust."
+    },
+    {
+      "question": "Can they regrow their tail?",
+      "answer": "Yes! If a predator grabs a gecko's tail, the tail drops off and wiggles to distract the predator while the gecko escapes. A new tail will slowly grow back."
+    }
+  ],
+  "relatedAnimals": [
+    "monarch-butterfly",
+    "honeybee",
+    "ruby-throated-hummingbird"
+  ],
+  "comparisonCandidates": [
+    "monarch-butterfly"
+  ],
+  "galleryIds": [
+    "tokay-gecko-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T15:32:46.000Z",
+  "publishedAt": "2026-06-24T15:32:46.000Z",
+  "habitat": "forest"
+}

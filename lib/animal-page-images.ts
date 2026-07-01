@@ -8,13 +8,20 @@ import type { AnimalImage, AnimalRecord } from "@/lib/types";
 
 export const MIN_GALLERY_IMAGES = 9;
 
+/** Hero is listed in gallery JSON but rendered separately; minimum unique gallery photos on the page. */
+export const MIN_GALLERY_PAGE_IMAGES = MIN_GALLERY_IMAGES - 1;
+
 export type AnimalPageImagePlan = {
   hero: AnimalImage;
   galleryImages: AnimalImage[];
   sectionImages: Record<string, AnimalImage>;
 };
 
-function resolveGalleryImages(animal: AnimalRecord, gallerySlug: string): AnimalImage[] {
+function resolveGalleryImages(
+  animal: AnimalRecord,
+  gallerySlug: string,
+  hero: AnimalImage,
+): AnimalImage[] {
   const gallery =
     animal.galleries.find((entry) => entry.slug === gallerySlug) ?? animal.galleries[0];
   const images: AnimalImage[] = [];
@@ -22,7 +29,14 @@ function resolveGalleryImages(animal: AnimalRecord, gallerySlug: string): Animal
 
   for (const slug of gallery?.imageSlugs ?? []) {
     const image = animal.images.find((entry) => entry.slug === slug);
-    if (!image || seenSrc.has(image.src)) continue;
+    if (
+      !image ||
+      seenSrc.has(image.src) ||
+      image.slug === hero.slug ||
+      image.src === hero.src
+    ) {
+      continue;
+    }
     images.push(image);
     seenSrc.add(image.src);
   }
@@ -64,7 +78,7 @@ export function planAnimalPageImages(
   gallerySlug = "gallery",
 ): AnimalPageImagePlan {
   const hero = getAnimalHeroImage(animal);
-  const galleryImages = resolveGalleryImages(animal, gallerySlug);
+  const galleryImages = resolveGalleryImages(animal, gallerySlug, hero);
   const gallerySrcs = new Set(galleryImages.map((image) => image.src));
   gallerySrcs.add(hero.src);
 
@@ -86,5 +100,6 @@ export function planAnimalPageImages(
 }
 
 export function getGallerySrcSet(animal: AnimalRecord, gallerySlug = "gallery"): Set<string> {
-  return new Set(resolveGalleryImages(animal, gallerySlug).map((image) => image.src));
+  const hero = getAnimalHeroImage(animal);
+  return new Set(resolveGalleryImages(animal, gallerySlug, hero).map((image) => image.src));
 }

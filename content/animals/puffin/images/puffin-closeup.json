@@ -1,0 +1,38 @@
+{
+  "id": "puffin-closeup",
+  "animalSlug": "puffin",
+  "slug": "puffin-closeup",
+  "fileName": "puffin-closeup-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A detailed close-up showing the physical features of a Atlantic Puffin",
+  "caption": "A close-up view reveals the intricate details of a Atlantic Puffin's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Boaworm via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Puffin_Latrabjarg_Iceland.jpg\">Boaworm</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_Latrabjarg_Iceland.jpg",
+    "creatorName": "Boaworm",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:34.389Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8c/Puffin_Latrabjarg_Iceland.jpg",
+  "updatedAt": "2026-06-25T15:08:34.389Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-closeup-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-closeup-01-1200.webp"
+  }
+}

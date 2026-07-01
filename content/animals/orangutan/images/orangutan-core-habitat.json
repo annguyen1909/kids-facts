@@ -2,10 +2,10 @@
   "id": "orangutan-core-habitat",
   "animalSlug": "orangutan",
   "slug": "orangutan-core-habitat",
-  "fileName": "Orangutan animal.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Orangutan_animal.jpg",
-  "width": 1326,
-  "height": 1825,
+  "fileName": "orangutan-core-habitat-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1652,
   "alt": "Orangutan moving through dense tropical forest canopy",
   "caption": "Tall rainforest trees give orangutans food, travel routes, and safe sleeping sites.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Orangutan_animal.jpg",
+  "updatedAt": "2026-06-25T15:04:17.875Z",
   "attributionText": "Photo by Amy2563 via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_animal.jpg\">Amy2563</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:17.875Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-core-habitat-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-core-habitat-01-1200.webp"
   }
 }

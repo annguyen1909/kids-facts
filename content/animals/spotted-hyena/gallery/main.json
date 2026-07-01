@@ -1,0 +1,22 @@
+{
+  "id": "spotted-hyena-gallery-main",
+  "animalSlug": "spotted-hyena",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Spotted Hyena Photo Gallery",
+  "metaTitle": "Spotted Hyena Photo Gallery",
+  "metaDescription": "Browse a spotted hyena photo gallery with wildlife photos.",
+  "intro": "Explore spotted hyena photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "spotted-hyena-hero",
+    "spotted-hyena-habitat",
+    "spotted-hyena-diet",
+    "spotted-hyena-baby",
+    "spotted-hyena-family",
+    "spotted-hyena-range",
+    "spotted-hyena-size",
+    "spotted-hyena-closeup",
+    "spotted-hyena-fun-fact"
+  ],
+  "updatedAt": "2026-06-28T09:42:10.891Z"
+}

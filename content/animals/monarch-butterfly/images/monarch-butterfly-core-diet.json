@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-diet",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-diet",
+  "fileName": "monarch-butterfly-core-diet-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 892,
+  "alt": "Close-up of a striped monarch caterpillar feeding on a green milkweed leaf",
+  "caption": "Monarch caterpillars eat milkweed leaf edges to feed and grow.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "United States",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_caterpillar_(23229).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_caterpillar_(23229).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:10.134Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/90/Monarch_caterpillar_%2823229%29.jpg",
+  "updatedAt": "2026-06-25T15:03:10.134Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-diet-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-diet-01-1200.webp"
+  }
+}

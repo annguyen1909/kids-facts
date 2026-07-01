@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-core-range",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-core-range",
+  "fileName": "lionfish-core-range-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Lionfish traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Rickard Zerpe via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_lionfish_(Pterois_volitans)_(44878672394).jpg\">Rickard Zerpe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_lionfish_(Pterois_volitans)_(44878672394).jpg",
+    "creatorName": "Rickard Zerpe",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:52.061Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Red_lionfish_%28Pterois_volitans%29_%2844878672394%29.jpg",
+  "updatedAt": "2026-06-25T15:01:52.061Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-core-range-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-core-range-01-1200.webp"
+  }
+}

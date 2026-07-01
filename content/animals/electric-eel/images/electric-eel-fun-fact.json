@@ -1,0 +1,38 @@
+{
+  "id": "electric-eel-fun-fact",
+  "animalSlug": "electric-eel",
+  "slug": "electric-eel-fun-fact",
+  "fileName": "electric-eel-fun-fact-01-1200.webp",
+  "src": "/images/animals/electric-eel/web/electric-eel-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Electric Eel showing a unique behavior or adaptation",
+  "caption": "Did you know that the Electric Eel has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by National Institute of Ecology via Wikimedia Commons, KOGL Type 1",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_4.jpg\">National Institute of Ecology</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">KOGL Type 1</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_4.jpg",
+    "creatorName": "National Institute of Ecology",
+    "licenseName": "KOGL Type 1",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:20:02.789Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified electric-eel image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Electrophorus_electricus_4.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Electrophorus_electricus_4.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Electrophorus_electricus_4.jpg",
+  "updatedAt": "2026-06-26T19:20:02.789Z",
+  "srcSet": {
+    "web1200": "/images/animals/electric-eel/web/electric-eel-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/electric-eel/thumbnails/electric-eel-fun-fact-01-400.webp",
+    "original": "/images/animals/electric-eel/web/electric-eel-fun-fact-01-1200.webp"
+  }
+}

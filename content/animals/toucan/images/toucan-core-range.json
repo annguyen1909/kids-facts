@@ -1,0 +1,38 @@
+{
+  "id": "toucan-core-range",
+  "animalSlug": "toucan",
+  "slug": "toucan-core-range",
+  "fileName": "toucan-core-range-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 829,
+  "alt": "A Toco Toucan traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Oliveira, Talita M. A.; Mesquita, Daniel O.; Tubelis, Dárius P. via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toco_toucan_eating_Amazon_lava.png\">Oliveira, Talita M. A.; Mesquita, Daniel O.; Tubelis, Dárius P.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toco_toucan_eating_Amazon_lava.png",
+    "creatorName": "Oliveira, Talita M. A.; Mesquita, Daniel O.; Tubelis, Dárius P.",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:20.024Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/68/Toco_toucan_eating_Amazon_lava.png",
+  "updatedAt": "2026-06-25T15:13:20.024Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-core-range-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-core-range-01-1200.webp"
+  }
+}

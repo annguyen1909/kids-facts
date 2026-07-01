@@ -2,10 +2,10 @@
   "id": "sea-turtle-family",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-family",
-  "fileName": "Green Sea Turtles at Ulua Reef (135173925).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Green_Sea_Turtles_at_Ulua_Reef_%28135173925%29.jpg",
-  "width": 2000,
-  "height": 1108,
+  "fileName": "sea-turtle-family-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-family-01-1200.webp",
+  "width": 1200,
+  "height": 665,
   "alt": "Several green sea turtles resting together on a reef",
   "caption": "Sea turtles usually live alone but may gather where food is plentiful.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Ulua Reef, Hawaii, USA",
-  "acquisitionNotes": "Manually curated sea turtle group image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Manually curated sea turtle group image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/88/Green_Sea_Turtles_at_Ulua_Reef_%28135173925%29.jpg",
+  "updatedAt": "2026-06-25T15:10:51.954Z",
   "attributionText": "Photo by LASZLO ILYES from Cleveland, Ohio, USA via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtles_at_Ulua_Reef_(135173925).jpg\">LASZLO ILYES from Cleveland, Ohio, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:51.954Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-family-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-family-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-family-01-1200.webp"
   }
 }

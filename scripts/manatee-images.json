@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Manatee photo.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Manatee in the wild",
+    "caption": "The Manatee is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Manatee with calf.PD - colour corrected.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manatee navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Manatee.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manatee finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Manatee.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Manatee trichechus manatus latirostris close up underwater photo.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Manatee showing early development",
+    "caption": "Baby Manatees must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Trichechus manatus Skull 1.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Manatees interacting with each other",
+    "caption": "While often solitary, some Manatees interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Trichechus manatus Skull.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manatee traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Trichechus manatus, NOAA.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Manatee",
+    "caption": "The size of a Manatee can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Cy manatee1a - FLORIDA MANATEE Trichechus manatus latirostris.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Manatee",
+    "caption": "A close-up view reveals the intricate details of a Manatee's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Trichechus manatus manatus antilean mantage animal.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manatee showing a unique behavior or adaptation",
+    "caption": "Did you know that the Manatee has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Aquatic mammals manatee trichechus manatus latirostris.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manatee navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Two west Indian manatee trichechus manatus nuzzling noses together.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manatee finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Manatee.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Trichechus manatus fg02.JPG",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Manatees interacting with each other",
+    "caption": "While often solitary, some Manatees interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Karibik-Manati (Trichechus manatus).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Manatee showing early development",
+    "caption": "Baby Manatees must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Two west Indian manatee trichechus manatus foraging for food.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manatee traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

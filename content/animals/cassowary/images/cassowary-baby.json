@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-baby",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-baby",
+  "fileName": "cassowary-baby-01-1200.webp",
+  "alt": "A young or baby Cassowary showing early development",
+  "caption": "Baby Cassowarys must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1453,
+  "attributionText": "Photo by 22Kartika via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary,_Kasuari_(Casuarius_casuarius).jpg\">22Kartika</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary,_Kasuari_(Casuarius_casuarius).jpg",
+    "creatorName": "22Kartika",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:53.829Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b7/Double-wattled_Cassowary%2C_Kasuari_%28Casuarius_casuarius%29.jpg",
+  "updatedAt": "2026-06-26T08:15:53.829Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-baby-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-baby-01-1200.webp"
+  }
+}

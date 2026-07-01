@@ -1,0 +1,38 @@
+{
+  "id": "walrus-diet",
+  "animalSlug": "walrus",
+  "slug": "walrus-diet",
+  "fileName": "walrus-diet-01-1200.webp",
+  "alt": "Close-up of a walrus head showing thick whiskers above the water",
+  "caption": "Walruses use their sensitive whiskers to feel for clams and shellfish on the dark seabed.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Arctic",
+  "src": "/images/animals/walrus/web/walrus-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Close_up_of_head_of_young_bull_walrus_marine_mammal_in_water_odobenus_rosmarus.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close_up_of_head_of_young_bull_walrus_marine_mammal_in_water_odobenus_rosmarus.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:10.551Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Close_up_of_head_of_young_bull_walrus_marine_mammal_in_water_odobenus_rosmarus.jpg",
+  "updatedAt": "2026-06-28T10:03:10.551Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-diet-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-diet-01-1200.webp"
+  }
+}

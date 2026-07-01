@@ -2,10 +2,10 @@
   "id": "leopard-fun-fact",
   "animalSlug": "leopard",
   "slug": "leopard-fun-fact",
-  "fileName": "Leopards (Panthera pardus) female and cub with prey in a tree ... (52345038493).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Leopards_%28Panthera_pardus%29_female_and_cub_with_prey_in_a_tree_..._%2852345038493%29.jpg",
-  "width": 4147,
-  "height": 2662,
+  "fileName": "leopard-fun-fact-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 770,
   "alt": "Leopard with cub and prey stored high in a tree",
   "caption": "Leopards often drag heavy prey into trees to keep it safe from hyenas and lions.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African woodland",
-  "acquisitionNotes": "Manually curated leopard fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Manually curated leopard fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/Leopards_%28Panthera_pardus%29_female_and_cub_with_prey_in_a_tree_..._%2852345038493%29.jpg",
+  "updatedAt": "2026-06-25T15:01:12.169Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopards_(Panthera_pardus)_female_and_cub_with_prey_in_a_tree_..._(52345038493).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:12.169Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-fun-fact-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-fun-fact-01-1200.webp"
   }
 }

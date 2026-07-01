@@ -1,0 +1,38 @@
+{
+  "id": "firefly-closeup",
+  "animalSlug": "firefly",
+  "slug": "firefly-closeup",
+  "fileName": "firefly-closeup-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-closeup-01-1200.webp",
+  "width": 1165,
+  "height": 986,
+  "alt": "A detailed close-up showing the physical features of a Firefly",
+  "caption": "A close-up view reveals the intricate details of a Firefly's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by art farmer from evansville indiana, usa via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_4.jpg\">art farmer from evansville indiana, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_4.jpg",
+    "creatorName": "art farmer from evansville indiana, usa",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:52:53.757Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f1/Photinus_pyralis_Firefly_4.jpg",
+  "updatedAt": "2026-06-25T14:52:53.757Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-closeup-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-closeup-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-fun-fact",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-fun-fact",
+  "fileName": "luna-moth-fun-fact-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1148,
+  "alt": "A Luna Moth showing a unique behavior or adaptation",
+  "caption": "Did you know that the Luna Moth has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by James St. John via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Actias_luna_(luna_moth)_(17257003162).jpg\">James St. John</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actias_luna_(luna_moth)_(17257003162).jpg",
+    "creatorName": "James St. John",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:18.957Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/Actias_luna_%28luna_moth%29_%2817257003162%29.jpg",
+  "updatedAt": "2026-06-25T15:02:18.957Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-fun-fact-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-fun-fact-01-1200.webp"
+  }
+}

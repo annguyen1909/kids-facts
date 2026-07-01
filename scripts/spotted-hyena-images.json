@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Spotted hyena (Crocuta crocuta).jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "Spotted hyena standing alert in dry grassland in Namibia",
+    "caption": "Spotted hyenas have sandy fur covered in dark spots and strong, sloping shoulders.",
+    "location": "Etosha National Park, Namibia"
+  },
+  "habitat": {
+    "fileTitle": "File:Hiena manchada (Crocuta crocuta), parque nacional de Tarangire, Tanzania, 2024-05-25, DD 25.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "Spotted hyena walking through open savanna grass in Tanzania",
+    "caption": "Spotted hyenas live across African savannas, woodlands, and dry country south of the Sahara.",
+    "location": "Tarangire National Park, Tanzania"
+  },
+  "diet": {
+    "fileTitle": "File:Hyena with kill.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "Spotted hyena standing over its prey in green grassland",
+    "caption": "Hyenas are carnivores that both hunt their own prey and scavenge kills from other animals.",
+    "location": "Naboisho Conservancy, Kenya"
+  },
+  "baby": {
+    "fileTitle": "File:Spotted Hyaena (Crocuta crocuta) cub (33067273612).jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "Dark-furred spotted hyena cub resting near its den",
+    "caption": "Hyena cubs are born with black fur and grow up in safe underground dens.",
+    "location": "Kruger National Park, South Africa"
+  },
+  "family": {
+    "fileTitle": "File:Spotted Hyaenas (Crocuta crocuta) female with cub ... (50332449498).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Mother spotted hyena standing with her cub in the wild",
+    "caption": "Spotted hyenas live in large family groups called clans that are led by females.",
+    "location": "Kruger National Park, South Africa"
+  },
+  "range": {
+    "fileTitle": "File:Hiena manchada (Crocuta crocuta), reserva natural Masái Mara, Kenia, 2024-05-19, DD 52.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "Spotted hyena on the open grassland of the Masai Mara, Kenya",
+    "caption": "Spotted hyenas range widely across sub-Saharan Africa, from East Africa to the south.",
+    "location": "Masai Mara, Kenya"
+  },
+  "size": {
+    "fileTitle": "File:Crocuta crocuta - Etosha 2015.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "Full body side view of a spotted hyena standing in Etosha",
+    "caption": "Adult spotted hyenas stand about knee-high to a person and can weigh up to 80 kilograms.",
+    "location": "Etosha National Park, Namibia"
+  },
+  "closeup": {
+    "fileTitle": "File:Portrait of spotted hyena.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a spotted hyena's face, rounded ears, and eyes",
+    "caption": "Powerful jaws and big teeth let hyenas crush bones that other predators leave behind.",
+    "location": "Africa"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Ngorongoro Conservation Area 02 - Spotted hyenas (Crocuta crocuta).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "Group of spotted hyenas resting together in Ngorongoro, Tanzania",
+    "caption": "Spotted hyenas 'laugh' with giggle-like calls that share excitement across the clan.",
+    "location": "Ngorongoro Conservation Area, Tanzania"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Hiena manchada (Crocuta crocuta), parque nacional de Tarangire, Tanzania, 2024-05-25, DD 26.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "Spotted hyena in golden savanna grass at Tarangire, Tanzania",
+    "caption": "Open grasslands give hyenas room to find prey and follow other hunting animals.",
+    "location": "Tarangire National Park, Tanzania"
+  },
+  "core-diet": {
+    "fileTitle": "File:Spotted Hyaena (Crocuta crocuta) eating some bird remains ... (51858022174).jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "Spotted hyena feeding on small prey remains in the grass",
+    "caption": "Strong jaws and teeth let a hyena eat meat and crack bones other animals leave behind.",
+    "location": "Kruger National Park, South Africa"
+  },
+  "core-baby": {
+    "fileTitle": "File:Spotted Hyaena (Crocuta crocuta) cub (32409007053).jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "Young spotted hyena cub sitting on a dirt track",
+    "caption": "Cubs stay close to the den for months while the clan helps keep them safe.",
+    "location": "Kruger National Park, South Africa"
+  },
+  "core-family": {
+    "fileTitle": "File:Spotted Hyaenas (Crocuta crocuta) adult and cub ... (33224607536).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Adult spotted hyena beside a young cub in the wild",
+    "caption": "Young hyenas learn their clan's ranks and rules by watching the adults around them.",
+    "location": "Kruger National Park, South Africa"
+  },
+  "core-range": {
+    "fileTitle": "File:Hiena manchada (Crocuta crocuta), parque nacional Serengueti, Tanzania, 2024-05-26, DD 24.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "Spotted hyena crossing the Serengeti grassland in Tanzania",
+    "caption": "Hyenas travel long distances across their home range to find food and water.",
+    "location": "Serengeti National Park, Tanzania"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-diet",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-diet",
+  "fileName": "giant-anteater-diet-01-1200.webp",
+  "alt": "Close-up of a giant anteater pressing its long snout to the ground to feed",
+  "caption": "An anteater pokes its narrow snout into nests and laps up ants and termites with a sticky tongue.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Jairmoreirafotografia via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grande_comedor_de_formigas.jpg\">Jairmoreirafotografia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grande_comedor_de_formigas.jpg",
+    "creatorName": "Jairmoreirafotografia",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:37.611Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/Grande_comedor_de_formigas.jpg",
+  "updatedAt": "2026-06-28T10:16:37.611Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-diet-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-diet-01-1200.webp"
+  }
+}

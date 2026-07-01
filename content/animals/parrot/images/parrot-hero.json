@@ -2,10 +2,10 @@
   "id": "parrot-hero",
   "animalSlug": "parrot",
   "slug": "parrot-hero",
-  "fileName": "Scarlet macaw (Ara macao macao) Yasuni.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Scarlet_macaw_%28Ara_macao_macao%29_Yasuni.jpg",
-  "width": 3668,
-  "height": 2446,
+  "fileName": "parrot-hero-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Scarlet macaw perched in Amazon rainforest habitat",
   "caption": "Scarlet macaws are large, colorful parrots of Central and South American rainforests.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:00.273Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Yasuní, Ecuador",
-  "acquisitionNotes": "Manually curated scarlet macaw hero image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z"
+  "acquisitionNotes": "Manually curated scarlet macaw hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4a/Scarlet_macaw_%28Ara_macao_macao%29_Yasuni.jpg",
+  "updatedAt": "2026-06-25T15:06:00.273Z",
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-hero-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-hero-01-1200.webp"
+  }
 }

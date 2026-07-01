@@ -1,0 +1,138 @@
+{
+  "id": "animal-praying-mantis",
+  "slug": "praying-mantis",
+  "name": "Praying Mantis",
+  "commonNames": [
+    "Praying Mantis",
+    "European Mantis",
+    "Mantis"
+  ],
+  "scientificName": "Mantis religiosa",
+  "summary": "The praying mantis is a fascinating predatory insect known for its 'praying' front legs, huge eyes, and incredible hunting skills. They are masters of camouflage, blending into leaves and twigs to surprise their prey.",
+  "heroTitle": "Praying Mantis Facts",
+  "metaTitle": "Praying Mantis Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Praying mantis facts for kids with photos, habitat, diet, behavior, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "praying mantis facts",
+    "what do praying mantises eat",
+    "where do praying mantises live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Mantodea",
+    "family": "Mantidae",
+    "genus": "Mantis",
+    "species": "M. religiosa"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "grassland",
+  "continents": [
+    "Europe",
+    "Asia",
+    "Africa",
+    "North America"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United States",
+    "Canada",
+    "Italy",
+    "Spain",
+    "Greece",
+    "Japan",
+    "China",
+    "Turkey"
+  ],
+  "biomes": [
+    "grassland",
+    "temperate-forest",
+    "tropical-forest",
+    "shrubland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Flies",
+    "Crickets",
+    "Moths",
+    "Grasshoppers",
+    "Caterpillars"
+  ],
+  "lifespan": {
+    "wild": "1 year"
+  },
+  "size": {
+    "lengthMin": "5 cm",
+    "lengthMax": "8 cm"
+  },
+  "weight": {
+    "min": "1 g",
+    "max": "5 g"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "ambush hunting",
+    "camouflage",
+    "solitary",
+    "360-degree head rotation"
+  ],
+  "adaptations": [
+    "raptorial front legs",
+    "large compound eyes",
+    "blending coloration",
+    "wings for flight"
+  ],
+  "predators": [
+    "Birds",
+    "Frogs",
+    "Lizards",
+    "Spiders",
+    "Bats"
+  ],
+  "prey": [
+    "Flies",
+    "Bees",
+    "Moths",
+    "Crickets",
+    "Grasshoppers"
+  ],
+  "reproduction": {
+    "offspringName": "nymph",
+    "gestationOrIncubation": "3–6 months (winter egg stage)",
+    "offspringCount": "100–300"
+  },
+  "funFacts": [
+    "Praying mantises are the only insects that can turn their heads a full 180 degrees to look behind them!",
+    "Their front legs are armed with sharp spikes that lock prey into place so they cannot escape.",
+    "A mantis has a single ear located on the underside of its belly, which it uses to detect the ultrasound of hunting bats.",
+    "They are masters of disguise, mimicking green leaves, dry brown twigs, or even flowers to hide from predators.",
+    "A female mantis lays her eggs in a frothy foam that hardens into a tough paper-like case called an ootheca.",
+    "Praying mantises have 5 eyes: two large compound eyes on the sides and three tiny simple eyes in the middle of their head."
+  ],
+  "faq": [
+    {
+      "question": "What is a praying mantis?",
+      "answer": "A praying mantis is a predatory insect known for its long body, large triangular head, and powerful front legs folded in a 'praying' position. They are famous for their excellent camouflage and hunting skills."
+    },
+    {
+      "question": "Where do praying mantises live?",
+      "answer": "Praying mantises live in warm regions worldwide, including Europe, Asia, Africa, and North America. They are commonly found in gardens, meadows, grasslands, and forests, hiding on green leaves or brown twigs."
+    },
+    {
+      "question": "What do praying mantises eat?",
+      "answer": "Praying mantises are carnivores that eat other insects such as flies, crickets, grasshoppers, moths, and bees. Larger mantises have even been known to catch tiny frogs, lizards, or hummingbirds!"
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "praying-mantis-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z",
+  "publishedAt": "2026-06-24T22:50:00.000Z"
+}

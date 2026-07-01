@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-diet",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-diet",
+  "fileName": "narwhal-diet-01-1200.webp",
+  "alt": "A Narwhal finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Narwhal.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-diet-01-1200.webp",
+  "width": 1200,
+  "height": 283,
+  "attributionText": "Photo by NOAA United States. National Marine Fisheries Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monodon_monoceros_NOAA.jpg\">NOAA United States. National Marine Fisheries Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monodon_monoceros_NOAA.jpg",
+    "creatorName": "NOAA United States. National Marine Fisheries Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:06:06.369Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c2/Monodon_monoceros_NOAA.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c2/Monodon_monoceros_NOAA.jpg",
+  "updatedAt": "2026-06-26T19:06:06.369Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-diet-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-diet-01-1200.webp"
+  }
+}

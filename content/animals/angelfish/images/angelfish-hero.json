@@ -2,23 +2,23 @@
   "id": "angelfish-hero",
   "animalSlug": "angelfish",
   "slug": "angelfish-hero",
-  "fileName": "Pez ángel emperador (Pomacanthus imperator), mar Rojo, Egipto, 2023-04-17, DD 104.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_104.jpg",
-  "width": 5405,
-  "height": 3603,
+  "fileName": "angelfish-hero-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Adult emperor angelfish with bold blue and yellow stripes on a reef",
   "caption": "Emperor angelfish are among the most colorful fish on tropical coral reefs.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_104.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_mar_Rojo,_Egipto,_2023-04-17,_DD_104.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_104.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_mar_Rojo,_Egipto,_2023-04-17,_DD_104.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:54.154Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Red Sea, Egypt",
-  "acquisitionNotes": "Manually curated emperor angelfish hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:20.375Z"
+  "acquisitionNotes": "Manually curated emperor angelfish hero image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cf/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_104.jpg",
+  "updatedAt": "2026-06-25T14:48:54.154Z",
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-hero-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-hero-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-habitat",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-habitat",
+  "fileName": "mandrill-habitat-01-1200.webp",
+  "alt": "A Mandrill sitting on the ground in its natural forest understory environment",
+  "caption": "Mandrills live in tropical rainforests, dense woodlands, and swamp forests of equatorial Africa.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Equatorial Africa",
+  "src": "/images/animals/mandrill/web/mandrill-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "attributionText": "Photo by Ryan E. Poplin via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrill.jpg\">Ryan E. Poplin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrill.jpg",
+    "creatorName": "Ryan E. Poplin",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:25:56.791Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandrill.jpg",
+  "updatedAt": "2026-06-26T08:25:56.791Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-habitat-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-habitat-01-1200.webp"
+  }
+}

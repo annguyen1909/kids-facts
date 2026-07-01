@@ -2,10 +2,10 @@
   "id": "dolphin-family",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-family",
-  "fileName": "Common_bottlenose_dolphins_(Tursiops_truncatus)_Sagres.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Common_bottlenose_dolphins_%28Tursiops_truncatus%29_Sagres.jpg",
-  "width": 4231,
-  "height": 2116,
+  "fileName": "dolphin-family-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-family-01-1200.webp",
+  "width": 1200,
+  "height": 600,
   "alt": "Pod of common bottlenose dolphins swimming together off Sagres, Portugal",
   "caption": "Dolphins live in social groups called pods that cooperate, play, and travel together.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:41.758Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Sagres, Portugal",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Common_bottlenose_dolphins_%28Tursiops_truncatus%29_Sagres.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Common_bottlenose_dolphins_%28Tursiops_truncatus%29_Sagres.jpg",
+  "updatedAt": "2026-07-01T12:33:41.758Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-family-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-family-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-family-01-1200.webp"
+  }
 }

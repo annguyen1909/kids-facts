@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-size",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-size",
+  "fileName": "shoebill-size-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-size-01-1200.webp",
+  "width": 1200,
+  "height": 1480,
+  "alt": "Full body shot of a tall shoebill showing its massive vertical standing height",
+  "caption": "Adult shoebills can stand up to 5 feet (150 cm) tall with a wingspan over 7 feet.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Weltvogelpark Walsrode",
+  "acquisitionNotes": "Manually curated shoebill size image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f1/Schuhschnabel_Weltvogelpark_Walsrode_2014.jpg",
+  "updatedAt": "2026-06-29T07:22:10.050Z",
+  "attributionText": "Photo by Tuxyso via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Schuhschnabel_Weltvogelpark_Walsrode_2014.jpg\">Tuxyso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schuhschnabel_Weltvogelpark_Walsrode_2014.jpg",
+    "creatorName": "Tuxyso",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:10.050Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-size-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-size-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-size-01-1200.webp"
+  }
+}

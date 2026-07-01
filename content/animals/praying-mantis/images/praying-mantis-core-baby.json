@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-core-baby",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-core-baby",
+  "fileName": "praying-mantis-core-baby-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "alt": "A tiny newly hatched mantis nymph climbing a green plant stem",
+  "caption": "Hundreds of tiny nymphs hatch from a single ootheca in spring.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Italy",
+  "attributionText": "Photo by Maurizio Carlini via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mantide_religiosa_1.jpg\">Maurizio Carlini</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantide_religiosa_1.jpg",
+    "creatorName": "Maurizio Carlini",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:05.250Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/89/Mantide_religiosa_1.jpg",
+  "updatedAt": "2026-06-25T15:08:05.250Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-core-baby-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-core-baby-01-1200.webp"
+  }
+}

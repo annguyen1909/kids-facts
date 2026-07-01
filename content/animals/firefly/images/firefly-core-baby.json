@@ -1,0 +1,38 @@
+{
+  "id": "firefly-core-baby",
+  "animalSlug": "firefly",
+  "slug": "firefly-core-baby",
+  "fileName": "firefly-core-baby-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 696,
+  "alt": "A young or baby Firefly showing early development",
+  "caption": "Baby Fireflys must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Jmazzucca via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Active_Site_of_Photinus_pyralis_luciferase.jpg\">Jmazzucca</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Active_Site_of_Photinus_pyralis_luciferase.jpg",
+    "creatorName": "Jmazzucca",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:52:53.986Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/Active_Site_of_Photinus_pyralis_luciferase.jpg",
+  "updatedAt": "2026-06-25T14:52:53.986Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-core-baby-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-core-baby-01-1200.webp"
+  }
+}

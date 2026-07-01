@@ -9,7 +9,11 @@ import { buildComparisonMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema, buildComparisonSchema } from "@/lib/schema";
 import { disabledFeatureRobots, siteFeatures } from "@/lib/site-features";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
+  if (!siteFeatures.compare) return [];
+
   return getAllComparisons().flatMap(({ comparison, pages }) =>
     pages
       .filter((page) => page.slug !== "overview")
@@ -25,6 +29,10 @@ export async function generateMetadata({
 }: {
   params: Promise<{ comparisonSlug: string; comparisonPageSlug: string }>;
 }): Promise<Metadata> {
+  if (!siteFeatures.compare) {
+    return { robots: disabledFeatureRobots };
+  }
+
   const { comparisonSlug, comparisonPageSlug } = await params;
   const resolved = resolveComparisonRoute(comparisonSlug, comparisonPageSlug);
   return resolved?.type === "comparison"
@@ -40,6 +48,8 @@ export default async function ComparisonDetailPage({
 }: {
   params: Promise<{ comparisonSlug: string; comparisonPageSlug: string }>;
 }) {
+  if (!siteFeatures.compare) notFound();
+
   const { comparisonSlug, comparisonPageSlug } = await params;
   const resolved = resolveComparisonRoute(comparisonSlug, comparisonPageSlug);
   if (!resolved || resolved.type !== "comparison") notFound();
@@ -81,13 +91,13 @@ export default async function ComparisonDetailPage({
           { label: resolved.page.title },
         ]}
       />
-      <section className="mt-6 rounded-lg border border-slate-200 bg-white p-8">
-        <h1 className="text-5xl font-extrabold tracking-tight text-slate-950">
+      <section className="mt-6 rounded-[2rem] border border-[var(--line)] bg-white p-8 shadow-[var(--shadow)]">
+        <h1 className="text-5xl font-extrabold tracking-tight text-[var(--forest-deep)]">
           {resolved.page.title}
         </h1>
-        <p className="mt-4 text-lg leading-8 text-slate-600">{resolved.page.intro}</p>
+        <p className="mt-4 text-lg leading-8 text-[var(--muted)]">{resolved.page.intro}</p>
       </section>
-      <section className="mt-10 rounded-lg border border-slate-200 bg-white p-8">
+      <section className="mt-10 rounded-[2rem] border border-[var(--line)] bg-white p-8 shadow-[var(--shadow)]">
         <MdxArticle source={resolved.page.body} />
       </section>
     </div>

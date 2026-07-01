@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-core-diet",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-core-diet",
+  "fileName": "tasmanian-devil-core-diet-01-1200.webp",
+  "alt": "A Tasmanian Devil finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Tasmanian Devil.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-diet-01-1200.webp",
+  "width": 1003,
+  "height": 464,
+  "attributionText": "Photo by Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Karyotype_of_Tasmanian_devil_(Sarcophilus_Harrisii).png\">Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karyotype_of_Tasmanian_devil_(Sarcophilus_Harrisii).png",
+    "creatorName": "Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:35.431Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0e/Karyotype_of_Tasmanian_devil_%28Sarcophilus_Harrisii%29.png",
+  "updatedAt": "2026-06-26T08:17:35.431Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-core-diet-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-diet-01-1200.webp"
+  }
+}

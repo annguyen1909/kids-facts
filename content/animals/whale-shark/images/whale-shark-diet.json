@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-diet",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-diet",
+  "fileName": "whale-shark-diet-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A whale shark feeding with its massive mouth wide open to filter plankton",
+  "caption": "Despite their size, whale sharks are gentle filter feeders that eat tiny plankton and krill.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "La Paz, Mexico",
+  "attributionText": "Photo by Matthew T Rader via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Whale_Shark_(Rhincodon_typus)_with_open_mouth_in_La_Paz,_Mexico.jpg\">Matthew T Rader</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whale_Shark_(Rhincodon_typus)_with_open_mouth_in_La_Paz,_Mexico.jpg",
+    "creatorName": "Matthew T Rader",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:09.219Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Whale_Shark_%28Rhincodon_typus%29_with_open_mouth_in_La_Paz%2C_Mexico.jpg",
+  "updatedAt": "2026-06-25T15:14:09.219Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-diet-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-diet-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-core-diet",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-core-diet",
+  "fileName": "whale-shark-core-diet-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A whale shark sucking in water and filtering out food",
+  "caption": "They can filter over 1,500 gallons of water every hour to catch tiny prey.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Cebu, Philippines",
+  "attributionText": "Photo by Don McCulley via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus,_whale_shark_IMG_7075.jpg\">Don McCulley</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus,_whale_shark_IMG_7075.jpg",
+    "creatorName": "Don McCulley",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:05.613Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f0/Rhincodon_typus%2C_whale_shark_IMG_7075.jpg",
+  "updatedAt": "2026-06-25T15:14:05.613Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-core-diet-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-core-diet-01-1200.webp"
+  }
+}

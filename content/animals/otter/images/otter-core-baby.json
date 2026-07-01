@@ -2,10 +2,10 @@
   "id": "otter-core-baby",
   "animalSlug": "otter",
   "slug": "otter-core-baby",
-  "fileName": "A newborn baby Sea Otter, Enhydra lutris, Morro Bay.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg",
-  "width": 4979,
-  "height": 3319,
+  "fileName": "otter-core-baby-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Very young sea otter pup floating at the surface",
   "caption": "A newborn sea otter pup floats because its fur traps so much air.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Morro Bay, California",
-  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg",
+  "updatedAt": "2026-06-25T15:05:10.618Z",
   "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter%2C_Enhydra_lutris%2C_Morro_Bay.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg",
     "creatorName": "Mike Baird from Morro Bay, USA",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:10.618Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-core-baby-01-400.webp",
+    "original": "/images/animals/otter/web/otter-core-baby-01-1200.webp"
   }
 }

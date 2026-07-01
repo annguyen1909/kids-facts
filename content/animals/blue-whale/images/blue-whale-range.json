@@ -2,10 +2,10 @@
   "id": "blue-whale-range",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-range",
-  "fileName": "Antarctic blue whale.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antarctic_blue_whale.jpg",
-  "width": 3504,
-  "height": 2336,
+  "fileName": "blue-whale-range-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Blue whale swimming in icy Antarctic waters near the surface",
   "caption": "Blue whales migrate between polar feeding areas and warmer breeding waters worldwide.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Antarctica",
-  "acquisitionNotes": "Manually curated blue whale range image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/83/Antarctic_blue_whale.jpg",
+  "updatedAt": "2026-06-25T14:49:17.481Z",
   "attributionText": "Photo by photo by Paul Ensor, with support from Canon New Zealand Community Sponsorship Programme. Oregon State University via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Antarctic_blue_whale.jpg\">photo by Paul Ensor, with support from Canon New Zealand Community Sponsorship Programme. Oregon State University</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:17.481Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-range-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-range-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-range-01-1200.webp"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "id": "cicada-gallery-main",
+  "animalSlug": "cicada",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Cicada Photo Gallery",
+  "metaTitle": "Cicada Photo Gallery",
+  "metaDescription": "Browse a cicada photo gallery with wildlife photos.",
+  "intro": "Explore cicada photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "cicada-hero",
+    "cicada-habitat",
+    "cicada-diet",
+    "cicada-baby",
+    "cicada-family",
+    "cicada-range",
+    "cicada-size",
+    "cicada-closeup",
+    "cicada-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

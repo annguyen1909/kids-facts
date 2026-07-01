@@ -2,8 +2,8 @@
   "id": "kangaroo-habitat",
   "animalSlug": "kangaroo",
   "slug": "kangaroo-habitat",
-  "fileName": "Kangaroos grazing.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kangaroos_grazing.jpg",
+  "fileName": "kangaroo-habitat-01-1200.webp",
+  "src": "/images/animals/kangaroo/web/kangaroo-habitat-01-1200.webp",
   "width": 1024,
   "height": 682,
   "alt": "Kangaroos grazing on open Australian grassland",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Manually curated kangaroo habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "acquisitionNotes": "Manually curated kangaroo habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/95/Kangaroos_grazing.jpg",
+  "updatedAt": "2026-06-25T14:59:05.849Z",
   "attributionText": "Photo by RedGazelle15 via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kangaroos_grazing.jpg\">RedGazelle15</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:10.468Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:05.849Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kangaroo/web/kangaroo-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/kangaroo/thumbnails/kangaroo-habitat-01-400.webp",
+    "original": "/images/animals/kangaroo/web/kangaroo-habitat-01-1200.webp"
   }
 }

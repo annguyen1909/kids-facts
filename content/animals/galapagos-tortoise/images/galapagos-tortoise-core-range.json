@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-core-range",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-core-range",
+  "fileName": "galapagos-tortoise-core-range-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 745,
+  "alt": "A giant tortoise moving along a dirt path",
+  "caption": "They follow well-defined paths through the islands' volcanic terrain.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Simon Tonge via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_13470370.jpg\">Simon Tonge</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_13470370.jpg",
+    "creatorName": "Simon Tonge",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:54:33.803Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f4/Chelonoidis_vandenburghi_13470370.jpg",
+  "updatedAt": "2026-06-25T14:54:33.803Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-core-range-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-range-01-1200.webp"
+  }
+}

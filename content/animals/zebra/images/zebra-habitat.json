@@ -2,10 +2,10 @@
   "id": "zebra-habitat",
   "animalSlug": "zebra",
   "slug": "zebra-habitat",
-  "fileName": "Masai Plains Zebra (8455653534).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Plains_Zebra_%288455653534%29.jpg",
-  "width": 3072,
-  "height": 2304,
+  "fileName": "zebra-habitat-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Zebra standing in dry savanna habitat",
   "caption": "Zebras thrive in open habitat with grass to graze and room to run.",
   "attributionText": "Photo by shankar s. from Dubai, united arab emirates via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:18.676Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated zebra habitat image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z"
+  "acquisitionNotes": "Manually curated zebra habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Plains_Zebra_%288455653534%29.jpg",
+  "updatedAt": "2026-06-25T15:15:18.676Z",
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-habitat-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-habitat-01-1200.webp"
+  }
 }

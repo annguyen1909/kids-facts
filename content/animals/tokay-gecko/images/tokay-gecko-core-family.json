@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-core-family",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-core-family",
+  "fileName": "tokay-gecko-core-family-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Adult Tokay gecko clinging vertically to wood",
+  "caption": "Tokay geckos communicate with loud 'To-kay' barking calls to defend territory.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Spain",
+  "attributionText": "Photo by Gerard Chartier via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gekko_gecko_192144834.jpg\">Gerard Chartier</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_192144834.jpg",
+    "creatorName": "Gerard Chartier",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:06.445Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tokay gecko image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/86/Gekko_gecko_192144834.jpg",
+  "updatedAt": "2026-06-25T15:13:06.445Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-core-family-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-core-family-01-1200.webp"
+  }
+}

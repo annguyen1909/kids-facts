@@ -2,10 +2,10 @@
   "id": "raccoon-closeup",
   "animalSlug": "raccoon",
   "slug": "raccoon-closeup",
-  "fileName": "Raccoon (Procyon lotor) 3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Raccoon_%28Procyon_lotor%29_3.jpg",
-  "width": 1280,
-  "height": 840,
+  "fileName": "raccoon-closeup-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 788,
   "alt": "Close-up of a raccoon face and front paws",
   "caption": "Raccoons have sensitive front paws that help them feel and grab food.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated raccoon close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Manually curated raccoon close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Raccoon_%28Procyon_lotor%29_3.jpg",
+  "updatedAt": "2026-06-25T15:08:48.193Z",
   "attributionText": "Photo by Darkone ( talk · contribs ) via Wikimedia Commons, CC BY-SA 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_3.jpg\">Darkone ( talk · contribs )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:48.193Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-closeup-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-closeup-01-1200.webp"
   }
 }

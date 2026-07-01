@@ -1,0 +1,39 @@
+{
+  "id": "honeybee-baby",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-baby",
+  "fileName": "honeybee-baby-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-baby-01-1200.webp",
+  "width": 1200,
+  "height": 692,
+  "alt": "C-shaped white honey bee larvae resting inside hexagonal wax cells",
+  "caption": "Baby bees, called larvae, look like small white worms and live inside wax cells.",
+  "attributionText": "Photo by Monika Fischer via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Apis_mellifera_Bee_brood.jpg\">Monika Fischer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Bee_brood.jpg",
+    "creatorName": "Monika Fischer",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:13.858Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Germany",
+  "acquisitionNotes": "Manually verified honeybee image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cc/Apis_mellifera_Bee_brood.jpg",
+  "updatedAt": "2026-06-25T14:58:13.858Z",
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-baby-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-baby-01-1200.webp"
+  }
+}

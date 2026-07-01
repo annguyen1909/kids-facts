@@ -2,10 +2,10 @@
   "id": "pufferfish-core-habitat",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-core-habitat",
-  "fileName": "Tetraodontidae Arothron meleagris 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Tetraodontidae_Arothron_meleagris_1.jpg",
-  "width": 2491,
-  "height": 1868,
+  "fileName": "pufferfish-core-habitat-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Guinea fowl pufferfish over tropical reef habitat",
   "caption": "Healthy coral reefs give pufferfish food, shelter, and places to hide.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set.",
-  "updatedAt": "2026-06-24T10:01:10.621Z",
+  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Tetraodontidae_Arothron_meleagris_1.jpg",
+  "updatedAt": "2026-06-25T15:08:24.346Z",
   "attributionText": "Photo by NasserHalaweh via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tetraodontidae_Arothron_meleagris_1.jpg\">NasserHalaweh</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:24.346Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-core-habitat-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-core-habitat-01-1200.webp"
   }
 }

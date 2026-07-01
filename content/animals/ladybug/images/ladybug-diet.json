@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-diet",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-diet",
+  "fileName": "ladybug-diet-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-diet-01-1200.webp",
+  "width": 1200,
+  "height": 986,
+  "alt": "A ladybug devouring tiny green aphids on a plant stem",
+  "caption": "Ladybugs are active carnivores that eat aphids and other plant-damaging pests.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Plant City, Florida, USA",
+  "attributionText": "Photo by DAVID S. FERRY III from PLANT CITY,FL., U.S.A. via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ladybug_eating_aphids._(49485764276).jpg\">DAVID S. FERRY III from PLANT CITY,FL., U.S.A.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ladybug_eating_aphids._(49485764276).jpg",
+    "creatorName": "DAVID S. FERRY III from PLANT CITY,FL., U.S.A.",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:00:29.353Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Ladybug_eating_aphids._%2849485764276%29.jpg",
+  "updatedAt": "2026-06-25T15:00:29.353Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-diet-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-diet-01-1200.webp"
+  }
+}

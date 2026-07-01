@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-size",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-size",
+  "fileName": "axolotl-size-01-1200.webp",
+  "alt": "A photo showing the size of a Axolotl",
+  "caption": "The size of a Axolotl can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Monika Korzeniec via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:6_maja_06_r._ZOO_204.jpg\">Monika Korzeniec</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:6_maja_06_r._ZOO_204.jpg",
+    "creatorName": "Monika Korzeniec",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:19:03.207Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/77/6_maja_06_r._ZOO_204.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/77/6_maja_06_r._ZOO_204.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/77/6_maja_06_r._ZOO_204.jpg",
+  "updatedAt": "2026-06-26T19:19:03.207Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-size-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-size-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-size-01-1200.webp"
+  }
+}

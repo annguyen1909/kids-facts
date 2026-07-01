@@ -2,8 +2,8 @@
   "id": "gorilla-core-habitat",
   "animalSlug": "gorilla",
   "slug": "gorilla-core-habitat",
-  "fileName": "Western lowland gorilla lying on ground - DPLA - cf2a6167cfbb9a0aebbd74a98936405a.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg",
+  "fileName": "gorilla-core-habitat-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-core-habitat-01-1200.webp",
   "width": 1000,
   "height": 1500,
   "alt": "Western lowland gorilla resting on forest floor",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e5/Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg",
+  "updatedAt": "2026-06-25T14:56:11.824Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_lying_on_ground_-_DPLA_-_cf2a6167cfbb9a0aebbd74a98936405a.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:11.824Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-core-habitat-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-core-habitat-01-1200.webp"
   }
 }

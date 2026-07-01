@@ -1,0 +1,38 @@
+{
+  "id": "toucan-core-family",
+  "animalSlug": "toucan",
+  "slug": "toucan-core-family",
+  "fileName": "toucan-core-family-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A group of Toco Toucans interacting with each other",
+  "caption": "While often solitary, some Toco Toucans interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Bernard Gagnon via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toco_toucan_in_Igua%C3%A7u_National_Park.jpg\">Bernard Gagnon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toco_toucan_in_Igua%C3%A7u_National_Park.jpg",
+    "creatorName": "Bernard Gagnon",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:18.339Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e0/Toco_toucan_in_Igua%C3%A7u_National_Park.jpg",
+  "updatedAt": "2026-06-25T15:13:18.339Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-core-family-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-core-family-01-1200.webp"
+  }
+}

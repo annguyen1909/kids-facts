@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-size",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-size",
+  "fileName": "whale-shark-size-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A massive whale shark swimming alongside a small boat, demonstrating its immense size",
+  "caption": "Whale sharks can weigh up to 20 tons — about as heavy as three school buses!",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Australia",
+  "attributionText": "Photo by Sylke Rohrlach from Sydney via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Whale_shark_(Rhincodon_typus)_(16222515872).jpg\">Sylke Rohrlach from Sydney</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whale_shark_(Rhincodon_typus)_(16222515872).jpg",
+    "creatorName": "Sylke Rohrlach from Sydney",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:25.559Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6f/Whale_shark_%28Rhincodon_typus%29_%2816222515872%29.jpg",
+  "updatedAt": "2026-06-25T15:14:25.559Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-size-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-size-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-size-01-1200.webp"
+  }
+}

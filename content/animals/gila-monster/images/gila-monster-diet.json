@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-diet",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-diet",
+  "fileName": "gila-monster-diet-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-diet-01-1200.webp",
+  "width": 1200,
+  "height": 676,
+  "alt": "A Gila Monster finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Gila Monster.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Josh Olander via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:AZ_Gila_Monster_01.jpg\">Josh Olander</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AZ_Gila_Monster_01.jpg",
+    "creatorName": "Josh Olander",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:35.582Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/80/AZ_Gila_Monster_01.jpg",
+  "updatedAt": "2026-06-25T14:55:35.582Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-diet-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-diet-01-1200.webp"
+  }
+}

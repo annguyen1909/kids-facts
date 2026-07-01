@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-core-baby",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-core-baby",
+  "alt": "Juvenile leafy seadragon navigating a seagrass meadow",
+  "caption": "Young seadragons are highly vulnerable to rough sea currents and depend heavily on dense seagrass cover for survival.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Rapid Bay Jetty, South Australia",
+  "fileName": "leafy-seadragon-core-baby-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023163.JPG\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023163.JPG",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:12.441Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the leafy seadragon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/62/Phycodurus_eques_P2023163.JPG",
+  "updatedAt": "2026-06-29T07:23:12.441Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-core-baby-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-baby-01-1200.webp"
+  }
+}

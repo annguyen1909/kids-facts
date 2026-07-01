@@ -1,0 +1,22 @@
+{
+  "id": "hammerhead-shark-gallery-main",
+  "animalSlug": "hammerhead-shark",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Great Hammerhead Shark Photo Gallery",
+  "metaTitle": "Great Hammerhead Shark Photo Gallery",
+  "metaDescription": "Browse a great hammerhead shark photo gallery with wildlife photos.",
+  "intro": "Explore great hammerhead shark photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "hammerhead-shark-hero",
+    "hammerhead-shark-habitat",
+    "hammerhead-shark-diet",
+    "hammerhead-shark-baby",
+    "hammerhead-shark-family",
+    "hammerhead-shark-range",
+    "hammerhead-shark-size",
+    "hammerhead-shark-closeup",
+    "hammerhead-shark-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

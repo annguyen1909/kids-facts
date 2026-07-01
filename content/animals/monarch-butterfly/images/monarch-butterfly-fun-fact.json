@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-fun-fact",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-fun-fact",
+  "fileName": "monarch-butterfly-fun-fact-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A bright green monarch butterfly chrysalis hanging from a stem with golden dots",
+  "caption": "Inside its shiny green chrysalis, a caterpillar transforms into a beautiful butterfly.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified monarch butterfly image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Monarch_butterfly_chrysalis.jpg",
+  "updatedAt": "2026-06-25T15:03:15.549Z",
+  "attributionText": "Photo by Retepwal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_butterfly_chrysalis.jpg\">Retepwal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_chrysalis.jpg",
+    "creatorName": "Retepwal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:15.549Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-fun-fact-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-fun-fact-01-1200.webp"
+  }
+}

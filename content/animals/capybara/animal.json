@@ -1,0 +1,179 @@
+{
+  "id": "animal-capybara",
+  "slug": "capybara",
+  "name": "Capybara",
+  "commonNames": [
+    "water pig",
+    "greater capybara",
+    "carpincho"
+  ],
+  "scientificName": "Hydrochoerus hydrochaeris",
+  "summary": "The capybara is the world's largest rodent—a semi-aquatic, highly social animal native to South America. It lives near rivers, lakes, and wetlands in large groups and is famous for its exceptionally calm temperament, which leads other animals to rest on or beside it.",
+  "heroTitle": "Capybara Facts",
+  "metaTitle": "Capybara Facts | World's Largest Rodent, Habitat & Photos",
+  "metaDescription": "Discover capybara facts with photos, social behavior, South American habitat, diet, and conservation. Learn why the world's largest rodent is so famously calm.",
+  "searchIntents": [
+    "capybara facts",
+    "what is the world's largest rodent",
+    "where do capybaras live",
+    "what do capybaras eat",
+    "capybara social behavior",
+    "are capybaras friendly"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Caviidae",
+    "genus": "Hydrochoerus",
+    "species": "H. hydrochaeris"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Venezuela",
+    "Colombia",
+    "Argentina",
+    "Peru",
+    "Bolivia",
+    "Paraguay",
+    "Uruguay"
+  ],
+  "biomes": [
+    "tropical rainforest",
+    "grassland",
+    "wetland",
+    "savanna"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grasses",
+    "aquatic plants",
+    "fruits",
+    "tree bark",
+    "reeds"
+  ],
+  "lifespan": {
+    "wild": "6 to 10 years",
+    "captivity": "Up to 12 years"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "4.4 feet",
+    "heightMin": "20 inches",
+    "heightMax": "24 inches"
+  },
+  "weight": {
+    "min": "77 pounds",
+    "max": "146 pounds"
+  },
+  "speed": "Up to 22 mph on land",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "herd living",
+    "semi-aquatic swimming",
+    "wallowing in mud",
+    "grazing",
+    "vocalizing"
+  ],
+  "adaptations": [
+    "webbed feet for swimming",
+    "eyes and nostrils high on head",
+    "continuously growing teeth",
+    "dense waterproof fur",
+    "ability to stay submerged up to 5 minutes"
+  ],
+  "predators": [
+    "jaguar",
+    "caiman",
+    "anaconda",
+    "puma",
+    "ocelot"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 150 days",
+    "offspringCount": "1 to 8 pups per litter"
+  },
+  "funFacts": [
+    "Capybaras are so famously calm that birds, monkeys, and even other large animals frequently rest and perch on them.",
+    "The capybara is the world's largest living rodent, outweighing a beaver by more than five times.",
+    "Capybaras are excellent swimmers and can stay submerged for up to 5 minutes to hide from predators.",
+    "Their teeth grow continuously throughout their life to compensate for the wear of chewing tough grasses.",
+    "Capybaras practice coprophagy—eating their own droppings—to extract extra nutrients from difficult plant material.",
+    "A group of capybaras is called a herd, and herds can number up to 100 individuals during the dry season."
+  ],
+  "faq": [
+    {
+      "question": "What is a capybara?",
+      "answer": "A capybara is the world's largest rodent. It is a semi-aquatic mammal native to South America, closely related to guinea pigs and chinchillas."
+    },
+    {
+      "question": "Why are capybaras so calm?",
+      "answer": "Capybaras have a naturally docile temperament and are highly social with many species. Scientists believe their calm behavior helps them coexist peacefully in groups and around water where many species meet."
+    },
+    {
+      "question": "Where do capybaras live?",
+      "answer": "Capybaras live in South America near rivers, lakes, marshes, and wetlands. They are found in many countries including Brazil, Venezuela, Colombia, and Argentina."
+    },
+    {
+      "question": "What do capybaras eat?",
+      "answer": "Capybaras are herbivores. They eat grasses, aquatic plants, fruits, reeds, and sometimes tree bark. They spend much of the day grazing near water."
+    },
+    {
+      "question": "How big is a capybara?",
+      "answer": "Adults are 3.5 to 4.4 feet (1–1.3 m) long and can weigh up to 146 pounds (66 kg). They are the largest rodent species on Earth."
+    },
+    {
+      "question": "Can capybaras swim?",
+      "answer": "Yes. Capybaras are excellent swimmers. Their webbed feet and high-set eyes and nostrils let them move and breathe while nearly fully submerged. They can stay underwater for up to 5 minutes."
+    },
+    {
+      "question": "What is a baby capybara called?",
+      "answer": "A baby capybara is called a pup. Pups can walk, swim, and eat grass within hours of birth, though they still nurse for several months."
+    },
+    {
+      "question": "Are capybaras endangered?",
+      "answer": "No. Capybaras are listed as Least Concern. They have a wide range and stable population across South America, though they are hunted for their meat and hide in some regions."
+    },
+    {
+      "question": "Do other animals really sit on capybaras?",
+      "answer": "Yes. Birds, monkeys, and other small animals are frequently photographed perching or resting on capybaras. The capybara's calm nature and flat back make it an inviting platform."
+    },
+    {
+      "question": "What eats capybaras?",
+      "answer": "Capybaras are preyed on by jaguars, caimans, anacondas, pumas, and ocelots. They rely on water, herding, and speed to escape danger."
+    },
+    {
+      "question": "How long do capybaras live?",
+      "answer": "Wild capybaras typically live 6 to 10 years. In captivity, with steady food and medical care, they may live up to 12 years."
+    },
+    {
+      "question": "Are capybaras related to guinea pigs?",
+      "answer": "Yes. Capybaras belong to the family Caviidae, which also includes guinea pigs. Despite the size difference, they share many biological traits."
+    }
+  ],
+  "relatedAnimals": [
+    "giant-panda",
+    "hippopotamus"
+  ],
+  "comparisonCandidates": [
+    "hippopotamus"
+  ],
+  "galleryIds": [
+    "capybara-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "wetland"
+}

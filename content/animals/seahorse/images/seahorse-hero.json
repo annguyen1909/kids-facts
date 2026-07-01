@@ -2,23 +2,23 @@
   "id": "seahorse-hero",
   "animalSlug": "seahorse",
   "slug": "seahorse-hero",
-  "fileName": "Fish4280 - Flickr - NOAA Photo Library.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg",
-  "width": 2304,
-  "height": 1536,
+  "fileName": "seahorse-hero-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Lined seahorse clinging to underwater vegetation",
   "caption": "Seahorses are tiny fish with horse-like heads and curly tails.",
   "attributionText": "Photo by SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC. via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg\">SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg\">SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg",
     "creatorName": "SEFSC Pascagoula Laboratory; Collection of Brandi Noble, NOAA/NMFS/SEFSC.",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:07.808Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Atlantic Ocean",
-  "acquisitionNotes": "Manually curated lined seahorse hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:05.816Z"
+  "acquisitionNotes": "Manually curated lined seahorse hero image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/20/Fish4280_-_Flickr_-_NOAA_Photo_Library.jpg",
+  "updatedAt": "2026-06-25T15:11:07.808Z",
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-hero-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-hero-01-1200.webp"
+  }
 }

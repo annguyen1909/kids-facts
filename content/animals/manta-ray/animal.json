@@ -1,0 +1,152 @@
+{
+  "id": "animal-manta-ray",
+  "slug": "manta-ray",
+  "name": "Giant Oceanic Manta Ray",
+  "commonNames": [
+    "Giant Oceanic Manta Ray",
+    "Oceanic manta ray",
+    "Giant manta ray",
+    "Manta ray"
+  ],
+  "scientificName": "Mobula birostris",
+  "summary": "Giant oceanic manta rays are huge, graceful rays that glide through warm seas using wing-like fins. They filter tiny prey from the water, visit reef cleaning stations, and are the largest rays in the world.",
+  "heroTitle": "Giant Oceanic Manta Ray Facts",
+  "metaTitle": "Manta Ray Facts | Ocean Habitat, Diet & Photos",
+  "metaDescription": "Discover giant oceanic manta ray facts with photos, ocean habitat, plankton diet, pups, migration, and conservation.",
+  "searchIntents": [
+    "manta ray facts",
+    "giant oceanic manta ray facts",
+    "what do manta rays eat",
+    "where do manta rays live",
+    "how big is a manta ray",
+    "are manta rays endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Mobulidae",
+    "genus": "Mobula",
+    "species": "M. birostris"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Worldwide"
+  ],
+  "countries": [
+    "Mexico",
+    "Ecuador",
+    "Maldives",
+    "Indonesia",
+    "Australia",
+    "Mozambique"
+  ],
+  "biomes": [
+    "marine",
+    "open-ocean",
+    "coral reef"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "zooplankton",
+    "krill",
+    "small shrimp",
+    "tiny fish"
+  ],
+  "lifespan": {
+    "wild": "40 years or more"
+  },
+  "size": {
+    "lengthMin": "11 feet",
+    "lengthMax": "23 feet"
+  },
+  "weight": {
+    "min": "1,500 pounds",
+    "max": "4,000 pounds"
+  },
+  "speed": "Powerful gliding swimmer in open water",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "long-distance migration",
+    "filter feeding",
+    "barrel rolling while feeding",
+    "visiting cleaning stations",
+    "breaching above the surface"
+  ],
+  "adaptations": [
+    "cephalic lobes for funneling food",
+    "gill filter plates",
+    "cartilage skeleton",
+    "broad wing-like fins",
+    "dark-and-light countershading"
+  ],
+  "predators": [
+    "large sharks",
+    "orcas",
+    "humans"
+  ],
+  "prey": [
+    "zooplankton",
+    "krill",
+    "tiny fish"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 12 to 13 months",
+    "offspringCount": "Usually 1 pup"
+  },
+  "funFacts": [
+    "Manta rays have the largest brain-to-body ratio of any fish.",
+    "Their cephalic lobes help scoop food-rich water into the mouth.",
+    "Some manta rays leap fully out of the sea in a behavior called breaching.",
+    "They often gather at reef cleaning stations where small fish remove parasites.",
+    "A newborn manta pup can already have a wingspan of about 4 to 5 feet.",
+    "Manta rays do not have a stinging tail like some other rays."
+  ],
+  "faq": [
+    {
+      "question": "What is a manta ray?",
+      "answer": "A manta ray is a giant ray with broad fins that make it look like it is flying underwater. This page focuses on the giant oceanic manta ray."
+    },
+    {
+      "question": "Where do manta rays live?",
+      "answer": "Giant oceanic manta rays live in warm oceans around the world, especially in tropical and subtropical seas."
+    },
+    {
+      "question": "What do manta rays eat?",
+      "answer": "They eat tiny animals such as zooplankton, krill, and small fish by filtering seawater through their gills."
+    },
+    {
+      "question": "Do manta rays sting people?",
+      "answer": "No. Manta rays do not have a venomous tail spine, and they are not dangerous to swimmers."
+    },
+    {
+      "question": "How big is a giant oceanic manta ray?",
+      "answer": "Very large adults can span more than 20 feet from fin tip to fin tip and weigh several thousand pounds."
+    },
+    {
+      "question": "Are manta rays endangered?",
+      "answer": "Yes. Giant oceanic manta rays are listed as Endangered because they reproduce slowly and are threatened by fishing, bycatch, and ocean pollution."
+    }
+  ],
+  "relatedAnimals": [
+    "whale-shark",
+    "hammerhead-shark",
+    "sea-turtle"
+  ],
+  "comparisonCandidates": [
+    "whale-shark"
+  ],
+  "galleryIds": [
+    "manta-ray-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "ocean"
+}

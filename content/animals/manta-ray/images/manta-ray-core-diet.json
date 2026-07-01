@@ -1,0 +1,42 @@
+{
+  "id": "manta-ray-core-diet",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-core-diet",
+  "fileName": "manta-ray-core-diet-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Manta Ray finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Manta Ray.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Dan Bender via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mobula_birostris_179661621.jpg\">Dan Bender</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobula_birostris_179661621.jpg",
+    "creatorName": "Dan Bender",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:25.037Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Mobula_birostris_179661621.jpg",
+  "updatedAt": "2026-06-25T15:02:25.037Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobula_birostris_179661621.jpg",
+  "creatorName": "Dan Bender",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-core-diet-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-core-diet-01-1200.webp"
+  }
+}

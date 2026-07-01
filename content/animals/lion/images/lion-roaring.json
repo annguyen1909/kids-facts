@@ -2,22 +2,22 @@
   "id": "lion-roaring",
   "animalSlug": "lion",
   "slug": "lion-roaring",
-  "fileName": "male-lion-roaring-savanna.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lion%2C_Mid-Roar.jpg/1920px-Lion%2C_Mid-Roar.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-roaring-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-roaring-01-1200.webp",
+  "width": 1200,
+  "height": 803,
   "alt": "Male lion roaring with mouth wide open",
   "caption": "A lion's roar can carry for miles across open savanna.",
-  "attributionText": "Photo by Ross Elliott via Wikimedia Commons, CC BY 2.0",
+  "attributionText": "Photo by Justin Hall from Culver City, USA via Wikimedia Commons, CC BY 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion,_Mid-Roar.jpg",
-    "creatorName": "Ross Elliott",
+    "creatorName": "Justin Hall from Culver City, USA",
     "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:30.794Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "fun-fact",
   "galleryTopics": [
@@ -28,6 +28,12 @@
     "gallery"
   ],
   "location": "Savanna",
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Lion%2C_Mid-Roar.jpg",
+  "updatedAt": "2026-06-25T15:01:30.794Z",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion,_Mid-Roar.jpg\">Justin Hall from Culver City, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-roaring-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-roaring-01-400.webp",
+    "original": "/images/animals/lion/web/lion-roaring-01-1200.webp"
+  }
 }

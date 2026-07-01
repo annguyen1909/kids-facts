@@ -2,10 +2,10 @@
   "id": "eagle-hero",
   "animalSlug": "eagle",
   "slug": "eagle-hero",
-  "fileName": "Haliaeetus leucocephalus in flight Humber Bay Park Toronto.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Haliaeetus_leucocephalus_in_flight_Humber_Bay_Park_Toronto.jpg",
-  "width": 3455,
-  "height": 2103,
+  "fileName": "eagle-hero-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-hero-01-1200.webp",
+  "width": 1200,
+  "height": 730,
   "alt": "Bald eagle soaring with wings spread over Humber Bay Park, Toronto",
   "caption": "Eagles are powerful birds of prey with broad wings built for soaring flight.",
   "imageType": "hero",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Humber Bay Park, Toronto, Canada",
-  "acquisitionNotes": "Manually curated bald eagle hero image with verified species identification.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Manually curated bald eagle hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/53/Haliaeetus_leucocephalus_in_flight_Humber_Bay_Park_Toronto.jpg",
+  "updatedAt": "2026-06-25T14:52:27.513Z",
   "attributionText": "Photo by Mykola Swarnyk via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus_in_flight_Humber_Bay_Park_Toronto.jpg\">Mykola Swarnyk</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:27.513Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-hero-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-hero-01-1200.webp"
   }
 }

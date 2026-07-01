@@ -1,0 +1,22 @@
+{
+  "id": "galapagos-tortoise-gallery-main",
+  "animalSlug": "galapagos-tortoise",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Galápagos Tortoise Photo Gallery",
+  "metaTitle": "Galápagos Tortoise Photo Gallery",
+  "metaDescription": "Browse a Galápagos tortoise photo gallery with wildlife photos.",
+  "intro": "Explore Galápagos tortoise photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "galapagos-tortoise-hero",
+    "galapagos-tortoise-habitat",
+    "galapagos-tortoise-diet",
+    "galapagos-tortoise-baby",
+    "galapagos-tortoise-family",
+    "galapagos-tortoise-range",
+    "galapagos-tortoise-size",
+    "galapagos-tortoise-closeup",
+    "galapagos-tortoise-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z"
+}

@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Common Kingfisher Alcedo atthis.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Common Kingfisher in the wild",
+    "caption": "The Common Kingfisher is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Common kingfisher (Alcedo atthis ispida) female with dragonfly larva.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Common Kingfisher navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Alcedo atthis - Riserve naturali e aree contigue della fascia fluviale del Po.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Common Kingfisher finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Common Kingfisher.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Common kingfisher (Alcedo atthis ispida) female.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Common Kingfisher showing early development",
+    "caption": "Baby Common Kingfishers must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Alcedo atthis eating a tadpole.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Common Kingfishers interacting with each other",
+    "caption": "While often solitary, some Common Kingfishers interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:পাতি মাছরাঙ্গা (Alcedo atthis), জাতীয় উদ্ভিদ উদ্যান ঢাকা.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Common Kingfisher traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Common kingfisher in flight.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Common Kingfisher",
+    "caption": "The size of a Common Kingfisher can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Common Kingfisher 2025 09 28 03.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Common Kingfisher",
+    "caption": "A close-up view reveals the intricate details of a Common Kingfisher's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Common kingfisher on a branch opening its wings.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Common Kingfisher showing a unique behavior or adaptation",
+    "caption": "Did you know that the Common Kingfisher has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:04--Martin-Pecheur-20-01-24-Halois-Belgium-Luc viatour.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Common Kingfisher navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Eisvogel kingfisher.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Common Kingfisher finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Common Kingfisher.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Alcedo atthis MHNT ZOO 2010 11 160 Arcy-sur-Cure.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Common Kingfishers interacting with each other",
+    "caption": "While often solitary, some Common Kingfishers interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Common kingfisher (Alcedo atthis bengalensis) with fish.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Common Kingfisher showing early development",
+    "caption": "Baby Common Kingfishers must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Common kingfishers (Alcedo atthis ispida) male passing fish to female.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Common Kingfisher traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

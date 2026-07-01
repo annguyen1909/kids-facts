@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Ring-tailed lemur (Lemur catta) 2.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "Ring-tailed lemur sitting upright showing its black-and-white striped tail",
+    "caption": "Ring-tailed lemurs are easy to spot thanks to their long, black-and-white ringed tails.",
+    "location": "Madagascar"
+  },
+  "habitat": {
+    "fileTitle": "File:Ring-tailed lemur (Lemur catta) in tree.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "Ring-tailed lemur perched on a branch in a leafy tree",
+    "caption": "Ring-tailed lemurs live only on Madagascar, in forests and spiny scrub in the south.",
+    "location": "Madagascar"
+  },
+  "diet": {
+    "fileTitle": "File:Ring-tailed Lemur (Lemur catta) feeding on tamarind leaves, Tsimanampetsotsa, Madagascar (4309672928).jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "Ring-tailed lemur feeding on tamarind leaves in a Madagascar forest",
+    "caption": "Lemurs are omnivores, but they mostly eat fruit and leaves, especially from tamarind trees.",
+    "location": "Tsimanampetsotsa, Madagascar"
+  },
+  "baby": {
+    "fileTitle": "File:Ringtail Lemur with baby on her back (5396260658).jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "Baby ring-tailed lemur riding on its mother's back",
+    "caption": "A lemur baby clings to its mother's belly, then rides on her back as it grows bigger.",
+    "location": "Madagascar"
+  },
+  "family": {
+    "fileTitle": "File:Group of Ring Tailed Lemurs (9165212564).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Group of ring-tailed lemurs resting close together",
+    "caption": "Ring-tailed lemurs live in big groups called troops, often led by a top female.",
+    "location": "Madagascar"
+  },
+  "range": {
+    "fileTitle": "File:Lemur catta 003.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "Small group of ring-tailed lemurs walking on the ground at Berenty, Madagascar",
+    "caption": "Lemurs spend much of their time on the ground, traveling across their forest home in southern Madagascar.",
+    "location": "Berenty Reserve, Madagascar"
+  },
+  "size": {
+    "fileTitle": "File:Lemur catta 2018.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "Full body view of a ring-tailed lemur with its long tail curled up",
+    "caption": "A lemur's body is about the size of a house cat, but its tail is even longer than its body.",
+    "location": "Madagascar"
+  },
+  "closeup": {
+    "fileTitle": "File:Ring tailed lemur portrait.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a ring-tailed lemur's face with bright orange eyes",
+    "caption": "Big orange eyes and a black-and-white face help lemurs see and recognize each other.",
+    "location": "Madagascar"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Ring Tailed Lemurs Sunbathing (5512667912).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "Ring-tailed lemurs sitting up with arms out, sunbathing",
+    "caption": "On cool mornings lemurs sit up and spread their arms to soak up the sun like little sunbathers.",
+    "location": "Madagascar"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Ring-tailed lemur (Lemur catta) Vakona.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "Ring-tailed lemur climbing among trees in a Madagascar reserve",
+    "caption": "Forests give lemurs trees to climb, fruit to eat, and safe places to sleep at night.",
+    "location": "Vakona, Madagascar"
+  },
+  "core-diet": {
+    "fileTitle": "File:Ring-tailed Lemur (Lemur catta) feeding on tamarind leaves, Tsimanampetsotsa, Madagascar (4309671260).jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "Ring-tailed lemur reaching for tamarind leaves to eat",
+    "caption": "Lemurs use their hands to grab leaves, fruit, and flowers, and they also drink nectar.",
+    "location": "Tsimanampetsotsa, Madagascar"
+  },
+  "core-baby": {
+    "fileTitle": "File:Maki catta et juvénile (Lemur catta).jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "Mother ring-tailed lemur sitting with her young baby",
+    "caption": "Lemur mothers care for their babies closely, and other troop members help watch them too.",
+    "location": "France"
+  },
+  "core-family": {
+    "fileTitle": "File:Lemur catta group.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Several ring-tailed lemurs grouped together",
+    "caption": "Living in a troop helps lemurs stay safe, share warmth, and watch out for danger.",
+    "location": "Madagascar"
+  },
+  "core-range": {
+    "fileTitle": "File:Ring-tailed lemur, Lemur catta.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "Ring-tailed lemur standing alert in its habitat",
+    "caption": "Ring-tailed lemurs are found only in southern and southwestern Madagascar, nowhere else on Earth.",
+    "location": "Madagascar"
+  }
+}

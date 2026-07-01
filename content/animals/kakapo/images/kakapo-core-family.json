@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-core-family",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-core-family",
+  "alt": "Incredibly detailed historical kakapo specimen showcasing robust adult body structure",
+  "caption": "Males utilize a unique lek breeding system, gathering in bowl-like hollows to produce deep booming calls that echo for kilometers.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Auckland Museum Collections",
+  "fileName": "kakapo-core-family-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Auckland Museum Collections from Auckland, Aotearoa New Zealand via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_(48720023116).jpg\">Auckland Museum Collections from Auckland, Aotearoa New Zealand</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_(48720023116).jpg",
+    "creatorName": "Auckland Museum Collections from Auckland, Aotearoa New Zealand",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:57.957Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Excellent structural shot demonstrating adult male lek profile. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5d/Strigops_habroptilus_%2848720023116%29.jpg",
+  "updatedAt": "2026-06-29T11:55:57.957Z",
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-core-family-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-core-family-01-1200.webp"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "koala-core-diet",
   "animalSlug": "koala",
   "slug": "koala-core-diet",
-  "fileName": "Wild-koala-eating-050415p06lowres.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wild-koala-eating-050415p06lowres.jpg",
+  "fileName": "koala-core-diet-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-core-diet-01-1200.webp",
   "width": 1000,
   "height": 1000,
   "alt": "Wild koala feeding on eucalyptus leaves in a tree",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Core article image curated separately from the koala gallery set.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Core article image curated separately from the koala gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Wild-koala-eating-050415p06lowres.jpg",
+  "updatedAt": "2026-06-25T14:59:36.584Z",
   "attributionText": "Photo by Janine Duffy, Echidna Walkabout via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wild-koala-eating-050415p06lowres.jpg\">Janine Duffy, Echidna Walkabout</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:36.584Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-core-diet-01-400.webp",
+    "original": "/images/animals/koala/web/koala-core-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,42 @@
+{
+  "id": "iguana-core-baby",
+  "animalSlug": "iguana",
+  "slug": "iguana-core-baby",
+  "fileName": "iguana-core-baby-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 818,
+  "alt": "Young green iguana showing early head and scale development",
+  "caption": "Baby green iguanas hatch from eggs and must learn to climb and find food quickly.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Central America",
+  "attributionText": "Photo by Ianaré Sévi via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_iguana_male_head.jpg\">Ianaré Sévi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_male_head.jpg",
+    "creatorName": "Ianaré Sévi",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:31.997Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article baby image — unique from gallery baby image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7e/Iguana_iguana_male_head.jpg",
+  "updatedAt": "2026-06-25T14:58:31.997Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_portrait_acapulco_201905_1.jpg",
+  "creatorName": "Carlos Valenzuela",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-core-baby-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-core-baby-01-1200.webp"
+  }
+}

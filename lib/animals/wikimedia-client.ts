@@ -1,6 +1,7 @@
 import { cachedFetch } from "@/lib/animals/cache";
 import { fetchJson } from "@/lib/animals/http";
 import type { WikimediaImageCandidate } from "@/lib/animals/types";
+import { normalizeLicenseUrl } from "@/lib/wikimedia-image";
 
 const WIKIMEDIA_API = "https://commons.wikimedia.org/w/api.php";
 
@@ -56,7 +57,7 @@ function parseCandidate(page: WikimediaPage): WikimediaImageCandidate | null {
 
   const artist = stripHtml(metadata.Artist?.value ?? metadata.Credit?.value ?? "Unknown");
   const licenseName = stripHtml(metadata.LicenseShortName?.value ?? "See source");
-  const licenseUrl = stripHtml(metadata.LicenseUrl?.value ?? "");
+  const licenseUrl = normalizeLicenseUrl(metadata.LicenseUrl?.value, licenseName);
   const description = stripHtml(metadata.ImageDescription?.value ?? title.replace(/^File:/, ""));
 
   return {

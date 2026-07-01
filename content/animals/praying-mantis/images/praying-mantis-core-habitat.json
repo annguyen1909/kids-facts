@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-core-habitat",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-core-habitat",
+  "fileName": "praying-mantis-core-habitat-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A green praying mantis standing alert on a leaf in a garden",
+  "caption": "Meadows and home gardens provide a perfect habitat for hunting prey.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Germany",
+  "attributionText": "Photo by Neptuul via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Gottesanbeterin.jpg\">Neptuul</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Gottesanbeterin.jpg",
+    "creatorName": "Neptuul",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:08.044Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d0/Europ%C3%A4ische_Gottesanbeterin.jpg",
+  "updatedAt": "2026-06-25T15:08:08.044Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-core-habitat-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-core-habitat-01-1200.webp"
+  }
+}

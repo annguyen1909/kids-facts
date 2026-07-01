@@ -1,0 +1,38 @@
+{
+  "id": "firefly-range",
+  "animalSlug": "firefly",
+  "slug": "firefly-range",
+  "fileName": "firefly-range-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Firefly traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Celari817 via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eastern_firefly_(Photinus_pyralis),_June_2025,_Virginia.jpg\">Celari817</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eastern_firefly_(Photinus_pyralis),_June_2025,_Virginia.jpg",
+    "creatorName": "Celari817",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:16.302Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/83/Eastern_firefly_%28Photinus_pyralis%29%2C_June_2025%2C_Virginia.jpg",
+  "updatedAt": "2026-06-25T14:53:16.302Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-range-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-range-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-range-01-1200.webp"
+  }
+}

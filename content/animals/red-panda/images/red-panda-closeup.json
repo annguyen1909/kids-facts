@@ -2,23 +2,23 @@
   "id": "red-panda-closeup",
   "animalSlug": "red-panda",
   "slug": "red-panda-closeup",
-  "fileName": "red-panda-closeup.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Red_panda_DSC_3219_copy.jpg",
-  "width": 4668,
-  "height": 3210,
+  "fileName": "red-panda-closeup-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 825,
   "alt": "Close-up of a red panda face with reddish fur and white markings",
   "caption": "Red pandas have white face markings, pointed ears, and a special thumb-like wrist bone for gripping bamboo.",
   "attributionText": "Photo by Supradai via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_panda_DSC_3219_copy.jpg\">Supradai</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_panda_DSC_3219_copy.jpg\">Supradai</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_panda_DSC_3219_copy.jpg",
     "creatorName": "Supradai",
     "licenseName": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:44:18.785Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:21.923Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Forest habitat",
-  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
-  "updatedAt": "2026-06-21T16:44:18.785Z"
+  "acquisitionNotes": "Manually verified red panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Red_panda_DSC_3219_copy.jpg",
+  "updatedAt": "2026-06-25T15:09:21.923Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-closeup-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-closeup-01-1200.webp"
+  }
 }

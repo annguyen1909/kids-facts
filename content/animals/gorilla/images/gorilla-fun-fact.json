@@ -2,10 +2,10 @@
   "id": "gorilla-fun-fact",
   "animalSlug": "gorilla",
   "slug": "gorilla-fun-fact",
-  "fileName": "Western lowland gorilla sitting in brush - DPLA - 006e20eff897658599247adae49b8f9b.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Western_lowland_gorilla_sitting_in_brush_-_DPLA_-_006e20eff897658599247adae49b8f9b.jpg",
-  "width": 1500,
-  "height": 1000,
+  "fileName": "gorilla-fun-fact-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Western lowland gorilla resting in dense brush",
   "caption": "Gorillas build new leaf nests on the ground almost every night to sleep.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Manually curated gorilla fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b0/Western_lowland_gorilla_sitting_in_brush_-_DPLA_-_006e20eff897658599247adae49b8f9b.jpg",
+  "updatedAt": "2026-06-25T14:56:15.839Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_sitting_in_brush_-_DPLA_-_006e20eff897658599247adae49b8f9b.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:15.839Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-fun-fact-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-fun-fact-01-1200.webp"
   }
 }

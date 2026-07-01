@@ -2,10 +2,10 @@
   "id": "cheetah-fun-fact",
   "animalSlug": "cheetah",
   "slug": "cheetah-fun-fact",
-  "fileName": "Gepardjagt1 (Acinonyx jubatus).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gepardjagt1_%28Acinonyx_jubatus%29.jpg",
-  "width": 3332,
-  "height": 1884,
+  "fileName": "cheetah-fun-fact-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 679,
   "alt": "Running cheetah stretching across the ground",
   "caption": "A sprinting cheetah can bend and extend its spine like a spring.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated cheetah fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Manually curated cheetah fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4c/Gepardjagt1_%28Acinonyx_jubatus%29.jpg",
+  "updatedAt": "2026-06-25T14:50:25.103Z",
   "attributionText": "Photo by Malene Thyssen via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gepardjagt1_(Acinonyx_jubatus).jpg\">Malene Thyssen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:25.103Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-fun-fact-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-fun-fact-01-1200.webp"
   }
 }

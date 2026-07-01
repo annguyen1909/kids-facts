@@ -2,23 +2,23 @@
   "id": "dolphin-core-habitat",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-core-habitat",
-  "fileName": "Tursiops_truncatus_01-cropped.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg",
-  "width": 1387,
-  "height": 1025,
+  "fileName": "dolphin-core-habitat-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 887,
   "alt": "Common bottlenose dolphin surfacing in coastal ocean water",
   "caption": "Bottlenose dolphins live in warm and temperate coastal and offshore seas.",
   "attributionText": "Photo by NASA via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg\">NASA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/Commons:Licensing\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg\">NASA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01-cropped.jpg",
     "creatorName": "NASA",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:39.071Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Coastal ocean",
-  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bc/Tursiops_truncatus_01-cropped.jpg",
+  "updatedAt": "2026-07-01T12:33:39.071Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-core-habitat-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-core-habitat-01-1200.webp"
+  }
 }

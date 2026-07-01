@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-hero",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-hero",
+  "fileName": "mandarinfish-hero-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Exquisite mandarinfish showcasing its incredibly vibrant blue, orange, and green psychedelic patterns",
+  "caption": "The mandarinfish is a spectacularly colorful, small dragonet famous for its intricate psychedelic patterns.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Breathtaking 4524x3016 hero portrait capturing flawless neon blue and orange pigmentation. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e7/Pez_mandar%C3%ADn_%28Synchiropus_splendidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_207.jpg",
+  "updatedAt": "2026-06-29T11:58:39.001Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_207.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_207.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:58:39.001Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-hero-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-hero-01-1200.webp"
+  }
+}

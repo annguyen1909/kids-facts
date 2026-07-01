@@ -1,0 +1,38 @@
+{
+  "id": "iguana-closeup",
+  "animalSlug": "iguana",
+  "slug": "iguana-closeup",
+  "fileName": "iguana-closeup-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A detailed close-up showing the physical features of a Green Iguana",
+  "caption": "A close-up view reveals the intricate details of a Green Iguana's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Wilfredor via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_de_Venezuela.jpg\">Wilfredor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_de_Venezuela.jpg",
+    "creatorName": "Wilfredor",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:58:31.746Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for closeup. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Iguana_de_Venezuela.jpg",
+  "updatedAt": "2026-06-25T14:58:31.746Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-closeup-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-closeup-01-1200.webp"
+  }
+}

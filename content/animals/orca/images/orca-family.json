@@ -2,10 +2,10 @@
   "id": "orca-family",
   "animalSlug": "orca",
   "slug": "orca-family",
-  "fileName": "Orca Family 803.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Orca_Family_803.jpg",
-  "width": 2699,
-  "height": 1980,
+  "fileName": "orca-family-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-family-01-1200.webp",
+  "width": 1200,
+  "height": 880,
   "alt": "Several orcas traveling together as a pod",
   "caption": "Family pods help orcas hunt, communicate, and protect calves.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Coastal ocean",
-  "acquisitionNotes": "Manually curated orca family image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Manually curated orca family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/Orca_Family_803.jpg",
+  "updatedAt": "2026-06-25T15:04:35.098Z",
   "attributionText": "Photo by gillfoto via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orca_Family_803.jpg\">gillfoto</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:35.098Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-family-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-family-01-400.webp",
+    "original": "/images/animals/orca/web/orca-family-01-1200.webp"
   }
 }

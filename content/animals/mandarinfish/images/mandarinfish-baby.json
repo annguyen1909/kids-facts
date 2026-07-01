@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-baby",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-baby",
+  "fileName": "mandarinfish-baby-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-baby-01-1200.webp",
+  "width": 1200,
+  "height": 889,
+  "alt": "A juvenile mandarinfish displaying early stages of its developing colorful patterns",
+  "caption": "Larvae hatch rapidly after spawning and remain in the water column for two weeks before settling onto the reef as miniature, colorful juveniles.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Aquarium Museum, Liège",
+  "acquisitionNotes": "Curated high-quality photograph of juvenile mandarinfish growth stages. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2d/Synchiropus_splendidus_2_Luc_Viatour.jpg",
+  "updatedAt": "2026-06-29T11:55:59.706Z",
+  "attributionText": "Photo by Luc Viatour via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_2_Luc_Viatour.jpg\">Luc Viatour</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_2_Luc_Viatour.jpg",
+    "creatorName": "Luc Viatour",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:59.706Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-baby-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-baby-01-1200.webp"
+  }
+}

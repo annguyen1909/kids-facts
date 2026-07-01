@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-core-range",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-core-range",
+  "fileName": "frilled-lizard-core-range-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Frilled Lizard traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Max Tibby via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_188046849.jpg\">Max Tibby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_188046849.jpg",
+    "creatorName": "Max Tibby",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:05:05.055Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified frilled-lizard image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Chlamydosaurus_kingii_188046849.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Chlamydosaurus_kingii_188046849.jpg",
+  "updatedAt": "2026-06-26T19:05:05.055Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-core-range-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-core-range-01-1200.webp"
+  }
+}

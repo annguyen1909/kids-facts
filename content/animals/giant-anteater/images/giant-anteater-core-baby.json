@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-core-baby",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-core-baby",
+  "fileName": "giant-anteater-core-baby-01-1200.webp",
+  "alt": "Giant anteater pup clinging to its mother's back in dry grass",
+  "caption": "The pup's stripe lines up with its mother's, helping it stay hidden while it rides along.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "attributionText": "Photo by DiogoKanouté via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_01.jpg\">DiogoKanouté</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_01.jpg",
+    "creatorName": "DiogoKanouté",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:36.638Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a7/Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_01.jpg",
+  "updatedAt": "2026-06-28T10:16:36.638Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-core-baby-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-core-baby-01-1200.webp"
+  }
+}

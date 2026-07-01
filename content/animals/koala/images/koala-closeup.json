@@ -2,8 +2,8 @@
   "id": "koala-closeup",
   "animalSlug": "koala",
   "slug": "koala-closeup",
-  "fileName": "Phascolarctos cinereus Bonorong.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Phascolarctos_cinereus_Bonorong.jpg",
+  "fileName": "koala-closeup-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-closeup-01-1200.webp",
   "width": 1121,
   "height": 1732,
   "alt": "Close-up of a koala face with large nose and fluffy ears",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Bonorong, Tasmania, Australia",
-  "acquisitionNotes": "Manually curated koala close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Manually curated koala close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/79/Phascolarctos_cinereus_Bonorong.jpg",
+  "updatedAt": "2026-06-25T14:59:35.346Z",
   "attributionText": "Photo by JJ Harrison ( https://www.jjharrison.com.au/ ) via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phascolarctos_cinereus_Bonorong.jpg\">JJ Harrison ( https://www.jjharrison.com.au/ )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:35.346Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-closeup-01-400.webp",
+    "original": "/images/animals/koala/web/koala-closeup-01-1200.webp"
   }
 }

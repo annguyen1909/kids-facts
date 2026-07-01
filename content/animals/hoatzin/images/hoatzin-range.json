@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-range",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-range",
+  "fileName": "hoatzin-range-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-range-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Hoatzin standing proudly amidst the tropical foliage of Colombia",
+  "caption": "Their extensive range spans across the Amazon and Orinoco basins of Brazil, Peru, Colombia, Ecuador, and Bolivia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Arauca, Colombia",
+  "acquisitionNotes": "High-quality composition representing Orinoco regional habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/50/Opisthocomus_hoazin_Chenchena_Hoatzin_%286260863096%29.jpg",
+  "updatedAt": "2026-06-29T12:23:54.483Z",
+  "attributionText": "Photo by Félix Uribe from Rionegro, Antioquia, Colombia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_Chenchena_Hoatzin_(6260863096).jpg\">Félix Uribe from Rionegro, Antioquia, Colombia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_Chenchena_Hoatzin_(6260863096).jpg",
+    "creatorName": "Félix Uribe from Rionegro, Antioquia, Colombia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:54.483Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-range-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-range-01-1200.webp"
+  }
+}

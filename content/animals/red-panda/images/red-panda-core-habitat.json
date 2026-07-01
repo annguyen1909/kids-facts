@@ -2,8 +2,8 @@
   "id": "red-panda-core-habitat",
   "animalSlug": "red-panda",
   "slug": "red-panda-core-habitat",
-  "fileName": "RedPanda_SingalilaNationalPark_DFrame.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RedPanda_SingalilaNationalPark_DFrame.jpg",
+  "fileName": "red-panda-core-habitat-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-core-habitat-01-1200.webp",
   "width": 1121,
   "height": 896,
   "alt": "Red panda climbing tree in cool Himalayan forest habitat",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:25.952Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Singalila National Park, India",
-  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article habitat image sourced from Wikimedia Commons; kept separate from gallery image set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0c/RedPanda_SingalilaNationalPark_DFrame.jpg",
+  "updatedAt": "2026-06-25T15:09:25.952Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-core-habitat-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-core-habitat-01-1200.webp"
+  }
 }

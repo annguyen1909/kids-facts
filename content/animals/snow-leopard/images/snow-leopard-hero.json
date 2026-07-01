@@ -1,0 +1,38 @@
+{
+  "id": "snow-leopard-hero",
+  "animalSlug": "snow-leopard",
+  "slug": "snow-leopard-hero",
+  "fileName": "snow-leopard-hero-01-1200.webp",
+  "alt": "A beautiful portrait of a Snow Leopard in the wild",
+  "caption": "The Snow Leopard is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "src": "/images/animals/snow-leopard/web/snow-leopard-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "attributionText": "Photo by Original: Tambako The Jaguar Derivative work: User:Niabot via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg\">Original: Tambako The Jaguar Derivative work: User:Niabot</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait-2010-07-09.jpg",
+    "creatorName": "Original: Tambako The Jaguar Derivative work: User:Niabot",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:14:02.951Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified snow-leopard image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Snow_leopard_portrait-2010-07-09.jpg",
+  "updatedAt": "2026-06-26T08:14:02.951Z",
+  "srcSet": {
+    "web1200": "/images/animals/snow-leopard/web/snow-leopard-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/snow-leopard/thumbnails/snow-leopard-hero-01-400.webp",
+    "original": "/images/animals/snow-leopard/web/snow-leopard-hero-01-1200.webp"
+  }
+}

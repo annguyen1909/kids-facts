@@ -1,0 +1,158 @@
+{
+  "id": "animal-wandering-albatross",
+  "slug": "wandering-albatross",
+  "name": "Wandering Albatross",
+  "commonNames": [
+    "Wandering Albatross",
+    "Snowy Albatross",
+    "White-winged Albatross",
+    "Gooney Bird"
+  ],
+  "scientificName": "Diomedea exulans",
+  "summary": "The wandering albatross is a legendary pelagic seabird boasting the longest wingspan of any living bird on Earth. Famous for its mastery of dynamic soaring, it can glide effortlessly across the vast expanses of the Southern Ocean for thousands of kilometers without flapping its wings.",
+  "heroTitle": "Wandering Albatross Facts",
+  "metaTitle": "Wandering Albatross Facts | Longest Wingspan, Ocean Habitat & Photos",
+  "metaDescription": "Explore wandering albatross facts with high-quality photos, massive wingspan measurements, Southern Ocean habitat, squid diet, and dynamic soaring behavior.",
+  "searchIntents": [
+    "wandering albatross facts",
+    "longest wingspan in the world",
+    "what do wandering albatrosses eat",
+    "where do wandering albatrosses live",
+    "wandering albatross flight mechanism",
+    "why are wandering albatrosses endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Procellariiformes",
+    "family": "Diomedeidae",
+    "genus": "Diomedea",
+    "species": "D. exulans"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "large"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "Antarctica",
+    "Oceania",
+    "South America",
+    "Africa"
+  ],
+  "countries": [
+    "South Georgia and the South Sandwich Islands",
+    "French Southern and Antarctic Lands",
+    "New Zealand",
+    "Australia",
+    "South Africa",
+    "Chile",
+    "Argentina"
+  ],
+  "biomes": [
+    "pelagic ocean",
+    "subantarctic islands",
+    "marine oceanic"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "squid",
+    "cuttlefish",
+    "pelagic fish",
+    "krill",
+    "crustaceans",
+    "marine carrion"
+  ],
+  "lifespan": {
+    "wild": "50 to 60+ years",
+    "captivity": "Rarely kept in captivity"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "4.4 feet"
+  },
+  "weight": {
+    "min": "13 pounds",
+    "max": "26 pounds"
+  },
+  "speed": "Dynamic soarer capable of sustaining flight speeds of 40 to 65 mph for hours",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "dynamic soaring",
+    "pelagic wandering",
+    "surface seizing",
+    "synchronized courtship dancing",
+    "lifelong monogamous bonding"
+  ],
+  "adaptations": [
+    "record-breaking wingspan up to 11.5 feet",
+    "shoulder lock mechanism to hold wings extended without muscle effort",
+    "external tubular nostrils for scent hunting and salt excretion",
+    "stomach oil production for energy storage and chick nutrition",
+    "massive webbed feet for water landing and takeoff"
+  ],
+  "predators": [
+    "skuas (predators of eggs/chicks)",
+    "giant petrels (predators of chicks)",
+    "orcas (occasional predator of fledglings)"
+  ],
+  "prey": [
+    "bioluminescent squid",
+    "Patagonian toothfish (scavenged)",
+    "Antarctic krill",
+    "cuttlefish"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for 78 to 85 days",
+    "offspringCount": "1 egg per clutch (breeding occurs every two years)"
+  },
+  "funFacts": [
+    "The wandering albatross holds the record for the longest wingspan of any living bird, reaching up to 11.5 feet (3.5 meters) from tip to tip.",
+    "They possess a specialized tendon lock in their shoulder joints that allows them to hold their massive wings fully extended for hours without expending any muscular energy.",
+    "A wandering albatross can travel over 120,000 kilometers (75,000 miles) in a single year—equivalent to circling the entire globe three times.",
+    "Once a juvenile albatross takes flight, it may spend the next five to ten years flying continuously over the open ocean before touching land again.",
+    "Wandering albatrosses mate for life, solidifying their bonds through incredibly intricate courtship dances involving head bowing, bill snapping, and sky calling.",
+    "They are part of the tubenose family (Procellariiformes) and possess external nasal tubes that give them an extraordinary sense of smell to detect bioluminescent squid in the dark."
+  ],
+  "faq": [
+    {
+      "question": "What bird has the longest wingspan in the world?",
+      "answer": "The wandering albatross boasts the longest wingspan of any living bird, with large males reaching wingspans up to 11.5 feet (3.5 meters)."
+    },
+    {
+      "question": "Where do wandering albatrosses live?",
+      "answer": "They are true pelagic wanderers, spending years at a time flying across the open expanses of the Southern Ocean and returning only to remote subantarctic islands to breed."
+    },
+    {
+      "question": "What do wandering albatrosses eat?",
+      "answer": "They are pelagic carnivores whose diet consists primarily of cephalopods like squid and cuttlefish, along with fish, krill, and fisheries offal scavenged from the sea surface."
+    },
+    {
+      "question": "How do wandering albatrosses sleep while flying?",
+      "answer": "While it is widely believed they can engage in unihemispheric slow-wave sleep (shutting down half their brain) while gliding, they also frequently land on the ocean surface to sleep during calm weather."
+    },
+    {
+      "question": "How long do wandering albatrosses live?",
+      "answer": "They are exceptionally long-lived seabirds, often living for 50 to 60 years or more in the wild."
+    },
+    {
+      "question": "Why are wandering albatrosses endangered?",
+      "answer": "They are classified as Vulnerable primarily due to commercial longline fishing fisheries bycatch, where the birds attempt to swallow baited hooks and drown, as well as marine plastic pollution."
+    }
+  ],
+  "relatedAnimals": [
+    "harpy-eagle",
+    "kakapo",
+    "puffin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "wandering-albatross-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

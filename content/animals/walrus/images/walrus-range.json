@@ -1,0 +1,38 @@
+{
+  "id": "walrus-range",
+  "animalSlug": "walrus",
+  "slug": "walrus-range",
+  "fileName": "walrus-range-01-1200.webp",
+  "alt": "Walrus surfacing through a gap in the sea ice off Alaska",
+  "caption": "Walruses live around the icy seas of the Arctic, near Alaska, Canada, Russia, and Norway.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Alaska, USA",
+  "src": "/images/animals/walrus/web/walrus-range-01-1200.webp",
+  "width": 1200,
+  "height": 841,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pacific_walrus_surfacing_through_ice_on_the_Alaska_coast.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacific_walrus_surfacing_through_ice_on_the_Alaska_coast.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:24.298Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6d/Pacific_walrus_surfacing_through_ice_on_the_Alaska_coast.jpg",
+  "updatedAt": "2026-06-28T10:03:24.298Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-range-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-range-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-range-01-1200.webp"
+  }
+}

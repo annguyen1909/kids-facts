@@ -2,10 +2,10 @@
   "id": "otter-habitat",
   "animalSlug": "otter",
   "slug": "otter-habitat",
-  "fileName": "Otter in kelp field.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Otter_in_kelp_field.jpg",
-  "width": 3399,
-  "height": 2014,
+  "fileName": "otter-habitat-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 711,
   "alt": "Sea otter resting among thick kelp",
   "caption": "Kelp forests give sea otters shelter and a place to anchor while resting.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Kelp forest coast",
-  "acquisitionNotes": "Manually curated otter habitat image with verified sea otter identification.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Manually curated otter habitat image with verified sea otter identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/64/Otter_in_kelp_field.jpg",
+  "updatedAt": "2026-06-25T15:05:17.799Z",
   "attributionText": "Photo by Doug Knuth via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Otter_in_kelp_field.jpg\">Doug Knuth</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:17.799Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-habitat-01-400.webp",
+    "original": "/images/animals/otter/web/otter-habitat-01-1200.webp"
   }
 }

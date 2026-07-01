@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-core-family",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-core-family",
+  "alt": "Wandering albatross tending to its nest site on Prion Island",
+  "caption": "Raising a chick requires such immense time and energy investment that successful breeding pairs can only nest every two years.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Prion Island, South Georgia",
+  "fileName": "wandering-albatross-core-family-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "attributionText": "Photo by Godot13 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_01.jpg\">Godot13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_01.jpg",
+    "creatorName": "Godot13",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:58.904Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Stunning 4500x2999 core family breeding site photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8b/SGI-2016-South_Georgia_%28Prion_Island%29%E2%80%93Wandering_albatross_%28Diomedea_exulans%29_01.jpg",
+  "updatedAt": "2026-06-29T12:05:58.904Z",
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-core-family-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-core-family-01-1200.webp"
+  }
+}

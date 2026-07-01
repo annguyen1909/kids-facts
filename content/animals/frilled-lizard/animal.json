@@ -1,0 +1,135 @@
+{
+  "id": "animal-frilled-lizard",
+  "slug": "frilled-lizard",
+  "name": "Frilled Lizard",
+  "commonNames": [
+    "Frilled Lizard",
+    "Frill-necked Lizard",
+    "Frilled Dragon",
+    "Frilled Agama"
+  ],
+  "scientificName": "Chlamydosaurus kingii",
+  "summary": "The frilled lizard is a unique tree-dwelling reptile native to northern Australia and southern New Guinea. It is famous for the large, colorful skin frill around its neck that fans out when threatened, and its ability to run fast on its hind legs.",
+  "heroTitle": "Frilled Lizard Facts",
+  "metaTitle": "Frilled Lizard Facts | Habitat, Neck Frill & Photos",
+  "metaDescription": "Frilled lizard facts for kids with photos, tropical tree habitat, insect diet, behavior, running on hind legs, and neck frill on one easy-to-read page.",
+  "searchIntents": [
+    "frilled lizard facts",
+    "what do frilled lizards eat",
+    "where do frilled lizards live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "genus": "Chlamydosaurus",
+    "species": "C. kingii"
+  },
+  "classificationLabels": [
+    "reptile"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia",
+    "Papua New Guinea"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "savanna",
+    "shrubland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Insects",
+    "Spiders",
+    "Cicadas",
+    "Beetles",
+    "Caterpillars",
+    "Termites"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years"
+  },
+  "size": {
+    "lengthMin": "60 cm",
+    "lengthMax": "90 cm"
+  },
+  "weight": {
+    "min": "0.5 kg",
+    "max": "1 kg"
+  },
+  "speed": "Up to 15 mph (24 km/h) on hind legs",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "basking in the sun",
+    "climbing tree trunks",
+    "running on two hind legs",
+    "flaring frill for defense",
+    "hiding by blending with bark"
+  ],
+  "adaptations": [
+    "large colorful neck frill",
+    "strong hind legs for bipedal running",
+    "camouflage colors matching tree bark",
+    "sharp claws for rapid tree climbing",
+    "wide-opening mouth with bright yellow lining"
+  ],
+  "predators": [
+    "Birds of prey",
+    "Snakes",
+    "Dingoes",
+    "Feral cats",
+    "Large monitor lizards"
+  ],
+  "prey": [
+    "Insects",
+    "Spiders",
+    "Caterpillars",
+    "Termites"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "70 to 90 days",
+    "offspringCount": "8 to 23 eggs"
+  },
+  "funFacts": [
+    "The frilled lizard is famous for the huge ruff of skin around its neck, which can fold out like an umbrella when the lizard is scared!",
+    "When running fast to escape predators, these lizards can stand up on their two back legs and run bipedally!",
+    "If displaying its giant neck frill doesn't scare off a predator, the lizard opens its mouth wide to show a bright yellow or pink inside.",
+    "Frilled lizards spend about 90% of their lives high up in trees, only coming down to feed or lay eggs.",
+    "Their colors are perfect camouflage, looking exactly like the grey and brown tree bark they cling to.",
+    "They are also called frilled-necked lizards, and they are native only to northern Australia and southern New Guinea."
+  ],
+  "faq": [
+    {
+      "question": "What is a frilled lizard?",
+      "answer": "A frilled lizard, also known as the frill-necked lizard, is a tree-dwelling lizard famous for its large neck frill that opens up when threatened."
+    },
+    {
+      "question": "Where do frilled lizards live?",
+      "answer": "Frilled lizards live in the warm, tropical forests, woodlands, and savannas of northern Australia and southern New Guinea."
+    },
+    {
+      "question": "What do frilled lizards eat?",
+      "answer": "Frilled lizards are carnivores that mostly eat insects like ants, termites, spiders, beetles, and caterpillars, but they also eat small lizards."
+    }
+  ],
+  "relatedAnimals": [
+    "chameleon",
+    "tokay-gecko",
+    "komodo-dragon",
+    "iguana"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "frilled-lizard-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

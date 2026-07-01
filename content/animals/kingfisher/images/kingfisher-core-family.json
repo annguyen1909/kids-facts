@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-core-family",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-core-family",
+  "fileName": "kingfisher-core-family-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 965,
+  "alt": "A group of Common Kingfishers interacting with each other",
+  "caption": "While often solitary, some Common Kingfishers interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Didier Descouens via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alcedo_atthis_MHNT_ZOO_2010_11_160_Arcy-sur-Cure.jpg\">Didier Descouens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_MHNT_ZOO_2010_11_160_Arcy-sur-Cure.jpg",
+    "creatorName": "Didier Descouens",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:15.649Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6f/Alcedo_atthis_MHNT_ZOO_2010_11_160_Arcy-sur-Cure.jpg",
+  "updatedAt": "2026-06-25T14:59:15.649Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-core-family-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-core-family-01-1200.webp"
+  }
+}

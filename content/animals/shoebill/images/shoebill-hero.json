@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-hero",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-hero",
+  "fileName": "shoebill-hero-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-hero-01-1200.webp",
+  "width": 1200,
+  "height": 795,
+  "alt": "Majestic adult shoebill standing alert with its massive shoe-shaped bill clearly visible",
+  "caption": "The shoebill is a large, iconic stork-like bird known for its powerful, clog-shaped bill.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Weltvogelpark Walsrode, Germany",
+  "acquisitionNotes": "Manually curated shoebill hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/14/Balaeniceps_rex_%28Schuhschnabel_-_Shoebill%29_-_Weltvogelpark_Walsrode_2011.jpg",
+  "updatedAt": "2026-06-29T07:22:06.931Z",
+  "attributionText": "Photo by Olaf Oliviero Riemer via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(Schuhschnabel_-_Shoebill)_-_Weltvogelpark_Walsrode_2011.jpg\">Olaf Oliviero Riemer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(Schuhschnabel_-_Shoebill)_-_Weltvogelpark_Walsrode_2011.jpg",
+    "creatorName": "Olaf Oliviero Riemer",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:06.931Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-hero-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-hero-01-1200.webp"
+  }
+}

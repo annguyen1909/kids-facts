@@ -2,11 +2,11 @@
   "id": "ostrich-family",
   "animalSlug": "ostrich",
   "slug": "ostrich-family",
-  "fileName": "Ostrich (Struthio camelus) female with chicks (6865184870).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ostrich_%28Struthio_camelus%29_female_with_chicks_%286865184870%29.jpg",
-  "width": 4320,
-  "height": 3240,
-  "alt": "Female ostrich leading her chicks across open ground",
+  "fileName": "ostrich-family-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-family-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "alt": "Female ostrich with a brood of chicks crossing open Serengeti grassland",
   "caption": "Parents guard chicks together and teach them to find food and water.",
   "imageType": "family",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Africa",
-  "acquisitionNotes": "Manually curated ostrich family image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_female_with_chicks_(6865184870).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "location": "Serengeti, Tanzania",
+  "acquisitionNotes": "Wild family group in Serengeti — hen and chicks full scene. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ee/Ostrich_hen_with_chicks%2C_northern_Serengeti.jpg",
+  "updatedAt": "2026-06-28T09:18:58.133Z",
+  "attributionText": "Photo by Caelio via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_hen_with_chicks,_northern_Serengeti.jpg\">Caelio</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_female_with_chicks_(6865184870).jpg",
-    "creatorName": "Bernard DUPONT from FRANCE",
-    "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_hen_with_chicks,_northern_Serengeti.jpg",
+    "creatorName": "Caelio",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:58.133Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-family-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-family-01-1200.webp"
   }
 }

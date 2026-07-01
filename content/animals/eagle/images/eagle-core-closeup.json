@@ -2,10 +2,10 @@
   "id": "eagle-core-closeup",
   "animalSlug": "eagle",
   "slug": "eagle-core-closeup",
-  "fileName": "Bald Eagle Portrait.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bald_Eagle_Portrait.jpg",
-  "width": 2251,
-  "height": 2814,
+  "fileName": "eagle-core-closeup-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-core-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1500,
   "alt": "Bald eagle portrait showing white head and intense yellow eyes",
   "caption": "Adult bald eagles develop their white head and tail when they are about five years old.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "North America",
-  "acquisitionNotes": "Core article image curated separately from the eagle gallery set.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Core article image curated separately from the eagle gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Bald_Eagle_Portrait.jpg",
+  "updatedAt": "2026-06-25T14:52:19.875Z",
   "attributionText": "Photo by Saffron Blaze via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_Eagle_Portrait.jpg\">Saffron Blaze</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:19.875Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-core-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-core-closeup-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-core-closeup-01-1200.webp"
   }
 }

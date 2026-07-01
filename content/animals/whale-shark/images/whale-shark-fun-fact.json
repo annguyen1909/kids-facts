@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-fun-fact",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-fun-fact",
+  "fileName": "whale-shark-fun-fact-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A whale shark feeding near the surface in shallow coastal waters",
+  "caption": "A whale shark has about 3,000 tiny teeth, but they do not use them to eat!",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Cebu, Philippines",
+  "attributionText": "Photo by Don McCulley via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon-typus-IMG_7126.jpg\">Don McCulley</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon-typus-IMG_7126.jpg",
+    "creatorName": "Don McCulley",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:11.475Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Rhincodon-typus-IMG_7126.jpg",
+  "updatedAt": "2026-06-25T15:14:11.475Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-fun-fact-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-fun-fact-01-1200.webp"
+  }
+}

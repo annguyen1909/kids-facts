@@ -2,8 +2,8 @@
   "id": "otter-core-diet",
   "animalSlug": "otter",
   "slug": "otter-core-diet",
-  "fileName": "Enhydra lutris seashell.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Enhydra_lutris_seashell.jpg",
+  "fileName": "otter-core-diet-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-core-diet-01-1200.webp",
   "width": 1024,
   "height": 768,
   "alt": "Sea otter holding shellfish on its chest",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Coastal ocean",
-  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Enhydra_lutris_seashell.jpg",
+  "updatedAt": "2026-06-25T15:05:10.477Z",
   "attributionText": "Photo by Júlio Reis ( User:Tintazul ) via Wikimedia Commons, CC BY-SA 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Enhydra_lutris_seashell.jpg\">Júlio Reis ( User:Tintazul )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:10.477Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-core-diet-01-400.webp",
+    "original": "/images/animals/otter/web/otter-core-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "fileTitle": "File:Mandrilperspective6.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Mandrill in the wild",
+    "caption": "The Mandrill is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Mandrillus sphinx MNHN.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mandrill navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Mandril.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mandrill finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Mandrill.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Mandrill at SF Zoo.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Mandrill showing early development",
+    "caption": "Baby Mandrills must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Mandrill July 2019-1.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Mandrills interacting with each other",
+    "caption": "While often solitary, some Mandrills interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Mandrillus sphinx(Mandrill) side.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mandrill traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Mandrillus sphinx(Mandrill) back.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Mandrill",
+    "caption": "The size of a Mandrill can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Mandrillus sphinx(Mandrill) 01.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Mandrill",
+    "caption": "A close-up view reveals the intricate details of a Mandrill's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Mandrillus sphinx 339428130.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Mandrill showing a unique behavior or adaptation",
+    "caption": "Did you know that the Mandrill has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Mandrillus sphinx 339428097.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Mandrill navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Mandrill and flower.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A mandrill nibbling a flower it is holding in its hand",
+    "caption": "Mandrills forage for fruit, seeds, leaves, and flowers, using their hands to bring food to their mouths.",
+    "location": "Unknown"
+  },
+  "core-closeup": {
+    "fileTitle": "File:Said red-nose-day, man??? (15583038206).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "Close-up of an adult male mandrill's brightly colored red and blue face",
+    "caption": "The vivid red and blue face of a dominant male mandrill — its bright colors help mandrills recognize and communicate with each other.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Mandrill at san francisco zoo.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Mandrills interacting with each other",
+    "caption": "While often solitary, some Mandrills interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Mandrillus sphinx in Ouwehands Dierenpark 01.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Mandrill showing early development",
+    "caption": "Baby Mandrills must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Mandrillus sphinx in Ouwehands Dierenpark 02.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Mandrill traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

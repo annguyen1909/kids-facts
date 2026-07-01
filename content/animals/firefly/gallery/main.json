@@ -1,0 +1,22 @@
+{
+  "id": "firefly-gallery-main",
+  "animalSlug": "firefly",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Firefly Photo Gallery",
+  "metaTitle": "Firefly Photo Gallery",
+  "metaDescription": "Browse a firefly photo gallery with wildlife photos.",
+  "intro": "Explore firefly photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "firefly-hero",
+    "firefly-habitat",
+    "firefly-diet",
+    "firefly-baby",
+    "firefly-family",
+    "firefly-range",
+    "firefly-size",
+    "firefly-closeup",
+    "firefly-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-core-diet",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-core-diet",
+  "fileName": "cassowary-core-diet-01-1200.webp",
+  "alt": "A Cassowary finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Cassowary.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Anneli Salo via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_-_Kyp%C3%A4r%C3%A4kasuaari,_Southern_Cassowary,_Hj%C3%A4lmkasuar_IMG_1554_C.JPG\">Anneli Salo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_-_Kyp%C3%A4r%C3%A4kasuaari,_Southern_Cassowary,_Hj%C3%A4lmkasuar_IMG_1554_C.JPG",
+    "creatorName": "Anneli Salo",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:56.138Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9b/Casuarius_casuarius_-_Kyp%C3%A4r%C3%A4kasuaari%2C_Southern_Cassowary%2C_Hj%C3%A4lmkasuar_IMG_1554_C.JPG",
+  "updatedAt": "2026-06-26T08:15:56.138Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-core-diet-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-core-diet-01-1200.webp"
+  }
+}

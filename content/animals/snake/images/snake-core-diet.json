@@ -2,10 +2,10 @@
   "id": "snake-core-diet",
   "animalSlug": "snake",
   "slug": "snake-core-diet",
-  "fileName": "020240211 Python regius.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/020240211_Python_regius.jpg",
-  "width": 3467,
-  "height": 2442,
+  "fileName": "snake-core-diet-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 845,
   "alt": "Ball python in habitat after feeding season",
   "caption": "After a big meal, a snake may not need to eat again for weeks.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Core article image curated separately from the snake gallery set.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Core article image curated separately from the snake gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/020240211_Python_regius.jpg",
+  "updatedAt": "2026-06-25T15:11:39.478Z",
   "attributionText": "Photo by Silar via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:020240211_Python_regius.jpg\">Silar</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:39.478Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-core-diet-01-400.webp",
+    "original": "/images/animals/snake/web/snake-core-diet-01-1200.webp"
   }
 }

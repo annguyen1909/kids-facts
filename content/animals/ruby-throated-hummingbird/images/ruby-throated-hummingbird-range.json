@@ -1,0 +1,39 @@
+{
+  "id": "ruby-throated-hummingbird-range",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-range",
+  "fileName": "ruby-throated-hummingbird-range-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Ruby-throated hummingbird male perched on a twig in Quebec, Canada",
+  "caption": "These birds spend summers in eastern North America and fly south to Central America for winter.",
+  "attributionText": "Photo by Cephas via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Archilochus_colubris_CT2.jpg\">Cephas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archilochus_colubris_CT2.jpg",
+    "creatorName": "Cephas",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:13.239Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "range",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Quebec, Canada",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/57/Archilochus_colubris_CT2.jpg",
+  "updatedAt": "2026-06-25T15:10:13.239Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-range-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-range-01-1200.webp"
+  }
+}

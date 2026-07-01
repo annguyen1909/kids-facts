@@ -1,0 +1,150 @@
+{
+  "id": "animal-american-bison",
+  "slug": "american-bison",
+  "name": "American Bison",
+  "commonNames": [
+    "American Bison",
+    "American Buffalo",
+    "Plains Bison"
+  ],
+  "scientificName": "Bison bison",
+  "summary": "The American bison is the largest land animal in North America. These shaggy, humped grazers once roamed the plains in the millions, almost vanished, and were saved by conservation. They live in herds and feed on prairie grasses.",
+  "heroTitle": "American Bison Facts",
+  "metaTitle": "American Bison Facts | Habitat, Diet, Herds & Photos",
+  "metaDescription": "Discover American bison facts with photos, prairie habitat, grass diet, calves, and herd life. Learn how big bison are, why they nearly vanished, and how they recovered.",
+  "searchIntents": [
+    "american bison facts",
+    "what do bison eat",
+    "where do bison live",
+    "how big is a bison",
+    "are bison and buffalo the same",
+    "why did bison almost go extinct"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae",
+    "genus": "Bison",
+    "species": "B. bison"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico"
+  ],
+  "biomes": [
+    "grassland",
+    "prairie",
+    "savanna",
+    "temperate forest edge"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "grasses",
+    "sedges",
+    "wildflowers",
+    "lichens",
+    "shrubs"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years",
+    "captivity": "Up to 25 years"
+  },
+  "size": {
+    "lengthMin": "7 feet",
+    "lengthMax": "12.5 feet",
+    "heightMin": "5 feet",
+    "heightMax": "6.5 feet"
+  },
+  "weight": {
+    "min": "700 pounds",
+    "max": "2200 pounds"
+  },
+  "speed": "Up to 35 mph",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "living in herds",
+    "grazing",
+    "wallowing in dust",
+    "seasonal migration",
+    "head-to-head sparring"
+  ],
+  "adaptations": [
+    "thick winter coat",
+    "powerful shoulder hump",
+    "snow-plowing head sweep",
+    "strong digestion of grass",
+    "good sense of smell"
+  ],
+  "predators": [
+    "wolves",
+    "grizzly bears",
+    "humans"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 285 days",
+    "offspringCount": "Usually 1 calf"
+  },
+  "funFacts": [
+    "American bison are the biggest land animals in North America, and big bulls can weigh as much as a small car.",
+    "Newborn calves are orange-red, so people nickname them 'red dogs.'",
+    "Despite their size, bison can run up to 35 miles per hour and jump surprisingly high.",
+    "Bison roll in dust and dirt, called wallowing, to clean their coats and shoo away bugs.",
+    "In winter, a bison swings its huge head like a snowplow to reach the grass below the snow.",
+    "In 2016 the American bison became the official national mammal of the United States."
+  ],
+  "faq": [
+    {
+      "question": "What is an American bison?",
+      "answer": "An American bison is a large, shaggy, humped grazing mammal from North America. It is the continent's biggest land animal and lives in herds on grasslands and prairies."
+    },
+    {
+      "question": "Where do American bison live?",
+      "answer": "Bison live on the grasslands, prairies, and river valleys of North America. Today most live in protected parks, refuges, and managed herds in the United States and Canada."
+    },
+    {
+      "question": "What do bison eat?",
+      "answer": "Bison are herbivores. They mostly eat grasses and sedges, spending many hours each day grazing and then chewing their cud like cows do."
+    },
+    {
+      "question": "Are bison and buffalo the same animal?",
+      "answer": "People often call them 'buffalo,' but true buffalo live in Africa and Asia. The American bison is a different animal, even though the nickname has stuck for a long time."
+    },
+    {
+      "question": "Why did bison almost go extinct?",
+      "answer": "In the 1800s, bison were hunted on a huge scale and their numbers crashed from tens of millions to only a few hundred. Conservation efforts later helped them recover."
+    },
+    {
+      "question": "How big do bison get?",
+      "answer": "Adult bulls can stand about 6 feet tall at the shoulder and weigh up to roughly 2,000 pounds, making them very powerful animals."
+    }
+  ],
+  "relatedAnimals": [
+    "moose",
+    "grizzly-bear",
+    "wolf",
+    "wildebeest"
+  ],
+  "comparisonCandidates": [
+    "moose"
+  ],
+  "galleryIds": [
+    "american-bison-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "grassland"
+}

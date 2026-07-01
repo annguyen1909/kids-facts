@@ -1,0 +1,22 @@
+{
+  "id": "ocean-sunfish-gallery-main",
+  "animalSlug": "ocean-sunfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ocean Sunfish Photo Gallery",
+  "metaTitle": "Ocean Sunfish Photo Gallery",
+  "metaDescription": "Browse a ocean sunfish photo gallery with wildlife photos.",
+  "intro": "Explore ocean sunfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "ocean-sunfish-hero",
+    "ocean-sunfish-habitat",
+    "ocean-sunfish-diet",
+    "ocean-sunfish-baby",
+    "ocean-sunfish-family",
+    "ocean-sunfish-range",
+    "ocean-sunfish-size",
+    "ocean-sunfish-closeup",
+    "ocean-sunfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T07:15:56.929Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-size",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-size",
+  "fileName": "peregrine-falcon-size-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A peregrine falcon perched, displaying its full body and tail length",
+  "caption": "They are medium-sized birds, with a wingspan of about 3 to 4 feet (90 to 120 cm).",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "California, USA",
+  "attributionText": "Photo by Jonathan Eisen via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falco_peregrinus_113345024.jpg\">Jonathan Eisen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_113345024.jpg",
+    "creatorName": "Jonathan Eisen",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:11.393Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/Falco_peregrinus_113345024.jpg",
+  "updatedAt": "2026-06-25T15:07:11.393Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-size-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-size-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-size-01-1200.webp"
+  }
+}

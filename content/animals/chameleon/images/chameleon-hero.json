@@ -2,10 +2,10 @@
   "id": "chameleon-hero",
   "animalSlug": "chameleon",
   "slug": "chameleon-hero",
-  "fileName": "Chamaeleo calyptratus1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Chamaeleo_calyptratus1.jpg",
-  "width": 2408,
-  "height": 1580,
+  "fileName": "chameleon-hero-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-hero-01-1200.webp",
+  "width": 1200,
+  "height": 787,
   "alt": "Veiled chameleon perched on a branch",
   "caption": "Veiled chameleons are colorful lizards famous for their eyes and gripping feet.",
   "attributionText": "Photo by Matt Reinbold via Wikimedia Commons, CC BY-SA 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:03.684Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Yemen",
-  "acquisitionNotes": "Manually curated veiled chameleon hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:20.803Z"
+  "acquisitionNotes": "Manually curated veiled chameleon hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Chamaeleo_calyptratus1.jpg",
+  "updatedAt": "2026-06-25T14:50:03.684Z",
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-hero-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-hero-01-1200.webp"
+  }
 }

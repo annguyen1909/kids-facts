@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-core-habitat",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-core-habitat",
+  "fileName": "luna-moth-core-habitat-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "A Luna Moth navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by lanechaffin via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Actias_luna_120817753.jpg\">lanechaffin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actias_luna_120817753.jpg",
+    "creatorName": "lanechaffin",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:02:04.153Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/91/Actias_luna_120817753.jpg",
+  "updatedAt": "2026-06-25T15:02:04.153Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-core-habitat-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-core-habitat-01-1200.webp"
+  }
+}

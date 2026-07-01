@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Gila monster (Heloderma suspectum).jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Gila Monster in the wild",
+    "caption": "The Gila Monster is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Gila-Krustenechse - Heloderma suspectum - 3488.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Gila Monster navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:AZ Gila Monster 01.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Gila Monster finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Gila Monster.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Karyotype of female Gila monster (Heloderma suspectum).png",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Gila Monster showing early development",
+    "caption": "Baby Gila Monsters must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Heloderma suspectum (Gila monster) (15535728627).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Gila Monsters interacting with each other",
+    "caption": "While often solitary, some Gila Monsters interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:RETICULATE GILA MONSTER (Heloderma suspectum suspectum) (5-17-11) patagonia lake, scc, az -04 (5731530095).jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Gila Monster traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Heloderma suspectum captured.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Gila Monster",
+    "caption": "The size of a Gila Monster can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:RETICULATE GILA MONSTER (Heloderma suspectum) (5-17-11) patagonia lake, scc, az -03 (5732065658).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Gila Monster",
+    "caption": "A close-up view reveals the intricate details of a Gila Monster's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:RETICULATE GILA MONSTER (Heloderma suspectum) (5-17-11) patagonia lake, scc, az -02 (5731511803).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Gila Monster showing a unique behavior or adaptation",
+    "caption": "Did you know that the Gila Monster has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Heloderma suspectum head 2.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Gila Monster navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:RETICULATE GILA MONSTER (Heloderma suspectum) 78 circulo montana, patagonia lake ranch estates, scc, az -06 (14475203698).jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Gila Monster finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Gila Monster.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Reticulate Gila Monster.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Gila Monsters interacting with each other",
+    "caption": "While often solitary, some Gila Monsters interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Heloderma suspectum 2zz.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Gila Monster showing early development",
+    "caption": "Baby Gila Monsters must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Heloderma suspectum 'suspectum' 2.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Gila Monster traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

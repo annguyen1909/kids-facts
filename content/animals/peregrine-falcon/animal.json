@@ -1,0 +1,140 @@
+{
+  "id": "animal-peregrine-falcon",
+  "slug": "peregrine-falcon",
+  "name": "Peregrine Falcon",
+  "commonNames": [
+    "Peregrine Falcon",
+    "Duck Hawk",
+    "Peregrine"
+  ],
+  "scientificName": "Falco peregrinus",
+  "summary": "The peregrine falcon is a powerful bird of prey famous for being the fastest creature on the planet. They hunt other birds by soaring high in the air and then diving down at speeds exceeding 200 miles per hour.",
+  "heroTitle": "Peregrine Falcon Facts",
+  "metaTitle": "Peregrine Falcon Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Peregrine falcon facts for kids with photos, habitat, diet, behavior, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "peregrine falcon facts",
+    "what do peregrine falcons eat",
+    "where do peregrine falcons live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "species": "F. peregrinus"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "habitat": "grassland",
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia",
+    "Africa",
+    "South America",
+    "Australia"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Germany",
+    "France",
+    "Spain",
+    "Australia",
+    "Mexico",
+    "Sweden",
+    "Japan",
+    "South Africa",
+    "Argentina"
+  ],
+  "biomes": [
+    "mountain",
+    "coastal",
+    "grassland",
+    "urban",
+    "tundra"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Pigeons",
+    "Doves",
+    "Songbirds",
+    "Ducks",
+    "Bats"
+  ],
+  "lifespan": {
+    "wild": "12-15 years"
+  },
+  "size": {
+    "lengthMin": "36 cm",
+    "lengthMax": "49 cm"
+  },
+  "weight": {
+    "min": "530 g",
+    "max": "1500 g"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "high-speed diving",
+    "territorial nesting",
+    "solitary hunting",
+    "mating for life"
+  ],
+  "adaptations": [
+    "nostril baffles",
+    "aerodynamic wings",
+    "keen eyesight",
+    "sharp talons"
+  ],
+  "predators": [
+    "Eagles",
+    "Large owls",
+    "Gyrfalcons"
+  ],
+  "prey": [
+    "Pigeons",
+    "Starlings",
+    "Thrushes",
+    "Waterfowl"
+  ],
+  "reproduction": {
+    "offspringName": "eyas",
+    "gestationOrIncubation": "29–33 days",
+    "offspringCount": "3–4 eggs"
+  },
+  "funFacts": [
+    "When a peregrine falcon dives to catch a bird, it can reach speeds of over 240 miles per hour (386 km/h)!",
+    "They have special cone-shaped bones inside their nostrils called 'baffles' that help them breathe comfortably while flying at extreme speeds.",
+    "A falcon's eyes are so powerful they can spot a pigeon flying from more than one mile away.",
+    "During a high-speed dive, they close their third eyelid, called a nictitating membrane, to clear debris and protect their eyes.",
+    "They nest on high ledges like rocky mountain cliffs, but have adapted to cities by nesting on skyscrapers and bridges.",
+    "Their wings are long, pointed, and swept back, looking like the wings of a modern jet airplane."
+  ],
+  "faq": [
+    {
+      "question": "What is a peregrine falcon?",
+      "answer": "A peregrine falcon is a large, powerful raptor (bird of prey) known for its blue-grey back, barred underparts, black head, and unmatched diving speed."
+    },
+    {
+      "question": "Where do peregrine falcons live?",
+      "answer": "Peregrine falcons live on every continent except Antarctica. They prefer nesting on high ledges like mountain cliffs, coastal cliffs, and city skyscrapers near open spaces."
+    },
+    {
+      "question": "What do peregrine falcons eat?",
+      "answer": "Peregrine falcons are carnivores that feed almost exclusively on other birds, such as pigeons, doves, songbirds, and ducks. They strike their prey mid-air with their sharp talons."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "peregrine-falcon-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z",
+  "publishedAt": "2026-06-24T22:50:00.000Z"
+}

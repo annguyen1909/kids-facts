@@ -1,0 +1,178 @@
+{
+  "id": "animal-manatee",
+  "slug": "manatee",
+  "name": "Manatee",
+  "commonNames": [
+    "sea cow",
+    "West Indian manatee",
+    "Florida manatee"
+  ],
+  "scientificName": "Trichechus manatus",
+  "summary": "The manatee is a large, gentle, slow-moving marine mammal distantly related to elephants. It grazes on seagrass and aquatic plants in warm shallow waters and must surface regularly to breathe.",
+  "heroTitle": "Manatee Facts",
+  "metaTitle": "Manatee Facts | Habitat, Diet, Sea Cow Life & Photos",
+  "metaDescription": "Discover manatee facts with photos, sea cow behavior, habitat, diet, life cycle, and conservation. Learn where manatees live, what they eat, and why they are vulnerable.",
+  "searchIntents": [
+    "manatee facts",
+    "what do manatees eat",
+    "where do manatees live",
+    "how big is a manatee",
+    "manatee sea cow",
+    "are manatees endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Sirenia",
+    "family": "Trichechidae",
+    "genus": "Trichechus",
+    "species": "T. manatus"
+  },
+  "classificationLabels": [
+    "mammal",
+    "herbivore",
+    "aquatic",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "South America",
+    "Africa"
+  ],
+  "countries": [
+    "United States",
+    "Cuba",
+    "Brazil",
+    "Belize",
+    "Senegal"
+  ],
+  "biomes": [
+    "coastal ocean",
+    "estuary",
+    "river",
+    "tropical seagrass bed"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "seagrass",
+    "mangrove leaves",
+    "water hyacinth",
+    "algae",
+    "aquatic plants"
+  ],
+  "lifespan": {
+    "wild": "Up to 60 years",
+    "captivity": "Up to 60 years with veterinary care"
+  },
+  "size": {
+    "lengthMin": "8 feet",
+    "lengthMax": "13 feet",
+    "heightMin": "3 feet",
+    "heightMax": "4 feet"
+  },
+  "weight": {
+    "min": "440 pounds",
+    "max": "1300 pounds"
+  },
+  "speed": "Up to 5 mph; bursts to 15 mph",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Increasing slowly",
+  "behaviors": [
+    "slow grazing",
+    "surface breathing",
+    "warm water seeking",
+    "solitary wandering",
+    "mother and calf bonding"
+  ],
+  "adaptations": [
+    "prehensile lips for grasping vegetation",
+    "flipper-like forelimbs for steering",
+    "low metabolic rate",
+    "thick skin",
+    "highly flexible spine"
+  ],
+  "predators": [
+    "humans (boats and fishing gear)",
+    "large sharks",
+    "crocodiles"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 12 to 14 months",
+    "offspringCount": "1 calf per birth; rarely twins"
+  },
+  "funFacts": [
+    "Manatees are nicknamed 'sea cows' because they graze slowly on underwater plants much like cows graze on grass.",
+    "A manatee must surface to breathe every 3 to 5 minutes, even while sleeping—they rest just below the surface and bob up automatically.",
+    "The manatee's closest living relatives are elephants and hyraxes, despite looking nothing like them.",
+    "Many wild manatees carry permanent propeller scars from boat strikes, which researchers use to identify individual animals.",
+    "Manatees replace their teeth throughout their lives—worn molars fall out at the front while new ones grow in from the back.",
+    "Ancient sailors may have mistaken manatees for mermaids—the order Sirenia, to which manatees belong, is named for these mythical creatures."
+  ],
+  "faq": [
+    {
+      "question": "What is a manatee?",
+      "answer": "A manatee is a large aquatic mammal that lives in warm coastal waters, rivers, and estuaries. Despite living in the water, it breathes air and is more closely related to elephants than to whales."
+    },
+    {
+      "question": "Why are manatees called sea cows?",
+      "answer": "Manatees earned the nickname sea cow because they are large, slow-moving, and spend their days grazing on underwater plants, much like cattle grazing on land."
+    },
+    {
+      "question": "What do manatees eat?",
+      "answer": "Manatees are herbivores that eat seagrass, water hyacinth, mangrove leaves, and other aquatic plants. An adult can eat up to 10 percent of its body weight in vegetation each day."
+    },
+    {
+      "question": "Where do manatees live?",
+      "answer": "Manatees live in warm, shallow coastal waters, rivers, and estuaries in the Americas and West Africa. Florida, the Caribbean, and the Amazon basin are major strongholds."
+    },
+    {
+      "question": "How long can a manatee hold its breath?",
+      "answer": "Manatees typically surface every 3 to 5 minutes to breathe, but a resting manatee can stay submerged for up to 20 minutes."
+    },
+    {
+      "question": "What is a baby manatee called?",
+      "answer": "A baby manatee is called a calf. Calves are born underwater and swim to the surface within seconds to take their first breath."
+    },
+    {
+      "question": "How long do manatees live?",
+      "answer": "Manatees can live up to 60 years in the wild. Scientists track individuals by the unique pattern of propeller scars on their bodies."
+    },
+    {
+      "question": "Are manatees endangered?",
+      "answer": "Manatees are listed as Vulnerable. Their greatest threats are boat strikes, entanglement in fishing gear, habitat loss, and algal blooms that kill the seagrass they depend on."
+    },
+    {
+      "question": "Are manatees related to elephants?",
+      "answer": "Yes. Despite looking like marine mammals, manatees are most closely related to elephants and hyraxes. All three groups share a common ancestor from tens of millions of years ago."
+    },
+    {
+      "question": "How fast can a manatee swim?",
+      "answer": "Manatees usually cruise at about 3 to 5 mph (5 to 8 km/h). In short bursts when frightened, they can reach about 15 mph (24 km/h)."
+    },
+    {
+      "question": "Why do manatees seek warm water?",
+      "answer": "Manatees cannot tolerate water below about 60°F (16°C). They migrate to warm springs, power plant discharge areas, and tropical waters during cooler months to avoid cold stress syndrome."
+    },
+    {
+      "question": "What threatens manatees today?",
+      "answer": "The biggest threats are boat propeller injuries, fishing gear entanglement, habitat degradation from pollution, harmful algal blooms that kill seagrass, and loss of warm-water refuges."
+    }
+  ],
+  "relatedAnimals": [
+    "blue-whale",
+    "bottlenose-dolphin",
+    "orca"
+  ],
+  "comparisonCandidates": [
+    "blue-whale"
+  ],
+  "galleryIds": [
+    "manatee-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "coast"
+}

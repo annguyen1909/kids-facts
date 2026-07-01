@@ -2,10 +2,10 @@
   "id": "raccoon-core-range",
   "animalSlug": "raccoon",
   "slug": "raccoon-core-range",
-  "fileName": "Common raccoon (Procyon lotor) in a tree at Noboribetsu Onsen, Hokkaido, April 2023 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Common_raccoon_%28Procyon_lotor%29_in_a_tree_at_Noboribetsu_Onsen%2C_Hokkaido%2C_April_2023_01.jpg",
-  "width": 4608,
-  "height": 3456,
+  "fileName": "raccoon-core-range-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Raccoon climbing in a tree far from its native range",
   "caption": "Raccoons introduced to other regions can become pests without natural predators.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Hokkaido, Japan",
-  "acquisitionNotes": "Core article image curated separately from the raccoon gallery set.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Core article image curated separately from the raccoon gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e1/Common_raccoon_%28Procyon_lotor%29_in_a_tree_at_Noboribetsu_Onsen%2C_Hokkaido%2C_April_2023_01.jpg",
+  "updatedAt": "2026-06-25T15:08:56.568Z",
   "attributionText": "Photo by Calistemon via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_raccoon_(Procyon_lotor)_in_a_tree_at_Noboribetsu_Onsen%2C_Hokkaido%2C_April_2023_01.jpg\">Calistemon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_raccoon_(Procyon_lotor)_in_a_tree_at_Noboribetsu_Onsen,_Hokkaido,_April_2023_01.jpg\">Calistemon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_raccoon_(Procyon_lotor)_in_a_tree_at_Noboribetsu_Onsen%2C_Hokkaido%2C_April_2023_01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_raccoon_(Procyon_lotor)_in_a_tree_at_Noboribetsu_Onsen,_Hokkaido,_April_2023_01.jpg",
     "creatorName": "Calistemon",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:56.568Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-core-range-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-core-range-01-1200.webp"
   }
 }

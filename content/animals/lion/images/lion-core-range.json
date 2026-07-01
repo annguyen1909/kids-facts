@@ -2,10 +2,10 @@
   "id": "lion-core-range",
   "animalSlug": "lion",
   "slug": "lion-core-range",
-  "fileName": "1280px-Serengeti_National_Park_08_-_lion_-_Panthera_leo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Serengeti_National_Park_08_-_lion_-_Panthera_leo.jpg/1280px-Serengeti_National_Park_08_-_lion_-_Panthera_leo.jpg",
-  "width": 1280,
-  "height": 853,
+  "fileName": "lion-core-range-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Lion standing in Serengeti grassland landscape under bright sky",
   "caption": "Lions remain across parts of sub-Saharan Africa, with a small population in India.",
   "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:23.984Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Serengeti National Park, Tanzania",
-  "acquisitionNotes": "Core article range image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article range image sourced from Wikimedia Commons; kept separate from gallery image set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f2/Serengeti_National_Park_08_-_lion_-_Panthera_leo.jpg",
+  "updatedAt": "2026-06-25T15:01:23.984Z",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-core-range-01-400.webp",
+    "original": "/images/animals/lion/web/lion-core-range-01-1200.webp"
+  }
 }

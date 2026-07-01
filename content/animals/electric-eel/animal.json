@@ -1,0 +1,126 @@
+{
+  "id": "animal-electric-eel",
+  "slug": "electric-eel",
+  "name": "Electric Eel",
+  "commonNames": [
+    "Electric Eel",
+    "Common Electric Eel",
+    "Electric Knife Fish"
+  ],
+  "scientificName": "Electrophorus electricus",
+  "summary": "Despite its name, the electric eel is not a true eel, but a species of knifefish that can generate massive electric shocks of up to 860 volts to stun prey, defend itself from predators, and navigate muddy river waters.",
+  "heroTitle": "Electric Eel Facts",
+  "metaTitle": "Electric Eel Facts | Habitat, Diet, Electricity & Photos",
+  "metaDescription": "Electric eel facts for kids with photos, Amazon habitat, diet, electric shocks, and anatomy on one easy-to-read page.",
+  "searchIntents": [
+    "electric eel facts",
+    "what do electric eels eat",
+    "where do electric eels live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Gymnotiformes",
+    "family": "Gymnotidae",
+    "genus": "Electrophorus",
+    "species": "E. electricus"
+  },
+  "classificationLabels": [
+    "fish"
+  ],
+  "habitat": "wetland",
+  "continents": [
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Colombia",
+    "Venezuela",
+    "Peru",
+    "Guyana",
+    "Suriname"
+  ],
+  "biomes": [
+    "freshwater-wetland",
+    "tropical-forest"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Fish",
+    "Frogs",
+    "Crabs",
+    "Small birds",
+    "Shrimp"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years"
+  },
+  "size": {
+    "lengthMin": "1.8 meters",
+    "lengthMax": "2.5 meters"
+  },
+  "weight": {
+    "min": "15 kg",
+    "max": "20 kg"
+  },
+  "speed": "Slow swimmer",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "electric shock hunting",
+    "gulping air",
+    "nocturnal activity",
+    "electroreception navigation",
+    "solitary living"
+  ],
+  "adaptations": [
+    "electricity-generating organs",
+    "air-breathing mouth",
+    "scales-free slimy skin",
+    "poor eyesight but high electroreception"
+  ],
+  "predators": [
+    "Humans"
+  ],
+  "prey": [
+    "Fish",
+    "Frogs",
+    "Crabs",
+    "Small birds"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "7 to 10 days",
+    "offspringCount": "Up to 17,000 eggs"
+  },
+  "funFacts": [
+    "Despite their name and snakelike appearance, electric eels are actually knifefish, more closely related to carp and catfish than true eels!",
+    "An adult electric eel can generate a massive electric shock of up to 860 volts—enough to stun a horse!",
+    "They have three special organs in their bodies (the main organ, Hunter's organ, and Sachs' organ) that generate electricity.",
+    "Because they live in muddy, low-oxygen waters, electric eels must rise to the surface to breathe air every 10 minutes!",
+    "They have very poor eyesight, but they use low-voltage electric pulses like radar to map their surroundings and find food in the dark.",
+    "During the dry season, male electric eels build a nest out of their own saliva (spit), where the female lays thousands of eggs."
+  ],
+  "faq": [
+    {
+      "question": "What is an electric eel?",
+      "answer": "An electric eel is a freshwater fish native to South America. It is famous for its ability to produce powerful electric shocks to hunt, navigate, and defend itself."
+    },
+    {
+      "question": "How does an electric eel generate electricity?",
+      "answer": "They have thousands of specialized cells called electrocytes stacked together inside three electric organs. When they spot prey or danger, their brain sends a signal that releases a sudden burst of electricity."
+    },
+    {
+      "question": "Is an electric eel a true eel?",
+      "answer": "No, it is not a true eel. Electric eels are actually a type of knifefish. They are called eels because of their long, cylindrical, and slimy bodies."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "electric-eel-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

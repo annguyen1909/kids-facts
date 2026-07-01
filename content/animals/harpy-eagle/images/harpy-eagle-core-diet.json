@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-core-diet",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-core-diet",
+  "alt": "Wild harpy eagle scanning the upper branches for arboreal mammals",
+  "caption": "Their remarkable maneuverability allows them to navigate dense forest branches to snatch sloths directly from trees.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Neotropical rainforest",
+  "fileName": "harpy-eagle-core-diet-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Alastair Rae from London, United Kingdom via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpy_Eagle_(7989221385).jpg\">Alastair Rae from London, United Kingdom</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpy_Eagle_(7989221385).jpg",
+    "creatorName": "Alastair Rae from London, United Kingdom",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:25.958Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Curated wild diet hunting behavior shot. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d5/Harpy_Eagle_%287989221385%29.jpg",
+  "updatedAt": "2026-06-29T11:55:25.958Z",
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-core-diet-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-core-diet-01-1200.webp"
+  }
+}

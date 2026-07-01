@@ -1,0 +1,38 @@
+{
+  "id": "walrus-hero",
+  "animalSlug": "walrus",
+  "slug": "walrus-hero",
+  "fileName": "walrus-hero-01-1200.webp",
+  "alt": "Walrus with long white tusks resting on Arctic ground in Svalbard",
+  "caption": "Walruses are huge Arctic sea mammals known for their long tusks and bristly whiskers.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Svalbard, Norway",
+  "src": "/images/animals/walrus/web/walrus-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by AWeith via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Walrus_(Odobenus_rosmarus)_on_Svalbard.jpg\">AWeith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walrus_(Odobenus_rosmarus)_on_Svalbard.jpg",
+    "creatorName": "AWeith",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:03:13.747Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/90/Walrus_%28Odobenus_rosmarus%29_on_Svalbard.jpg",
+  "updatedAt": "2026-06-28T10:03:13.747Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-hero-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-hero-01-1200.webp"
+  }
+}

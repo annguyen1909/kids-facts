@@ -1,0 +1,42 @@
+{
+  "id": "gila-monster-core-baby",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-core-baby",
+  "fileName": "gila-monster-core-baby-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-core-baby-01-1200.webp",
+  "width": 1000,
+  "height": 694,
+  "alt": "A young or baby Gila Monster showing early development",
+  "caption": "Baby Gila Monsters must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_2zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_2zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:29.946Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Heloderma_suspectum_2zz.jpg",
+  "updatedAt": "2026-06-25T14:55:29.946Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_2zz.jpg",
+  "creatorName": "Photo by David J. Stang",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-core-baby-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-core-baby-01-1200.webp"
+  }
+}

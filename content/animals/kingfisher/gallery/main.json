@@ -1,0 +1,22 @@
+{
+  "id": "kingfisher-gallery-main",
+  "animalSlug": "kingfisher",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Common Kingfisher Photo Gallery",
+  "metaTitle": "Common Kingfisher Photo Gallery",
+  "metaDescription": "Browse a common kingfisher photo gallery with wildlife photos.",
+  "intro": "Explore common kingfisher photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "kingfisher-hero",
+    "kingfisher-habitat",
+    "kingfisher-diet",
+    "kingfisher-baby",
+    "kingfisher-family",
+    "kingfisher-range",
+    "kingfisher-size",
+    "kingfisher-closeup",
+    "kingfisher-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

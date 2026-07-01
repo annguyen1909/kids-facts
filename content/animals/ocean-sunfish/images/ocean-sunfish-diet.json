@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-diet",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-diet",
+  "fileName": "ocean-sunfish-diet-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Ocean sunfish cruising through open water searching for gelatinous prey",
+  "caption": "Their diet consists heavily of jellyfish, salps, small fish, and zooplankton sucked into their small beaked mouths.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Oceanario Lisboa",
+  "acquisitionNotes": "Manually curated ocean sunfish diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Mola-mola-Lisboa-20051020.jpg",
+  "updatedAt": "2026-06-29T07:22:49.641Z",
+  "attributionText": "Photo by Nol Aders via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola-mola-Lisboa-20051020.jpg\">Nol Aders</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola-mola-Lisboa-20051020.jpg",
+    "creatorName": "Nol Aders",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:49.641Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-diet-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-diet-01-1200.webp"
+  }
+}

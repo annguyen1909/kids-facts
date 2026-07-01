@@ -2,10 +2,10 @@
   "id": "gorilla-closeup",
   "animalSlug": "gorilla",
   "slug": "gorilla-closeup",
-  "fileName": "Male Western lowland gorilla close up - DPLA - 2f2f1a01e73914b905a4d2f431a6ffee.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Male_Western_lowland_gorilla_close_up_-_DPLA_-_2f2f1a01e73914b905a4d2f431a6ffee.jpg",
-  "width": 1500,
-  "height": 1000,
+  "fileName": "gorilla-closeup-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up western lowland gorilla face with thoughtful expression",
   "caption": "Gorillas have large hands, opposable thumbs, and expressive faces.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Manually curated gorilla close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c0/Male_Western_lowland_gorilla_close_up_-_DPLA_-_2f2f1a01e73914b905a4d2f431a6ffee.jpg",
+  "updatedAt": "2026-06-25T14:56:09.396Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Western_lowland_gorilla_close_up_-_DPLA_-_2f2f1a01e73914b905a4d2f431a6ffee.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:09.396Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-closeup-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-closeup-01-1200.webp"
   }
 }

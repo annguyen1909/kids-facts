@@ -1,0 +1,22 @@
+{
+  "id": "whale-shark-gallery-main",
+  "animalSlug": "whale-shark",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Whale Shark Photo Gallery",
+  "metaTitle": "Whale Shark Photo Gallery",
+  "metaDescription": "Browse a whale shark photo gallery with wildlife photos.",
+  "intro": "Explore whale shark photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "whale-shark-hero",
+    "whale-shark-habitat",
+    "whale-shark-diet",
+    "whale-shark-baby",
+    "whale-shark-family",
+    "whale-shark-range",
+    "whale-shark-size",
+    "whale-shark-closeup",
+    "whale-shark-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-core-baby",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-core-baby",
+  "alt": "A young archerfish exploring the shallow upper waters of its habitat",
+  "caption": "As young archerfish mature in protected estuaries, they develop their iconic dark vertical bands which provide flawless camouflage among mangrove roots.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Louisville Zoo",
+  "fileName": "archerfish-core-baby-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 820,
+  "attributionText": "Photo by Ltshears via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:ArcherFish01.jpg\">Ltshears</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArcherFish01.jpg",
+    "creatorName": "Ltshears",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:10.963Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile development overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/ff/ArcherFish01.jpg",
+  "updatedAt": "2026-06-29T11:54:10.963Z",
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-core-baby-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-core-baby-01-1200.webp"
+  }
+}

@@ -11,6 +11,8 @@ const BLOCKED_DESCRIPTION_TERMS = [
   "diagram",
   "illustration",
   "drawing",
+  "painting",
+  "artwork",
   "chart",
   "icon",
   "logo",
@@ -18,6 +20,12 @@ const BLOCKED_DESCRIPTION_TERMS = [
   "pdf",
   "djvu",
   "extracted picklist",
+  "aquarium",
+  "zoo",
+  "museum",
+  "taxidermy",
+  "model",
+  "fountain"
 ];
 
 const WRONG_SPECIES_TERMS = [
@@ -32,6 +40,10 @@ const WRONG_SPECIES_TERMS = [
   "dolphin",
   "elephant",
   "penguin",
+  "harmonia",
+  "axyridis",
+  "ladybeetle",
+  "harlequin"
 ];
 
 function isRelevantSpecies(

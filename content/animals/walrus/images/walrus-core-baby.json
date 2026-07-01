@@ -1,0 +1,38 @@
+{
+  "id": "walrus-core-baby",
+  "animalSlug": "walrus",
+  "slug": "walrus-core-baby",
+  "fileName": "walrus-core-baby-01-1200.webp",
+  "alt": "Young walrus calf peeking out of the icy water",
+  "caption": "Calves can swim soon after birth and ride on their mother's back when they get tired.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Alaska, USA",
+  "src": "/images/animals/walrus/web/walrus-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_curious_pacific_walrus_calf_checks_out_the_photographer_from_the_icy_water.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_curious_pacific_walrus_calf_checks_out_the_photographer_from_the_icy_water.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:08.284Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b0/A_curious_pacific_walrus_calf_checks_out_the_photographer_from_the_icy_water.jpg",
+  "updatedAt": "2026-06-28T10:03:08.284Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-core-baby-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-core-baby-01-1200.webp"
+  }
+}

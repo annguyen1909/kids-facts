@@ -10,8 +10,10 @@ type PickImageOptions = {
   excludeSrcs?: string[];
 };
 
+type AnimalWithImages = Pick<AnimalRecord, "images">;
+
 export function pickAnimalImage(
-  animal: AnimalRecord,
+  animal: AnimalWithImages,
   options: PickImageOptions,
 ): AnimalImage | undefined {
   const {
@@ -57,6 +59,13 @@ export function pickAnimalImage(
 }
 
 export function getAnimalHeroImage(animal: AnimalRecord): AnimalImage {
+  return (
+    pickAnimalImage(animal, { imageType: "hero" }) ??
+    animal.images[0]
+  );
+}
+
+export function getAnimalPrimaryImage(animal: AnimalWithImages): AnimalImage {
   return (
     pickAnimalImage(animal, { imageType: "hero" }) ??
     animal.images[0]

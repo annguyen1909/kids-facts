@@ -2,23 +2,23 @@
   "id": "tiger-hero",
   "animalSlug": "tiger",
   "slug": "tiger-hero",
-  "fileName": "tiger-hero.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg",
-  "width": 5100,
-  "height": 3400,
+  "fileName": "tiger-hero-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Bengal tigress walking through grass in India",
   "caption": "Tigers are powerful wild cats with orange fur and black stripes.",
-  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg",
-    "creatorName": "Yathin S Krishnappa",
+    "creatorName": "Charles J. Sharp",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:58:28.827Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:12:51.883Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "India",
-  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
-  "updatedAt": "2026-06-21T16:58:28.827Z"
+  "acquisitionNotes": "Manually verified tiger image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/97/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg",
+  "updatedAt": "2026-06-25T15:12:51.883Z",
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-hero-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-hero-01-1200.webp"
+  }
 }

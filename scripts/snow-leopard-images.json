@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Snow leopard portrait-2010-07-09.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Snow Leopard in the wild",
+    "caption": "The Snow Leopard is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Snow leopard portrait.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Snow Leopard navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Uncia uncia Ähtäri.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Snow Leopard finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Snow Leopard.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Uncia uncia Ähtäri 4.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Snow Leopard showing early development",
+    "caption": "Baby Snow Leopards must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Panthera uncia - Zoo Karlsruhe.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Snow Leopards interacting with each other",
+    "caption": "While often solitary, some Snow Leopards interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Panthera uncia - Zoo Karlsruhe 01.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Snow Leopard traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Panthera uncia - Zoo Karlsruhe 02.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Snow Leopard",
+    "caption": "The size of a Snow Leopard can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Panthera uncia - Zoo Karlsruhe 03.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Snow Leopard",
+    "caption": "A close-up view reveals the intricate details of a Snow Leopard's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Uncia uncia.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Snow Leopard showing a unique behavior or adaptation",
+    "caption": "Did you know that the Snow Leopard has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Uncia uncia in Liberec ZOO in Liberec, Liberec District.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Snow Leopard navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Uncia uncia 2-Buffalo Zoo.JPG",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Snow Leopard finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Snow Leopard.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Snow-Leopard Uncia-uncia.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Snow Leopards interacting with each other",
+    "caption": "While often solitary, some Snow Leopards interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Snow Leopard Uncia uncia.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Snow Leopard showing early development",
+    "caption": "Baby Snow Leopards must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Uncia uncia in Warsaw Zoo - 02.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Snow Leopard traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

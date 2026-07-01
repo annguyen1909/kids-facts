@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-core-range",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-core-range",
+  "fileName": "honeybee-core-range-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1801,
+  "alt": "Honey bee flying off a leaf in the wild",
+  "caption": "Wild honey bees fly long distances from their nest to find flowering plants.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "United States",
+  "attributionText": "Photo by Scott Bauer, USDA Agricultural Research Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Apis_mellifera_scutellata_1355021.jpg\">Scott Bauer, USDA Agricultural Research Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_scutellata_1355021.jpg",
+    "creatorName": "Scott Bauer, USDA Agricultural Research Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:58:19.328Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified honeybee image for range. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/Apis_mellifera_scutellata_1355021.jpg",
+  "updatedAt": "2026-06-25T14:58:19.328Z",
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-core-range-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-core-range-01-1200.webp"
+  }
+}

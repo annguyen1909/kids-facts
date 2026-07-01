@@ -1,0 +1,177 @@
+{
+  "id": "animal-narwhal",
+  "slug": "narwhal",
+  "name": "Narwhal",
+  "commonNames": [
+    "unicorn of the sea",
+    "Arctic whale"
+  ],
+  "scientificName": "Monodon monoceros",
+  "summary": "Narwhals are medium-sized Arctic whales famous for their long spiral tusk, which is actually an elongated tooth packed with millions of nerve endings. They live in icy waters year-round and can dive to extreme depths to hunt fish and squid.",
+  "heroTitle": "Narwhal Facts",
+  "metaTitle": "Narwhal Facts | Tusk, Habitat, Diet & Photos",
+  "metaDescription": "Discover narwhal facts with photos, tusk science, Arctic habitat, diet, and conservation. Learn where narwhals live, what they eat, and what makes their tusk so special.",
+  "searchIntents": [
+    "narwhal facts",
+    "what is a narwhal tusk",
+    "where do narwhals live",
+    "what do narwhals eat",
+    "narwhal size",
+    "are narwhals real"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Monodontidae",
+    "genus": "Monodon",
+    "species": "M. monoceros"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "Europe",
+    "Asia"
+  ],
+  "countries": [
+    "Canada",
+    "Greenland",
+    "Norway",
+    "Russia"
+  ],
+  "biomes": [
+    "Arctic ocean",
+    "polar sea ice"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Arctic cod",
+    "Greenland halibut",
+    "squid",
+    "shrimp"
+  ],
+  "lifespan": {
+    "wild": "Up to 50 years",
+    "captivity": "Rarely survive in captivity"
+  },
+  "size": {
+    "lengthMin": "13 feet",
+    "lengthMax": "20 feet",
+    "heightMin": "N/A",
+    "heightMax": "N/A"
+  },
+  "weight": {
+    "min": "1,760 pounds",
+    "max": "3,500 pounds"
+  },
+  "speed": "Up to 17 mph in short bursts",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Unknown",
+  "behaviors": [
+    "deep diving",
+    "seasonal migration",
+    "pod living",
+    "tusk sparring",
+    "under-ice navigation"
+  ],
+  "adaptations": [
+    "thick blubber layer",
+    "flexible spine",
+    "no dorsal fin",
+    "echolocation",
+    "sensitive tusk"
+  ],
+  "predators": [
+    "orca",
+    "polar bear",
+    "Greenland shark",
+    "humans"
+  ],
+  "prey": [
+    "Arctic cod",
+    "Greenland halibut",
+    "squid",
+    "shrimp"
+  ],
+  "reproduction": {
+    "offspringName": "calf",
+    "gestationOrIncubation": "About 14 months",
+    "offspringCount": "1 calf"
+  },
+  "funFacts": [
+    "A narwhal's tusk is actually a tooth—usually the upper left canine—that can grow up to 10 feet (3 m) long.",
+    "The tusk contains up to 10 million nerve endings that may detect changes in water temperature, pressure, and salinity.",
+    "Narwhals can dive deeper than 5,000 feet (1,500 m) below the ocean surface to find food.",
+    "The name 'narwhal' comes from Old Norse meaning 'corpse whale' because their mottled skin resembles a drowned sailor.",
+    "Some narwhals grow two tusks, though this is rare and usually only occurs in males.",
+    "Narwhals have no dorsal fin, which helps them swim under sea ice without getting stuck."
+  ],
+  "faq": [
+    {
+      "question": "What is a narwhal?",
+      "answer": "A narwhal is a medium-sized whale that lives in Arctic waters. It is best known for its long spiral tusk, which is actually an elongated tooth that can grow up to 10 feet long."
+    },
+    {
+      "question": "Is the narwhal tusk actually a horn?",
+      "answer": "No. The narwhal's tusk is a tooth—usually the upper left canine—that spirals through the whale's upper lip and keeps growing throughout its life."
+    },
+    {
+      "question": "What is the narwhal tusk used for?",
+      "answer": "Scientists believe the tusk is a sensory organ packed with nerve endings that detect water temperature, pressure, and salinity. Males also use tusks in sparring displays."
+    },
+    {
+      "question": "Where do narwhals live?",
+      "answer": "Narwhals live in the Arctic Ocean and surrounding seas near Canada, Greenland, Norway, and Russia. They prefer cold, icy waters and spend winters under sea ice."
+    },
+    {
+      "question": "What do narwhals eat?",
+      "answer": "Narwhals are carnivores that hunt Arctic cod, Greenland halibut, squid, and shrimp. They dive very deep—sometimes over a mile—to find prey."
+    },
+    {
+      "question": "How deep can a narwhal dive?",
+      "answer": "Narwhals can dive deeper than 5,000 feet (1,500 m) and hold their breath for up to 25 minutes. They are among the deepest-diving marine mammals."
+    },
+    {
+      "question": "How big is a narwhal?",
+      "answer": "Adult narwhals are typically 13 to 20 feet (4–6 m) long and can weigh up to 3,500 pounds (1,600 kg). The tusk adds several more feet to a male's total length."
+    },
+    {
+      "question": "Are narwhals endangered?",
+      "answer": "Narwhals are listed as Near Threatened. Climate change is melting the sea ice they depend on, and they are hunted in some regions for food and ivory."
+    },
+    {
+      "question": "Do female narwhals have tusks?",
+      "answer": "Most females do not grow a tusk, or they have a very small one. The long, prominent tusk is mainly a male trait, though some females do develop one."
+    },
+    {
+      "question": "What eats narwhals?",
+      "answer": "Orcas are the main predators of narwhals. Polar bears sometimes catch them at breathing holes in sea ice. Greenland sharks and humans also pose threats."
+    },
+    {
+      "question": "How long do narwhals live?",
+      "answer": "Narwhals can live up to 50 years in the wild. They rarely survive in captivity, as they are highly adapted to the extreme Arctic environment."
+    },
+    {
+      "question": "Why are narwhals called unicorns of the sea?",
+      "answer": "Narwhals earn this nickname because their long spiral tusk resembles the horn of a mythical unicorn. Medieval Europeans often sold narwhal tusks as genuine unicorn horns."
+    }
+  ],
+  "relatedAnimals": [
+    "orca",
+    "blue-whale"
+  ],
+  "comparisonCandidates": [
+    "orca"
+  ],
+  "galleryIds": [
+    "narwhal-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "polar"
+}

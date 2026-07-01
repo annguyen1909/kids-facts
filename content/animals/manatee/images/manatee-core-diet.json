@@ -1,0 +1,38 @@
+{
+  "id": "manatee-core-diet",
+  "animalSlug": "manatee",
+  "slug": "manatee-core-diet",
+  "fileName": "manatee-core-diet-01-1200.webp",
+  "alt": "A Manatee finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Manatee.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 807,
+  "attributionText": "Photo by Rathbun Galen, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Two_west_Indian_manatee_trichechus_manatus_nuzzling_noses_together.jpg\">Rathbun Galen, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_west_Indian_manatee_trichechus_manatus_nuzzling_noses_together.jpg",
+    "creatorName": "Rathbun Galen, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:26.311Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0c/Two_west_Indian_manatee_trichechus_manatus_nuzzling_noses_together.jpg",
+  "updatedAt": "2026-06-26T08:16:26.311Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-core-diet-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-core-diet-01-1200.webp"
+  }
+}

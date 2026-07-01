@@ -2,10 +2,10 @@
   "id": "orca-fun-fact",
   "animalSlug": "orca",
   "slug": "orca-fun-fact",
-  "fileName": "Orca, Killer Whale, breaching - Morro Bay, CA May 8, 2014 Orcinus orca.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Orca%2C_Killer_Whale%2C_breaching_-_Morro_Bay%2C_CA_May_8%2C_2014_Orcinus_orca.jpg",
-  "width": 2596,
-  "height": 1731,
+  "fileName": "orca-fun-fact-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Breaching orca leaping above the sea surface",
   "caption": "Orcas can burst partly out of the water in a behavior called breaching.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Morro Bay, California",
-  "acquisitionNotes": "Manually curated orca fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Manually curated orca fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2a/Orca%2C_Killer_Whale%2C_breaching_-_Morro_Bay%2C_CA_May_8%2C_2014_Orcinus_orca.jpg",
+  "updatedAt": "2026-06-25T15:04:36.465Z",
   "attributionText": "Photo by Mike Baird from Morro Bay, USA via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orca%2C_Killer_Whale%2C_breaching_-_Morro_Bay%2C_CA_May_8%2C_2014_Orcinus_orca.jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orca,_Killer_Whale,_breaching_-_Morro_Bay,_CA_May_8,_2014_Orcinus_orca.jpg\">Mike Baird from Morro Bay, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orca%2C_Killer_Whale%2C_breaching_-_Morro_Bay%2C_CA_May_8%2C_2014_Orcinus_orca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orca,_Killer_Whale,_breaching_-_Morro_Bay,_CA_May_8,_2014_Orcinus_orca.jpg",
     "creatorName": "Mike Baird from Morro Bay, USA",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:36.465Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-fun-fact-01-400.webp",
+    "original": "/images/animals/orca/web/orca-fun-fact-01-1200.webp"
   }
 }

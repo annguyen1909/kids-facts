@@ -1,0 +1,38 @@
+{
+  "id": "manatee-range",
+  "animalSlug": "manatee",
+  "slug": "manatee-range",
+  "fileName": "manatee-range-01-1200.webp",
+  "alt": "A West Indian manatee swimming in clear shallow waters",
+  "caption": "The West Indian manatee's geographic range covers the Caribbean basin, Gulf of Mexico, and southeastern United States.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Florida, USA",
+  "src": "/images/animals/manatee/web/manatee-range-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "attributionText": "Photo by U.S. Fish and Wildlife Service Southeast Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:West_Indian_Manatee_Manat%C3%AD_Antillano_(5839912351).jpg\">U.S. Fish and Wildlife Service Southeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Indian_Manatee_Manat%C3%AD_Antillano_(5839912351).jpg",
+    "creatorName": "U.S. Fish and Wildlife Service Southeast Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:30.710Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/West_Indian_Manatee_Manat%C3%AD_Antillano_%285839912351%29.jpg",
+  "updatedAt": "2026-06-26T08:16:30.710Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-range-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-range-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-range-01-1200.webp"
+  }
+}

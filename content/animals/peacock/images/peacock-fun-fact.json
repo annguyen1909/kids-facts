@@ -1,0 +1,38 @@
+{
+  "id": "peacock-fun-fact",
+  "animalSlug": "peacock",
+  "slug": "peacock-fun-fact",
+  "fileName": "peacock-fun-fact-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 773,
+  "alt": "A Peacock showing a unique behavior or adaptation",
+  "caption": "Did you know that the Peacock has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Clément Bardot via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_an_Indian_peafowl.jpg\">Clément Bardot</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_Indian_peafowl.jpg",
+    "creatorName": "Clément Bardot",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:27.439Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_an_Indian_peafowl.jpg",
+  "updatedAt": "2026-06-25T15:06:27.439Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-fun-fact-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-fun-fact-01-1200.webp"
+  }
+}

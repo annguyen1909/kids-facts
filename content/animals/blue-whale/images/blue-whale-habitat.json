@@ -2,10 +2,10 @@
   "id": "blue-whale-habitat",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-habitat",
-  "fileName": "Blow of a blue whale in the Arctic sea.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Blow_of_a_blue_whale_in_the_Arctic_sea.jpg",
-  "width": 4629,
-  "height": 2604,
+  "fileName": "blue-whale-habitat-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Blue whale blow spray rising above cold Arctic ocean water",
   "caption": "Blue whales roam deep, cold oceans and visit polar feeding grounds rich in krill.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Arctic Ocean",
-  "acquisitionNotes": "Manually curated blue whale habitat image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/37/Blow_of_a_blue_whale_in_the_Arctic_sea.jpg",
+  "updatedAt": "2026-06-25T14:49:15.140Z",
   "attributionText": "Photo by AWeith via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blow_of_a_blue_whale_in_the_Arctic_sea.jpg\">AWeith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:15.140Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-habitat-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-habitat-01-1200.webp"
   }
 }

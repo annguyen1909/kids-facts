@@ -1,0 +1,22 @@
+{
+  "id": "superb-bird-of-paradise-gallery-main",
+  "animalSlug": "superb-bird-of-paradise",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Superb Bird Of Paradise Photo Gallery",
+  "metaTitle": "Superb Bird Of Paradise Photo Gallery",
+  "metaDescription": "Browse a superb bird of paradise photo gallery with wildlife photos.",
+  "intro": "Explore superb bird of paradise photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "superb-bird-of-paradise-hero",
+    "superb-bird-of-paradise-habitat",
+    "superb-bird-of-paradise-diet",
+    "superb-bird-of-paradise-baby",
+    "superb-bird-of-paradise-family",
+    "superb-bird-of-paradise-range",
+    "superb-bird-of-paradise-size",
+    "superb-bird-of-paradise-closeup",
+    "superb-bird-of-paradise-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:25.440Z"
+}

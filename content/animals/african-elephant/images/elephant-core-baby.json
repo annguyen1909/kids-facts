@@ -2,10 +2,10 @@
   "id": "elephant-core-baby",
   "animalSlug": "african-elephant",
   "slug": "elephant-core-baby",
-  "fileName": "African_Elephant_(Loxodonta_africana)_calf_(17331176001).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/African_Elephant_%28Loxodonta_africana%29_calf_%2817331176001%29.jpg",
-  "width": 5005,
-  "height": 3249,
+  "fileName": "elephant-core-baby-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 779,
   "alt": "Young African elephant calf standing beside adults on sandy ground",
   "caption": "Elephant calves learn important survival skills by staying near older herd members.",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:28.328Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Africa",
-  "acquisitionNotes": "Core article baby image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article baby image sourced from Wikimedia Commons; kept separate from gallery image set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6a/African_Elephant_%28Loxodonta_africana%29_calf_%2817331176001%29.jpg",
+  "updatedAt": "2026-06-25T14:48:28.328Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-core-baby-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-core-baby-01-1200.webp"
+  }
 }

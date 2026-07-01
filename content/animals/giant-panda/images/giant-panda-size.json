@@ -2,8 +2,8 @@
   "id": "giant-panda-size",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-size",
-  "fileName": "giant-panda-size-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+  "fileName": "giant-panda-size-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-size-01-1200.webp",
   "width": 1024,
   "height": 768,
   "alt": "Full-body view of a giant panda showing its round shape and size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Chengdu Research Base of Giant Panda Breeding, China",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+  "updatedAt": "2026-06-25T14:55:28.335Z",
   "attributionText": "Photo by Colegota via Wikimedia Commons, CC BY-SA 2.5 es",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg\">Colegota</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5/es/deed.en\">CC BY-SA 2.5 es</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.5 es",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:28.335Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-size-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-size-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-size-01-1200.webp"
   }
 }

@@ -1,0 +1,180 @@
+{
+  "id": "animal-mantis-shrimp",
+  "slug": "mantis-shrimp",
+  "name": "Mantis Shrimp",
+  "commonNames": [
+    "peacock mantis shrimp",
+    "stomatopod"
+  ],
+  "scientificName": "Odontodactylus scyllarus",
+  "summary": "The mantis shrimp is a marine crustacean famous for the most complex eyes in the animal kingdom—16 types of color receptors—and a punch so powerful it creates cavitation bubbles that briefly reach the temperature of the sun's surface.",
+  "heroTitle": "Mantis Shrimp Facts",
+  "metaTitle": "Mantis Shrimp Facts | Eyes, Punch, Habitat & Photos",
+  "metaDescription": "Discover mantis shrimp facts with photos, incredible eyes, punch force, habitat, diet, and life cycle. Learn where mantis shrimp live, what they eat, and how they hunt.",
+  "searchIntents": [
+    "mantis shrimp facts",
+    "mantis shrimp eyes",
+    "mantis shrimp punch force",
+    "where do mantis shrimp live",
+    "what do mantis shrimp eat",
+    "how fast can a mantis shrimp punch"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Stomatopoda",
+    "family": "Odontodactylidae",
+    "genus": "Odontodactylus",
+    "species": "O. scyllarus"
+  },
+  "classificationLabels": [
+    "crustacean",
+    "marine",
+    "carnivore",
+    "small"
+  ],
+  "continents": [
+    "Asia",
+    "Australia",
+    "Africa"
+  ],
+  "countries": [
+    "Indonesia",
+    "Philippines",
+    "Australia",
+    "Maldives",
+    "Japan"
+  ],
+  "biomes": [
+    "coral reef",
+    "tropical ocean"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "fish",
+    "crabs",
+    "mollusks",
+    "worms",
+    "shrimp"
+  ],
+  "lifespan": {
+    "wild": "3 to 6 years",
+    "captivity": "Up to 20 years in human care"
+  },
+  "size": {
+    "lengthMin": "2 inches",
+    "lengthMax": "18 inches",
+    "heightMin": "1 inch",
+    "heightMax": "2 inches"
+  },
+  "weight": {
+    "min": "Less than 1 ounce",
+    "max": "6 ounces"
+  },
+  "speed": "Club strike up to 50 mph (80 km/h)",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "ambush hunting",
+    "burrowing",
+    "striking prey",
+    "territorial defense",
+    "binocular vision scanning"
+  ],
+  "adaptations": [
+    "16 types of photoreceptors",
+    "dactyl clubs for smashing",
+    "spear-like appendages for spearing",
+    "ultraviolet vision",
+    "polarized light detection"
+  ],
+  "predators": [
+    "large fish",
+    "octopus",
+    "humans"
+  ],
+  "prey": [
+    "fish",
+    "crabs",
+    "mollusks",
+    "worms",
+    "shrimp"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Eggs hatch in 40 to 70 days depending on temperature",
+    "offspringCount": "Hundreds to thousands of eggs per clutch"
+  },
+  "funFacts": [
+    "Mantis shrimp have 16 types of color receptors—compared to just 3 in humans—and can see ultraviolet and polarized light.",
+    "Their strike accelerates at up to 10,000 g and travels at nearly 50 mph (80 km/h)—one of the fastest movements in the animal kingdom.",
+    "The cavitation bubbles created by a mantis shrimp punch briefly reach temperatures near 8,000°F (4,400°C), close to the surface temperature of the sun.",
+    "There are two types of mantis shrimp hunters: smashers that crush hard shells with clubs, and spearers that stab soft prey with pointed appendages.",
+    "Mantis shrimp can recognize each other as individuals and remember rivals from previous encounters.",
+    "Despite their name, mantis shrimp are neither mantises nor true shrimp—they are stomatopods, a distinct order of crustaceans."
+  ],
+  "faq": [
+    {
+      "question": "What is a mantis shrimp?",
+      "answer": "A mantis shrimp is a marine crustacean in the order Stomatopoda. Despite the name, it is not a true shrimp or a mantis—it is a separate group of ocean animals known for extraordinary eyes and a powerful strike."
+    },
+    {
+      "question": "How many colors can a mantis shrimp see?",
+      "answer": "Mantis shrimp have 16 types of color photoreceptors, compared to 3 in humans. They can detect ultraviolet light and polarized light that is completely invisible to people."
+    },
+    {
+      "question": "How powerful is a mantis shrimp punch?",
+      "answer": "A mantis shrimp's dactyl clubs accelerate at up to 10,000 times the force of gravity and strike at about 50 mph (80 km/h). The impact creates cavitation bubbles that release a shockwave powerful enough to crack aquarium glass."
+    },
+    {
+      "question": "Where do mantis shrimp live?",
+      "answer": "Mantis shrimp live in warm tropical and subtropical oceans, especially in the shallow coral reefs and sandy seafloor of the Indo-Pacific region."
+    },
+    {
+      "question": "What do mantis shrimp eat?",
+      "answer": "Mantis shrimp eat fish, crabs, mollusks, worms, and other crustaceans. Smashers crush hard-shelled prey; spearers stab soft-bodied animals."
+    },
+    {
+      "question": "What is the difference between smasher and spearer mantis shrimp?",
+      "answer": "Smasher mantis shrimp use hardened club-like appendages to smash shells and hard prey. Spearers have sharp, barbed appendages to impale soft prey like fish."
+    },
+    {
+      "question": "How long do mantis shrimp live?",
+      "answer": "Wild mantis shrimp typically live 3 to 6 years. Some individuals in captivity with good care can live up to 20 years."
+    },
+    {
+      "question": "Are mantis shrimp endangered?",
+      "answer": "Most mantis shrimp species are listed as Least Concern. However, reef destruction and overharvesting for food markets in Southeast Asia are threats to local populations."
+    },
+    {
+      "question": "Can a mantis shrimp hurt a human?",
+      "answer": "Yes. A mantis shrimp strike can break a human finger. Divers and aquarists handle them with extreme care. They are sometimes called the 'thumb splitter' in fishing communities."
+    },
+    {
+      "question": "Why do mantis shrimp have such complex eyes?",
+      "answer": "Researchers believe their extra photoreceptors allow mantis shrimp to process color very quickly without the brain doing complex computation—an adaptation for fast, decisive hunting in reef environments."
+    },
+    {
+      "question": "Do mantis shrimp make good aquarium pets?",
+      "answer": "Mantis shrimp can be kept in dedicated aquariums, but they are escape artists and will attack and kill tank mates. Their strength can also crack standard aquarium glass."
+    },
+    {
+      "question": "What are cavitation bubbles?",
+      "answer": "When a mantis shrimp strikes, the speed of its club causes the surrounding water pressure to drop so suddenly that tiny vapor bubbles form and then collapse violently, creating a shockwave and a flash of heat and light."
+    }
+  ],
+  "relatedAnimals": [
+    "octopus",
+    "clownfish"
+  ],
+  "comparisonCandidates": [
+    "octopus"
+  ],
+  "galleryIds": [
+    "mantis-shrimp-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "ocean"
+}

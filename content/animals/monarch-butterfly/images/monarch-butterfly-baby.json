@@ -1,0 +1,39 @@
+{
+  "id": "monarch-butterfly-baby",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-baby",
+  "fileName": "monarch-butterfly-baby-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1805,
+  "alt": "Vertical close up of a striped monarch butterfly caterpillar on a stem",
+  "caption": "Monarch caterpillars hatch from tiny eggs and have bright yellow, black, and white stripes.",
+  "attributionText": "Photo by Photo (c)2007 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Vertical_Caterpillar_2000px.jpg\">Photo (c)2007 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Vertical_Caterpillar_2000px.jpg",
+    "creatorName": "Photo (c)2007 Derek Ramsey ( Ram-Man )",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:03.864Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified monarch butterfly image for baby. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/28/Monarch_Butterfly_Danaus_plexippus_Vertical_Caterpillar_2000px.jpg",
+  "updatedAt": "2026-06-25T15:03:03.864Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-baby-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-baby-01-1200.webp"
+  }
+}

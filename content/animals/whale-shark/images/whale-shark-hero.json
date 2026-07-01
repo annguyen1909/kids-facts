@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-hero",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-hero",
+  "fileName": "whale-shark-hero-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A massive whale shark swimming gracefully in deep blue water near the surface",
+  "caption": "The whale shark is the largest fish in the sea, reaching lengths of up to 40 feet.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Whale_Shark_AdF.jpg\">Arturo de Frias Marques</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whale_Shark_AdF.jpg",
+    "creatorName": "Arturo de Frias Marques",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:12.461Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c7/Whale_Shark_AdF.jpg",
+  "updatedAt": "2026-06-25T15:14:12.461Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-hero-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-hero-01-1200.webp"
+  }
+}

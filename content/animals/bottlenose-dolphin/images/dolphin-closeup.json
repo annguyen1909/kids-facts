@@ -2,8 +2,8 @@
   "id": "dolphin-closeup",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-closeup",
-  "fileName": "Bottlenose_Dolphin_Blowhole.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Bottlenose_Dolphin_Blowhole.jpg",
+  "fileName": "dolphin-closeup-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-closeup-01-1200.webp",
   "width": 800,
   "height": 600,
   "alt": "Close-up of a bottlenose dolphin blowhole on top of its head",
@@ -17,8 +17,8 @@
     "licenseName": "Public domain",
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:36.197Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Ocean surface",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Bottlenose_Dolphin_Blowhole.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Bottlenose_Dolphin_Blowhole.jpg",
+  "updatedAt": "2026-07-01T12:33:36.197Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-closeup-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-closeup-01-1200.webp"
+  }
 }

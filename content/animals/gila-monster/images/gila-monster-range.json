@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-range",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-range",
+  "fileName": "gila-monster-range-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Gila Monster traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by ALAN SCHMIERER via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum_suspectum)_(5-17-11)_patagonia_lake,_scc,_az_-04_(5731530095).jpg\">ALAN SCHMIERER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum_suspectum)_(5-17-11)_patagonia_lake,_scc,_az_-04_(5731530095).jpg",
+    "creatorName": "ALAN SCHMIERER",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:55:43.066Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/RETICULATE_GILA_MONSTER_%28Heloderma_suspectum_suspectum%29_%285-17-11%29_patagonia_lake%2C_scc%2C_az_-04_%285731530095%29.jpg",
+  "updatedAt": "2026-06-25T14:55:43.066Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-range-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-range-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-closeup",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-closeup",
+  "fileName": "tasmanian-devil-closeup-01-1200.webp",
+  "alt": "A detailed close-up showing the physical features of a Tasmanian Devil",
+  "caption": "A close-up view reveals the intricate details of a Tasmanian Devil's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "attributionText": "Photo by ARC CoE CABAH via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tasmanian_Devil_(Sarcophilus_harrisii).png\">ARC CoE CABAH</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tasmanian_Devil_(Sarcophilus_harrisii).png",
+    "creatorName": "ARC CoE CABAH",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:30.818Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/Tasmanian_Devil_%28Sarcophilus_harrisii%29.png",
+  "updatedAt": "2026-06-26T08:17:30.818Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-closeup-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-closeup-01-1200.webp"
+  }
+}

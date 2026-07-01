@@ -1,0 +1,22 @@
+{
+  "id": "snow-leopard-gallery-main",
+  "animalSlug": "snow-leopard",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Snow Leopard Photo Gallery",
+  "metaTitle": "Snow Leopard Photo Gallery",
+  "metaDescription": "Browse snow leopard photos showing spotted coats, Himalayan habitat, cubs, mountain terrain, and the ghost of the mountains in its natural environment.",
+  "intro": "Explore snow leopards through photos organized for learning, image search, and classroom observation—from cubs and spotted fur to dramatic mountain landscapes across Central Asia.",
+  "imageSlugs": [
+    "snow-leopard-hero",
+    "snow-leopard-habitat",
+    "snow-leopard-diet",
+    "snow-leopard-baby",
+    "snow-leopard-family",
+    "snow-leopard-range",
+    "snow-leopard-size",
+    "snow-leopard-closeup",
+    "snow-leopard-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

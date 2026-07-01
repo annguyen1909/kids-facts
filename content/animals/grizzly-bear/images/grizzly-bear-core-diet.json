@@ -2,8 +2,8 @@
   "id": "grizzly-bear-core-diet",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-core-diet",
-  "fileName": "Grizzly Bear Yellowstone.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Grizzly_Bear_Yellowstone.jpg",
+  "fileName": "grizzly-bear-core-diet-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-core-diet-01-1200.webp",
   "width": 1050,
   "height": 750,
   "alt": "Grizzly bear foraging in Yellowstone habitat",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Yellowstone National Park, USA",
-  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5b/Grizzly_Bear_Yellowstone.jpg",
+  "updatedAt": "2026-06-25T14:56:55.132Z",
   "attributionText": "Photo by Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg\">Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg\">Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg",
     "creatorName": "Terry Tollefsbol, NATIONAL CONSERVATION TRAINING CENTER-PUBLICATIONS AND TRAINING MATERIALS",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_Bear_Yellowstone.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:55.132Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-core-diet-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-core-diet-01-1200.webp"
   }
 }

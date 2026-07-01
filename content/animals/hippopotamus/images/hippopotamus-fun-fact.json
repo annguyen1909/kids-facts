@@ -2,10 +2,10 @@
   "id": "hippopotamus-fun-fact",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-fun-fact",
-  "fileName": "Hippo (Hippopotamus amphibius) yawning ... (31187613621).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hippo_%28Hippopotamus_amphibius%29_yawning_..._%2831187613621%29.jpg",
-  "width": 5472,
-  "height": 3648,
+  "fileName": "hippopotamus-fun-fact-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Hippopotamus yawning to show its enormous open mouth",
   "caption": "A yawning hippo reveals its massive mouth—yawns are often warnings, not just sleepiness.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African river",
-  "acquisitionNotes": "Manually curated hippopotamus fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z",
+  "acquisitionNotes": "Manually curated hippopotamus fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d4/Hippo_%28Hippopotamus_amphibius%29_yawning_..._%2831187613621%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d4/Hippo_%28Hippopotamus_amphibius%29_yawning_..._%2831187613621%29.jpg",
+  "updatedAt": "2026-06-26T19:13:05.993Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippo_(Hippopotamus_amphibius)_yawning_..._(31187613621).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:05.993Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-fun-fact-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-fun-fact-01-1200.webp"
   }
 }

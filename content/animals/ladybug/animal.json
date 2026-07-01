@@ -1,0 +1,137 @@
+{
+  "id": "animal-ladybug",
+  "slug": "ladybug",
+  "name": "Ladybug",
+  "commonNames": [
+    "Ladybug",
+    "Seven-Spotted Ladybug",
+    "Ladybird"
+  ],
+  "scientificName": "Coccinella septempunctata",
+  "summary": "The seven-spotted ladybug is a small, helpful beetle famous for its bright red dome-shaped shell with seven black spots. They are beloved by gardeners and farmers because they consume large amounts of destructive crop pests like aphids.",
+  "heroTitle": "Ladybug Facts",
+  "metaTitle": "Ladybug Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Ladybug facts for kids with photos, habitat, diet, behavior, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "ladybug facts",
+    "what do ladybugs eat",
+    "where do ladybugs live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Coccinellidae",
+    "genus": "Coccinella",
+    "species": "C. septempunctata"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "grassland",
+  "continents": [
+    "Europe",
+    "Asia",
+    "North America",
+    "Africa"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Germany",
+    "France",
+    "United States",
+    "Canada",
+    "Italy",
+    "Spain",
+    "Japan",
+    "Sweden",
+    "Russia"
+  ],
+  "biomes": [
+    "grassland",
+    "temperate-forest",
+    "shrubland",
+    "agricultural-land"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Aphids",
+    "Spider mites",
+    "Scale insects",
+    "Mealybugs",
+    "Insect eggs"
+  ],
+  "lifespan": {
+    "wild": "1-2 years"
+  },
+  "size": {
+    "lengthMin": "7 mm",
+    "lengthMax": "10 mm"
+  },
+  "weight": {
+    "min": "0.02 g",
+    "max": "0.05 g"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "aphid predation",
+    "reflex bleeding",
+    "diapause",
+    "solitary"
+  ],
+  "adaptations": [
+    "warning coloration",
+    "chemical defense",
+    "hard wing covers",
+    "flight wings"
+  ],
+  "predators": [
+    "Birds",
+    "Frogs",
+    "Spiders",
+    "Wasps",
+    "Ants"
+  ],
+  "prey": [
+    "Aphids",
+    "Spider mites",
+    "Scale insects",
+    "Thrips"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "3–10 days",
+    "offspringCount": "200–1000 eggs"
+  },
+  "funFacts": [
+    "A single ladybug can devour up to 50 to 100 aphids in a single day, and up to 5,000 during its lifetime!",
+    "When threatened, ladybugs can play dead and leak a smelly, bitter yellow liquid from their leg joints to scare off predators.",
+    "A ladybug's spots fade as it gets older, and their bright red color warns birds that they taste terrible.",
+    "Their hard, shiny red wing covers are called elytra. They protect their delicate flying wings folded underneath.",
+    "In the winter, thousands of ladybugs gather in dense clusters under logs, rocks, or leaves to hibernate together.",
+    "In many cultures around the world, ladybugs are considered symbols of good luck and good fortune."
+  ],
+  "faq": [
+    {
+      "question": "What is a ladybug?",
+      "answer": "A ladybug is a small, colorful beetle known for its dome-shaped red shell and black spots. They are beneficial insects that help gardeners by eating pests like aphids."
+    },
+    {
+      "question": "Where do ladybugs live?",
+      "answer": "Ladybugs live in temperate climates across Europe, Asia, and North America. They are commonly found in meadows, gardens, forests, fields, and lawns where plants are abundant."
+    },
+    {
+      "question": "What do ladybugs eat?",
+      "answer": "Ladybugs are carnivores that feed primarily on soft-bodied pests such as aphids, mites, and scale insects. Both adult ladybugs and their spiky larvae eat massive numbers of pests."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "ladybug-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z",
+  "publishedAt": "2026-06-24T22:50:00.000Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "honeybee-family",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-family",
+  "fileName": "honeybee-family-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-family-01-1200.webp",
+  "width": 1200,
+  "height": 913,
+  "alt": "Dozens of honey bees crawling and working together on a yellow honeycomb",
+  "caption": "Honey bees live in large family groups called colonies, with up to 60,000 bees in a hive.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family",
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Estonia",
+  "acquisitionNotes": "Manually verified honeybee image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ae/Western_honey_bee_on_a_honeycomb.jpg",
+  "updatedAt": "2026-06-25T14:58:22.786Z",
+  "attributionText": "Photo by Matthew T Rader via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_honey_bee_on_a_honeycomb.jpg\">Matthew T Rader</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_honey_bee_on_a_honeycomb.jpg",
+    "creatorName": "Matthew T Rader",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:22.786Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-family-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-family-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-family-01-1200.webp"
+  }
+}

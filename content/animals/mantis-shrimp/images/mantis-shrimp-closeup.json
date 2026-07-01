@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-closeup",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-closeup",
+  "fileName": "mantis-shrimp-closeup-01-1200.webp",
+  "alt": "A detailed close-up showing the physical features of a Mantis Shrimp",
+  "caption": "A close-up view reveals the intricate details of a Mantis Shrimp's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "attributionText": "Photo by Alexander Vasenin via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Curious_mantis_shrimp_from_Gilli_Banta_reef.JPG\">Alexander Vasenin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curious_mantis_shrimp_from_Gilli_Banta_reef.JPG",
+    "creatorName": "Alexander Vasenin",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:02.338Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2e/Curious_mantis_shrimp_from_Gilli_Banta_reef.JPG",
+  "updatedAt": "2026-06-26T08:17:02.338Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-closeup-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-closeup-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-hero",
+  "slug": "axolotl-hero",
+  "animalSlug": "axolotl",
+  "fileName": "axolotl-hero-01-1200.webp",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:19:02.453Z",
+  "src": "/images/animals/axolotl/web/axolotl-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-hero-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-hero-01-1200.webp"
+  },
+  "alt": "Axolotl with feathery gills and a gentle smile in an aquarium",
+  "caption": "Axolotls keep their larval gills and can regenerate lost limbs.",
+  "attributionText": "Photo by Kristof Magnusson via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Axolotl_Ambystoma_mexicanum_Aquarium_Zoo_Berlin,_2007.jpg\">Kristof Magnusson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axolotl_Ambystoma_mexicanum_Aquarium_Zoo_Berlin,_2007.jpg",
+    "creatorName": "Kristof Magnusson",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:19:02.453Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Unknown",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Axolotl_Ambystoma_mexicanum_Aquarium_Zoo_Berlin%2C_2007.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Axolotl_Ambystoma_mexicanum_Aquarium_Zoo_Berlin%2C_2007.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Axolotl_Ambystoma_mexicanum_Aquarium_Zoo_Berlin%2C_2007.jpg"
+}

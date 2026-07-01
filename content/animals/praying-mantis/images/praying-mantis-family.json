@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-family",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-family",
+  "fileName": "praying-mantis-family-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-family-01-1200.webp",
+  "width": 1000,
+  "height": 750,
+  "alt": "A tiny green praying mantis nymph resting on a stem",
+  "caption": "Young mantises, or nymphs, look just like adults but are much smaller and lack wings.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Krk, Croatia",
+  "attributionText": "Photo by This image is created by user B. Schoenmakers at Observation.org , a global biodiversity recording project. via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mantis_religiosa_(Mantidae)_(Praying_Mantis)_-_(nymph),_Otok_Krk,_Croatia.jpg\">This image is created by user B. Schoenmakers at Observation.org , a global biodiversity recording project.</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantis_religiosa_(Mantidae)_(Praying_Mantis)_-_(nymph),_Otok_Krk,_Croatia.jpg",
+    "creatorName": "This image is created by user B. Schoenmakers at Observation.org , a global biodiversity recording project.",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:12.637Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Mantis_religiosa_%28Mantidae%29_%28Praying_Mantis%29_-_%28nymph%29%2C_Otok_Krk%2C_Croatia.jpg",
+  "updatedAt": "2026-06-25T15:08:12.637Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-family-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-family-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-family-01-1200.webp"
+  }
+}

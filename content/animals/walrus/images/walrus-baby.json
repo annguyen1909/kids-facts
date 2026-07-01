@@ -1,0 +1,38 @@
+{
+  "id": "walrus-baby",
+  "animalSlug": "walrus",
+  "slug": "walrus-baby",
+  "fileName": "walrus-baby-01-1200.webp",
+  "alt": "Mother walrus resting on ice beside her young calf",
+  "caption": "A walrus calf stays close to its mother for two years or more while it grows.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Arctic",
+  "src": "/images/animals/walrus/web/walrus-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Walrus_cow_with_her_young_calf_on_the_ice_odobenus_rosmarus.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walrus_cow_with_her_young_calf_on_the_ice_odobenus_rosmarus.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:09.246Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b4/Walrus_cow_with_her_young_calf_on_the_ice_odobenus_rosmarus.jpg",
+  "updatedAt": "2026-06-28T10:03:09.246Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-baby-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-baby-01-1200.webp"
+  }
+}

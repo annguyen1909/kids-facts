@@ -2,10 +2,10 @@
   "id": "polar-bear-hero",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-hero",
-  "fileName": "Polar bear (Ursus maritimus) in the drift ice region north of Svalbard.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
-  "width": 2987,
-  "height": 1680,
+  "fileName": "polar-bear-hero-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-hero-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Polar bear walking on sea ice in the Arctic",
   "caption": "Polar bears are huge Arctic hunters built for life on sea ice.",
   "attributionText": "Photo by Andreas Weith via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:46.247Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "North of Svalbard, Arctic Ocean",
-  "acquisitionNotes": "Manually curated polar bear hero image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Manually curated polar bear hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg",
+  "updatedAt": "2026-06-25T15:07:46.247Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-hero-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-hero-01-1200.webp"
+  }
 }

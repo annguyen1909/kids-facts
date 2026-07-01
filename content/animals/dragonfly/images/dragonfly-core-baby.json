@@ -1,0 +1,42 @@
+{
+  "id": "dragonfly-core-baby",
+  "animalSlug": "dragonfly",
+  "slug": "dragonfly-core-baby",
+  "fileName": "dragonfly-core-baby-01-1200.webp",
+  "src": "/images/animals/dragonfly/web/dragonfly-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "alt": "A young or baby Emperor Dragonfly showing early development",
+  "caption": "Baby Emperor Dragonflys must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-mail to pjt56@gmx.net via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Anax_imperator-pjt.jpg\">pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-mail to pjt56@gmx.net</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator-pjt.jpg",
+    "creatorName": "pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-mail to pjt56@gmx.net",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:56.850Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/31/Anax_imperator-pjt.jpg",
+  "updatedAt": "2026-06-25T14:51:56.850Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator-pjt.jpg",
+  "creatorName": "pjt56 --- If you use the picture outside Wikipedia I would appreciate a short e-mail to pjt56@gmx.net",
+  "licenseName": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+  "srcSet": {
+    "web1200": "/images/animals/dragonfly/web/dragonfly-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/dragonfly/thumbnails/dragonfly-core-baby-01-400.webp",
+    "original": "/images/animals/dragonfly/web/dragonfly-core-baby-01-1200.webp"
+  }
+}

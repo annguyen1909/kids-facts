@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-fun-fact",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-fun-fact",
+  "fileName": "kingfisher-fun-fact-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Common Kingfisher showing a unique behavior or adaptation",
+  "caption": "Did you know that the Common Kingfisher has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Alexis LOURS via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_kingfisher_on_a_branch_opening_its_wings.jpg\">Alexis LOURS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_kingfisher_on_a_branch_opening_its_wings.jpg",
+    "creatorName": "Alexis LOURS",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:30.271Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5a/Common_kingfisher_on_a_branch_opening_its_wings.jpg",
+  "updatedAt": "2026-06-25T14:59:30.271Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-fun-fact-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-fun-fact-01-1200.webp"
+  }
+}

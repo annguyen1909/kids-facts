@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import { InfoCallout, InfoFeatureCard, InfoSection } from "@/components/layout/info-section";
 import { InfoPageShell } from "@/components/layout/info-page-shell";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { buildPageMetadata } from "@/lib/metadata";
 import { siteConfig } from "@/lib/site-config";
@@ -74,8 +74,8 @@ export default function ContactPage() {
       intro="Questions, corrections, and feedback are welcome. We read every message when time allows."
       chips={[{ label: "Email replies" }, { label: "Small solo project" }]}
     >
-      <div className="info-contact-card overflow-hidden rounded-[1.75rem] border border-[rgba(61,143,110,0.22)] bg-white shadow-[var(--shadow)]">
-        <div className="info-contact-card__header bg-gradient-to-br from-[var(--forest-deep)] via-[var(--forest)] to-[color-mix(in_srgb,var(--sky)_35%,var(--forest))] px-6 py-7 text-white sm:px-8">
+      <div className="info-contact-card overflow-hidden rounded-[1.75rem] border border-[rgba(61,143,110,0.22)] bg-[var(--surface-strong)] shadow-[var(--shadow)]">
+        <div className="info-contact-card__header bg-gradient-to-br from-[var(--forest-surface-deep)] via-[var(--forest-surface)] to-[color-mix(in_srgb,var(--sky)_35%,var(--forest-surface))] px-6 py-7 text-white sm:px-8">
           <div className="flex items-start gap-4">
             <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-[1.15rem] bg-white/15 backdrop-blur-sm">
               <Mail className="h-7 w-7" aria-hidden />
@@ -84,7 +84,7 @@ export default function ContactPage() {
               <p className="text-sm font-extrabold uppercase tracking-[0.08em] text-white/75">
                 Best way to reach us
               </p>
-              <p className="mt-2 break-all text-2xl font-extrabold tracking-tight sm:text-3xl">
+              <p className="mt-2 break-all font-serif text-3xl font-bold tracking-tight sm:text-4xl">
                 {email}
               </p>
               <p className="mt-2 max-w-xl text-sm leading-6 text-white/82 sm:text-base">

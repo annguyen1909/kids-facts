@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-range",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-range",
+  "fileName": "kingfisher-range-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Common Kingfisher traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Ashraf747 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_(Alcedo_atthis),_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg\">Ashraf747</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_(Alcedo_atthis),_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg",
+    "creatorName": "Ashraf747",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:32.788Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/14/%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE_%28Alcedo_atthis%29%2C_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE.jpg",
+  "updatedAt": "2026-06-25T14:59:32.788Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-range-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-range-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-range-01-1200.webp"
+  }
+}

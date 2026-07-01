@@ -1,0 +1,38 @@
+{
+  "id": "manta-ray-range",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-range",
+  "fileName": "manta-ray-range-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-range-01-1200.webp",
+  "width": 800,
+  "height": 600,
+  "alt": "A giant oceanic manta ray cruising underwater",
+  "caption": "Giant oceanic manta rays travel long distances across deep ocean waters.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Thailand",
+  "attributionText": "Photo by jon hanson from london, UK via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand.jpg\">jon hanson from london, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand.jpg",
+    "creatorName": "jon hanson from london, UK",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:42.881Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manta-ray image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/Manta_birostris-Thailand.jpg",
+  "updatedAt": "2026-06-25T15:02:42.881Z",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-range-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-range-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-range-01-1200.webp"
+  }
+}

@@ -3,13 +3,21 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { JsonLd } from "@/components/layout/json-ld";
 import { Breadcrumbs } from "@/components/ui/breadcrumb";
-import { getStaticImageRoutes, resolveImageRoute } from "@/lib/content";
+import { getPublishedAnimals, resolveImageRoute } from "@/lib/content";
 import { getAbsoluteUrl, getAnimalImageForDisplay } from "@/lib/images";
 import { buildPageMetadata } from "@/lib/metadata";
 import { buildBreadcrumbSchema, buildImageSchema } from "@/lib/schema";
 
+export const dynamicParams = false;
+export const revalidate = 86400;
+
 export function generateStaticParams() {
-  return getStaticImageRoutes();
+  return getPublishedAnimals().flatMap((animal) =>
+    animal.images.map((image) => ({
+      animalSlug: animal.core.slug,
+      imageSlug: image.slug,
+    })),
+  );
 }
 
 export async function generateMetadata({
@@ -24,7 +32,12 @@ export async function generateMetadata({
         title: `${resolved.animal.core.name} image`,
         description: resolved.image.caption,
         path: `/animals/${resolved.animal.core.slug}/images/${resolved.image.slug}`,
+        canonicalPath: `/animals/${resolved.animal.core.slug}`,
         image: resolved.image.src,
+        robots: {
+          index: false,
+          follow: true,
+        },
       })
     : {};
 }
@@ -74,7 +87,9 @@ export default async function AnimalImagePage({
             alt={displayImage.alt}
             fill
             unoptimized={displayImage.unoptimized}
+            referrerPolicy="no-referrer"
             className="object-cover"
+            style={{ objectPosition: displayImage.objectPosition || "center" }}
             sizes="100vw"
           />
         </div>

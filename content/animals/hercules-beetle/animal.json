@@ -1,0 +1,150 @@
+{
+  "id": "animal-hercules-beetle",
+  "slug": "hercules-beetle",
+  "name": "Hercules Beetle",
+  "commonNames": [
+    "Hercules Beetle",
+    "Hercules beetle",
+    "Giant Hercules beetle"
+  ],
+  "scientificName": "Dynastes hercules",
+  "summary": "Hercules beetles are giant rhinoceros beetles from tropical American forests. Males are famous for their huge horns, which they use to wrestle rivals, and they rank among the longest beetles in the world.",
+  "heroTitle": "Hercules Beetle Facts",
+  "metaTitle": "Hercules Beetle Facts | Rainforest Habitat, Horns & Photos",
+  "metaDescription": "Discover Hercules beetle facts with photos, tropical forest habitat, horn battles, diet, life cycle, and giant size.",
+  "searchIntents": [
+    "hercules beetle facts",
+    "what do hercules beetles eat",
+    "where do hercules beetles live",
+    "how big is a hercules beetle",
+    "why do hercules beetles have horns",
+    "can hercules beetles fly"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Coleoptera",
+    "family": "Scarabaeidae",
+    "genus": "Dynastes",
+    "species": "D. hercules"
+  },
+  "classificationLabels": [
+    "insect",
+    "herbivore",
+    "large"
+  ],
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Mexico",
+    "Costa Rica",
+    "Panama",
+    "Colombia",
+    "Ecuador",
+    "Peru",
+    "Brazil",
+    "Trinidad & Tobago"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "cloud-forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "rotting fruit",
+    "tree sap",
+    "decaying wood"
+  ],
+  "lifespan": {
+    "wild": "About 1 to 2 years",
+    "captivity": "Usually up to 2 years in human care"
+  },
+  "size": {
+    "lengthMin": "2.7 inches",
+    "lengthMax": "7 inches"
+  },
+  "weight": {
+    "min": "1 ounce",
+    "max": "3.5 ounces"
+  },
+  "speed": "Short buzzing flights between trees",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "nocturnal activity",
+    "tree climbing",
+    "male horn wrestling",
+    "fruit feeding",
+    "short-distance flight"
+  ],
+  "adaptations": [
+    "giant horns in males",
+    "strong gripping claws",
+    "hard wing covers",
+    "powerful flight muscles",
+    "camouflage brown and olive colors"
+  ],
+  "predators": [
+    "birds",
+    "bats",
+    "reptiles",
+    "small mammals"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Eggs hatch in about 3 to 6 weeks",
+    "offspringCount": "Dozens of eggs in rotting wood"
+  },
+  "funFacts": [
+    "A male Hercules beetle's horns can be longer than the rest of its body.",
+    "Hercules beetles are among the longest living beetle species on Earth.",
+    "Adult beetles sip soft, overripe fruit instead of chewing leaves.",
+    "Their wing covers can shift from pale to darker shades when humidity changes.",
+    "Baby Hercules beetles spend much longer as grubs than as adults.",
+    "Males use their horns like tongs to lift and toss rivals."
+  ],
+  "faq": [
+    {
+      "question": "What is a Hercules beetle?",
+      "answer": "A Hercules beetle is a giant rhinoceros beetle from tropical forests in the Americas. Males are best known for their enormous horns."
+    },
+    {
+      "question": "Where do Hercules beetles live?",
+      "answer": "They live in warm, humid forests from southern Mexico through Central America and into parts of South America and the Caribbean."
+    },
+    {
+      "question": "What do Hercules beetles eat?",
+      "answer": "Adult Hercules beetles feed on rotting fruit and tree sap. Their grubs live in decaying wood and eat rotting plant material."
+    },
+    {
+      "question": "Why do male Hercules beetles have horns?",
+      "answer": "Males use their horns to fight other males for access to mates and good feeding spots."
+    },
+    {
+      "question": "Can Hercules beetles fly?",
+      "answer": "Yes. Even though they are heavy insects, adult Hercules beetles can fly with a loud buzzing sound."
+    },
+    {
+      "question": "Are Hercules beetles dangerous to people?",
+      "answer": "No. They look fierce, but they do not sting and are not dangerous to humans."
+    }
+  ],
+  "relatedAnimals": [
+    "ladybug",
+    "leafcutter-ant",
+    "firefly"
+  ],
+  "comparisonCandidates": [
+    "ladybug"
+  ],
+  "galleryIds": [
+    "hercules-beetle-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "forest"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-core-baby",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-core-baby",
+  "fileName": "american-bison-core-baby-01-1200.webp",
+  "alt": "American bison calf drinking milk from its mother",
+  "caption": "Calves drink their mother's milk for several months before living on grass alone.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Yellowstone National Park, Wyoming, USA",
+  "src": "/images/animals/american-bison/web/american-bison-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Frank Schulenburg via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_calf_suckling.jpg\">Frank Schulenburg</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_calf_suckling.jpg",
+    "creatorName": "Frank Schulenburg",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:13.076Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e6/Bison_calf_suckling.jpg",
+  "updatedAt": "2026-06-28T09:54:13.076Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-core-baby-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-core-baby-01-1200.webp"
+  }
+}

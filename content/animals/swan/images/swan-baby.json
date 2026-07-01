@@ -1,0 +1,38 @@
+{
+  "id": "swan-baby",
+  "animalSlug": "swan",
+  "slug": "swan-baby",
+  "fileName": "swan-baby-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1611,
+  "alt": "A young or baby Mute Swan showing early development",
+  "caption": "Baby Mute Swans must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Michal Klajban via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mute_swan_(Cygnus_olor)_in_Bowness-on-Windermere,_England.jpg\">Michal Klajban</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_swan_(Cygnus_olor)_in_Bowness-on-Windermere,_England.jpg",
+    "creatorName": "Michal Klajban",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:11:58.727Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9b/Mute_swan_%28Cygnus_olor%29_in_Bowness-on-Windermere%2C_England.jpg",
+  "updatedAt": "2026-06-25T15:11:58.727Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-baby-01-400.webp",
+    "original": "/images/animals/swan/web/swan-baby-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-range",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-range",
+  "fileName": "frilled-lizard-range-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Frilled Lizard traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_-_5581.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_-_5581.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:05:10.737Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified frilled-lizard image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Chlamydosaurus_kingii_-_5581.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Chlamydosaurus_kingii_-_5581.jpg",
+  "updatedAt": "2026-06-26T19:05:10.737Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-range-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-range-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-range-01-1200.webp"
+  }
+}

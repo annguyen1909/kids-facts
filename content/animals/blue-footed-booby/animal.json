@@ -1,0 +1,152 @@
+{
+  "id": "animal-blue-footed-booby",
+  "slug": "blue-footed-booby",
+  "name": "Blue-footed Booby",
+  "commonNames": [
+    "Blue-footed Booby",
+    "Piquero patiazul",
+    "Piquero camanay"
+  ],
+  "scientificName": "Sula nebouxii",
+  "summary": "The blue-footed booby is an iconic tropical seabird famous for its brilliant turquoise-blue webbed feet and spectacular courtship dance. Endemic to the eastern Pacific Ocean, particularly the Galapagos Islands, it is an expert plunge-diver that dives high-speed from the sky to snatch schooling fish.",
+  "heroTitle": "Blue-footed Booby Facts",
+  "metaTitle": "Blue-footed Booby Facts | Galapagos Habitat, Diet & Photos",
+  "metaDescription": "Explore blue-footed booby facts with stunning photos, Galapagos coastal habitat, plunge-diving fish diet, blue-footed courtship dance, and chick care details.",
+  "searchIntents": [
+    "blue-footed booby facts",
+    "why are blue-footed boobies feet blue",
+    "where do blue-footed boobies live",
+    "what do blue-footed boobies eat",
+    "blue-footed booby mating dance",
+    "are blue-footed boobies endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Suliformes",
+    "family": "Sulidae",
+    "genus": "Sula",
+    "species": "S. nebouxii"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "medium"
+  ],
+  "habitat": "coast",
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Ecuador",
+    "Mexico",
+    "Peru",
+    "Colombia",
+    "Costa Rica"
+  ],
+  "biomes": [
+    "marine",
+    "coastal",
+    "island scrubland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "sardines",
+    "anchovies",
+    "mackerel",
+    "flying fish",
+    "squid"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years"
+  },
+  "size": {
+    "lengthMin": "2.5 feet",
+    "lengthMax": "3 feet"
+  },
+  "weight": {
+    "min": "3 pounds",
+    "max": "4.5 pounds"
+  },
+  "speed": "Agile and dynamic flier, capable of diving at speeds up to 60 mph",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "plunge diving",
+    "courtship high-stepping",
+    "colonial nesting",
+    "sky-pointing",
+    "cooperative hunting"
+  ],
+  "adaptations": [
+    "bright blue webbed feet for signaling",
+    "closed external nostrils for high-speed diving",
+    "air sacs in skull and chest to absorb diving impact",
+    "serrated beak edges for gripping slippery fish",
+    "salt glands to excrete excess ocean salt"
+  ],
+  "predators": [
+    "Galapagos hawks",
+    "owls",
+    "frigatebirds (steal food and chicks)",
+    "feral cats and rats (eggs)"
+  ],
+  "prey": [
+    "sardines",
+    "anchovies",
+    "flying fish",
+    "mackerel"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for 40 to 45 days",
+    "offspringCount": "1 to 3 eggs per clutch"
+  },
+  "funFacts": [
+    "The intense blue color of their webbed feet comes directly from carotenoid pigments obtained through their fresh fish diet.",
+    "During courtship, weight male performs a high-stepping dance, lifting his bright blue feet one after the other to impress a potential mate.",
+    "Their name 'booby' comes from the Spanish word 'bobo,' meaning silly or foolish, referring to their clumsy movement on land and lack of fear toward humans.",
+    "They are elite plunge-divers, spotting fish from 30 to 100 feet in the air before folding their wings and diving like arrows into the ocean.",
+    "Boobies lack external nostril openings; instead, they breathe through the corners of their mouths to prevent water from rushing in during high-speed dives.",
+    "Females are noticeably larger than males and have slightly darker pigment around their pupils."
+  ],
+  "faq": [
+    {
+      "question": "What is a blue-footed booby?",
+      "answer": "A blue-footed booby is a distinctive tropical seabird belonging to the gannet family, famous for its vivid turquoise-blue webbed feet."
+    },
+    {
+      "question": "Where do blue-footed boobies live?",
+      "answer": "They live along the tropical eastern Pacific coast, with over half of the global breeding population nesting on the rocky shores of the Galapagos Islands in Ecuador."
+    },
+    {
+      "question": "Why are the blue-footed booby's feet blue?",
+      "answer": "The blue color is caused by carotenoid pigments absorbed from the fresh fish they eat. A brighter blue indicates a healthy, well-fed bird with a strong immune system."
+    },
+    {
+      "question": "What do blue-footed boobies eat?",
+      "answer": "They are strict marine carnivores that feed almost entirely on small schooling fish like sardines, anchovies, mackerel, and flying fish."
+    },
+    {
+      "question": "How do blue-footed boobies hunt?",
+      "answer": "They hunt by plunge-diving, flying high above the water to spot schools of fish before tucking their wings and diving headfirst at high speeds into the sea."
+    },
+    {
+      "question": "Are blue-footed boobies endangered?",
+      "answer": "No, they are listed as Least Concern by the IUCN, though local populations can be severely impacted by overfishing of sardines and severe El Niño weather patterns."
+    }
+  ],
+  "relatedAnimals": [
+    "shoebill",
+    "eagle",
+    "penguin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "blue-footed-booby-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-baby",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-baby",
+  "fileName": "ring-tailed-lemur-baby-01-1200.webp",
+  "alt": "Baby ring-tailed lemur riding on its mother's back",
+  "caption": "A lemur baby clings to its mother's belly, then rides on her back as it grows bigger.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1137,
+  "attributionText": "Photo by Berit from Redhill/Surrey, UK via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ringtail_Lemur_with_baby_on_her_back_(5396260658).jpg\">Berit from Redhill/Surrey, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ringtail_Lemur_with_baby_on_her_back_(5396260658).jpg",
+    "creatorName": "Berit from Redhill/Surrey, UK",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:12.864Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0c/Ringtail_Lemur_with_baby_on_her_back_%285396260658%29.jpg",
+  "updatedAt": "2026-06-28T09:59:12.864Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-baby-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-baby-01-1200.webp"
+  }
+}

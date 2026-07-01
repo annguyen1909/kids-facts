@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-core-diet",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-core-diet",
+  "alt": "Wandering albatross flying low over the water looking for cephalopod prey",
+  "caption": "Commercial longline fishing presents a severe threat, as albatrosses frequently attempt to seize baited hooks and drown.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Port Fairy, Victoria",
+  "fileName": "wandering-albatross-core-diet-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Ed Dunens via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wandering_Albatross_(37174049305).jpg\">Ed Dunens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wandering_Albatross_(37174049305).jpg",
+    "creatorName": "Ed Dunens",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:48.522Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Curated core diet and fisheries interaction overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/64/Wandering_Albatross_%2837174049305%29.jpg",
+  "updatedAt": "2026-06-29T12:05:48.522Z",
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-core-diet-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-core-diet-01-1200.webp"
+  }
+}

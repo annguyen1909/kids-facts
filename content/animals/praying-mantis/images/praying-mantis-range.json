@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-range",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-range",
+  "fileName": "praying-mantis-range-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A brown praying mantis crawling upward on a thin twig",
+  "caption": "Praying mantises can be found on several continents, including Europe, Asia, Africa, and North America.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Aveyron, France",
+  "attributionText": "Photo by Krzysztof Golik via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mantis_religiosa_in_Aveyron_01.jpg\">Krzysztof Golik</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantis_religiosa_in_Aveyron_01.jpg",
+    "creatorName": "Krzysztof Golik",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:18.774Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Mantis_religiosa_in_Aveyron_01.jpg",
+  "updatedAt": "2026-06-25T15:08:18.774Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-range-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-range-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-range-01-1200.webp"
+  }
+}

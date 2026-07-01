@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-closeup",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-closeup",
+  "fileName": "monarch-butterfly-closeup-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 857,
+  "alt": "Extreme close-up of a male monarch butterfly's wing showing overlapping scales and black veins",
+  "caption": "A close look at a monarch's wing reveals thousands of tiny scales that create its color patterns.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified monarch butterfly image for closeup. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a0/Monarch_Butterfly_Danaus_plexippus_Male_Wing_2800px.jpg",
+  "updatedAt": "2026-06-25T15:03:05.464Z",
+  "attributionText": "Photo by Photo by and (c)2007 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Male_Wing_2800px.jpg\">Photo by and (c)2007 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_Male_Wing_2800px.jpg",
+    "creatorName": "Photo by and (c)2007 Derek Ramsey ( Ram-Man )",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:05.464Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-closeup-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-closeup-01-1200.webp"
+  }
+}

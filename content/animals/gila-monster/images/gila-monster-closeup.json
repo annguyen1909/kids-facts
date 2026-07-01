@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-closeup",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-closeup",
+  "fileName": "gila-monster-closeup-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 896,
+  "alt": "A detailed close-up showing the physical features of a Gila Monster",
+  "caption": "A close-up view reveals the intricate details of a Gila Monster's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by ALAN SCHMIERER via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum)_(5-17-11)_patagonia_lake,_scc,_az_-03_(5732065658).jpg\">ALAN SCHMIERER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum)_(5-17-11)_patagonia_lake,_scc,_az_-03_(5732065658).jpg",
+    "creatorName": "ALAN SCHMIERER",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:55:31.741Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for closeup. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d5/RETICULATE_GILA_MONSTER_%28Heloderma_suspectum%29_%285-17-11%29_patagonia_lake%2C_scc%2C_az_-03_%285732065658%29.jpg",
+  "updatedAt": "2026-06-25T14:55:31.741Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-closeup-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-closeup-01-1200.webp"
+  }
+}

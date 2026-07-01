@@ -1,0 +1,22 @@
+{
+  "id": "ladybug-gallery-main",
+  "animalSlug": "ladybug",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ladybug Photo Gallery",
+  "metaTitle": "Ladybug Photo Gallery",
+  "metaDescription": "Browse a ladybug photo gallery with wildlife photos.",
+  "intro": "Explore ladybug photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "ladybug-hero",
+    "ladybug-habitat",
+    "ladybug-diet",
+    "ladybug-baby",
+    "ladybug-family",
+    "ladybug-range",
+    "ladybug-size",
+    "ladybug-closeup",
+    "ladybug-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z"
+}

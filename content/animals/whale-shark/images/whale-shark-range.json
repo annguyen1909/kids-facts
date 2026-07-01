@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-range",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-range",
+  "fileName": "whale-shark-range-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A whale shark cruising through warm waters of the western Caribbean",
+  "caption": "They travel huge distances across oceans to find warm water and rich food sources.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Caribbean Sea",
+  "attributionText": "Photo by NOAA Photo Library via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus,_western_Caribbean_-_NOAA.jpg\">NOAA Photo Library</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus,_western_Caribbean_-_NOAA.jpg",
+    "creatorName": "NOAA Photo Library",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:14:14.325Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Rhincodon_typus%2C_western_Caribbean_-_NOAA.jpg",
+  "updatedAt": "2026-06-25T15:14:14.325Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-range-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-range-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-range-01-1200.webp"
+  }
+}

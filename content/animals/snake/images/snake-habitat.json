@@ -2,10 +2,10 @@
   "id": "snake-habitat",
   "animalSlug": "snake",
   "slug": "snake-habitat",
-  "fileName": "Ball python (Python regius), Bronx Zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ball_python_%28Python_regius%29%2C_Bronx_Zoo.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "snake-habitat-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Ball python in shaded ground habitat",
   "caption": "Ball pythons live in grasslands, savannas, and forest edges in West and Central Africa.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Manually curated ball python habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/24/Ball_python_%28Python_regius%29%2C_Bronx_Zoo.jpg",
+  "updatedAt": "2026-06-25T15:11:54.704Z",
   "attributionText": "Photo by MusikAnimal via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius)%2C_Bronx_Zoo.jpg\">MusikAnimal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius),_Bronx_Zoo.jpg\">MusikAnimal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius)%2C_Bronx_Zoo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ball_python_(Python_regius),_Bronx_Zoo.jpg",
     "creatorName": "MusikAnimal",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:54.704Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-habitat-01-400.webp",
+    "original": "/images/animals/snake/web/snake-habitat-01-1200.webp"
   }
 }

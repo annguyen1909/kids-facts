@@ -1,0 +1,38 @@
+{
+  "id": "swan-range",
+  "animalSlug": "swan",
+  "slug": "swan-range",
+  "fileName": "swan-range-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-range-01-1200.webp",
+  "width": 1200,
+  "height": 750,
+  "alt": "A Mute Swan traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:H%C3%B6ckerschwan_Cygnus_olor_7b_Richard_Bartz.jpg\">This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%B6ckerschwan_Cygnus_olor_7b_Richard_Bartz.jpg",
+    "creatorName": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:20.678Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/H%C3%B6ckerschwan_Cygnus_olor_7b_Richard_Bartz.jpg",
+  "updatedAt": "2026-06-25T15:12:20.678Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-range-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-range-01-400.webp",
+    "original": "/images/animals/swan/web/swan-range-01-1200.webp"
+  }
+}

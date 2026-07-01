@@ -1,0 +1,38 @@
+{
+  "id": "toucan-core-baby",
+  "animalSlug": "toucan",
+  "slug": "toucan-core-baby",
+  "fileName": "toucan-core-baby-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 786,
+  "alt": "A young or baby Toco Toucan showing early development",
+  "caption": "Baby Toco Toucans must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toco_Toucan_(Ramphastos_toco)_in_Papaya_Tree_(Carica_papaya)_(28997424215).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toco_Toucan_(Ramphastos_toco)_in_Papaya_Tree_(Carica_papaya)_(28997424215).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:14.936Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Toco_Toucan_%28Ramphastos_toco%29_in_Papaya_Tree_%28Carica_papaya%29_%2828997424215%29.jpg",
+  "updatedAt": "2026-06-25T15:13:14.936Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-core-baby-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-core-baby-01-1200.webp"
+  }
+}

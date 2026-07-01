@@ -1,0 +1,38 @@
+{
+  "id": "walrus-core-diet",
+  "animalSlug": "walrus",
+  "slug": "walrus-core-diet",
+  "fileName": "walrus-core-diet-01-1200.webp",
+  "alt": "Walrus swimming underwater in cold Arctic seas",
+  "caption": "Walruses dive to the seafloor to search for food and can eat thousands of clams in one meal.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Arctic",
+  "src": "/images/animals/walrus/web/walrus-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bull_walrus_swimming.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bull_walrus_swimming.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:08.884Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6c/Bull_walrus_swimming.jpg",
+  "updatedAt": "2026-06-28T10:03:08.884Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-core-diet-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-core-diet-01-1200.webp"
+  }
+}

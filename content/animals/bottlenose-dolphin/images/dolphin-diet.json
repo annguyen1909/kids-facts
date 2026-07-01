@@ -2,10 +2,10 @@
   "id": "dolphin-diet",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-diet",
-  "fileName": "Dolphins_in_Cromarty_Firth_(2).webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Dolphins_in_Cromarty_Firth_%282%29.JPG",
-  "width": 3344,
-  "height": 2504,
+  "fileName": "dolphin-diet-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-diet-01-1200.webp",
+  "width": 1200,
+  "height": 899,
   "alt": "Bottlenose dolphin surfacing in coastal waters while hunting",
   "caption": "Dolphins hunt fish and squid, often working together to chase prey in shallow water.",
   "attributionText": "Photo by Nilfanion via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:40.138Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Cromarty Firth, Scotland",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/50/Dolphins_in_Cromarty_Firth_%282%29.JPG Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/50/Dolphins_in_Cromarty_Firth_%282%29.JPG",
+  "updatedAt": "2026-07-01T12:33:40.138Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-diet-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-diet-01-1200.webp"
+  }
 }

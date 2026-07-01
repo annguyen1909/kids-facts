@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-habitat",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-habitat",
+  "fileName": "wandering-albatross-habitat-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 732,
+  "alt": "Wandering albatross soaring over the vast open waters of the Southern Ocean",
+  "caption": "They are true pelagic wanderers, spending years at a time flying across the open expanses of the Southern Ocean.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "SE Tasmania",
+  "acquisitionNotes": "High-resolution dynamic flight shot over open pelagic habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Diomedea_exulans_in_flight_-_SE_Tasmania.jpg",
+  "updatedAt": "2026-06-29T12:06:18.521Z",
+  "attributionText": "Photo by JJ Harrison ( https://tiny.jjharrison.com.au/t/fCEqOJC1cJUcoIOa ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Diomedea_exulans_in_flight_-_SE_Tasmania.jpg\">JJ Harrison ( https://tiny.jjharrison.com.au/t/fCEqOJC1cJUcoIOa )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_in_flight_-_SE_Tasmania.jpg",
+    "creatorName": "JJ Harrison ( https://tiny.jjharrison.com.au/t/fCEqOJC1cJUcoIOa )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:18.521Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-habitat-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-habitat-01-1200.webp"
+  }
+}

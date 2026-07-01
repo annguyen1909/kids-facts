@@ -1,0 +1,42 @@
+{
+  "id": "manta-ray-core-habitat",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-core-habitat",
+  "fileName": "manta-ray-core-habitat-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Manta Ray navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Elias Levy via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giant_oceanic_manta_ray_with_diver.jpg\">Elias Levy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_oceanic_manta_ray_with_diver.jpg",
+    "creatorName": "Elias Levy",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:27.731Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Giant_oceanic_manta_ray_with_diver.jpg",
+  "updatedAt": "2026-06-25T15:02:27.731Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_oceanic_manta_ray_with_diver.jpg",
+  "creatorName": "Elias Levy",
+  "licenseName": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-core-habitat-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-core-habitat-01-1200.webp"
+  }
+}

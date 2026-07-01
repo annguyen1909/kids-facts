@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-core-diet",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-core-diet",
+  "alt": "Hoatzin foraging for young tender leaves in the upper branches",
+  "caption": "Their enlarged crop displaces their flight muscles, making them clumsy fliers that prefer to hop between branches.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Colombia",
+  "fileName": "hoatzin-core-diet-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Alejandro Bayer Tamayo from Armenia, Colombia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_(Pava_hedionda)_(14230790046).jpg\">Alejandro Bayer Tamayo from Armenia, Colombia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_(Pava_hedionda)_(14230790046).jpg",
+    "creatorName": "Alejandro Bayer Tamayo from Armenia, Colombia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:41.117Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Curated wild diet foraging behavior shot. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7d/Opisthocomus_hoazin_%28Pava_hedionda%29_%2814230790046%29.jpg",
+  "updatedAt": "2026-06-29T12:23:41.117Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-core-diet-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-core-diet-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-size",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-size",
+  "fileName": "wandering-albatross-size-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-size-01-1200.webp",
+  "width": 1024,
+  "height": 682,
+  "alt": "Wandering albatross standing on a coastal ridge, displaying its immense physical size",
+  "caption": "With a wingspan that can reach up to 3.5 meters (11.5 feet), they can lock their wing joints to soar for thousands of kilometers without flapping.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kerguelen archipelago",
+  "acquisitionNotes": "Striking profile demonstrating massive standing size and robust body structure. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Kerguelen_-_Diomedea_exulans.jpg",
+  "updatedAt": "2026-06-29T12:06:20.754Z",
+  "attributionText": "Photo by Dimitri Damasceno from Bruxelles, Belgium via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kerguelen_-_Diomedea_exulans.jpg\">Dimitri Damasceno from Bruxelles, Belgium</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerguelen_-_Diomedea_exulans.jpg",
+    "creatorName": "Dimitri Damasceno from Bruxelles, Belgium",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:20.754Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-size-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-size-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-size-01-1200.webp"
+  }
+}

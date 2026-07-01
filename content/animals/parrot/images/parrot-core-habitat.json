@@ -2,11 +2,11 @@
   "id": "parrot-core-habitat",
   "animalSlug": "parrot",
   "slug": "parrot-core-habitat",
-  "fileName": "Ara macao - La Palma 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ara_macao_-_La_Palma_01.jpg",
-  "width": 4638,
-  "height": 3491,
-  "alt": "Scarlet macaw in lush tropical forest habitat",
+  "fileName": "parrot-core-habitat-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1799,
+  "alt": "Scarlet macaw perched among tropical vegetation",
   "caption": "Old trees with hollow trunks are essential for macaw nesting.",
   "imageType": "habitat",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "La Palma, Colombia",
-  "acquisitionNotes": "Core article image curated separately from the parrot gallery set.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
-  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ara_macao_-_La_Palma_01.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "location": "Phoenix, Arizona",
+  "acquisitionNotes": "Core article habitat image — unique from gallery habitat image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1c/Scarlet_Macaw_Phoenix_Zoo_Mar23_A7R_04528.jpg",
+  "updatedAt": "2026-06-25T15:05:55.732Z",
+  "attributionText": "Photo by This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract . via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_Macaw_Phoenix_Zoo_Mar23_A7R_04528.jpg\">This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ara_macao_-_La_Palma_01.jpg",
-    "creatorName": "H. Zell",
-    "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_Macaw_Phoenix_Zoo_Mar23_A7R_04528.jpg",
+    "creatorName": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:55.732Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-core-habitat-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-core-habitat-01-1200.webp"
   }
 }

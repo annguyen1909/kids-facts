@@ -1,0 +1,38 @@
+{
+  "id": "capybara-hero",
+  "animalSlug": "capybara",
+  "slug": "capybara-hero",
+  "fileName": "capybara-hero-01-1200.webp",
+  "alt": "Adult capybara with three pups among floating water plants",
+  "caption": "Capybara pups can follow their mother through marshy wetlands soon after birth.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "src": "/images/animals/capybara/web/capybara-hero-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "attributionText": "Photo by Clodomiro Esteves Junior via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Capivara(Hydrochoerus_hydrochaeris).jpg\">Clodomiro Esteves Junior</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capivara(Hydrochoerus_hydrochaeris).jpg",
+    "creatorName": "Clodomiro Esteves Junior",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:51.239Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Capivara%28Hydrochoerus_hydrochaeris%29.jpg",
+  "updatedAt": "2026-06-26T08:15:51.239Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-hero-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-hero-01-1200.webp"
+  }
+}

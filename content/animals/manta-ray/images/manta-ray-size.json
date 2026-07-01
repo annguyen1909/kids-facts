@@ -1,0 +1,38 @@
+{
+  "id": "manta-ray-size",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-size",
+  "fileName": "manta-ray-size-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A massive manta ray feeding, showing its large size relative to surrounding fish",
+  "caption": "Manta rays are the largest rays in the world, with wingspans reaching up to 23 feet.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Pacific Ocean",
+  "attributionText": "Photo by Lukas from Munich, Germany via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manta_birostris_feeding.jpg\">Lukas from Munich, Germany</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manta_birostris_feeding.jpg",
+    "creatorName": "Lukas from Munich, Germany",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:46.554Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manta-ray image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cc/Manta_birostris_feeding.jpg",
+  "updatedAt": "2026-06-25T15:02:46.554Z",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-size-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-size-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-size-01-1200.webp"
+  }
+}

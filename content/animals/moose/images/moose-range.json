@@ -2,10 +2,10 @@
   "id": "moose-range",
   "animalSlug": "moose",
   "slug": "moose-range",
-  "fileName": "Alces alces, female, Fokstumyra naturreservat, Norway 4.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Alces_alces%2C_female%2C_Fokstumyra_naturreservat%2C_Norway_4.jpg",
-  "width": 4734,
-  "height": 3379,
+  "fileName": "moose-range-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-range-01-1200.webp",
+  "width": 1200,
+  "height": 856,
   "alt": "Female moose in Scandinavian boreal habitat",
   "caption": "Moose range across Canada, Alaska, Scandinavia, Russia, and parts of Europe and Asia.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Norway",
-  "acquisitionNotes": "Manually curated moose range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Manually curated moose range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f6/Alces_alces%2C_female%2C_Fokstumyra_naturreservat%2C_Norway_4.jpg",
+  "updatedAt": "2026-06-25T15:03:47.539Z",
   "attributionText": "Photo by Bouke ten Cate via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alces_alces%2C_female%2C_Fokstumyra_naturreservat%2C_Norway_4.jpg\">Bouke ten Cate</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alces_alces,_female,_Fokstumyra_naturreservat,_Norway_4.jpg\">Bouke ten Cate</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alces_alces%2C_female%2C_Fokstumyra_naturreservat%2C_Norway_4.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alces_alces,_female,_Fokstumyra_naturreservat,_Norway_4.jpg",
     "creatorName": "Bouke ten Cate",
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:47.539Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-range-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-range-01-400.webp",
+    "original": "/images/animals/moose/web/moose-range-01-1200.webp"
   }
 }

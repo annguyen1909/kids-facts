@@ -2,10 +2,10 @@
   "id": "rhinoceros-diet",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-diet",
-  "fileName": "White Rhinoceros (Ceratotherium simum) grazing along the road ... (33338608685).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/White_Rhinoceros_%28Ceratotherium_simum%29_grazing_along_the_road_..._%2833338608685%29.jpg",
-  "width": 3791,
-  "height": 3648,
+  "fileName": "rhinoceros-diet-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1155,
   "alt": "White rhinoceros grazing on grass",
   "caption": "White rhinos are herbivores that graze on grasses and low plants.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Manually curated rhinoceros diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Manually curated rhinoceros diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a3/White_Rhinoceros_%28Ceratotherium_simum%29_grazing_along_the_road_..._%2833338608685%29.jpg",
+  "updatedAt": "2026-06-25T15:09:50.843Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Rhinoceros_(Ceratotherium_simum)_grazing_along_the_road_..._(33338608685).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:50.843Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-diet-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-diet-01-1200.webp"
   }
 }

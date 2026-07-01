@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-core-range",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-core-range",
+  "alt": "Leafy seadragon drifting in the clear southern Australian coastal waters",
+  "caption": "Stricter legal protections and habitat conservation measures have successfully curbed the illegal collection of wild seadragons.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Rapid Bay Jetty, South Australia",
+  "fileName": "leafy-seadragon-core-range-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023162.JPG\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023162.JPG",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:27.946Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the leafy seadragon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8b/Phycodurus_eques_P2023162.JPG",
+  "updatedAt": "2026-06-29T07:23:27.946Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-core-range-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-core-range",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-core-range",
+  "alt": "Stately specimen of Lophorina superba representing its protected native status",
+  "caption": "Although their rugged highland habitat provides natural protection, ongoing monitoring is vital to safeguard these spectacular birds for future generations.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Naturalis Biodiversity Center",
+  "fileName": "superb-bird-of-paradise-core-range-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "attributionText": "Photo by Pennant, 1781 via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.140801_2_-_Lophorina_superba_superba_(Pennant,_1781)_-_Paradisaeidae_-_bird_skin_specimen.jpeg\">Pennant, 1781</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naturalis_Biodiversity_Center_-_RMNH.AVES.140801_2_-_Lophorina_superba_superba_(Pennant,_1781)_-_Paradisaeidae_-_bird_skin_specimen.jpeg",
+    "creatorName": "Pennant, 1781",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T12:04:06.161Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core range conservation wrap-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Naturalis_Biodiversity_Center_-_RMNH.AVES.140801_2_-_Lophorina_superba_superba_%28Pennant%2C_1781%29_-_Paradisaeidae_-_bird_skin_specimen.jpeg",
+  "updatedAt": "2026-06-29T12:04:06.161Z",
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-core-range-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-core-range-01-1200.webp"
+  }
+}

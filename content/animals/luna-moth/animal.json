@@ -1,0 +1,124 @@
+{
+  "id": "animal-luna-moth",
+  "slug": "luna-moth",
+  "name": "Luna Moth",
+  "commonNames": [
+    "Luna Moth",
+    "American Moon Moth"
+  ],
+  "scientificName": "Actias luna",
+  "summary": "The Luna moth is a large, lime-green insect famous for its swallowtail-like long tails, glowing wings, and short adult lifespan. Found in the deciduous forests of North America, this nocturnal moth does not eat at all as an adult, having no mouth parts.",
+  "heroTitle": "Luna Moth Facts",
+  "metaTitle": "Luna Moth Facts | Habitat, Wings, Cocoon & Photos",
+  "metaDescription": "Luna moth facts for kids with photos, forest habitat, host plants, caterpillar cocoon, and lack of mouthparts on one easy-to-read page.",
+  "searchIntents": [
+    "luna moth facts",
+    "what do luna moths eat",
+    "where do luna moths live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Saturniidae",
+    "genus": "Actias",
+    "species": "A. luna"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico"
+  ],
+  "biomes": [
+    "temperate forest",
+    "tropical-forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "Leaves of birch",
+    "Hickory leaves",
+    "Walnut leaves",
+    "Sweetgum leaves"
+  ],
+  "lifespan": {
+    "wild": "7 to 10 days (as adult)"
+  },
+  "size": {
+    "lengthMin": "8 cm",
+    "lengthMax": "11 cm"
+  },
+  "weight": {
+    "min": "1 g",
+    "max": "2 g"
+  },
+  "speed": "Slow, fluttering flight",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "flying only at night (nocturnal)",
+    "spinning a silk cocoon wrapped in leaves",
+    "fluttering wings to warm up",
+    "attracting mates with pheromones",
+    "using tail spinning to confuse bat sonar"
+  ],
+  "adaptations": [
+    "brilliant lime-green color for leaf camouflage",
+    "long twisted tails that disrupt bat echolocation",
+    "large feathery antennae to smell pheromones",
+    "false eyespots on wings to scare predators",
+    "no mouthparts (focusing purely on mating)"
+  ],
+  "predators": [
+    "Bats",
+    "Birds",
+    "Spiders",
+    "Parasitic wasps"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "caterpillar",
+    "gestationOrIncubation": "10 to 14 days",
+    "offspringCount": "200 to 400 eggs"
+  },
+  "funFacts": [
+    "Luna moths do not have mouths or digestive systems! As adults, they cannot eat and live for only about one week, using all their energy to find a mate and lay eggs.",
+    "Their long, elegant wing tails are not just for looks; when they spin in flight, they confuse the echolocation (sonar) of bats, causing the bats to miss when they try to catch them!",
+    "The name 'Luna' comes from the Roman goddess of the moon, because these moths are nocturnal and fly only at night.",
+    "Before becoming a moth, the green caterpillar spins a papery silk cocoon on the forest floor, wrapping it inside a fallen leaf to hide from predators.",
+    "Male Luna moths have large, feathery antennae that are extremely sensitive, allowing them to smell a female's scent from over a mile away!",
+    "They have large spots on their wings that look like eyes, which can startle predators into thinking the moth is a much larger animal."
+  ],
+  "faq": [
+    {
+      "question": "What is a Luna moth?",
+      "answer": "A Luna moth is a large, lime-green nocturnal moth belonging to the giant silkworm moth family, famous for its long tails and lack of mouthparts."
+    },
+    {
+      "question": "Where do Luna moths live?",
+      "answer": "They live in deciduous forests, woodlands, and suburban areas throughout eastern North America, from Canada down to Florida."
+    },
+    {
+      "question": "What do Luna moths eat?",
+      "answer": "Adult Luna moths have no mouthparts and do not eat at all. However, as caterpillars, they eat leaves from trees like birch, walnut, hickory, and sweetgum."
+    }
+  ],
+  "relatedAnimals": [
+    "monarch-butterfly",
+    "dragonfly",
+    "honeybee"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "luna-moth-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

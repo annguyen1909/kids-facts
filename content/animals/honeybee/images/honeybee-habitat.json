@@ -1,0 +1,39 @@
+{
+  "id": "honeybee-habitat",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-habitat",
+  "fileName": "honeybee-habitat-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Honey bee flying around yellow rapeseed flowers in a sunny field",
+  "caption": "Honey bees live in fields, meadows, forests, and gardens where flowers grow.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Valingu, Estonia",
+  "acquisitionNotes": "Manually verified honeybee image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/70/Apis_mellifera_-_Brassica_napus_-_Valingu.jpg",
+  "updatedAt": "2026-06-25T14:58:27.681Z",
+  "attributionText": "Photo by Ivar Leidus via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Apis_mellifera_-_Brassica_napus_-_Valingu.jpg\">Ivar Leidus</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_-_Brassica_napus_-_Valingu.jpg",
+    "creatorName": "Ivar Leidus",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:27.681Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-habitat-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-habitat-01-1200.webp"
+  }
+}

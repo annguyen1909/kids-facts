@@ -1,0 +1,175 @@
+{
+  "id": "animal-mandrill",
+  "slug": "mandrill",
+  "name": "Mandrill",
+  "commonNames": [
+    "mandrill baboon"
+  ],
+  "scientificName": "Mandrillus sphinx",
+  "summary": "The mandrill is the world's largest monkey, famous for the vivid blue and red facial coloring of adult males. It lives in large social groups called hordes in the tropical rainforests of Central Africa.",
+  "heroTitle": "Mandrill Facts",
+  "metaTitle": "Mandrill Facts | Colorful Face, Habitat, Diet & Photos",
+  "metaDescription": "Discover mandrill facts with photos, colorful face details, habitat, diet, life cycle, and conservation. Learn where mandrills live, what they eat, and why they are vulnerable.",
+  "searchIntents": [
+    "mandrill facts",
+    "mandrill colorful face",
+    "what do mandrills eat",
+    "where do mandrills live",
+    "how big is a mandrill",
+    "are mandrills endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae",
+    "genus": "Mandrillus",
+    "species": "M. sphinx"
+  },
+  "classificationLabels": [
+    "mammal",
+    "primate",
+    "omnivore",
+    "large"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Cameroon",
+    "Gabon",
+    "Republic of Congo",
+    "Equatorial Guinea"
+  ],
+  "biomes": [
+    "tropical rainforest"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "fruit",
+    "seeds",
+    "fungi",
+    "insects",
+    "small vertebrates",
+    "roots"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 40 years in human care"
+  },
+  "size": {
+    "lengthMin": "20 inches",
+    "lengthMax": "37 inches",
+    "heightMin": "18 inches",
+    "heightMax": "22 inches"
+  },
+  "weight": {
+    "min": "22 pounds",
+    "max": "119 pounds"
+  },
+  "speed": "Up to 25 mph on the ground",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "living in hordes",
+    "foraging on forest floor",
+    "cheek pouch food storage",
+    "color-based dominance signaling",
+    "grooming"
+  ],
+  "adaptations": [
+    "vivid facial and rump coloring for social signaling",
+    "cheek pouches for food storage",
+    "powerful jaws and large canine teeth",
+    "strong limbs for moving through forest",
+    "color vision for finding ripe fruit"
+  ],
+  "predators": [
+    "leopard",
+    "crowned eagle",
+    "humans"
+  ],
+  "prey": [
+    "insects",
+    "small vertebrates",
+    "eggs"
+  ],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 175 days",
+    "offspringCount": "1 infant per birth"
+  },
+  "funFacts": [
+    "Adult male mandrills have the most colorful faces of any mammal—vivid blue ridges on the nose and a red stripe down the center, which become more intense when excited.",
+    "Mandrills live in the largest social groups of any monkey, called a horde, which can number over 800 individuals.",
+    "Mandrills store food in large cheek pouches that can hold almost as much food as their stomach.",
+    "The bright coloring on a male mandrill's face and rump reflects his health and rank—higher-ranking males display more vivid colors.",
+    "Despite their fearsome appearance, mandrills are primarily frugivores and spend most of their day foraging for fruit and seeds.",
+    "Mandrills are not baboons, though they are closely related—they belong to their own genus, Mandrillus."
+  ],
+  "faq": [
+    {
+      "question": "What is a mandrill?",
+      "answer": "A mandrill is the world's largest monkey. Males are famous for their vivid blue and red facial coloring. Mandrills live in tropical rainforests in Central Africa."
+    },
+    {
+      "question": "Why do mandrills have colorful faces?",
+      "answer": "The vivid blue and red coloring on a male mandrill's face signals his dominance rank and health. The colors intensify when a male is excited or dominant, helping other mandrills assess his status without fighting."
+    },
+    {
+      "question": "What do mandrills eat?",
+      "answer": "Mandrills are omnivores that eat mainly fruit, seeds, roots, fungi, and insects. They occasionally eat small vertebrates, snails, and eggs."
+    },
+    {
+      "question": "Where do mandrills live?",
+      "answer": "Mandrills live in tropical rainforests in Central Africa, including Cameroon, Gabon, the Republic of Congo, and Equatorial Guinea. They spend most of their time on the forest floor."
+    },
+    {
+      "question": "How big is a mandrill?",
+      "answer": "Adult male mandrills can weigh up to 119 pounds (54 kg) and reach about 37 inches (94 cm) in body length—making them the largest monkey in the world. Females are much smaller."
+    },
+    {
+      "question": "What is a baby mandrill called?",
+      "answer": "A baby mandrill is called an infant. Infants cling to their mother's belly for the first weeks of life and are closely guarded within the horde."
+    },
+    {
+      "question": "Are mandrills dangerous?",
+      "answer": "Male mandrills have large canine teeth and powerful jaws. They can be aggressive when threatened but are generally shy toward humans in the wild."
+    },
+    {
+      "question": "How long do mandrills live?",
+      "answer": "Wild mandrills typically live 20 to 25 years. In captivity with proper care, they can live up to 40 years."
+    },
+    {
+      "question": "Are mandrills endangered?",
+      "answer": "Mandrills are listed as Vulnerable. The biggest threats are habitat loss from logging and agriculture, and hunting for bushmeat across their range in Central Africa."
+    },
+    {
+      "question": "Are mandrills baboons?",
+      "answer": "Mandrills are closely related to baboons but belong to a different genus, Mandrillus. Baboons belong to the genus Papio. Mandrills and baboons are both in the family Cercopithecidae."
+    },
+    {
+      "question": "What is a group of mandrills called?",
+      "answer": "A group of mandrills is called a horde. Mandrills form the largest social groups of any monkey species, sometimes numbering over 800 individuals."
+    },
+    {
+      "question": "What threatens mandrills in the wild?",
+      "answer": "The main threats are deforestation for logging and agriculture, and hunting for bushmeat. Mandrills are also sometimes killed by farmers who view them as crop pests."
+    }
+  ],
+  "relatedAnimals": [
+    "chimpanzee",
+    "gorilla",
+    "orangutan"
+  ],
+  "comparisonCandidates": [
+    "chimpanzee"
+  ],
+  "galleryIds": [
+    "mandrill-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "forest"
+}

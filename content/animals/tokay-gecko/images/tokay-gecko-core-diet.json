@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-core-diet",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-core-diet",
+  "fileName": "tokay-gecko-core-diet-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 802,
+  "alt": "Tokay gecko hunting at night on a building wall",
+  "caption": "As nocturnal hunters, Tokay geckos use the cover of darkness to ambush their prey.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Taiwan",
+  "attributionText": "Photo by Gerard Chartier via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gekko_gecko_192129898.jpg\">Gerard Chartier</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_192129898.jpg",
+    "creatorName": "Gerard Chartier",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:06.962Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article diet image — unique from gallery diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Gekko_gecko_192129898.jpg",
+  "updatedAt": "2026-06-25T15:13:06.962Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-core-diet-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-core-diet-01-1200.webp"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Myrmecophaga tridactyla, Pantanal region, Brazil (cropped).jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "Giant anteater walking across green grass showing its long snout and bushy tail",
+    "caption": "The giant anteater has a long tube-shaped snout, a shaggy coat, and a huge bushy tail.",
+    "location": "Pantanal, Brazil"
+  },
+  "habitat": {
+    "fileTitle": "File:Tamanduá-bandeira no Parque Nacional da Serra da Canastra.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "Giant anteater in tall golden grass on an open grassland",
+    "caption": "Giant anteaters roam grasslands and savannas, sweeping the ground for ant and termite nests.",
+    "location": "Serra da Canastra National Park, Brazil"
+  },
+  "diet": {
+    "fileTitle": "File:Grande comedor de formigas.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a giant anteater pressing its long snout to the ground to feed",
+    "caption": "An anteater pokes its narrow snout into nests and laps up ants and termites with a sticky tongue.",
+    "location": "Brazil"
+  },
+  "baby": {
+    "fileTitle": "File:Myrmecophaga tridactyla 345917023.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "Baby giant anteater riding on its mother's back in grassland",
+    "caption": "A baby anteater, called a pup, rides on its mother's back for many months after it is born.",
+    "location": "South America"
+  },
+  "family": {
+    "fileTitle": "File:Tamanduá-bandeira com filhote em pastagem.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Mother giant anteater carrying her pup on her back across open grass",
+    "caption": "Anteaters live alone, so the only family group is a mother and the single pup she carries.",
+    "location": "Brazil"
+  },
+  "range": {
+    "fileTitle": "File:Myrmecophaga tridactyla in Pantanal.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "Giant anteater foraging across a green Pantanal grassland",
+    "caption": "Giant anteaters live across Central and South America, from Honduras down to northern Argentina.",
+    "location": "Pantanal, Brazil"
+  },
+  "size": {
+    "fileTitle": "File:Tamanduá-bandeira (Myrmecophaga tridactyla).jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "Full body of a giant anteater walking through a forest clearing",
+    "caption": "From nose to tail, a giant anteater can stretch about seven feet long, as long as a tall person.",
+    "location": "Brazil"
+  },
+  "closeup": {
+    "fileTitle": "File:Brazil Mato Grosso Do Sul Pantanal Giant Antéater Grand Fourmilier Tamanoir (11851618593).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a giant anteater's head and long tube-shaped snout",
+    "caption": "The anteater's tiny mouth sits at the tip of its long snout and has no teeth at all.",
+    "location": "Mato Grosso do Sul, Brazil"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Myrmecophaga tridactyla 55265892.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "Giant anteater swimming across a river with its snout above the water",
+    "caption": "Giant anteaters are strong swimmers and use their long snout like a snorkel to cross rivers.",
+    "location": "South America"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Tamanduá Bandeira pantaneiro.JPG",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "Giant anteater moving through tall dry grass on the savanna",
+    "caption": "Tall grasslands and savannas give anteaters plenty of ant and termite mounds to raid.",
+    "location": "Pantanal, Brazil"
+  },
+  "core-diet": {
+    "fileTitle": "File:Myrmecophaga tridactyla 7292861.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "Giant anteater with its snout lowered to the ground while foraging on a trail",
+    "caption": "An anteater can eat tens of thousands of ants and termites in a single day.",
+    "location": "South America"
+  },
+  "core-baby": {
+    "fileTitle": "File:Tamanduá bandeira com filhote nas costas - Myrmecophaga tridactyla 01.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "Giant anteater pup clinging to its mother's back in dry grass",
+    "caption": "The pup's stripe lines up with its mother's, helping it stay hidden while it rides along.",
+    "location": "Brazil"
+  },
+  "core-family": {
+    "fileTitle": "File:Tamanduá bandeira com filhote nas costas - Myrmecophaga tridactyla 02.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Mother giant anteater walking while carrying her pup on her back",
+    "caption": "A mother carries and feeds her pup until it is big enough to find food on its own.",
+    "location": "Brazil"
+  },
+  "core-range": {
+    "fileTitle": "File:Myrmecophaga tridactyla, Pantanal region, Brazil.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "Giant anteater crossing open grassland in the Pantanal",
+    "caption": "Wetlands like the Pantanal and dry Cerrado grasslands are strongholds for giant anteaters.",
+    "location": "Pantanal, Brazil"
+  }
+}

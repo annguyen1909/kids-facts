@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-core-habitat",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-core-habitat",
+  "fileName": "peregrine-falcon-core-habitat-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 802,
+  "alt": "A peregrine falcon perched on a rocky ledge",
+  "caption": "High cliff ledges protect their nests from land predators like foxes.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Netherlands",
+  "attributionText": "Photo by Michel Langeveld via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falco_peregrinus_114336093.jpg\">Michel Langeveld</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_114336093.jpg",
+    "creatorName": "Michel Langeveld",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:02.127Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ca/Falco_peregrinus_114336093.jpg",
+  "updatedAt": "2026-06-25T15:07:02.127Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-core-habitat-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-habitat-01-1200.webp"
+  }
+}

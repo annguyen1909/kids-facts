@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-diet",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-diet",
+  "fileName": "luna-moth-diet-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-diet-01-1200.webp",
+  "width": 1200,
+  "height": 987,
+  "alt": "A Luna Moth finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Luna Moth.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Megan McCarty via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Luna_Moth,_Megan_McCarty141.jpg\">Megan McCarty</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_Luna_Moth,_Megan_McCarty141.jpg",
+    "creatorName": "Megan McCarty",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:06.137Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Male_Luna_Moth%2C_Megan_McCarty141.jpg",
+  "updatedAt": "2026-06-25T15:02:06.137Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-diet-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-diet-01-1200.webp"
+  }
+}

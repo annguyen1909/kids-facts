@@ -2,10 +2,10 @@
   "id": "polar-bear-diet",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-diet",
-  "fileName": "Polar bear (Ursus maritimus) with its prey.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Polar_bear_%28Ursus_maritimus%29_with_its_prey.jpg",
-  "width": 2745,
-  "height": 1544,
+  "fileName": "polar-bear-diet-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-diet-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Polar bear with seal prey on Arctic ice",
   "caption": "Polar bears are carnivores that mainly hunt seals at breathing holes in the ice.",
   "attributionText": "Photo by AWeith via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:44.108Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Arctic",
-  "acquisitionNotes": "Manually curated polar bear diet image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Manually curated polar bear diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5e/Polar_bear_%28Ursus_maritimus%29_with_its_prey.jpg",
+  "updatedAt": "2026-06-25T15:07:44.108Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-diet-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-diet-01-1200.webp"
+  }
 }

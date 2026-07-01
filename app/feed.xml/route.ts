@@ -10,7 +10,7 @@ export function GET() {
   const items = getPublishedAnimals()
     .map(
       (animal) => `<item>
-  <title>${escapeXml(animal.core.name)} — Animal Facts</title>
+  <title>${escapeXml(animal.core.name)} — Wildlife Encyclopedia</title>
   <link>${escapeXml(siteConfig.url)}/animals/${escapeXml(animal.core.slug)}</link>
   <guid>${escapeXml(siteConfig.url)}/animals/${escapeXml(animal.core.slug)}</guid>
   <pubDate>${new Date(animal.core.publishedAt).toUTCString()}</pubDate>

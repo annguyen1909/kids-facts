@@ -1,0 +1,39 @@
+{
+  "id": "tokay-gecko-range",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-range",
+  "fileName": "tokay-gecko-range-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-range-01-1200.webp",
+  "width": 1036,
+  "height": 733,
+  "alt": "Tokay gecko climbing in its native Asian range in Vietnam",
+  "caption": "Tokay geckos are native to Southeast Asia, ranging from India to Indonesia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Binh Thuan, Vietnam",
+  "acquisitionNotes": "Manually verified tokay gecko image for range. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/66/Tokay_gecko_%40Vnm.jpg",
+  "updatedAt": "2026-06-25T15:13:11.763Z",
+  "attributionText": "Photo by The original uploader was BacLuong at Vietnamese Wikipedia . via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_gecko_@Vnm.jpg\">The original uploader was BacLuong at Vietnamese Wikipedia .</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_gecko_@Vnm.jpg",
+    "creatorName": "The original uploader was BacLuong at Vietnamese Wikipedia .",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:13:11.763Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-range-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-range-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-range-01-1200.webp"
+  }
+}

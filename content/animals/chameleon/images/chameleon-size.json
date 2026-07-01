@@ -2,8 +2,8 @@
   "id": "chameleon-size",
   "animalSlug": "chameleon",
   "slug": "chameleon-size",
-  "fileName": "Veiled chameleon (Chamaeleo calyptratus), Entomica 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Veiled_chameleon_%28Chamaeleo_calyptratus%29%2C_Entomica_1.jpg",
+  "fileName": "chameleon-size-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-size-01-1200.webp",
   "width": 1024,
   "height": 768,
   "alt": "Adult veiled chameleon showing body length on a branch",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Sault Ste. Marie, Canada",
-  "acquisitionNotes": "Manually curated chameleon size image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "acquisitionNotes": "Manually curated chameleon size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/Veiled_chameleon_%28Chamaeleo_calyptratus%29%2C_Entomica_1.jpg",
+  "updatedAt": "2026-06-25T14:50:03.515Z",
   "attributionText": "Photo by Fungus Guy via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Veiled_chameleon_(Chamaeleo_calyptratus)%2C_Entomica_1.jpg\">Fungus Guy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Veiled_chameleon_(Chamaeleo_calyptratus),_Entomica_1.jpg\">Fungus Guy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veiled_chameleon_(Chamaeleo_calyptratus)%2C_Entomica_1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veiled_chameleon_(Chamaeleo_calyptratus),_Entomica_1.jpg",
     "creatorName": "Fungus Guy",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:03.515Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-size-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-size-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-size-01-1200.webp"
   }
 }

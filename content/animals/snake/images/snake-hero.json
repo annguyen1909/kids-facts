@@ -2,10 +2,10 @@
   "id": "snake-hero",
   "animalSlug": "snake",
   "slug": "snake-hero",
-  "fileName": "Python Regius (163596247).jpeg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Python_Regius_%28163596247%29.jpeg",
-  "width": 2048,
-  "height": 1365,
+  "fileName": "snake-hero-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Ball python coiled on a branch",
   "caption": "Ball pythons are calm snakes with beautiful patterns and a habit of curling into a ball.",
   "attributionText": "Photo by Sandro De Sousa via Wikimedia Commons, CC BY 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:54.492Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z"
+  "acquisitionNotes": "Manually curated ball python hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/39/Python_Regius_%28163596247%29.jpeg",
+  "updatedAt": "2026-06-25T15:11:54.492Z",
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-hero-01-400.webp",
+    "original": "/images/animals/snake/web/snake-hero-01-1200.webp"
+  }
 }

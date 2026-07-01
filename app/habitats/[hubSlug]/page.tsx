@@ -4,6 +4,8 @@ import { HubPage } from "@/components/animals/hub-page";
 import { getStaticHabitatHubRoutes, resolveHubRoute } from "@/lib/content";
 import { buildHubMetadata } from "@/lib/metadata";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getStaticHabitatHubRoutes();
 }

@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-habitat",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-habitat",
+  "fileName": "monarch-butterfly-core-habitat-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 913,
+  "alt": "Monarch butterfly feeding on Salvia flowers in a garden",
+  "caption": "Monarchs are commonly found in gardens visiting summer flowers.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "United States",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_butterfly_(70387).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_(70387).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:11.605Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a8/Monarch_butterfly_%2870387%29.jpg",
+  "updatedAt": "2026-06-25T15:03:11.605Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-habitat-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-habitat-01-1200.webp"
+  }
+}

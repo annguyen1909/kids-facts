@@ -2,23 +2,23 @@
   "id": "ostrich-range",
   "animalSlug": "ostrich",
   "slug": "ostrich-range",
-  "fileName": "Avestruz de cuello azul (Struthio camelus australis), cabo de Buena Esparanza, Sudáfrica, 2018-07-23, DD 87.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Avestruz_de_cuello_azul_%28Struthio_camelus_australis%29%2C_cabo_de_Buena_Esparanza%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_87.jpg",
-  "width": 6790,
-  "height": 5517,
-  "alt": "Ostrich in southern African savanna habitat",
+  "fileName": "ostrich-range-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Ostrich standing on open Namibian plain with sparse grass and distant hills",
   "caption": "Common ostriches live in many parts of Africa, from the Sahel south to South Africa.",
-  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Avestruz_de_cuello_azul_(Struthio_camelus_australis)%2C_cabo_de_Buena_Esparanza%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_87.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionText": "Photo by Buiobuione via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struzzo_in_Namibia.jpg\">Buiobuione</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avestruz_de_cuello_azul_(Struthio_camelus_australis)%2C_cabo_de_Buena_Esparanza%2C_Sud%C3%A1frica%2C_2018-07-23%2C_DD_87.jpg",
-    "creatorName": "Diego Delso",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struzzo_in_Namibia.jpg",
+    "creatorName": "Buiobuione",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:19:03.248Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -27,7 +27,12 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Cape of Good Hope, South Africa",
-  "acquisitionNotes": "Manually curated ostrich range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z"
+  "location": "Namibia",
+  "acquisitionNotes": "Wild range photo — bird in natural southern African landscape. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0f/Struzzo_in_Namibia.jpg",
+  "updatedAt": "2026-06-28T09:19:03.248Z",
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-range-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-range-01-1200.webp"
+  }
 }

@@ -1,0 +1,42 @@
+{
+  "id": "hercules-beetle-core-diet",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-core-diet",
+  "fileName": "hercules-beetle-core-diet-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 674,
+  "alt": "A Hercules Beetle finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Hercules Beetle.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Novita Estiti from Tokyo, Japan via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_24_July_2010.jpg\">Novita Estiti from Tokyo, Japan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_24_July_2010.jpg",
+    "creatorName": "Novita Estiti from Tokyo, Japan",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:41.930Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Hercules_beetle_%28Dynastes_hercules%29_-_24_July_2010.jpg",
+  "updatedAt": "2026-06-25T14:57:41.930Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_24_July_2010.jpg",
+  "creatorName": "Novita Estiti from Tokyo, Japan",
+  "licenseName": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-core-diet-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-core-diet-01-1200.webp"
+  }
+}

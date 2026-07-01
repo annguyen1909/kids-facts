@@ -2,10 +2,10 @@
   "id": "komodo-dragon-family",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-family",
-  "fileName": "Wild Komodo dragon - Komodo island (17118478512) (2).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wild_Komodo_dragon_-_Komodo_island_%2817118478512%29_%282%29.jpg",
-  "width": 4288,
-  "height": 2848,
+  "fileName": "komodo-dragon-family-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-family-01-1200.webp",
+  "width": 1200,
+  "height": 797,
   "alt": "Wild Komodo dragon moving across open island ground",
   "caption": "Adult Komodo dragons usually live alone, but several may gather where food is plentiful.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Komodo Island, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon behavior image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon behavior image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Wild_Komodo_dragon_-_Komodo_island_%2817118478512%29_%282%29.jpg",
+  "updatedAt": "2026-06-25T15:00:03.577Z",
   "attributionText": "Photo by Jorge Láscar from Australia via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wild_Komodo_dragon_-_Komodo_island_(17118478512)_(2).jpg\">Jorge Láscar from Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:03.577Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-family-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-family-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-family-01-1200.webp"
   }
 }

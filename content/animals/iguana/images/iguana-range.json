@@ -1,0 +1,38 @@
+{
+  "id": "iguana-range",
+  "animalSlug": "iguana",
+  "slug": "iguana-range",
+  "fileName": "iguana-range-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-range-01-1200.webp",
+  "width": 1200,
+  "height": 853,
+  "alt": "A Green Iguana traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Cayambe via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_04.jpg\">Cayambe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_04.jpg",
+    "creatorName": "Cayambe",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:53.575Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/98/Iguana_iguana_Portoviejo_04.jpg",
+  "updatedAt": "2026-06-25T14:58:53.575Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-range-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-range-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-range-01-1200.webp"
+  }
+}

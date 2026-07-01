@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-size",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-size",
+  "fileName": "lionfish-size-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-size-01-1200.webp",
+  "width": 1200,
+  "height": 877,
+  "alt": "Wild red lionfish displaying venomous spines on a coral reef",
+  "caption": "The lionfish fans out its ornate pectoral fins as a warning display to deter predators.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pterois_volitans_-_Wilhelma_01.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_-_Wilhelma_01.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:00.142Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for size. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Pterois_volitans_-_Wilhelma_01.jpg",
+  "updatedAt": "2026-06-25T15:02:00.142Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-size-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-size-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-size-01-1200.webp"
+  }
+}

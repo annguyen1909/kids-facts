@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-baby",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-baby",
+  "fileName": "mandrill-baby-01-1200.webp",
+  "alt": "A young or baby Mandrill showing early development",
+  "caption": "Baby Mandrills must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Sanjay Acharya via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrill_at_SF_Zoo.jpg\">Sanjay Acharya</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrill_at_SF_Zoo.jpg",
+    "creatorName": "Sanjay Acharya",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:43.258Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9a/Mandrill_at_SF_Zoo.jpg",
+  "updatedAt": "2026-06-26T08:16:43.258Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-baby-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-baby-01-1200.webp"
+  }
+}

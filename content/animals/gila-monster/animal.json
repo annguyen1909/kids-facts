@@ -1,0 +1,129 @@
+{
+  "id": "animal-gila-monster",
+  "slug": "gila-monster",
+  "name": "Gila Monster",
+  "commonNames": [
+    "Gila Monster"
+  ],
+  "scientificName": "Heloderma suspectum",
+  "summary": "The Gila monster is a large, slow-moving lizard native to the southwestern United States and northwestern Mexico. It is famous for being one of the very few venomous lizards in the world, recognizable by its bumpy, black-and-pink patterned skin.",
+  "heroTitle": "Gila Monster Facts",
+  "metaTitle": "Gila Monster Facts | Habitat, Diet, Venom & Photos",
+  "metaDescription": "Gila monster facts for kids with photos, desert habitat, diet, venomous bite, bumpy skin, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "gila monster facts",
+    "what do gila monsters eat",
+    "where do gila monsters live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Helodermatidae",
+    "genus": "Heloderma",
+    "species": "H. suspectum"
+  },
+  "classificationLabels": [
+    "reptile"
+  ],
+  "habitat": "savanna",
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States",
+    "Mexico"
+  ],
+  "biomes": [
+    "desert",
+    "shrubland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Bird eggs",
+    "Reptile eggs",
+    "Baby rodents",
+    "Small birds",
+    "Frogs"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years"
+  },
+  "size": {
+    "lengthMin": "35 cm",
+    "lengthMax": "56 cm"
+  },
+  "weight": {
+    "min": "0.7 kg",
+    "max": "1.4 kg"
+  },
+  "speed": "Up to 15 mph (24 km/h) top speed",
+  "conservationStatus": "Near Threatened",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "spending 90% of life underground",
+    "hunting by smelling with its tongue",
+    "storing fat in its thick tail",
+    "biting and holding on to deliver venom",
+    "basking in the sun during spring"
+  ],
+  "adaptations": [
+    "venom glands in lower jaw",
+    "grooved teeth to help venom flow into bites",
+    "bumpy bead-like skin scales",
+    "fat-storing tail for long periods without food",
+    "forked tongue and Jacobson's organ for keen smell"
+  ],
+  "predators": [
+    "Coyotes",
+    "Badgers",
+    "Hawks",
+    "Owls"
+  ],
+  "prey": [
+    "Eggs",
+    "Mice",
+    "Baby rabbits",
+    "Lizards",
+    "Frogs"
+  ],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "120 to 150 days",
+    "offspringCount": "2 to 12 eggs"
+  },
+  "funFacts": [
+    "The Gila monster is one of the only venomous lizards in North America! It doesn't inject venom through fangs like a snake; instead, it bites and chews to let venom flow into the wound from its lower jaw.",
+    "They have beautiful, bumpy skin that looks like beads! These bumps are actually tiny beads of bone embedded in their skin, called osteoderms.",
+    "Gila monsters spend up to 90% of their lives hiding in underground burrows, only coming out to sunbathe or hunt for food in the spring.",
+    "They store fat in their thick, sausage-like tails, allowing them to go months without eating a single meal.",
+    "A drug used to treat human diabetes was developed from a chemical found in the Gila monster's saliva!",
+    "They use their purple, forked tongues to 'taste' the air and locate nests of eggs or baby rabbits, even if they are buried underground."
+  ],
+  "faq": [
+    {
+      "question": "What is a Gila monster?",
+      "answer": "A Gila monster is a large, heavy, slow-moving lizard known for its colorful black-and-pink bumpy skin and venomous bite."
+    },
+    {
+      "question": "Where do Gila monsters live?",
+      "answer": "They live in the dry deserts, shrublands, and rocky foothills of the southwestern United States (especially Arizona) and northwestern Mexico."
+    },
+    {
+      "question": "What do Gila monsters eat?",
+      "answer": "They are carnivores that eat mostly eggs of birds and reptiles, as well as baby rodents, small birds, and frogs, swallowing their food whole."
+    }
+  ],
+  "relatedAnimals": [
+    "komodo-dragon",
+    "chameleon",
+    "tokay-gecko"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "gila-monster-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

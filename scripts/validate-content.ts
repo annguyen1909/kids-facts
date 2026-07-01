@@ -17,6 +17,7 @@ function printIssues(label: string, issues: ValidationIssue[]) {
 }
 
 async function main() {
+  const localOnly = process.argv.includes("--local");
   const result = validateContent();
   const errors = result.issues.filter((issue) => issue.severity === "error");
   const warnings = result.issues.filter((issue) => issue.severity === "warning");
@@ -45,11 +46,13 @@ async function main() {
     }
   }
 
-  if (result.animals.length > 0) {
+  if (result.animals.length > 0 && !localOnly) {
     console.log("\nChecking remote image URLs (this may take a minute)...");
     const urlIssues = await validateAnimalImageUrls(result.animals);
     printIssues("Broken image URLs:", urlIssues);
     result.issues.push(...urlIssues);
+  } else if (localOnly) {
+    console.log("\nSkipping remote image URL checks (--local).");
   }
 
   const allErrors = result.issues.filter((issue) => issue.severity === "error");

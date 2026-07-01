@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-diet",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-diet",
+  "fileName": "harpy-eagle-diet-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-diet-01-1200.webp",
+  "width": 1200,
+  "height": 767,
+  "alt": "Harpy eagle arriving at its large tree nest holding a captured capuchin monkey",
+  "caption": "As apex canopy predators, their diet heavily features arboreal mammals like capuchin monkeys and sloths.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rainforest canopy nest",
+  "acquisitionNotes": "Action shot showing native predatory diet behavior with natural prey. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Harpia_chega_ao_ninho_com_um_macaco-prego.jpg",
+  "updatedAt": "2026-06-29T11:55:28.785Z",
+  "attributionText": "Photo by Jiang Chunsheng via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_chega_ao_ninho_com_um_macaco-prego.jpg\">Jiang Chunsheng</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_chega_ao_ninho_com_um_macaco-prego.jpg",
+    "creatorName": "Jiang Chunsheng",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:28.785Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-diet-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-diet-01-1200.webp"
+  }
+}

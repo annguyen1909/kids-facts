@@ -2,10 +2,10 @@
   "id": "rhinoceros-closeup",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-closeup",
-  "fileName": "Ceratotherium simum-portrait-Lisbon 02.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ceratotherium_simum-portrait-Lisbon_02.JPG",
-  "width": 4000,
-  "height": 3000,
+  "fileName": "rhinoceros-closeup-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Close-up of a white rhinoceros face and horns",
   "caption": "White rhinos have two horns made of keratin, the same material as human fingernails.",
   "attributionText": "Photo by Salix via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:42.809Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Lisbon, Portugal",
-  "acquisitionNotes": "Manually curated rhinoceros close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z"
+  "acquisitionNotes": "Manually curated rhinoceros close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ed/Ceratotherium_simum-portrait-Lisbon_02.JPG",
+  "updatedAt": "2026-06-25T15:09:42.809Z",
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-closeup-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-closeup-01-1200.webp"
+  }
 }

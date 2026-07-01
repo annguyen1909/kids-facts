@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-core-baby",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-core-baby",
+  "alt": "An adolescent harpy eagle showing developing adult grey feather patterns",
+  "caption": "As juveniles mature into full adulthood, their lighter head plumage gradually transitions into striking dark bands.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Belize Zoo",
+  "fileName": "harpy-eagle-core-baby-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-core-baby-01-1200.webp",
+  "width": 680,
+  "height": 1024,
+  "attributionText": "Photo by Michael Schamis via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-Belize_Zoo-8b.jpg\">Michael Schamis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-Belize_Zoo-8b.jpg",
+    "creatorName": "Michael Schamis",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:13.886Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile development image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f4/Harpia_harpyja_-Belize_Zoo-8b.jpg",
+  "updatedAt": "2026-06-29T11:55:13.886Z",
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-core-baby-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-core-baby-01-1200.webp"
+  }
+}

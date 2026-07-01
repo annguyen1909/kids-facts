@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-hero",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-hero",
+  "fileName": "ring-tailed-lemur-hero-01-1200.webp",
+  "alt": "Ring-tailed lemur sitting upright showing its black-and-white striped tail",
+  "caption": "Ring-tailed lemurs are easy to spot thanks to their long, black-and-white ringed tails.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ring-tailed_lemur_(Lemur_catta)_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ring-tailed_lemur_(Lemur_catta)_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:17.808Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Ring-tailed_lemur_%28Lemur_catta%29_2.jpg",
+  "updatedAt": "2026-06-28T09:59:17.808Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-hero-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-hero-01-1200.webp"
+  }
+}

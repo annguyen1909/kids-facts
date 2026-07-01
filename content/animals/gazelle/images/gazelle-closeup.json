@@ -2,10 +2,10 @@
   "id": "gazelle-closeup",
   "animalSlug": "gazelle",
   "slug": "gazelle-closeup",
-  "fileName": "Gacela de Thomson (Eudorcas thomsonii), zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 32.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gacela_de_Thomson_%28Eudorcas_thomsonii%29%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_32.jpg",
-  "width": 5279,
-  "height": 5279,
+  "fileName": "gazelle-closeup-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Close-up Thomson's gazelle face with alert ears",
   "caption": "Large eyes and ears help gazelles notice danger across open ground.",
   "imageType": "closeup",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Ngorongoro Conservation Area, Tanzania",
-  "acquisitionNotes": "Manually curated gazelle close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Manually curated gazelle close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d8/Gacela_de_Thomson_%28Eudorcas_thomsonii%29%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_32.jpg",
+  "updatedAt": "2026-06-25T14:54:44.361Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_32.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii),_zona_de_conservaci%C3%B3n_de_Ngorongoro,_Tanzania,_2024-05-27,_DD_32.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii)%2C_zona_de_conservaci%C3%B3n_de_Ngorongoro%2C_Tanzania%2C_2024-05-27%2C_DD_32.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacela_de_Thomson_(Eudorcas_thomsonii),_zona_de_conservaci%C3%B3n_de_Ngorongoro,_Tanzania,_2024-05-27,_DD_32.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:44.361Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-closeup-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-closeup-01-1200.webp"
   }
 }

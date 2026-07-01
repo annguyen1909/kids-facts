@@ -2,10 +2,10 @@
   "id": "parrot-range",
   "animalSlug": "parrot",
   "slug": "parrot-range",
-  "fileName": "Scarlet Macaws at Uvita Beach, Costa Rica 02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Scarlet_Macaws_at_Uvita_Beach%2C_Costa_Rica_02.jpg",
-  "width": 4007,
-  "height": 2673,
+  "fileName": "parrot-range-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Scarlet macaws flying along the Central American coast",
   "caption": "Scarlet macaws range from southern Mexico through Central America to the Amazon.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Uvita, Costa Rica",
-  "acquisitionNotes": "Manually curated macaw range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Manually curated macaw range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Scarlet_Macaws_at_Uvita_Beach%2C_Costa_Rica_02.jpg",
+  "updatedAt": "2026-06-25T15:06:02.555Z",
   "attributionText": "Photo by Satdeep Gill via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_Macaws_at_Uvita_Beach%2C_Costa_Rica_02.jpg\">Satdeep Gill</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_Macaws_at_Uvita_Beach,_Costa_Rica_02.jpg\">Satdeep Gill</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_Macaws_at_Uvita_Beach%2C_Costa_Rica_02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_Macaws_at_Uvita_Beach,_Costa_Rica_02.jpg",
     "creatorName": "Satdeep Gill",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:02.555Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-range-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-range-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-range-01-1200.webp"
   }
 }

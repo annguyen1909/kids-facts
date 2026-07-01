@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-habitat",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-habitat",
+  "fileName": "galapagos-tortoise-habitat-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A giant tortoise cooling off in a muddy water wallow",
+  "caption": "They inhabit both dry lowlands and humid highlands, often wallowing in mud to cool off.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Kevin Gepford via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonoidis-niger-donfaustoi-wallow.jpg\">Kevin Gepford</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonoidis-niger-donfaustoi-wallow.jpg",
+    "creatorName": "Kevin Gepford",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:37.727Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Chelonoidis-niger-donfaustoi-wallow.jpg",
+  "updatedAt": "2026-06-25T14:54:37.727Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-habitat-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-habitat-01-1200.webp"
+  }
+}

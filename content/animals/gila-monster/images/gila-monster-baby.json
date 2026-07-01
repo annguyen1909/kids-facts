@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-baby",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-baby",
+  "fileName": "gila-monster-baby-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-baby-01-1200.webp",
+  "width": 1200,
+  "height": 659,
+  "alt": "A young or baby Gila Monster showing early development",
+  "caption": "Baby Gila Monsters must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Martina Johnson Pokorná, Michail Rovatsos, Lukáš Kratochvíl via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Karyotype_of_female_Gila_monster_(Heloderma_suspectum).png\">Martina Johnson Pokorná, Michail Rovatsos, Lukáš Kratochvíl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karyotype_of_female_Gila_monster_(Heloderma_suspectum).png",
+    "creatorName": "Martina Johnson Pokorná, Michail Rovatsos, Lukáš Kratochvíl",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:29.260Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/96/Karyotype_of_female_Gila_monster_%28Heloderma_suspectum%29.png",
+  "updatedAt": "2026-06-25T14:55:29.260Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-baby-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-baby-01-1200.webp"
+  }
+}

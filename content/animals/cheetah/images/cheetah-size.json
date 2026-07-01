@@ -2,8 +2,8 @@
   "id": "cheetah-size",
   "animalSlug": "cheetah",
   "slug": "cheetah-size",
-  "fileName": "TheCheethcat.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg",
+  "fileName": "cheetah-size-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-size-01-1200.webp",
   "width": 853,
   "height": 1280,
   "alt": "Full-body cheetah showing long legs and slim frame",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Sabi Sands, South Africa",
-  "acquisitionNotes": "Manually curated cheetah size image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Manually curated cheetah size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/09/TheCheethcat.jpg",
+  "updatedAt": "2026-06-25T14:50:26.479Z",
   "attributionText": "Photo by James Temple via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:TheCheethcat.jpg\">James Temple</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:26.479Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-size-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-size-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-size-01-1200.webp"
   }
 }

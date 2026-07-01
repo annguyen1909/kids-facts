@@ -154,7 +154,7 @@ for (const [slug, data] of Object.entries(updates)) {
       licenseUrl: data.licenseUrl,
       requiresAttribution: data.licenseName !== "CC0" && data.licenseName !== "Public domain",
       downloadedAt: timestamp,
-      reviewedBy: "editor@kidsfacts.local",
+      reviewedBy: "editor@wildlifedb.local",
     },
     acquisitionNotes: "Manually verified giant panda image with correct species identification.",
     updatedAt: timestamp,

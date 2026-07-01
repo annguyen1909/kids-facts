@@ -2,10 +2,10 @@
   "id": "penguin-fun-fact",
   "animalSlug": "penguin",
   "slug": "penguin-fun-fact",
-  "fileName": "Penguin in Antarctica jumping out of the water.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg",
-  "width": 3989,
-  "height": 2652,
+  "fileName": "penguin-fun-fact-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "Penguin leaping porpoise-style out of Antarctic ocean water",
   "caption": "Penguins can burst out of the water and land on ice—a move called porpoising.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Antarctica",
-  "acquisitionNotes": "Manually curated penguin fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated penguin fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/Penguin_in_Antarctica_jumping_out_of_the_water.jpg",
+  "updatedAt": "2026-06-25T15:06:43.088Z",
   "attributionText": "Photo by Christopher Michel via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg\">Christopher Michel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:43.088Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-fun-fact-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-fun-fact-01-1200.webp"
   }
 }

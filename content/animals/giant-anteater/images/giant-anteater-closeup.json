@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-closeup",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-closeup",
+  "fileName": "giant-anteater-closeup-01-1200.webp",
+  "alt": "Close-up of a giant anteater's head and long tube-shaped snout",
+  "caption": "The anteater's tiny mouth sits at the tip of its long snout and has no teeth at all.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Mato Grosso do Sul, Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by dany13 via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brazil_Mato_Grosso_Do_Sul_Pantanal_Giant_Ant%C3%A9ater_Grand_Fourmilier_Tamanoir_(11851618593).jpg\">dany13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brazil_Mato_Grosso_Do_Sul_Pantanal_Giant_Ant%C3%A9ater_Grand_Fourmilier_Tamanoir_(11851618593).jpg",
+    "creatorName": "dany13",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:36.161Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/18/Brazil_Mato_Grosso_Do_Sul_Pantanal_Giant_Ant%C3%A9ater_Grand_Fourmilier_Tamanoir_%2811851618593%29.jpg",
+  "updatedAt": "2026-06-28T10:16:36.161Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-closeup-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-closeup-01-1200.webp"
+  }
+}

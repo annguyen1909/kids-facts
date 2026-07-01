@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-fun-fact",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-fun-fact",
+  "fileName": "honeybee-fun-fact-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Honey bee sipping water droplets from the surface of a wet stone",
+  "caption": "Bees collect water to drink and to fan with their wings to air-condition their hive!",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Estonia",
+  "acquisitionNotes": "Manually verified honeybee image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Honey_bee_drinking_from_a_wet_stone.jpg",
+  "updatedAt": "2026-06-25T14:58:23.556Z",
+  "attributionText": "Photo by Reinhard Müller via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Honey_bee_drinking_from_a_wet_stone.jpg\">Reinhard Müller</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Honey_bee_drinking_from_a_wet_stone.jpg",
+    "creatorName": "Reinhard Müller",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:23.556Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-fun-fact-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-fun-fact-01-1200.webp"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "frilled-lizard-gallery-main",
+  "animalSlug": "frilled-lizard",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Frilled Lizard Photo Gallery",
+  "metaTitle": "Frilled Lizard Photo Gallery",
+  "metaDescription": "Browse a frilled lizard photo gallery with wildlife photos.",
+  "intro": "Explore frilled lizard photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "frilled-lizard-hero",
+    "frilled-lizard-habitat",
+    "frilled-lizard-diet",
+    "frilled-lizard-baby",
+    "frilled-lizard-family",
+    "frilled-lizard-range",
+    "frilled-lizard-size",
+    "frilled-lizard-closeup",
+    "frilled-lizard-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

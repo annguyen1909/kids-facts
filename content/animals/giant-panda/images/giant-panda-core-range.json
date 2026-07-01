@@ -2,23 +2,23 @@
   "id": "giant-panda-core-range",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-core-range",
-  "fileName": "1280px-Chengdu_Sichuan_China_Panda-breeding-and-research-center-02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Panda_g%C3%A9ant_%28Ailuropoda_melanoleuca%29.JPG",
-  "width": 2816,
-  "height": 2112,
+  "fileName": "giant-panda-core-range-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Giant panda in bamboo-rich mountain forest in central China",
   "caption": "Today wild giant pandas survive only in scattered mountain forests in central China.",
-  "attributionText": "Photo by Sheba_Also via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_g%C3%A9ant_(Ailuropoda_melanoleuca).JPG\">Sheba_Also</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY 2.0</a>",
+  "attributionText": "Photo by Arian Zwegers from Brussels, Belgium via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chengdu,_Zoo,_panda_(6170336830).jpg\">Arian Zwegers from Brussels, Belgium</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panda_g%C3%A9ant_(Ailuropoda_melanoleuca).JPG",
-    "creatorName": "Sheba_Also",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chengdu,_Zoo,_panda_(6170336830).jpg",
+    "creatorName": "Arian Zwegers from Brussels, Belgium",
     "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:13.160Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Sichuan, China",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "acquisitionNotes": "Core article range image — verified Commons file. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/89/Chengdu%2C_Zoo%2C_panda_%286170336830%29.jpg",
+  "updatedAt": "2026-06-25T14:55:13.160Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-core-range-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-core-range-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "walrus-habitat",
+  "animalSlug": "walrus",
+  "slug": "walrus-habitat",
+  "fileName": "walrus-habitat-01-1200.webp",
+  "alt": "Walruses hauled out on floating sea ice in the Arctic",
+  "caption": "Walruses live in the cold Arctic, resting on floating sea ice and rocky coasts.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Arctic",
+  "src": "/images/animals/walrus/web/walrus-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Kirill.uyutnov via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Walruses_on_ice_floes.jpg\">Kirill.uyutnov</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walruses_on_ice_floes.jpg",
+    "creatorName": "Kirill.uyutnov",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:03:12.569Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/75/Walruses_on_ice_floes.jpg",
+  "updatedAt": "2026-06-28T10:03:12.569Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-habitat-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-habitat-01-1200.webp"
+  }
+}

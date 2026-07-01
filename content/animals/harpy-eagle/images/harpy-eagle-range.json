@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-range",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-range",
+  "fileName": "harpy-eagle-range-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-range-01-1200.webp",
+  "width": 1200,
+  "height": 1772,
+  "alt": "Harpy eagle standing proudly, representing its Neotropical distribution",
+  "caption": "Their historical range stretches from southern Mexico through Central America and down into the Amazon basin.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Belize",
+  "acquisitionNotes": "High-quality vertical composition representing regional habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fd/Harpy_Eagle_-_Harpia_harpyja%2C_Belize_Zoo%2C_Belize.jpg",
+  "updatedAt": "2026-06-29T11:55:37.206Z",
+  "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpy_Eagle_-_Harpia_harpyja,_Belize_Zoo,_Belize.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpy_Eagle_-_Harpia_harpyja,_Belize_Zoo,_Belize.jpg",
+    "creatorName": "Judy Gallagher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:37.206Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-range-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-range-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-range-01-1200.webp"
+  }
+}

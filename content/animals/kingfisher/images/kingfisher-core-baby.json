@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-core-baby",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-core-baby",
+  "fileName": "kingfisher-core-baby-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A young or baby Common Kingfisher showing early development",
+  "caption": "Baby Common Kingfishers must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_kingfisher_(Alcedo_atthis_bengalensis)_with_fish.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_kingfisher_(Alcedo_atthis_bengalensis)_with_fish.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:11.157Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4a/Common_kingfisher_%28Alcedo_atthis_bengalensis%29_with_fish.jpg",
+  "updatedAt": "2026-06-25T14:59:11.157Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-core-baby-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-core-baby-01-1200.webp"
+  }
+}

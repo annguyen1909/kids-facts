@@ -2,10 +2,10 @@
   "id": "leopard-baby",
   "animalSlug": "leopard",
   "slug": "leopard-baby",
-  "fileName": "Leopard cub.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Leopard_cub.jpg",
-  "width": 4643,
-  "height": 2612,
+  "fileName": "leopard-baby-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-baby-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Young leopard cub resting in grass",
   "caption": "Leopard cubs are born blind and stay hidden while their mother hunts.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African wildlife reserve",
-  "acquisitionNotes": "Manually curated leopard cub image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Manually curated leopard cub image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/82/Leopard_cub.jpg",
+  "updatedAt": "2026-06-25T15:01:02.149Z",
   "attributionText": "Photo by Sumeet Moghe via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopard_cub.jpg\">Sumeet Moghe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:02.149Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-baby-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-baby-01-1200.webp"
   }
 }

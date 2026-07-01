@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-baby",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-baby",
+  "fileName": "jaguar-baby-01-1200.webp",
+  "alt": "Two jaguar cubs playing and tussling in the grass",
+  "caption": "Jaguar cubs are very playful and spend their early months practicing hunting skills through play-fighting.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "San Diego Zoo, USA",
+  "src": "/images/animals/jaguar/web/jaguar-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by popofatticus via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_cubs_tussle_(179088130).jpg\">popofatticus</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_cubs_tussle_(179088130).jpg",
+    "creatorName": "popofatticus",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:32:10.652Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/90/Jaguar_cubs_tussle_%28179088130%29.jpg",
+  "updatedAt": "2026-06-26T08:32:10.652Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-baby-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-baby-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-habitat",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-habitat",
+  "fileName": "gila-monster-habitat-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 891,
+  "alt": "A Gila Monster navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gila-Krustenechse_-_Heloderma_suspectum_-_3488.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gila-Krustenechse_-_Heloderma_suspectum_-_3488.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:39.370Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/Gila-Krustenechse_-_Heloderma_suspectum_-_3488.jpg",
+  "updatedAt": "2026-06-25T14:55:39.370Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-habitat-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-habitat-01-1200.webp"
+  }
+}

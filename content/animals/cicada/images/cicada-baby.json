@@ -1,0 +1,38 @@
+{
+  "id": "cicada-baby",
+  "animalSlug": "cicada",
+  "slug": "cicada-baby",
+  "fileName": "cicada-baby-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A young or baby Cicada showing early development",
+  "caption": "Baby Cicadas must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by peterwchen via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-female_ventral.jpg\">peterwchen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-female_ventral.jpg",
+    "creatorName": "peterwchen",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:51.284Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0f/Magicicada_septendecim-female_ventral.jpg",
+  "updatedAt": "2026-06-25T14:50:51.284Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-baby-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-baby-01-1200.webp"
+  }
+}

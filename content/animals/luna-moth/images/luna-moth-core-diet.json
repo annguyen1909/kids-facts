@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-core-diet",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-core-diet",
+  "fileName": "luna-moth-core-diet-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "alt": "A Luna Moth finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Luna Moth.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Andy Reago &amp; Chrissy McClarren via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Actias_luna_%E2%80%93_Luna_Moth_(8289143114).jpg\">Andy Reago &amp; Chrissy McClarren</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actias_luna_%E2%80%93_Luna_Moth_(8289143114).jpg",
+    "creatorName": "Andy Reago &amp; Chrissy McClarren",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:00.923Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/Actias_luna_%E2%80%93_Luna_Moth_%288289143114%29.jpg",
+  "updatedAt": "2026-06-25T15:02:00.923Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-core-diet-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-core-diet-01-1200.webp"
+  }
+}

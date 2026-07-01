@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Anax imperator qtl2.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Emperor Dragonfly in the wild",
+    "caption": "The Emperor Dragonfly is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Libelule-Anax imperator-femelle-Hamois-Luc-Viatour.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Emperor Dragonfly navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Anax imperator Exuvie MHNT Parc de la Maourine.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Emperor Dragonfly finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Emperor Dragonfly.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Anax Imperator 2(loz).JPG",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Emperor Dragonfly showing early development",
+    "caption": "Baby Emperor Dragonflys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Anax imperator 2015 11 23 6807.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Emperor Dragonflys interacting with each other",
+    "caption": "While often solitary, some Emperor Dragonflys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Emperor dragonfly (Anax imperator) female.JPG",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Emperor Dragonfly traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:2017.06.05.-09-Anglerteiche-Rimbach--Grosse Koenigslibelle-Weibchen bei Eiablage.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Emperor Dragonfly",
+    "caption": "The size of a Emperor Dragonfly can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Anax imperator exuvia2.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Emperor Dragonfly",
+    "caption": "A close-up view reveals the intricate details of a Emperor Dragonfly's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:007c European bee-eater eating an Emperor dragonfly in Pfyn-Finges Photo by Giles Laurent.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Emperor Dragonfly showing a unique behavior or adaptation",
+    "caption": "Did you know that the Emperor Dragonfly has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Anax imperator qtl1.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Emperor Dragonfly navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Anax imperator qtl7.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Emperor Dragonfly finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Emperor Dragonfly.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Anax imperator qtl3.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Emperor Dragonflys interacting with each other",
+    "caption": "While often solitary, some Emperor Dragonflys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Anax imperator-pjt.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Emperor Dragonfly showing early development",
+    "caption": "Baby Emperor Dragonflys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Emperor dragonfly (Anax imperator) male 2.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Emperor Dragonfly traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

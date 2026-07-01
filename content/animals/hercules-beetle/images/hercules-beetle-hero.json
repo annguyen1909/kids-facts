@@ -1,0 +1,38 @@
+{
+  "id": "hercules-beetle-hero",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-hero",
+  "fileName": "hercules-beetle-hero-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Portrait of a female Hercules beetle.",
+  "caption": "Portrait of a female Hercules beetle.",
+  "attributionText": "Brandon Antonio Segura Torres &amp; Priscilla Vieto Bonilla via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Retrato_de_escarabajo_h%C3%A9cules_hembra.jpg\">Brandon Antonio Segura Torres &amp; Priscilla Vieto Bonilla</a> via Wikimedia Commons, CC BY-SA 4.0",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_escarabajo_h%C3%A9cules_hembra.jpg",
+    "creatorName": "Brandon Antonio Segura Torres &amp; Priscilla Vieto Bonilla",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:47.721Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Imported — verify editorially",
+  "acquisitionNotes": "Hero image for gallery only; core article uses dedicated section images. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ae/Retrato_de_escarabajo_h%C3%A9cules_hembra.jpg",
+  "updatedAt": "2026-06-25T14:57:47.721Z",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-hero-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-hero-01-1200.webp"
+  }
+}

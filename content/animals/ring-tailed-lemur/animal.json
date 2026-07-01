@@ -1,0 +1,149 @@
+{
+  "id": "animal-ring-tailed-lemur",
+  "slug": "ring-tailed-lemur",
+  "name": "Ring-tailed Lemur",
+  "commonNames": [
+    "Ring-tailed Lemur",
+    "Maki"
+  ],
+  "scientificName": "Lemur catta",
+  "summary": "The ring-tailed lemur is a cat-sized primate found only on the island of Madagascar. It is famous for its long black-and-white striped tail, its sunbathing pose, and the lively troops it lives in, which are led by females.",
+  "heroTitle": "Ring-tailed Lemur Facts",
+  "metaTitle": "Ring-tailed Lemur Facts | Habitat, Diet, Troops & Photos",
+  "metaDescription": "Discover ring-tailed lemur facts with photos, Madagascar habitat, fruit-and-leaf diet, babies, and troop life. Learn why lemurs sunbathe and how their ringed tails work.",
+  "searchIntents": [
+    "ring-tailed lemur facts",
+    "what do lemurs eat",
+    "where do ring-tailed lemurs live",
+    "why do lemurs sunbathe",
+    "how big is a ring-tailed lemur",
+    "are ring-tailed lemurs endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Lemuridae",
+    "genus": "Lemur",
+    "species": "L. catta"
+  },
+  "classificationLabels": [
+    "mammal",
+    "omnivore",
+    "small"
+  ],
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Madagascar"
+  ],
+  "biomes": [
+    "tropical dry forest",
+    "gallery forest",
+    "spiny forest",
+    "scrubland"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "tamarind fruit",
+    "leaves",
+    "flowers",
+    "sap",
+    "insects"
+  ],
+  "lifespan": {
+    "wild": "16 to 19 years",
+    "captivity": "Up to 27 years"
+  },
+  "size": {
+    "lengthMin": "15 inches",
+    "lengthMax": "18 inches",
+    "heightMin": "Tail adds about 24 inches",
+    "heightMax": "Tail adds about 24 inches"
+  },
+  "weight": {
+    "min": "4.5 pounds",
+    "max": "6.6 pounds"
+  },
+  "speed": "Quick and agile climber and runner",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "living in female-led troops",
+    "sunbathing",
+    "scent marking",
+    "stink fights",
+    "spending time on the ground"
+  ],
+  "adaptations": [
+    "long balancing tail",
+    "scent glands",
+    "grippy hands and feet",
+    "keen eyesight",
+    "varied diet"
+  ],
+  "predators": [
+    "fossa",
+    "birds of prey",
+    "snakes"
+  ],
+  "prey": [
+    "insects"
+  ],
+  "reproduction": {
+    "offspringName": "infant",
+    "gestationOrIncubation": "About 135 days",
+    "offspringCount": "Usually 1 infant, sometimes twins"
+  },
+  "funFacts": [
+    "A ring-tailed lemur's tail is longer than its whole body and has 13 black and 13 white rings.",
+    "On cool mornings, lemurs sit up and stretch their arms out to soak up the warm sunshine.",
+    "Male lemurs have 'stink fights,' rubbing smelly scent on their tails and waving them at rivals.",
+    "Ring-tailed lemurs live only on Madagascar and are found nowhere else in the wild.",
+    "Lemur troops are led by a top female, who gets first choice of food and the best resting spots.",
+    "They are one of the most ground-loving lemurs, spending lots of time walking on the forest floor."
+  ],
+  "faq": [
+    {
+      "question": "What is a ring-tailed lemur?",
+      "answer": "A ring-tailed lemur is a cat-sized primate from Madagascar. It is best known for its long, black-and-white ringed tail and for living in lively groups called troops."
+    },
+    {
+      "question": "Where do ring-tailed lemurs live?",
+      "answer": "Ring-tailed lemurs live only on the island of Madagascar, mostly in the dry forests and spiny scrub of the south and southwest. They are found nowhere else in the wild."
+    },
+    {
+      "question": "What do ring-tailed lemurs eat?",
+      "answer": "Ring-tailed lemurs are omnivores. They mostly eat fruit and leaves, especially from tamarind trees, plus flowers, sap, and sometimes insects."
+    },
+    {
+      "question": "Why do lemurs sunbathe?",
+      "answer": "On cool mornings, ring-tailed lemurs sit up and spread their arms to warm their bellies in the sun. It helps them heat up before a busy day of feeding and traveling."
+    },
+    {
+      "question": "Why is a lemur's tail striped?",
+      "answer": "The black-and-white rings make the tail easy to see. Lemurs hold their tails high like flags to help the troop stay together as they move through the forest."
+    },
+    {
+      "question": "Are ring-tailed lemurs endangered?",
+      "answer": "Yes. Ring-tailed lemurs are listed as Endangered because they are losing their forest homes and are sometimes hunted or taken for the pet trade."
+    }
+  ],
+  "relatedAnimals": [
+    "chimpanzee",
+    "gorilla",
+    "orangutan",
+    "mandrill"
+  ],
+  "comparisonCandidates": [
+    "mandrill"
+  ],
+  "galleryIds": [
+    "ring-tailed-lemur-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "forest"
+}

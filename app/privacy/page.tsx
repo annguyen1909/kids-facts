@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import { InfoSection } from "@/components/layout/info-section";
 import { InfoPageShell } from "@/components/layout/info-page-shell";
+import { PrivacySettingsControl } from "@/components/layout/privacy-settings-control";
 import { buildPageMetadata } from "@/lib/metadata";
 import { siteConfig } from "@/lib/site-config";
 
@@ -29,6 +30,7 @@ const toc = [
   { id: "advertising", label: "Advertising" },
   { id: "affiliate", label: "Affiliate links" },
   { id: "third-party", label: "Third-party content" },
+  { id: "privacy-settings", label: "Privacy settings" },
   { id: "use", label: "How we use data" },
   { id: "retention", label: "Data retention" },
   { id: "rights", label: "Your choices" },
@@ -48,7 +50,11 @@ export default function PrivacyPage() {
       tone="light"
       intro={`This policy explains what ${siteConfig.name} collects, how we use it, and the choices you have.`}
       lastUpdated={siteConfig.legalLastUpdated}
-      chips={[{ label: "General audience" }, { label: "Educational site" }]}
+      chips={[
+        { label: "General audience" },
+        { label: "Educational site" },
+        { label: "Privacy settings", href: "#privacy-settings" },
+      ]}
       toc={toc}
     >
       <InfoSection id="overview" icon={ShieldCheck} title="Overview" tone="forest">
@@ -95,8 +101,9 @@ export default function PrivacyPage() {
           <li>prevent fraud and abuse.</li>
         </ul>
         <p>
-          You can control cookies through your browser settings. Blocking cookies may affect how
-          some features work.
+          Non-essential analytics and advertising scripts load only after you accept the consent
+          banner. You can also control cookies through your browser settings. Blocking cookies may
+          affect how some features work.
         </p>
       </InfoSection>
 
@@ -104,7 +111,7 @@ export default function PrivacyPage() {
         <p>
           We may show ads from Google AdSense or similar networks to help support the site. Google
           and its partners may use cookies to serve ads based on your visits to this and other
-          websites.
+          websites, but we defer those ad scripts until you give consent on this site.
         </p>
         <ul>
           <li>
@@ -147,6 +154,15 @@ export default function PrivacyPage() {
           sites we link to (museums, conservation groups, stores) have separate privacy practices.
           We are not responsible for those third-party policies.
         </p>
+      </InfoSection>
+
+      <InfoSection id="privacy-settings" icon={ShieldCheck} title="Privacy settings" tone="warm">
+        <p>
+          You can change your optional analytics and advertising preference here at any time.
+        </p>
+        <div className="mt-4">
+          <PrivacySettingsControl />
+        </div>
       </InfoSection>
 
       <InfoSection id="use" icon={Scale} title="How we use information" tone="sky">

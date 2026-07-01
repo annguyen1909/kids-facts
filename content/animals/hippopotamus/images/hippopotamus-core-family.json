@@ -2,10 +2,10 @@
   "id": "hippopotamus-core-family",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-core-family",
-  "fileName": "Hippopotamus Rwindi 19.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_19.jpg",
-  "width": 2399,
-  "height": 1566,
+  "fileName": "hippopotamus-core-family-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 783,
   "alt": "Hippos gathered together in a river pod",
   "caption": "Pods help hippos share water space, though males can be fiercely territorial.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Rwindi, Democratic Republic of the Congo",
-  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
-  "updatedAt": "2026-06-24T08:02:55.330Z",
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_19.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_19.jpg",
+  "updatedAt": "2026-06-26T19:12:09.438Z",
   "attributionText": "Photo by Ad Meskens via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippopotamus_Rwindi_19.jpg\">Ad Meskens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:12:09.438Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-core-family-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-core-family-01-1200.webp"
   }
 }

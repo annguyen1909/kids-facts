@@ -2,8 +2,8 @@
   "id": "pufferfish-habitat",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-habitat",
-  "fileName": "Arothron meleagris by NPS 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Arothron_meleagris_by_NPS_1.jpg",
+  "fileName": "pufferfish-habitat-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-habitat-01-1200.webp",
   "width": 504,
   "height": 448,
   "alt": "Pufferfish swimming over a tropical coral reef",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated pufferfish habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:10.621Z",
+  "acquisitionNotes": "Manually curated pufferfish habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Arothron_meleagris_by_NPS_1.jpg",
+  "updatedAt": "2026-06-25T15:08:27.364Z",
   "attributionText": "Photo by NPS photo - Bill Eichenlaub via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS_1.jpg\">NPS photo - Bill Eichenlaub</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS_1.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS_1.jpg\">NPS photo - Bill Eichenlaub</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS_1.jpg",
     "creatorName": "NPS photo - Bill Eichenlaub",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Arothron_meleagris_by_NPS_1.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:27.364Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-habitat-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-habitat-01-1200.webp"
   }
 }

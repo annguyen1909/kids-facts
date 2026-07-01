@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Feather of male Pavo cristatus (Indian peafowl).jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Peacock in the wild",
+    "caption": "The Peacock is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Pavo cristatus head001xx.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Peacock navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Pavo cristatus Phasianidae.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Peacock finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Peacock.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Paonroue.JPG",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Peacock showing early development",
+    "caption": "Baby Peacocks must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Pavo cristatus - Maroparque 01.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Peacocks interacting with each other",
+    "caption": "While often solitary, some Peacocks interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Pavo Real Venezolano.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Peacock traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:012 Indian peafowl in Keoladeo National Park Photo by Giles Laurent.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Peacock",
+    "caption": "The size of a Peacock can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:023 Indian peafowl in Jim Corbett National Park Photo by Giles Laurent.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Peacock",
+    "caption": "A close-up view reveals the intricate details of a Peacock's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Portrait of an Indian peafowl.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Peacock showing a unique behavior or adaptation",
+    "caption": "Did you know that the Peacock has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Pfau imponierend.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Peacock navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Pavo cristatus MHNT.ZOO.2010.11.10.4.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Peacock finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Peacock.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Carnavalesco.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Peacocks interacting with each other",
+    "caption": "While often solitary, some Peacocks interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Indian peafowl (Pavo cristatus) female with chick.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Peacock showing early development",
+    "caption": "Baby Peacocks must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:White Peacock, Palmitos Park, May 2018.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Peacock traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

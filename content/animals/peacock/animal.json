@@ -1,0 +1,130 @@
+{
+  "id": "animal-peacock",
+  "slug": "peacock",
+  "name": "Peacock",
+  "commonNames": [
+    "Peacock",
+    "Indian Peafowl",
+    "Blue Peafowl",
+    "Common Peafowl"
+  ],
+  "scientificName": "Pavo cristatus",
+  "summary": "The peacock is one of the most famous and beautiful birds in the world. Known for the male's spectacular train of iridescent blue-green tail feathers covered in colorful eyespots, they use their stunning display to attract peahens and scare off predators.",
+  "heroTitle": "Peacock Facts",
+  "metaTitle": "Peacock Facts | Habitat, Diet, Feathers & Photos",
+  "metaDescription": "Peacock facts for kids with photos, tropical habitat, diet, behavior, and tail feather displays on one easy-to-read page.",
+  "searchIntents": [
+    "peacock facts",
+    "what do peacocks eat",
+    "where do peacocks live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Pavo",
+    "species": "P. cristatus"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "India",
+    "Sri Lanka",
+    "Nepal",
+    "Bangladesh"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "shrubland",
+    "grassland"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "Seeds",
+    "Grains",
+    "Berries",
+    "Insects",
+    "Lizards",
+    "Baby snakes"
+  ],
+  "lifespan": {
+    "wild": "15 to 20 years"
+  },
+  "size": {
+    "lengthMin": "100 cm",
+    "lengthMax": "225 cm"
+  },
+  "weight": {
+    "min": "3 kg",
+    "max": "6 kg"
+  },
+  "speed": "Around 10 mph (16 km/h)",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "tail fan display",
+    "shivering feathers",
+    "roosting in tall trees",
+    "loud calling",
+    "foraging on the ground"
+  ],
+  "adaptations": [
+    "massive colorful tail train",
+    "crest of feathers on head",
+    "sharp spurs on legs for defense",
+    "loud warning calls"
+  ],
+  "predators": [
+    "Tigers",
+    "Leopards",
+    "Wild dogs",
+    "Jackals"
+  ],
+  "prey": [
+    "Insects",
+    "Lizards",
+    "Frogs",
+    "Snakes"
+  ],
+  "reproduction": {
+    "offspringName": "peachick",
+    "gestationOrIncubation": "28 days",
+    "offspringCount": "4 to 8 eggs"
+  },
+  "funFacts": [
+    "Only the males are called peacocks; females are called peahens, and babies are called peachicks. Together they are called peafowl!",
+    "A male peacock's train contains over 150 feathers, each decorated with beautiful eye-like spots called ocelli.",
+    "To attract a female, the peacock shakes his giant fan of feathers, which makes a rustling sound like wind through leaves.",
+    "Despite their huge tails, peacocks are capable of flight—they fly up into tall trees to sleep at night to stay safe from predators.",
+    "Peacocks are famous in India for eating small snakes, even venomous young cobras, making them welcome protectors in villages.",
+    "Their tail feathers shed naturally every year after the breeding season, so no birds are harmed to collect their feathers."
+  ],
+  "faq": [
+    {
+      "question": "What is a peacock?",
+      "answer": "A peacock is a large, colorful bird belonging to the pheasant family. They are famous for their giant tails and bright blue heads and necks."
+    },
+    {
+      "question": "Why do peacocks display their feathers?",
+      "answer": "Male peacocks spread their tail feathers into a large fan to impress female peahens during the breeding season. The peahen chooses a mate based on the size and beauty of his display."
+    },
+    {
+      "question": "Can peacocks fly?",
+      "answer": "Yes, peacocks can fly! Although they spend most of their time walking on the ground, they can fly short distances to escape danger or roost in tall branches at night."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "peacock-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

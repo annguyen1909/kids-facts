@@ -2,10 +2,10 @@
   "id": "zebra-baby",
   "animalSlug": "zebra",
   "slug": "zebra-baby",
-  "fileName": "Equus-quagga-Foal-Kenya.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Equus-quagga-Foal-Kenya.JPG",
-  "width": 2167,
-  "height": 2162,
+  "fileName": "zebra-baby-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1197,
   "alt": "Young zebra foal standing in grass",
   "caption": "A zebra foal can stand shortly after birth and quickly follows the herd.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Kenya",
-  "acquisitionNotes": "Manually curated zebra foal image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Manually curated zebra foal image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Equus-quagga-Foal-Kenya.JPG",
+  "updatedAt": "2026-06-25T15:15:06.134Z",
   "attributionText": "Photo by Bjørn Christian Tørrissen via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus-quagga-Foal-Kenya.JPG\">Bjørn Christian Tørrissen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:06.134Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-baby-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-baby-01-1200.webp"
   }
 }

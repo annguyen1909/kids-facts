@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-core-diet",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-core-diet",
+  "alt": "Coelacanth positioned in a downward hunting drift",
+  "caption": "They often drift head-down in sea currents, using their electrosensory snout to scan the seafloor for hidden prey.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Cleveland Museum of Natural History",
+  "fileName": "coelacanth-core-diet-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 688,
+  "attributionText": "Photo by James St. John via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae_(model)_(coelacanth)_2_(15717251761).jpg\">James St. John</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae_(model)_(coelacanth)_2_(15717251761).jpg",
+    "creatorName": "James St. John",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:14.254Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the coelacanth gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3b/Latimeria_chalumnae_%28model%29_%28coelacanth%29_2_%2815717251761%29.jpg",
+  "updatedAt": "2026-06-29T07:22:14.254Z",
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-core-diet-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-core-diet-01-1200.webp"
+  }
+}

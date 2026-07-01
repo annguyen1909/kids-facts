@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:American bison k5680-1.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "American bison standing in open grassland under a wide sky",
+    "caption": "American bison are huge, shaggy grazers with a humped shoulder and short, curved horns.",
+    "location": "United States"
+  },
+  "habitat": {
+    "fileTitle": "File:American bison in Yellowstone National Park.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "American bison on open grassland in Yellowstone National Park",
+    "caption": "Bison live on the wide grasslands and prairies of North America, like Yellowstone's valleys.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  },
+  "diet": {
+    "fileTitle": "File:Yellowstone National Park (WY, USA), Upper Geyser Basin, Bison -- 2022 -- 2578.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "American bison grazing on grass in Yellowstone",
+    "caption": "Bison are herbivores that spend most of the day eating grasses and other low plants.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  },
+  "baby": {
+    "fileTitle": "File:Bison Calf on a Ridge.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "Reddish-brown American bison calf standing on a grassy ridge",
+    "caption": "Newborn bison calves are orange-red, which is why people nickname them 'red dogs.'",
+    "location": "United States"
+  },
+  "family": {
+    "fileTitle": "File:Bison with calf (32840476796).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Adult American bison standing beside its young calf",
+    "caption": "Mother bison stay close to their calves and raise them inside a large protective herd.",
+    "location": "United States"
+  },
+  "range": {
+    "fileTitle": "File:.American Bison in Hayden Valley.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "Herd of American bison spread across Hayden Valley grassland",
+    "caption": "Once millions roamed North America; today bison live mostly in parks and protected herds.",
+    "location": "Hayden Valley, Yellowstone National Park, USA"
+  },
+  "size": {
+    "fileTitle": "File:Bison bison bison GNP 04.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "Full body side view of a large plains bison bull",
+    "caption": "Bison are North America's biggest land animals, with bulls weighing up to a ton.",
+    "location": "Grasslands National Park, Saskatchewan, Canada"
+  },
+  "closeup": {
+    "fileTitle": "File:Bison head with horns.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of an American bison's head, horns, and shaggy hair",
+    "caption": "A thick mane and curved horns protect the bison's head during pushing contests.",
+    "location": "United States"
+  },
+  "fun-fact": {
+    "fileTitle": "File:A snow-covered bison resting in a winter storm (33335764868).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "American bison covered in snow resting during a winter storm",
+    "caption": "Bison are built for blizzards and swing their huge heads to sweep snow off the grass.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Yellowstone National Park (WY, USA), Old Faithful Geyser (und Bison) -- 2022 -- 2587.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "American bison grazing near the Old Faithful geyser in Yellowstone",
+    "caption": "Grasslands give bison the open space and steady food they need to thrive.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  },
+  "core-diet": {
+    "fileTitle": "File:Bison herd grazing - DPLA - b0483ac8edcd14a4e989973bc99b1b09.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "Herd of American bison grazing across open prairie",
+    "caption": "A grown bison can eat many pounds of grass every day to fuel its huge body.",
+    "location": "United States"
+  },
+  "core-baby": {
+    "fileTitle": "File:Bison calf suckling.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "American bison calf drinking milk from its mother",
+    "caption": "Calves drink their mother's milk for several months before living on grass alone.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  },
+  "core-family": {
+    "fileTitle": "File:Bison bison herd PO.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Group of American bison standing together in a herd",
+    "caption": "Bison are social animals that live in herds, which helps keep the young ones safe.",
+    "location": "Parc Omega, Quebec, Canada"
+  },
+  "core-range": {
+    "fileTitle": "File:Bison walking in the snow near Tower Junction (0d7cef53-54d5-4ae9-83ed-31c122815864).jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "American bison walking through deep snow in winter",
+    "caption": "Bison travel across their range in every season, pushing through deep winter snow.",
+    "location": "Yellowstone National Park, Wyoming, USA"
+  }
+}

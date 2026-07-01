@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-size",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-size",
+  "fileName": "luna-moth-size-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-size-01-1200.webp",
+  "width": 608,
+  "height": 408,
+  "alt": "A photo showing the size of a Luna Moth",
+  "caption": "The size of a Luna Moth can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Underwatercolor via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Luna_Moth_(Actias_Luna)_Full.jpg\">Underwatercolor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luna_Moth_(Actias_Luna)_Full.jpg",
+    "creatorName": "Underwatercolor",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:21.852Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f2/Luna_Moth_%28Actias_Luna%29_Full.jpg",
+  "updatedAt": "2026-06-25T15:02:21.852Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-size-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-size-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-size-01-1200.webp"
+  }
+}

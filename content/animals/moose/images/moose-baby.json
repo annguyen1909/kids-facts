@@ -2,10 +2,10 @@
   "id": "moose-baby",
   "animalSlug": "moose",
   "slug": "moose-baby",
-  "fileName": "Moose calf 0183.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Moose_calf_0183.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "moose-baby-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young moose calf standing in grass",
   "caption": "Moose calves are born in spring and can stand and walk within hours.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated moose calf image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Manually curated moose calf image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Moose_calf_0183.jpg",
+  "updatedAt": "2026-06-25T15:03:21.015Z",
   "attributionText": "Photo by Chris Light via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Moose_calf_0183.jpg\">Chris Light</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:21.015Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-baby-01-400.webp",
+    "original": "/images/animals/moose/web/moose-baby-01-1200.webp"
   }
 }

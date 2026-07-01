@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-core-diet",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-core-diet",
+  "fileName": "honeybee-core-diet-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "Honey bee collecting nectar on a purple thistle flower",
+  "caption": "Bees forage on thistles and other wildflowers to gather food for the colony.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Keila, Estonia",
+  "attributionText": "Photo by Ivar Leidus via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Apis_mellifera_-_Cirsium_arvense_-_Keila.jpg\">Ivar Leidus</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_-_Cirsium_arvense_-_Keila.jpg",
+    "creatorName": "Ivar Leidus",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:16.734Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified honeybee image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Apis_mellifera_-_Cirsium_arvense_-_Keila.jpg",
+  "updatedAt": "2026-06-25T14:58:16.734Z",
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-core-diet-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-core-diet-01-1200.webp"
+  }
+}

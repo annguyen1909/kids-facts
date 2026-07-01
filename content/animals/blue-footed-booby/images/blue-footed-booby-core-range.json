@@ -1,0 +1,38 @@
+{
+  "id": "blue-footed-booby-core-range",
+  "animalSlug": "blue-footed-booby",
+  "slug": "blue-footed-booby-core-range",
+  "alt": "Blue-footed booby gazing out over the open Pacific waters",
+  "caption": "Overfishing of sardine stocks and climate events like El Niño directly impact the reproductive success of booby colonies.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Santa Cruz Island, Galapagos",
+  "fileName": "blue-footed-booby-core-range-01-1200.webp",
+  "src": "/images/animals/blue-footed-booby/web/blue-footed-booby-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_17.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piquero_patiazul_(Sula_nebouxii),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_17.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:01.781Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the blue-footed booby gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/Piquero_patiazul_%28Sula_nebouxii%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_17.jpg",
+  "updatedAt": "2026-06-29T07:23:01.781Z",
+  "srcSet": {
+    "web1200": "/images/animals/blue-footed-booby/web/blue-footed-booby-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-footed-booby/thumbnails/blue-footed-booby-core-range-01-400.webp",
+    "original": "/images/animals/blue-footed-booby/web/blue-footed-booby-core-range-01-1200.webp"
+  }
+}

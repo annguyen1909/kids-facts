@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Dynastes hercules ecuatorianus MHNT.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Hercules Beetle in the wild",
+    "caption": "The Hercules Beetle is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Dynastes hercules (female).jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Hercules Beetle navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules), Entomica.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Hercules Beetle finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Hercules Beetle.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Dynastes hercules hercules01.JPG",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Hercules Beetle showing early development",
+    "caption": "Baby Hercules Beetles must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Dynastes hercules (male).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Hercules Beetles interacting with each other",
+    "caption": "While often solitary, some Hercules Beetles interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Dynastes hercules distribution map.png",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Hercules Beetle traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules).jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Hercules Beetle",
+    "caption": "The size of a Hercules Beetle can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules) - (2).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Hercules Beetle",
+    "caption": "A close-up view reveals the intricate details of a Hercules Beetle's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules) - (1).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Hercules Beetle showing a unique behavior or adaptation",
+    "caption": "Did you know that the Hercules Beetle has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Dynastes hercules.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Hercules Beetle navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules) - 24 July 2010.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Hercules Beetle finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Hercules Beetle.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules) - 30 May 2011.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Hercules Beetles interacting with each other",
+    "caption": "While often solitary, some Hercules Beetles interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Iz - Dynastes hercules - 1.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Hercules Beetle showing early development",
+    "caption": "Baby Hercules Beetles must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Hercules beetle (Dynastes hercules) - 30 May 2011.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Hercules Beetle traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

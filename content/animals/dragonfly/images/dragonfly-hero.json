@@ -1,0 +1,38 @@
+{
+  "id": "dragonfly-hero",
+  "animalSlug": "dragonfly",
+  "slug": "dragonfly-hero",
+  "fileName": "dragonfly-hero-01-1200.webp",
+  "src": "/images/animals/dragonfly/web/dragonfly-hero-01-1200.webp",
+  "width": 1200,
+  "height": 920,
+  "alt": "A beautiful portrait of a Emperor Dragonfly in the wild",
+  "caption": "The Emperor Dragonfly is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Quartl via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg\">Quartl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anax_imperator_qtl2.jpg",
+    "creatorName": "Quartl",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:52:11.566Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified dragonfly image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Anax_imperator_qtl2.jpg",
+  "updatedAt": "2026-06-25T14:52:11.566Z",
+  "srcSet": {
+    "web1200": "/images/animals/dragonfly/web/dragonfly-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/dragonfly/thumbnails/dragonfly-hero-01-400.webp",
+    "original": "/images/animals/dragonfly/web/dragonfly-hero-01-1200.webp"
+  }
+}

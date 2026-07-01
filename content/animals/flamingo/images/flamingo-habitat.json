@@ -2,10 +2,10 @@
   "id": "flamingo-habitat",
   "animalSlug": "flamingo",
   "slug": "flamingo-habitat",
-  "fileName": "American flamingos (Phoenicopterus ruber) Cu.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/American_flamingos_%28Phoenicopterus_ruber%29_Cu.jpg",
-  "width": 5439,
-  "height": 3060,
+  "fileName": "flamingo-habitat-01-1200.webp",
+  "src": "/images/animals/flamingo/web/flamingo-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Flock of American flamingos wading in a shallow lagoon",
   "caption": "Flamingos live in shallow lakes, lagoons, and coastal mudflats.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Caribbean",
-  "acquisitionNotes": "Manually curated flamingo habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "acquisitionNotes": "Manually curated flamingo habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d0/American_flamingos_%28Phoenicopterus_ruber%29_Cu.jpg",
+  "updatedAt": "2026-06-25T14:53:26.240Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:American_flamingos_(Phoenicopterus_ruber)_Cu.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:26.240Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-habitat-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-habitat-01-1200.webp"
   }
 }

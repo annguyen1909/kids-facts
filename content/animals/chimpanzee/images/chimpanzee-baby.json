@@ -2,8 +2,8 @@
   "id": "chimpanzee-baby",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-baby",
-  "fileName": "Playing baby Chimpanzee - Uganda Wildlife Conservation Centre.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Playing_baby_Chimpanzee_-_Uganda_Wildlife_Conservation_Centre.jpg",
+  "fileName": "chimpanzee-baby-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-baby-01-1200.webp",
   "width": 810,
   "height": 1080,
   "alt": "Young chimpanzee playing on the ground",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Uganda",
-  "acquisitionNotes": "Manually curated chimpanzee infant image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Manually curated chimpanzee infant image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Playing_baby_Chimpanzee_-_Uganda_Wildlife_Conservation_Centre.jpg",
+  "updatedAt": "2026-06-25T14:50:27.079Z",
   "attributionText": "Photo by Elisha Muwanguzi via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Playing_baby_Chimpanzee_-_Uganda_Wildlife_Conservation_Centre.jpg\">Elisha Muwanguzi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:27.079Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-baby-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-baby-01-1200.webp"
   }
 }

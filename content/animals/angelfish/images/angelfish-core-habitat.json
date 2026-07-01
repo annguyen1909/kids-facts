@@ -2,10 +2,10 @@
   "id": "angelfish-core-habitat",
   "animalSlug": "angelfish",
   "slug": "angelfish-core-habitat",
-  "fileName": "Pez ángel emperador (Pomacanthus imperator), islas Ad Dimaniyat, Omán, 2024-08-14, DD 56.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-14%2C_DD_56.jpg",
-  "width": 5094,
-  "height": 5094,
+  "fileName": "angelfish-core-habitat-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Emperor angelfish on a healthy coral reef",
   "caption": "Healthy reefs with sponges and algae give angelfish food and shelter.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Ad Dimaniyat Islands, Oman",
-  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set.",
-  "updatedAt": "2026-06-24T10:39:20.375Z",
+  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Pez_%C3%A1ngel_emperador_%28Pomacanthus_imperator%29%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-14%2C_DD_56.jpg",
+  "updatedAt": "2026-06-25T14:48:49.529Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-14%2C_DD_56.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-14,_DD_56.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator)%2C_islas_Ad_Dimaniyat%2C_Om%C3%A1n%2C_2024-08-14%2C_DD_56.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_%C3%A1ngel_emperador_(Pomacanthus_imperator),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-14,_DD_56.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:49.529Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-core-habitat-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-core-habitat-01-1200.webp"
   }
 }

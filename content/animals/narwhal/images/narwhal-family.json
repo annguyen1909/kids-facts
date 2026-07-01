@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-family",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-family",
+  "fileName": "narwhal-family-01-1200.webp",
+  "alt": "A pod of narwhals near the ice edge in their Arctic home",
+  "caption": "Narwhals are social animals that migrate in pods of up to twenty individuals through ice leads and channels.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Baffin Bay, Arctic Ocean",
+  "src": "/images/animals/narwhal/web/narwhal-family-01-1200.webp",
+  "width": 1200,
+  "height": 1019,
+  "attributionText": "Photo by Ansgar Walk via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Narwhals_1997-08-01.jpg\">Ansgar Walk</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narwhals_1997-08-01.jpg",
+    "creatorName": "Ansgar Walk",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:06:07.763Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Narwhals_1997-08-01.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Narwhals_1997-08-01.jpg",
+  "updatedAt": "2026-06-26T19:06:07.763Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-family-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-family-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-family-01-1200.webp"
+  }
+}

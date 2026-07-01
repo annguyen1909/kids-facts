@@ -2,12 +2,12 @@
   "id": "chameleon-baby",
   "animalSlug": "chameleon",
   "slug": "chameleon-baby",
-  "fileName": "Washington DC Zoo - Chamaeleo calyptratus - 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg",
-  "width": 2716,
-  "height": 1825,
-  "alt": "Young veiled chameleon on a branch",
-  "caption": "Baby chameleons hatch from eggs and can climb soon after birth.",
+  "fileName": "chameleon-baby-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-baby-01-1200.webp",
+  "width": 1200,
+  "height": 806,
+  "alt": "A tiny baby chameleon perching on a branch in its natural habitat",
+  "caption": "Baby chameleons hatch fully independent and immediately begin hunting small insects.",
   "attributionText": "Photo by Jarek Tuszyński via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg\">Jarek Tuszyński</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:52.871Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Washington, D.C., USA",
-  "acquisitionNotes": "Manually curated young chameleon image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:20.803Z"
+  "acquisitionNotes": "Manually curated young chameleon image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ae/Washington_DC_Zoo_-_Chamaeleo_calyptratus_-_1.jpg",
+  "updatedAt": "2026-06-25T14:49:52.871Z",
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-baby-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-baby-01-1200.webp"
+  }
 }

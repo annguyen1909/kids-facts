@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-core-baby",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-core-baby",
+  "alt": "Illustration representing juvenile fish development stages",
+  "caption": "Female sunfish can produce up to 300 million tiny eggs at a time—more than any other known vertebrate.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "FWS archive",
+  "fileName": "ocean-sunfish-core-baby-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1040,
+  "attributionText": "Photo by Timothy Knepp - U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Redear_sunfish_FWS_1.jpg\">Timothy Knepp - U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Redear_sunfish_FWS_1.jpg",
+    "creatorName": "Timothy Knepp - U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T07:22:35.869Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the ocean sunfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/Redear_sunfish_FWS_1.jpg",
+  "updatedAt": "2026-06-29T07:22:35.869Z",
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-core-baby-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-baby-01-1200.webp"
+  }
+}

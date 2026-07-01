@@ -1,0 +1,157 @@
+{
+  "id": "animal-secretarybird",
+  "slug": "secretarybird",
+  "name": "Secretarybird",
+  "commonNames": [
+    "Secretarybird",
+    "Secretary Bird",
+    "Marching Eagle"
+  ],
+  "scientificName": "Sagittarius serpentarius",
+  "summary": "The secretarybird is a spectacular, long-legged terrestrial bird of prey endemic to the savannas and grasslands of sub-Saharan Africa. World-famous for its crane-like legs, black quill-like crest feathers, and blindingly fast, bone-breaking kicks, it strides across the African plains to hunt snakes, lizards, and insects.",
+  "heroTitle": "Secretarybird Facts",
+  "metaTitle": "Secretarybird Facts | Savanna Habitat, Snake Diet & Photos",
+  "metaDescription": "Explore secretarybird facts with high-quality photos, African savanna habitat, venomous snake diet, powerful stomping behavior, and life cycle info.",
+  "searchIntents": [
+    "secretarybird facts",
+    "secretary bird stomping snake",
+    "what do secretary birds eat",
+    "where do secretary birds live",
+    "how strong is a secretary bird kick",
+    "why are secretary birds endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Sagittariidae",
+    "genus": "Sagittarius",
+    "species": "S. serpentarius"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "large"
+  ],
+  "habitat": "savanna",
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "South Africa",
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Botswana",
+    "Zimbabwe",
+    "Zambia",
+    "Ethiopia",
+    "Senegal",
+    "Somalia"
+  ],
+  "biomes": [
+    "savanna grassland",
+    "open shrubland",
+    "semi-arid plains"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "venomous snakes",
+    "lizards",
+    "locusts",
+    "grasshoppers",
+    "small rodents",
+    "bird eggs"
+  ],
+  "lifespan": {
+    "wild": "12 to 18 years",
+    "captivity": "Up to 19 years"
+  },
+  "size": {
+    "lengthMin": "4.1 feet",
+    "lengthMax": "4.9 feet"
+  },
+  "weight": {
+    "min": "7 pounds",
+    "max": "10 pounds"
+  },
+  "speed": "Fast terrestrial walker (can walk 20+ miles a day) and powerful soarer in flight",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "blindingly fast stomping",
+    "daily terrestrial striding",
+    "monogamous pairing",
+    "tree canopy nesting",
+    "opportunistic flushing"
+  ],
+  "adaptations": [
+    "powerful crane-like legs for delivering 5x bodyweight kicks",
+    "thick scales on lower legs to protect against snakebites",
+    "quill-like crest feathers for territorial display",
+    "large wingspan for soaring on thermals",
+    "highly acute binocular vision for spotting prey in grass"
+  ],
+  "predators": [
+    "crows and hornbills (predators of eggs/chicks)",
+    "leopards (predators of chicks in nests)"
+  ],
+  "prey": [
+    "puff adders",
+    "cobras",
+    "large locusts",
+    "monitor lizards",
+    "rodents"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for 42 to 46 days",
+    "offspringCount": "1 to 3 eggs per clutch (reared in a large acacia tree nest)"
+  },
+  "funFacts": [
+    "A secretarybird can deliver a blindingly fast kick with a force equivalent to five times its own bodyweight, making contact in just 15 milliseconds—faster than the blink of an eye.",
+    "Their common name is widely believed to originate from the long black crest feathers, which resemble the quill pens 19th-century bank clerks tucked behind their ears.",
+    "Unlike almost all other ground-dwelling birds, secretarybirds construct massive stick nests high up in the thorny crowns of acacia trees to keep their eggs and chicks perfectly safe from ground predators.",
+    "They are exceptionally active terrestrial hunters, frequently walking over 20 to 30 kilometers (12 to 18 miles) across the savanna in a single day.",
+    "Their lower legs are covered in thick, heavily modified scales that act as natural armor plates, protecting them from the venomous fangs of cobras and adders during battle.",
+    "The secretarybird is a revered cultural symbol in Africa, appearing prominently on the national coats of arms of both South Africa and Sudan."
+  ],
+  "faq": [
+    {
+      "question": "What is a secretarybird?",
+      "answer": "The secretarybird is a large, instantly recognizable terrestrial bird of prey endemic to Africa, distinguished by its eagle-like body, crane-like legs, and elegant black crest."
+    },
+    {
+      "question": "Where do secretarybirds live?",
+      "answer": "They inhabit the open grasslands, savannas, and scrublands of sub-Saharan Africa, ranging from Senegal to Somalia and south to South Africa."
+    },
+    {
+      "question": "What do secretarybirds eat?",
+      "answer": "They are active carnivores whose diet includes large insects like locusts and grasshoppers, lizards, small mammals, and famously, venomous snakes such as cobras and puff adders."
+    },
+    {
+      "question": "How hard can a secretarybird kick?",
+      "answer": "Incredibly hard; their legs can snap down with over five times their bodyweight in physical force, instantly breaking the spine or crushing the skull of tough reptilian prey."
+    },
+    {
+      "question": "Can secretarybirds fly?",
+      "answer": "Yes, despite spending almost their entire day walking and hunting on the ground, secretarybirds are powerful fliers and frequently soar on thermal currents with their long legs trailing behind."
+    },
+    {
+      "question": "Why are secretarybirds endangered?",
+      "answer": "They are currently listed as Endangered due to widespread habitat loss, the conversion of pristine savannas into farmland, severe overgrazing, and direct collisions with power lines."
+    }
+  ],
+  "relatedAnimals": [
+    "harpy-eagle",
+    "peregrine-falcon",
+    "ostrich"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "secretarybird-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

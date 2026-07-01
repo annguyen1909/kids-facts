@@ -2,8 +2,8 @@
   "id": "wolf-baby",
   "animalSlug": "wolf",
   "slug": "wolf-baby",
-  "fileName": "Wolf cub (5062848622).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Wolf_cub_%285062848622%29.jpg",
+  "fileName": "wolf-baby-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-baby-01-1200.webp",
   "width": 379,
   "height": 250,
   "alt": "Young wolf cub resting near den entrance",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually curated wolf cub image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Manually curated wolf cub image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/89/Wolf_cub_%285062848622%29.jpg",
+  "updatedAt": "2026-06-25T15:14:42.460Z",
   "attributionText": "Photo by Superior National Forest via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Wolf_cub_(5062848622).jpg\">Superior National Forest</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:42.460Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-baby-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-baby-01-1200.webp"
   }
 }

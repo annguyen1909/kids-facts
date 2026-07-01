@@ -1,0 +1,38 @@
+{
+  "id": "swan-hero",
+  "animalSlug": "swan",
+  "slug": "swan-hero",
+  "fileName": "swan-hero-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Young mute swan head and neck in close-up",
+  "caption": "Young mute swans are gray-brown before they molt into the white plumage of adults.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Gzen92 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cygne_tubercul%C3%A9_juv%C3%A9nile_(Cygnus_olor)_-_t%C3%AAte_(1).jpg\">Gzen92</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cygne_tubercul%C3%A9_juv%C3%A9nile_(Cygnus_olor)_-_t%C3%AAte_(1).jpg",
+    "creatorName": "Gzen92",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:20.152Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8d/Cygne_tubercul%C3%A9_juv%C3%A9nile_%28Cygnus_olor%29_-_t%C3%AAte_%281%29.jpg",
+  "updatedAt": "2026-06-25T15:12:20.152Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-hero-01-400.webp",
+    "original": "/images/animals/swan/web/swan-hero-01-1200.webp"
+  }
+}

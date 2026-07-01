@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-closeup",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-closeup",
+  "fileName": "honeybee-closeup-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 948,
+  "alt": "Extreme close-up of a honey bee's head, compound eyes, and mouthparts extracting nectar",
+  "caption": "A bee's hairy head features two large compound eyes that can see ultraviolet light.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Italy",
+  "acquisitionNotes": "Manually verified honeybee image for closeup. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/European_honey_bee_extracts_nectar.jpg",
+  "updatedAt": "2026-06-25T14:58:14.690Z",
+  "attributionText": "Photo by John Severns ( Severnjc ) via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:European_honey_bee_extracts_nectar.jpg\">John Severns ( Severnjc )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_honey_bee_extracts_nectar.jpg",
+    "creatorName": "John Severns ( Severnjc )",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:58:14.690Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-closeup-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-closeup-01-1200.webp"
+  }
+}

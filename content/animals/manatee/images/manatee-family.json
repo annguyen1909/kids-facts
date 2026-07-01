@@ -1,0 +1,38 @@
+{
+  "id": "manatee-family",
+  "animalSlug": "manatee",
+  "slug": "manatee-family",
+  "fileName": "manatee-family-01-1200.webp",
+  "alt": "West Indian manatee eating seagrass on a shallow seafloor",
+  "caption": "Manatees use flexible lips to grab seagrass and other soft water plants.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Florida, USA",
+  "src": "/images/animals/manatee/web/manatee-family-01-1200.webp",
+  "width": 732,
+  "height": 482,
+  "attributionText": "Photo by U.S. Geological Survey from Reston, VA, USA via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manatees_(15710472722).jpg\">U.S. Geological Survey from Reston, VA, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manatees_(15710472722).jpg",
+    "creatorName": "U.S. Geological Survey from Reston, VA, USA",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:27.500Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/Manatees_%2815710472722%29.jpg",
+  "updatedAt": "2026-06-26T08:16:27.500Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-family-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-family-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-family-01-1200.webp"
+  }
+}

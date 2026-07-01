@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-baby",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-baby",
+  "fileName": "leafy-seadragon-baby-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-baby-01-1200.webp",
+  "width": 572,
+  "height": 420,
+  "alt": "Young juvenile leafy seadragon navigating the underwater flora",
+  "caption": "Baby seadragons hatch completely independent and immediately begin hunting minuscule zooplankton in the seagrass.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kelp display",
+  "acquisitionNotes": "Manually curated juvenile leafy seadragon image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Leafydragon.jpg",
+  "updatedAt": "2026-06-29T07:23:11.527Z",
+  "attributionText": "Photo by Wendy Rathey via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leafydragon.jpg\">Wendy Rathey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leafydragon.jpg",
+    "creatorName": "Wendy Rathey",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:11.527Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-baby-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-baby-01-1200.webp"
+  }
+}

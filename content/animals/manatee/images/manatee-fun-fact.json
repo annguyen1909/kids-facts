@@ -1,0 +1,38 @@
+{
+  "id": "manatee-fun-fact",
+  "animalSlug": "manatee",
+  "slug": "manatee-fun-fact",
+  "fileName": "manatee-fun-fact-01-1200.webp",
+  "alt": "A Manatee showing a unique behavior or adaptation",
+  "caption": "Did you know that the Manatee has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 960,
+  "attributionText": "Photo by Saliva Jorge E, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Trichechus_manatus_manatus_antilean_mantage_animal.jpg\">Saliva Jorge E, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trichechus_manatus_manatus_antilean_mantage_animal.jpg",
+    "creatorName": "Saliva Jorge E, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:27.793Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Trichechus_manatus_manatus_antilean_mantage_animal.jpg",
+  "updatedAt": "2026-06-26T08:16:27.793Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-fun-fact-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-fun-fact-01-1200.webp"
+  }
+}

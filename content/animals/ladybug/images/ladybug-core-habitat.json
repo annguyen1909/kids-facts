@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-core-habitat",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-core-habitat",
+  "fileName": "ladybug-core-habitat-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "A ladybug resting on a green leaf in a meadow",
+  "caption": "Gardens and farms with flowering plants are ideal habitats for ladybugs.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Germany",
+  "attributionText": "Photo by Flocci Nivis via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:20220623_Coccinella_septempunctata.jpg\">Flocci Nivis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20220623_Coccinella_septempunctata.jpg",
+    "creatorName": "Flocci Nivis",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:27.835Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9b/20220623_Coccinella_septempunctata.jpg",
+  "updatedAt": "2026-06-25T15:00:27.835Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-core-habitat-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-core-habitat-01-1200.webp"
+  }
+}

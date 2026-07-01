@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-habitat",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-habitat",
+  "fileName": "cassowary-habitat-01-1200.webp",
+  "alt": "A Southern Cassowary in its natural tropical rainforest habitat",
+  "caption": "Dense tropical rainforests and swamp forests provide the ideal cover and food resources for Southern Cassowaries.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Queensland, Australia",
+  "src": "/images/animals/cassowary/web/cassowary-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 959,
+  "attributionText": "Photo by Dave Kimble via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Southern_Cassowary_in_rainforest.jpg\">Dave Kimble</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_in_rainforest.jpg",
+    "creatorName": "Dave Kimble",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:15:59.349Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e1/Southern_Cassowary_in_rainforest.jpg",
+  "updatedAt": "2026-06-26T08:15:59.349Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-habitat-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-habitat-01-1200.webp"
+  }
+}

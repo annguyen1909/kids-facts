@@ -2,10 +2,10 @@
   "id": "fox-habitat",
   "animalSlug": "fox",
   "slug": "fox-habitat",
-  "fileName": "Portrait of a red fox in Rautas fjällurskog.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
-  "width": 5568,
-  "height": 3712,
+  "fileName": "fox-habitat-01-1200.webp",
+  "src": "/images/animals/fox/web/fox-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red fox in boreal forest habitat",
   "caption": "Red foxes live in forests, grasslands, farms, and even city edges.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Rautas fjällurskog, Sweden",
-  "acquisitionNotes": "Manually curated fox habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "acquisitionNotes": "Manually curated fox habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+  "updatedAt": "2026-06-25T14:53:51.075Z",
   "attributionText": "Photo by ClaudiaTen via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg\">ClaudiaTen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:54.051Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:51.075Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/fox/web/fox-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/fox/thumbnails/fox-habitat-01-400.webp",
+    "original": "/images/animals/fox/web/fox-habitat-01-1200.webp"
   }
 }

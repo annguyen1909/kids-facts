@@ -2,10 +2,10 @@
   "id": "kangaroo-family",
   "animalSlug": "kangaroo",
   "slug": "kangaroo-family",
-  "fileName": "Macropus rufus Boulia Wildlife Haven Herbert St Boulia Queensland P1060899.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060899.jpg",
-  "width": 4000,
-  "height": 3000,
+  "fileName": "kangaroo-family-01-1200.webp",
+  "src": "/images/animals/kangaroo/web/kangaroo-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Red kangaroo mother with joey in outback setting",
   "caption": "Female kangaroos carry and nurse joeys in a front pouch.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Boulia, Queensland, Australia",
-  "acquisitionNotes": "Manually curated kangaroo family image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:10.468Z",
+  "acquisitionNotes": "Manually curated kangaroo family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/14/Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060899.jpg",
+  "updatedAt": "2026-06-25T14:59:05.142Z",
   "attributionText": "Photo by John Robert McPherson via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Macropus_rufus_Boulia_Wildlife_Haven_Herbert_St_Boulia_Queensland_P1060899.jpg\">John Robert McPherson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:10.468Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:05.142Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kangaroo/web/kangaroo-family-01-1200.webp",
+    "thumbnail400": "/images/animals/kangaroo/thumbnails/kangaroo-family-01-400.webp",
+    "original": "/images/animals/kangaroo/web/kangaroo-family-01-1200.webp"
   }
 }

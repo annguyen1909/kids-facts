@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-core-baby",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-core-baby",
+  "alt": "Juvenile shoebill developing its mature grey feathers",
+  "caption": "Young shoebills have darker plumage that slowly turns bluish-grey as they mature.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Weltvogelpark Walsrode",
+  "fileName": "shoebill-core-baby-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1675,
+  "attributionText": "Photo by Quartl via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_qtl1.jpg\">Quartl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_qtl1.jpg",
+    "creatorName": "Quartl",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:21:57.699Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the shoebill gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Balaeniceps_rex_qtl1.jpg",
+  "updatedAt": "2026-06-29T07:21:57.699Z",
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-core-baby-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-core-baby-01-1200.webp"
+  }
+}

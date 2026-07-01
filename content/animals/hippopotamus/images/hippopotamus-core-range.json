@@ -2,10 +2,10 @@
   "id": "hippopotamus-core-range",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-core-range",
-  "fileName": "Hippopotamus amphibius Whipsnade Zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Hippopotamus_amphibius_Whipsnade_Zoo.jpg",
-  "width": 3475,
-  "height": 2180,
+  "fileName": "hippopotamus-core-range-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 753,
   "alt": "Hippopotamus on land showing its heavy body and short legs",
   "caption": "Hippos are listed as Vulnerable because hunting and habitat loss reduced their numbers.",
   "attributionText": "Photo by William Warby via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:03.408Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Whipsnade Zoo, England",
-  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8b/Hippopotamus_amphibius_Whipsnade_Zoo.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8b/Hippopotamus_amphibius_Whipsnade_Zoo.jpg",
+  "updatedAt": "2026-06-26T19:13:03.408Z",
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-core-range-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-core-range-01-1200.webp"
+  }
 }

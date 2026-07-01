@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-hero",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-hero",
+  "fileName": "monarch-butterfly-hero-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1333,
+  "alt": "Monarch butterfly showing orange and black wings resting on a pink zinnia flower",
+  "caption": "Monarch butterflies are famous for their orange wings with black borders and white spots.",
+  "attributionText": "Photo by Photo (c)2006 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Pink_Zinnia_1800px.jpg\">Photo (c)2006 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Pink_Zinnia_1800px.jpg",
+    "creatorName": "Photo (c)2006 Derek Ramsey ( Ram-Man )",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:18.263Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified monarch butterfly image for hero. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b9/Monarch_Butterfly_Pink_Zinnia_1800px.jpg",
+  "updatedAt": "2026-06-25T15:03:18.263Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-hero-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-hero-01-1200.webp"
+  }
+}

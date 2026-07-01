@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-core-baby",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-core-baby",
+  "fileName": "narwhal-core-baby-01-1200.webp",
+  "alt": "A young or baby Narwhal showing early development",
+  "caption": "Baby Narwhals must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Emőke Dénes via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Em_-_Monodon_monoceros_-_5.jpg\">Emőke Dénes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Em_-_Monodon_monoceros_-_5.jpg",
+    "creatorName": "Emőke Dénes",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:06:03.281Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Em_-_Monodon_monoceros_-_5.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Em_-_Monodon_monoceros_-_5.jpg",
+  "updatedAt": "2026-06-26T19:06:03.281Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-core-baby-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-core-baby-01-1200.webp"
+  }
+}

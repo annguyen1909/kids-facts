@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-core-range",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-core-range",
+  "alt": "Banded archerfish swimming beautifully in crystal-clear water",
+  "caption": "Protecting vulnerable mangrove estuaries from coastal development and pollution is vital to ensure the long-term thriving of wild archerfish populations.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Aquarium display",
+  "fileName": "archerfish-core-range-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 857,
+  "attributionText": "Photo by Chrumps via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix.jpg\">Chrumps</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix.jpg",
+    "creatorName": "Chrumps",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:49.620Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Pristine 2800x2000 core conservation wrap-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Toxotes_jaculatrix.jpg",
+  "updatedAt": "2026-06-29T11:54:49.620Z",
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-core-range-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-core-range-01-1200.webp"
+  }
+}

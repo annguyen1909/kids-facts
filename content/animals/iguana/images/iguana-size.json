@@ -1,0 +1,38 @@
+{
+  "id": "iguana-size",
+  "animalSlug": "iguana",
+  "slug": "iguana-size",
+  "fileName": "iguana-size-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-size-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "alt": "A photo showing the size of a Green Iguana",
+  "caption": "The size of a Green Iguana can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Wilfredor via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Endangered_species_Iguana_Iguana_from_Margarita_Island.jpg\">Wilfredor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Endangered_species_Iguana_Iguana_from_Margarita_Island.jpg",
+    "creatorName": "Wilfredor",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:58:55.378Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for size. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e7/Endangered_species_Iguana_Iguana_from_Margarita_Island.jpg",
+  "updatedAt": "2026-06-25T14:58:55.378Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-size-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-size-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-size-01-1200.webp"
+  }
+}

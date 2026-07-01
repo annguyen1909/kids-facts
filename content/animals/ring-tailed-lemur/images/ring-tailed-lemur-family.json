@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-family",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-family",
+  "fileName": "ring-tailed-lemur-family-01-1200.webp",
+  "alt": "Group of ring-tailed lemurs resting close together",
+  "caption": "Ring-tailed lemurs live in big groups called troops, often led by a top female.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Daniel Ramirez from Honolulu, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Group_of_Ring_Tailed_Lemurs_(9165212564).jpg\">Daniel Ramirez from Honolulu, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Group_of_Ring_Tailed_Lemurs_(9165212564).jpg",
+    "creatorName": "Daniel Ramirez from Honolulu, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:15.027Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e6/Group_of_Ring_Tailed_Lemurs_%289165212564%29.jpg",
+  "updatedAt": "2026-06-28T09:59:15.027Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-family-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-family-01-1200.webp"
+  }
+}

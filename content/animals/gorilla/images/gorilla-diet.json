@@ -2,10 +2,10 @@
   "id": "gorilla-diet",
   "animalSlug": "gorilla",
   "slug": "gorilla-diet",
-  "fileName": "Western lowland gorilla (Gorilla gorilla gorilla) closeup eating.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Western_lowland_gorilla_%28Gorilla_gorilla_gorilla%29_closeup_eating.jpg",
-  "width": 2048,
-  "height": 1365,
+  "fileName": "gorilla-diet-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Western lowland gorilla chewing leaves and stems",
   "caption": "Gorillas are mostly herbivores that eat leaves, stems, fruit, and shoots.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla diet image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Manually curated gorilla diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f2/Western_lowland_gorilla_%28Gorilla_gorilla_gorilla%29_closeup_eating.jpg",
+  "updatedAt": "2026-06-25T14:56:14.646Z",
   "attributionText": "Photo by Jackhynes via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_(Gorilla_gorilla_gorilla)_closeup_eating.jpg\">Jackhynes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:14.646Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-diet-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-diet-01-1200.webp"
   }
 }

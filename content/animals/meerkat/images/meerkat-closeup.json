@@ -2,23 +2,23 @@
   "id": "meerkat-closeup",
   "animalSlug": "meerkat",
   "slug": "meerkat-closeup",
-  "fileName": "Meerkat portrait looking sunset.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Meerkat_portrait_looking_sunset.jpg",
-  "width": 9000,
-  "height": 6000,
+  "fileName": "meerkat-closeup-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up of a meerkat face with dark eye patches",
   "caption": "Dark eye patches may help reduce sun glare while meerkats scan for danger.",
   "attributionText": "Photo by Joselodos via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Meerkat_portrait_looking_sunset.jpg\">Joselodos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Meerkat_portrait_looking_sunset.jpg\">Joselodos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meerkat_portrait_looking_sunset.jpg",
     "creatorName": "Joselodos",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:02:51.156Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Manually curated meerkat close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Manually curated meerkat close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f0/Meerkat_portrait_looking_sunset.jpg",
+  "updatedAt": "2026-06-25T15:02:51.156Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-closeup-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-closeup-01-1200.webp"
+  }
 }

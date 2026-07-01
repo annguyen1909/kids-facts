@@ -2,10 +2,10 @@
   "id": "sloth-family",
   "animalSlug": "sloth",
   "slug": "sloth-family",
-  "fileName": "Mother and baby sloth crossing the road.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Mother_and_baby_sloth_crossing_the_road.jpg",
-  "width": 4096,
-  "height": 2304,
+  "fileName": "sloth-family-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-family-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Mother sloth with baby moving slowly along a branch",
   "caption": "Mother sloths carry infants through the canopy until young sloths can climb alone.",
   "attributionText": "Photo by Syedidia via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:29.045Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated sloth family image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z"
+  "acquisitionNotes": "Manually curated sloth family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e2/Mother_and_baby_sloth_crossing_the_road.jpg",
+  "updatedAt": "2026-06-25T15:11:29.045Z",
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-family-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-family-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-family-01-1200.webp"
+  }
 }

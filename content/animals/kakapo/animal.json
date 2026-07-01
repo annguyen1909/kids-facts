@@ -1,0 +1,145 @@
+{
+  "id": "animal-kakapo",
+  "slug": "kakapo",
+  "name": "Kakapo",
+  "commonNames": [
+    "Kakapo",
+    "Night Parrot",
+    "Owl Parrot"
+  ],
+  "scientificName": "Strigops habroptilus",
+  "summary": "The kakapo is a critically endangered, nocturnal, flightless parrot endemic to New Zealand. Famous for its heavy build, moss-green camouflage, owl-like facial disc, and charismatic personality, it represents a unique evolutionary marvel preserved in protected island sanctuaries.",
+  "heroTitle": "Kakapo Facts",
+  "metaTitle": "Kakapo Facts | Flightless Night Parrot Habitat, Diet & Photos",
+  "metaDescription": "Explore kakapo facts with high-quality photos, New Zealand forest habitat, herbivorous diet, unique lek breeding behavior, and conservation updates.",
+  "searchIntents": [
+    "kakapo facts",
+    "what do kakapo eat",
+    "where do kakapo live",
+    "are kakapo flightless",
+    "sirocco the kakapo",
+    "why are kakapo endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Psittaciformes",
+    "family": "Strigopidae",
+    "genus": "Strigops",
+    "species": "S. habroptilus"
+  },
+  "classificationLabels": [
+    "bird",
+    "herbivore",
+    "flightless"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "Oceania"
+  ],
+  "countries": [
+    "New Zealand"
+  ],
+  "biomes": [
+    "temperate rainforest",
+    "coastal scrubland",
+    "island sanctuary"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "rimu fruit",
+    "poroporo fruit",
+    "fern roots",
+    "bark",
+    "leaves",
+    "seeds"
+  ],
+  "lifespan": {
+    "wild": "60 to 90+ years",
+    "captivity": "Up to 90+ years"
+  },
+  "size": {
+    "lengthMin": "1.9 feet",
+    "lengthMax": "2.1 feet"
+  },
+  "weight": {
+    "min": "4 pounds",
+    "max": "9 pounds"
+  },
+  "speed": "Flightless; skilled runner and powerful tree climber",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "nocturnal foraging",
+    "lek booming",
+    "tree climbing",
+    "freezing for camouflage",
+    "solitary living"
+  ],
+  "adaptations": [
+    "flightless heavy body",
+    "moss-green camouflage plumage",
+    "owl-like facial disc with sensitive whiskers",
+    "massive powerful climbing feet",
+    "low metabolic rate for longevity"
+  ],
+  "predators": [
+    "stoats",
+    "cats",
+    "ferrets",
+    "rats",
+    "dogs"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for about 30 days",
+    "offspringCount": "1 to 4 eggs per clutch (breeding occurs only during rimu mast years)"
+  },
+  "funFacts": [
+    "The kakapo is the world's only flightless parrot and also the heaviest living parrot, with large males weighing up to 9 pounds.",
+    "They are exceptionally long-lived birds, capable of reaching ages exceeding 90 years.",
+    "Instead of flying, they use their strong, muscular legs to climb high into towering canopy trees, using their short wings as parachutes to glide back down.",
+    "Kakapo possess a pleasant, musty scent often described by researchers as resembling honey and old violin case linings.",
+    "They are the only parrots in the world to utilize a lek breeding system, where males dig bowl-like hollows and inflate an air sac to produce deep booming calls that echo for kilometers.",
+    "Breeding cycles are entirely dictated by the irregular mast seeding of native podocarp trees like the rimu, which happens only every 2 to 4 years."
+  ],
+  "faq": [
+    {
+      "question": "What is a kakapo?",
+      "answer": "The kakapo is a large, nocturnal, flightless parrot endemic to New Zealand, instantly recognizable by its heavy build and owl-like facial features."
+    },
+    {
+      "question": "Where do kakapo live?",
+      "answer": "Today, surviving kakapo populations are heavily managed and restricted to predator-free offshore island sanctuaries in New Zealand, such as Codfish Island (Whenua Hou) and Anchor Island."
+    },
+    {
+      "question": "What do kakapo eat?",
+      "answer": "They are strict herbivores whose diet consists of native seeds, leaves, roots, stems, and fruits, especially the nutritious fruit of the rimu tree during breeding years."
+    },
+    {
+      "question": "Why can't kakapo fly?",
+      "answer": "Evolving in an ancient New Zealand ecosystem completely free of land mammals, the kakapo had no need for flight to escape predators, gradually developing a heavy body and small wings."
+    },
+    {
+      "question": "Why are kakapo endangered?",
+      "answer": "The introduction of invasive predatory mammals such as stoats, cats, ferrets, and rats by human settlers devastated the defenseless ground-nesting kakapo populations."
+    },
+    {
+      "question": "How many kakapo are left?",
+      "answer": "Thanks to intensive, world-leading conservation efforts by the Kakapo Recovery Programme, the population has risen from a low of 51 birds in 1995 to over 250 living individuals today."
+    }
+  ],
+  "relatedAnimals": [
+    "parrot",
+    "owl",
+    "shoebill"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "kakapo-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

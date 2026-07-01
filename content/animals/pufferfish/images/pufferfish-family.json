@@ -2,23 +2,23 @@
   "id": "pufferfish-family",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-family",
-  "fileName": "Botete negro (Arothron meleagris), Cabo Pulmo, Baja California, México, 2024-12-19, DD 54.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Botete_negro_%28Arothron_meleagris%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_54.jpg",
-  "width": 6137,
-  "height": 4091,
+  "fileName": "pufferfish-family-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-family-01-1200.webp",
+  "width": 1200,
+  "height": 799,
   "alt": "Guinea fowl pufferfish swimming near reef cover",
   "caption": "Pufferfish usually live alone but may gather where food is plentiful.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_54.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_54.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_54.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_54.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:26.991Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Cabo Pulmo, Mexico",
-  "acquisitionNotes": "Manually curated pufferfish group image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:10.621Z"
+  "acquisitionNotes": "Manually curated pufferfish group image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a0/Botete_negro_%28Arothron_meleagris%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_54.jpg",
+  "updatedAt": "2026-06-25T15:08:26.991Z",
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-family-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-family-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-family-01-1200.webp"
+  }
 }

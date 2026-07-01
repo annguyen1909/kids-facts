@@ -2,10 +2,10 @@
   "id": "lion-closeup",
   "animalSlug": "lion",
   "slug": "lion-closeup",
-  "fileName": "lion-face-closeup.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lioness_%28Panthera_leo%29_%286871765268%29.jpg/1920px-Lioness_%28Panthera_leo%29_%286871765268%29.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-closeup-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Close-up portrait of a lioness face",
   "caption": "Close-up views reveal whiskers, eyes, and powerful jaw muscles.",
   "credit": "Unsplash",
@@ -18,17 +18,23 @@
     "gallery"
   ],
   "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z",
-  "attributionText": "Photo by flowcomm via Wikimedia Commons, CC BY 2.0",
+  "updatedAt": "2026-06-25T15:01:18.820Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg",
-    "creatorName": "flowcomm",
-    "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:18.820Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5d/Lioness_%28Panthera_leo%29_%286871765268%29.jpg",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_(Panthera_leo)_(6871765268).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-closeup-01-400.webp",
+    "original": "/images/animals/lion/web/lion-closeup-01-1200.webp"
+  }
 }

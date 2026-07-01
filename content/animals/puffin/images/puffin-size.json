@@ -1,0 +1,38 @@
+{
+  "id": "puffin-size",
+  "animalSlug": "puffin",
+  "slug": "puffin-size",
+  "fileName": "puffin-size-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-size-01-1200.webp",
+  "width": 1200,
+  "height": 1646,
+  "alt": "Atlantic puffin flying toward the camera with wings spread",
+  "caption": "Atlantic puffins are compact seabirds, usually about 10 inches long with short wings for fast flight.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Jakub Hałun via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fratercula_arctica_in_flight,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_1136_1678.jpg\">Jakub Hałun</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fratercula_arctica_in_flight,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_1136_1678.jpg",
+    "creatorName": "Jakub Hałun",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:47.575Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/46/Fratercula_arctica_in_flight%2C_Borgarfj%C3%B6r%C3%B0ur_eystri%2C_Iceland%2C_20240717_1136_1678.jpg",
+  "updatedAt": "2026-06-25T15:08:47.575Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-size-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-size-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-size-01-1200.webp"
+  }
+}

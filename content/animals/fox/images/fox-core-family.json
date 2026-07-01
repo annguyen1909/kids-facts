@@ -2,8 +2,8 @@
   "id": "fox-core-family",
   "animalSlug": "fox",
   "slug": "fox-core-family",
-  "fileName": "Red fox cub, Québec, Canada (6329287458).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_%286329287458%29.jpg",
+  "fileName": "fox-core-family-01-1200.webp",
+  "src": "/images/animals/fox/web/fox-core-family-01-1200.webp",
   "width": 291,
   "height": 291,
   "alt": "Red fox kit near cover in Canadian woodland",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Québec, Canada",
-  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
-  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4f/Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_%286329287458%29.jpg",
+  "updatedAt": "2026-06-25T14:53:44.594Z",
   "attributionText": "Photo by Christian Holland via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_(6329287458).jpg\">Christian Holland</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_fox_cub,_Qu%C3%A9bec,_Canada_(6329287458).jpg\">Christian Holland</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_fox_cub%2C_Qu%C3%A9bec%2C_Canada_(6329287458).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_fox_cub,_Qu%C3%A9bec,_Canada_(6329287458).jpg",
     "creatorName": "Christian Holland",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:54.051Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:44.594Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/fox/web/fox-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/fox/thumbnails/fox-core-family-01-400.webp",
+    "original": "/images/animals/fox/web/fox-core-family-01-1200.webp"
   }
 }

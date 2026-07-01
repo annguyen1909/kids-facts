@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-hero",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-hero",
+  "fileName": "ocean-sunfish-hero-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Huge adult ocean sunfish swimming with its signature high dorsal fin and disk-like body clearly visible",
+  "caption": "The ocean sunfish, or Mola mola, is a massive, bizarrely shaped marine fish known for basking at the sea surface.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Greater Farallones National Marine Sanctuary",
+  "acquisitionNotes": "Manually curated ocean sunfish hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f2/GFNMS_--_Mola_Mola_%2835221024103%29.jpg",
+  "updatedAt": "2026-06-29T07:22:51.121Z",
+  "attributionText": "Photo by National Marine Sanctuaries via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:GFNMS_--_Mola_Mola_(35221024103).jpg\">National Marine Sanctuaries</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GFNMS_--_Mola_Mola_(35221024103).jpg",
+    "creatorName": "National Marine Sanctuaries",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T07:22:51.121Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-hero-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-hero-01-1200.webp"
+  }
+}

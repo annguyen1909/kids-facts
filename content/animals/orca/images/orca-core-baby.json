@@ -2,8 +2,8 @@
   "id": "orca-core-baby",
   "animalSlug": "orca",
   "slug": "orca-core-baby",
-  "fileName": "Type C OrcasEdit1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Type_C_OrcasEdit1.jpg",
+  "fileName": "orca-core-baby-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-core-baby-01-1200.webp",
   "width": 1200,
   "height": 1600,
   "alt": "Young orca swimming close beside adults",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Antarctic waters",
-  "acquisitionNotes": "Core article image curated separately from the orca gallery set.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Core article image curated separately from the orca gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Type_C_OrcasEdit1.jpg",
+  "updatedAt": "2026-06-25T15:04:25.948Z",
   "attributionText": "Photo by Robert Pitman, National Science Foundation via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg\">Robert Pitman, National Science Foundation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg\">Robert Pitman, National Science Foundation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg",
     "creatorName": "Robert Pitman, National Science Foundation",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Type_C_OrcasEdit1.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:25.948Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-core-baby-01-400.webp",
+    "original": "/images/animals/orca/web/orca-core-baby-01-1200.webp"
   }
 }

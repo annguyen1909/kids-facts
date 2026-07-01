@@ -1,0 +1,22 @@
+{
+  "id": "toucan-gallery-main",
+  "animalSlug": "toucan",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Toucan Photo Gallery",
+  "metaTitle": "Toucan Photo Gallery",
+  "metaDescription": "Browse a toucan photo gallery with wildlife photos.",
+  "intro": "Explore toucan photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "toucan-hero",
+    "toucan-habitat",
+    "toucan-diet",
+    "toucan-baby",
+    "toucan-family",
+    "toucan-range",
+    "toucan-size",
+    "toucan-closeup",
+    "toucan-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

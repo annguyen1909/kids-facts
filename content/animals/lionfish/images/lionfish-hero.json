@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-hero",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-hero",
+  "fileName": "lionfish-hero-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 898,
+  "alt": "Red lionfish with long striped spines spread wide",
+  "caption": "Lionfish raise their long venomous spines as a warning to predators.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Michael Gäbler via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_lion_fish_Pterois_volitans.jpg\">Michael Gäbler</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_lion_fish_Pterois_volitans.jpg",
+    "creatorName": "Michael Gäbler",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:56.073Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8d/Common_lion_fish_Pterois_volitans.jpg",
+  "updatedAt": "2026-06-25T15:01:56.073Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-hero-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-hero-01-1200.webp"
+  }
+}

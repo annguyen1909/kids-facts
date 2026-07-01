@@ -2,8 +2,8 @@
   "id": "seahorse-family",
   "animalSlug": "seahorse",
   "slug": "seahorse-family",
-  "fileName": "Hippocampus erectus 301805144.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hippocampus_erectus_301805144.jpg",
+  "fileName": "seahorse-family-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-family-01-1200.webp",
   "width": 960,
   "height": 720,
   "alt": "Pair of lined seahorses together on reef cover",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:06.758Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Manually curated seahorse pair image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:05.816Z"
+  "acquisitionNotes": "Manually curated seahorse pair image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/52/Hippocampus_erectus_301805144.jpg",
+  "updatedAt": "2026-06-25T15:11:06.758Z",
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-family-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-family-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-family-01-1200.webp"
+  }
 }

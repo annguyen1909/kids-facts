@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-family",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-family",
+  "fileName": "superb-bird-of-paradise-family-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Male superb bird-of-paradise preparing its display perch for an approaching female",
+  "caption": "Males vigorously defend their traditional courtship perches, spending hours cleaning leaves and debris to prepare the perfect stage.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Vogelkop, New Guinea",
+  "acquisitionNotes": "Curated display stage preparation image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ed/Vogelkop_Lophorina_male_display_0A2A8815.jpg",
+  "updatedAt": "2026-06-29T12:04:22.876Z",
+  "attributionText": "Photo by JJ Harrison via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_male_display_0A2A8815.jpg\">JJ Harrison</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vogelkop_Lophorina_male_display_0A2A8815.jpg",
+    "creatorName": "JJ Harrison",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:04:22.876Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-family-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-family-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-family-01-1200.webp"
+  }
+}

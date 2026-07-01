@@ -1,0 +1,38 @@
+{
+  "id": "iguana-core-diet",
+  "animalSlug": "iguana",
+  "slug": "iguana-core-diet",
+  "fileName": "iguana-core-diet-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Green Iguana finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Green Iguana.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by KarlaFPaiva via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Calango_em_Brejo_da_Madre_de_Deus.jpg\">KarlaFPaiva</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calango_em_Brejo_da_Madre_de_Deus.jpg",
+    "creatorName": "KarlaFPaiva",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:32.703Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/Calango_em_Brejo_da_Madre_de_Deus.jpg",
+  "updatedAt": "2026-06-25T14:58:32.703Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-core-diet-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-core-diet-01-1200.webp"
+  }
+}

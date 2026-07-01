@@ -2,8 +2,8 @@
   "id": "giant-panda-fun-fact",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-fun-fact",
-  "fileName": "giant-panda-fun-fact-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/NZP-20091222-189MM-000002.jpg",
+  "fileName": "giant-panda-fun-fact-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-fun-fact-01-1200.webp",
   "width": 800,
   "height": 533,
   "alt": "Giant panda rolling and playing in fresh snow",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Smithsonian National Zoo, United States",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/50/NZP-20091222-189MM-000002.jpg",
+  "updatedAt": "2026-06-25T14:55:14.985Z",
   "attributionText": "Photo by Smithsonian's National Zoo via Wikimedia Commons, CC0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:NZP-20091222-189MM-000002.jpg\">Smithsonian's National Zoo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:14.985Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-fun-fact-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-fun-fact-01-1200.webp"
   }
 }

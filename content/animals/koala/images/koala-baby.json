@@ -2,8 +2,8 @@
   "id": "koala-baby",
   "animalSlug": "koala",
   "slug": "koala-baby",
-  "fileName": "Koala and joey.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Koala_and_joey.jpg",
+  "fileName": "koala-baby-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-baby-01-1200.webp",
   "width": 1200,
   "height": 1347,
   "alt": "Adult koala with a tiny joey on its back",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Manually curated koala joey image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Manually curated koala joey image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7e/Koala_and_joey.jpg",
+  "updatedAt": "2026-06-25T14:59:34.161Z",
   "attributionText": "Photo by Benjamint444 via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_and_joey.jpg\">Benjamint444</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_and_joey.jpg\">Benjamint444</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_and_joey.jpg",
     "creatorName": "Benjamint444",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:34.161Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-baby-01-400.webp",
+    "original": "/images/animals/koala/web/koala-baby-01-1200.webp"
   }
 }

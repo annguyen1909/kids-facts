@@ -2,10 +2,10 @@
   "id": "blue-whale-size",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-size",
-  "fileName": "Blue Whale 001 body bw.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Blue_Whale_001_body_bw.jpg",
-  "width": 3983,
-  "height": 5087,
+  "fileName": "blue-whale-size-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-size-01-1200.webp",
+  "width": 1200,
+  "height": 1533,
   "alt": "Full-length blue whale body showing enormous size beside research boat",
   "caption": "Adult blue whales can reach about 80 to 100 feet long and weigh up to 200 tons.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North Pacific Ocean",
-  "acquisitionNotes": "Manually curated blue whale size image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Blue_Whale_001_body_bw.jpg",
+  "updatedAt": "2026-06-25T14:49:28.364Z",
   "attributionText": "Photo by NOAA Fisheries ( TBjornstad 11:17, 18 April 2007 (UTC)) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg\">NOAA Fisheries ( TBjornstad 11:17, 18 April 2007 (UTC))</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg\">NOAA Fisheries ( TBjornstad 11:17, 18 April 2007 (UTC))</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg",
     "creatorName": "NOAA Fisheries ( TBjornstad 11:17, 18 April 2007 (UTC))",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blue_Whale_001_body_bw.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:28.364Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-size-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-size-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-size-01-1200.webp"
   }
 }

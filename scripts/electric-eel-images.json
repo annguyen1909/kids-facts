@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Electrophorus electricus 3.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Electric Eel in the wild",
+    "caption": "The Electric Eel is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Electrophorus electricus in Ouwehands Dierenpark 01.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Electric Eel navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Electric eel Electrophorus electricus.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Electric Eel finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Electric Eel.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Electrophorus electricus in Ouwehands Dierenpark 02.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Electric Eel showing early development",
+    "caption": "Baby Electric Eels must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Electric-eel.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Electric Eels interacting with each other",
+    "caption": "While often solitary, some Electric Eels interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Electrophorus electricus 7zz.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Electric Eel traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Electrophorus electricus 8zz.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Electric Eel",
+    "caption": "The size of a Electric Eel can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Electric Eel.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Electric Eel",
+    "caption": "A close-up view reveals the intricate details of a Electric Eel's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Electrophorus electricus 4.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Electric Eel showing a unique behavior or adaptation",
+    "caption": "Did you know that the Electric Eel has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Electrophorus electricus in Gdynia Oceanarium.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Electric Eel navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Electrophoridae Electrophorus electricus (5806481021).jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Electric Eel finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Electric Eel.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Electrophorus electricus 01 by Line1.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Electric Eels interacting with each other",
+    "caption": "While often solitary, some Electric Eels interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Electric fish “Electrophorus electricus”.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Electric Eel showing early development",
+    "caption": "Baby Electric Eels must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Electrophorus electricus 02 by Line1.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Electric Eel traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

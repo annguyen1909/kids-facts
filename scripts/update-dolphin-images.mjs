@@ -24,7 +24,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     location: "Pelican Point, Namibia",
     imageType: "hero",
-    featuredOnPages: ["core", "gallery", "habitat"],
+    featuredOnPages: ["core", "gallery"],
   },
   "dolphin-habitat": {
     src: "https://upload.wikimedia.org/wikipedia/commons/2/23/Tursiops_truncatus_%28Atlantic_bottlenose_dolphins%29_%28Pine_Island_Sound%2C_Florida%2C_USA%29_4_%2824181206149%29.jpg",
@@ -39,7 +39,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/licenses/by/2.0/",
     location: "Pine Island Sound, Florida, USA",
     imageType: "habitat",
-    featuredOnPages: ["gallery", "habitat"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-diet": {
     src: "https://upload.wikimedia.org/wikipedia/commons/5/50/Dolphins_in_Cromarty_Firth_%282%29.JPG",
@@ -54,7 +54,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
     location: "Cromarty Firth, Scotland",
     imageType: "diet",
-    featuredOnPages: ["gallery", "diet"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-baby": {
     src: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bottlenose_dolphin_with_young.JPG",
@@ -69,7 +69,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
     location: "Ocean",
     imageType: "baby",
-    featuredOnPages: ["gallery", "behavior"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-family": {
     src: "https://upload.wikimedia.org/wikipedia/commons/9/99/Common_bottlenose_dolphins_%28Tursiops_truncatus%29_Sagres.jpg",
@@ -84,7 +84,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     location: "Sagres, Portugal",
     imageType: "family",
-    featuredOnPages: ["gallery", "behavior"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-range": {
     src: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Common_Bottlenose_Dolphin_%28Tursiops_truncatus%29_Catalina_swimming.jpg",
@@ -99,7 +99,7 @@ const updates = {
     licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     location: "Coastal ocean",
     imageType: "range",
-    featuredOnPages: ["gallery", "habitat"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-size": {
     src: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tursiops_truncatus_178353051.jpg",
@@ -129,7 +129,7 @@ const updates = {
     licenseUrl: "https://en.wikipedia.org/wiki/Public_domain",
     location: "Ocean surface",
     imageType: "closeup",
-    featuredOnPages: ["gallery", "behavior"],
+    featuredOnPages: ["gallery"],
   },
   "dolphin-fun-fact": {
     src: "https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg",
@@ -172,7 +172,7 @@ function buildRecord(slug, data) {
       licenseUrl: data.licenseUrl,
       requiresAttribution: data.licenseName !== "CC0" && data.licenseName !== "Public domain",
       downloadedAt: timestamp,
-      reviewedBy: "editor@kidsfacts.local",
+      reviewedBy: "editor@wildlifedb.local",
     },
     imageType: data.imageType,
     galleryTopics: data.galleryTopics,

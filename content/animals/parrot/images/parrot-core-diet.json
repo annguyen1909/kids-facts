@@ -2,10 +2,10 @@
   "id": "parrot-core-diet",
   "animalSlug": "parrot",
   "slug": "parrot-core-diet",
-  "fileName": "Scarlet macaw (Ara macao cyanopterus) Copan 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan_2.jpg",
-  "width": 4899,
-  "height": 3267,
+  "fileName": "parrot-core-diet-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Scarlet macaw eating while gripping a branch",
   "caption": "They use their feet like hands to hold food while they eat.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Copán, Honduras",
-  "acquisitionNotes": "Core article image curated separately from the parrot gallery set.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Core article image curated separately from the parrot gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4e/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan_2.jpg",
+  "updatedAt": "2026-06-25T15:05:52.621Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:52.621Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-core-diet-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-core-diet-01-1200.webp"
   }
 }

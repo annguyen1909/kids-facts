@@ -2,10 +2,10 @@
   "id": "tiger-size",
   "animalSlug": "tiger",
   "slug": "tiger-size",
-  "fileName": "tiger-size-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Panthera_tigris_-_the_big_cat.jpg",
-  "width": 2762,
-  "height": 1841,
+  "fileName": "tiger-size-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-size-01-1200.webp",
+  "width": 1200,
+  "height": 690,
   "alt": "Full-body view of a tiger showing its size and stripes",
   "caption": "Adult tigers are among the largest cats on Earth—males can weigh over 500 pounds.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "India",
-  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
-  "updatedAt": "2026-06-21T16:58:28.827Z",
-  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_-_the_big_cat.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b9/Panthera_tigris_-_the_big_cat.jpg",
+  "updatedAt": "2026-06-25T15:12:52.971Z",
+  "attributionText": "Photo by Shiv's fotografia via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_-_the_big_cat.jpg\">Shiv's fotografia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_-_the_big_cat.jpg",
-    "creatorName": "Yathin S Krishnappa",
+    "creatorName": "Shiv's fotografia",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:58:28.827Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:12:52.971Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-size-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-size-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-size-01-1200.webp"
   }
 }

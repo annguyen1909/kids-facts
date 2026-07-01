@@ -1,0 +1,38 @@
+{
+  "id": "ruby-throated-hummingbird-core-diet",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-core-diet",
+  "fileName": "ruby-throated-hummingbird-core-diet-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Hummingbird hovering and drinking nectar from orange flowers",
+  "caption": "Hummingbirds must drink nectar from hundreds of flowers daily to survive.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Pomfret, Connecticut",
+  "attributionText": "Photo by Paul Danese via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_39.jpg\">Paul Danese</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_39.jpg",
+    "creatorName": "Paul Danese",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:03.926Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for diet. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_39.jpg",
+  "updatedAt": "2026-06-25T15:10:03.926Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-core-diet-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-diet-01-1200.webp"
+  }
+}

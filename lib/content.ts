@@ -4,6 +4,7 @@ import path from "node:path";
 import matter from "gray-matter";
 import { z } from "zod";
 import type {
+  AnimalCardRecord,
   AnimalImage,
   AnimalRecord,
   GalleryTopicSlug,
@@ -11,6 +12,7 @@ import type {
   HubType,
   ResolvedEntity,
 } from "@/lib/types";
+import { cleanScientificName } from "@/lib/animals/normalizer";
 import { formatDisplayLabel } from "@/lib/format-display";
 import {
   buildDietClusters,
@@ -37,19 +39,22 @@ export function isPublishedAnimal(slug: string) {
 const comparisonsDirectory = path.join(rootDirectory, "comparisons");
 const hubsDirectory = path.join(rootDirectory, "hubs");
 
+const imageSrc = z.union([
+  z.string().url(),
+  z.string().regex(/^\/images\//, "Local image paths must start with /images/"),
+]);
+
 const imageSchema = z.object({
   id: z.string(),
   animalSlug: z.string(),
   slug: z.string(),
   fileName: z.string(),
   originalFileName: z.string().optional(),
-  src: z.string().url(),
+  src: imageSrc,
   srcSet: z
     .object({
       original: z.string(),
-      web1600: z.string(),
       web1200: z.string(),
-      web800: z.string(),
       thumbnail400: z.string(),
     })
     .optional(),
@@ -106,6 +111,7 @@ const imageSchema = z.object({
   featuredOnPages: z.array(z.enum(["core", "gallery"])),
   location: z.string(),
   acquisitionNotes: z.string().optional(),
+  objectPosition: z.string().optional(),
   updatedAt: isoDateString,
 });
 
@@ -189,6 +195,7 @@ function normalizeAnimalCore(core: AnimalCore): AnimalCore {
 
   return {
     ...core,
+    scientificName: cleanScientificName(core.scientificName),
     habitat,
     biomes: normalizeDisplayList(core.biomes),
     classificationLabels: normalizeDisplayList(core.classificationLabels),
@@ -306,6 +313,37 @@ export function readAnimalDirectory(animalSlug: string): AnimalRecord {
   };
 }
 
+function readAnimalPrimaryImages(directory: string): AnimalImage[] {
+  const imageDirectory = path.join(directory, "images");
+  const imageFiles = fs
+    .readdirSync(imageDirectory)
+    .filter((file) => file.endsWith(".json"))
+    .sort();
+
+  let fallbackImage: AnimalImage | undefined;
+
+  for (const file of imageFiles) {
+    const image = readJson(path.join(imageDirectory, file), imageSchema);
+    fallbackImage ??= image;
+
+    if (image.imageType === "hero") {
+      return [image];
+    }
+  }
+
+  return fallbackImage ? [fallbackImage] : [];
+}
+
+export function readAnimalCardDirectory(animalSlug: string): AnimalCardRecord {
+  const directory = path.join(animalsDirectory, animalSlug);
+  const core = normalizeAnimalCore(readJson(path.join(directory, "animal.json"), animalCoreSchema));
+
+  return {
+    core,
+    images: readAnimalPrimaryImages(directory),
+  };
+}
+
 const getAllAnimalsCached = cache((): AnimalRecord[] => {
   return fs
     .readdirSync(animalsDirectory)
@@ -318,8 +356,24 @@ export function getAllAnimals() {
   return getAllAnimalsCached();
 }
 
+const getAllAnimalCardsCached = cache((): AnimalCardRecord[] => {
+  return fs
+    .readdirSync(animalsDirectory)
+    .filter((entry) => fs.statSync(path.join(animalsDirectory, entry)).isDirectory())
+    .map(readAnimalCardDirectory)
+    .sort((a, b) => a.core.name.localeCompare(b.core.name));
+});
+
+export function getAllAnimalCards() {
+  return getAllAnimalCardsCached();
+}
+
 export function getPublishedAnimals() {
   return getAllAnimals().filter((animal) => isPublishedAnimal(animal.core.slug));
+}
+
+export function getPublishedAnimalCards() {
+  return getAllAnimalCards().filter((animal) => isPublishedAnimal(animal.core.slug));
 }
 
 export function getAnimalBySlug(slug: string) {
@@ -486,8 +540,8 @@ export function resolveComparisonRoute(
   const resolved = getComparisonBySlug(comparisonSlug);
   if (!resolved) return null;
 
-  const animalA = getAnimalBySlug(resolved.comparison.animalA);
-  const animalB = getAnimalBySlug(resolved.comparison.animalB);
+  const animalA = getPublishedAnimalBySlug(resolved.comparison.animalA);
+  const animalB = getPublishedAnimalBySlug(resolved.comparison.animalB);
   if (!animalA || !animalB) return null;
 
   const page =
@@ -540,15 +594,6 @@ export function resolveHubRoute(type: HubType, hubSlug: string): ResolvedEntity 
 
 export function getStaticAnimalRoutes() {
   return getPublishedAnimals().map((animal) => ({ animalSlug: animal.core.slug }));
-}
-
-export function getStaticImageRoutes() {
-  return getPublishedAnimals().flatMap((animal) =>
-    animal.images.map((image) => ({
-      animalSlug: animal.core.slug,
-      imageSlug: image.slug,
-    })),
-  );
 }
 
 export function getStaticComparisonRoutes() {

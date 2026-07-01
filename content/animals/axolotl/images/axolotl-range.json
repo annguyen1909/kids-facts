@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-range",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-range",
+  "fileName": "axolotl-range-01-1200.webp",
+  "alt": "A Axolotl traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-range-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "attributionText": "Photo by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cromat%C3%B3foros_de_larva_de_axolote_pardo_(Ambystoma_mexicanum).jpg\">Brandon Antonio Segura Torres & Priscilla Vieto Bonilla</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cromat%C3%B3foros_de_larva_de_axolote_pardo_(Ambystoma_mexicanum).jpg",
+    "creatorName": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:19:03.265Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/59/Cromat%C3%B3foros_de_larva_de_axolote_pardo_%28Ambystoma_mexicanum%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/59/Cromat%C3%B3foros_de_larva_de_axolote_pardo_%28Ambystoma_mexicanum%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/59/Cromat%C3%B3foros_de_larva_de_axolote_pardo_%28Ambystoma_mexicanum%29.jpg",
+  "updatedAt": "2026-06-26T19:19:03.265Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-range-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-range-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-range-01-1200.webp"
+  }
+}

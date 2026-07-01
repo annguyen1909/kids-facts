@@ -1,0 +1,38 @@
+{
+  "id": "iguana-baby",
+  "animalSlug": "iguana",
+  "slug": "iguana-baby",
+  "fileName": "iguana-baby-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-baby-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "A young green iguana showing early development",
+  "caption": "Juvenile iguanas hatch from eggs and are independent from birth, scrambling into trees to avoid predators.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Carlos Valenzuela via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_portrait_acapulco_201905_1.jpg\">Carlos Valenzuela</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_portrait_acapulco_201905_1.jpg",
+    "creatorName": "Carlos Valenzuela",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:30.482Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/87/Iguana_portrait_acapulco_201905_1.jpg",
+  "updatedAt": "2026-06-25T14:58:30.482Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-baby-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-baby-01-1200.webp"
+  }
+}

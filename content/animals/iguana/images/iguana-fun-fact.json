@@ -1,0 +1,38 @@
+{
+  "id": "iguana-fun-fact",
+  "animalSlug": "iguana",
+  "slug": "iguana-fun-fact",
+  "fileName": "iguana-fun-fact-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1437,
+  "alt": "A Green Iguana showing a unique behavior or adaptation",
+  "caption": "Did you know that the Green Iguana has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Leo za1 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana-001.jpg\">Leo za1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana-001.jpg",
+    "creatorName": "Leo za1",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:39.257Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a7/Iguana-001.jpg",
+  "updatedAt": "2026-06-25T14:58:39.257Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-fun-fact-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-fun-fact-01-1200.webp"
+  }
+}

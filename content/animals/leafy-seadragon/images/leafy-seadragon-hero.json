@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-hero",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-hero",
+  "fileName": "leafy-seadragon-hero-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-hero-01-1200.webp",
+  "width": 1200,
+  "height": 618,
+  "alt": "Stunning adult leafy seadragon displaying its spectacular leaf-like camouflage appendages in crystal clear water",
+  "caption": "The leafy seadragon is a master of camouflage, adorned with flowing leaf-like appendages that make it look exactly like floating seaweed.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Pittsburgh Zoo display",
+  "acquisitionNotes": "Manually curated leafy seadragon hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/50/Leafy_Seadragon_Phycodurus_eques_2500px.jpg",
+  "updatedAt": "2026-06-29T07:23:32.162Z",
+  "attributionText": "Photo by Photo by and (C)2007 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_Phycodurus_eques_2500px.jpg\">Photo by and (C)2007 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_Phycodurus_eques_2500px.jpg",
+    "creatorName": "Photo by and (C)2007 Derek Ramsey ( Ram-Man )",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:32.162Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-hero-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-hero-01-1200.webp"
+  }
+}

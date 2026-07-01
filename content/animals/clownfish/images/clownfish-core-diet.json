@@ -2,23 +2,23 @@
   "id": "clownfish-core-diet",
   "animalSlug": "clownfish",
   "slug": "clownfish-core-diet",
-  "fileName": "Pez payaso común (Amphiprion ocellaris) en una anémona magnífica (Heteractis magnifica), Anilao, Filipinas, 2023-08-22, DD 08.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pez_payaso_com%C3%BAn_%28Amphiprion_ocellaris%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_08.jpg",
-  "width": 7206,
-  "height": 4804,
+  "fileName": "clownfish-core-diet-01-1200.webp",
+  "src": "/images/animals/clownfish/web/clownfish-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Ocellaris clownfish feeding near its anemone on a reef",
   "caption": "They often dart out from the anemone to grab plankton and small invertebrates.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica)%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_08.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_Anilao,_Filipinas,_2023-08-22,_DD_08.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica)%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_08.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_payaso_com%C3%BAn_(Amphiprion_ocellaris)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_Anilao,_Filipinas,_2023-08-22,_DD_08.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:26.704Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:21.742Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Anilao, Philippines",
-  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
-  "updatedAt": "2026-06-24T09:22:26.704Z"
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/46/Pez_payaso_com%C3%BAn_%28Amphiprion_ocellaris%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_08.jpg",
+  "updatedAt": "2026-06-25T14:51:21.742Z",
+  "srcSet": {
+    "web1200": "/images/animals/clownfish/web/clownfish-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/clownfish/thumbnails/clownfish-core-diet-01-400.webp",
+    "original": "/images/animals/clownfish/web/clownfish-core-diet-01-1200.webp"
+  }
 }

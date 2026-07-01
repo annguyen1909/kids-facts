@@ -2,8 +2,8 @@
   "id": "salmon-habitat",
   "animalSlug": "salmon",
   "slug": "salmon-habitat",
-  "fileName": "Atlantic Salmon Swimming Up Humber River (5065972987).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Atlantic_Salmon_Swimming_Up_Humber_River_%285065972987%29.jpg",
+  "fileName": "salmon-habitat-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-habitat-01-1200.webp",
   "width": 640,
   "height": 480,
   "alt": "Atlantic salmon swimming upstream in a river",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Humber River, Canada",
-  "acquisitionNotes": "Manually curated salmon habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "acquisitionNotes": "Manually curated salmon habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/28/Atlantic_Salmon_Swimming_Up_Humber_River_%285065972987%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/28/Atlantic_Salmon_Swimming_Up_Humber_River_%285065972987%29.jpg",
+  "updatedAt": "2026-06-26T19:17:05.407Z",
   "attributionText": "Photo by Michael from Calgary, AB, Canada via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Swimming_Up_Humber_River_(5065972987).jpg\">Michael from Calgary, AB, Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:17:05.407Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-habitat-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-habitat-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-core-family",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-core-family",
+  "alt": "Adult shoebill standing tall guarding its territory",
+  "caption": "Both parents aggressively defend their nest and share duties incubating the eggs.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wetland exhibit",
+  "fileName": "shoebill-core-family-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "attributionText": "Photo by Ruben Undheim from Trondheim, Norway via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(6337862818).jpg\">Ruben Undheim from Trondheim, Norway</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(6337862818).jpg",
+    "creatorName": "Ruben Undheim from Trondheim, Norway",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:21:59.603Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the shoebill gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Balaeniceps_rex_%286337862818%29.jpg",
+  "updatedAt": "2026-06-29T07:21:59.603Z",
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-core-family-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-core-family-01-1200.webp"
+  }
+}

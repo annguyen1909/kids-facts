@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-core-habitat",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-core-habitat",
+  "fileName": "galapagos-tortoise-core-habitat-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A giant tortoise in a humid upland meadow",
+  "caption": "Highlands with moist grass are their preferred feeding spots during the dry season.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by M Lambright via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_30165605.jpg\">M Lambright</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_30165605.jpg",
+    "creatorName": "M Lambright",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:22.167Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/de/Chelonoidis_vandenburghi_30165605.jpg",
+  "updatedAt": "2026-06-25T14:54:22.167Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-core-habitat-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-habitat-01-1200.webp"
+  }
+}

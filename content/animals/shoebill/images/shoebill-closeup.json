@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-closeup",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-closeup",
+  "fileName": "shoebill-closeup-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Striking close-up of a shoebill's head, keen yellow eyes, and massive hooked beak",
+  "caption": "The tip of their formidable bill features a sharp hook used to grip and dispatch slippery prey.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Zoo Zürich",
+  "acquisitionNotes": "Manually curated shoebill close-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0a/Balaeniceps_rex_Zoo_Z%C3%BCrich_3.jpg",
+  "updatedAt": "2026-06-29T07:21:57.192Z",
+  "attributionText": "Photo by Leyo via Wikimedia Commons, CC BY-SA 3.0 ch",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_Zoo_Z%C3%BCrich_3.jpg\">Leyo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en\">CC BY-SA 3.0 ch</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_Zoo_Z%C3%BCrich_3.jpg",
+    "creatorName": "Leyo",
+    "licenseName": "CC BY-SA 3.0 ch",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/ch/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:21:57.192Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-closeup-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-closeup-01-1200.webp"
+  }
+}

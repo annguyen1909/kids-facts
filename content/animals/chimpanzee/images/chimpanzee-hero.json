@@ -2,10 +2,10 @@
   "id": "chimpanzee-hero",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-hero",
-  "fileName": "Chimpanzee Portrait.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chimpanzee_Portrait.jpg",
-  "width": 3125,
-  "height": 2334,
+  "fileName": "chimpanzee-hero-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-hero-01-1200.webp",
+  "width": 1200,
+  "height": 896,
   "alt": "Chimpanzee looking toward the camera",
   "caption": "Chimpanzees are intelligent great apes and one of our closest living relatives.",
   "attributionText": "Photo by Charles Patrick Ewing via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:49.139Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Florida, USA",
-  "acquisitionNotes": "Manually curated chimpanzee hero image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:19.326Z"
+  "acquisitionNotes": "Manually curated chimpanzee hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/Chimpanzee_Portrait.jpg",
+  "updatedAt": "2026-06-25T14:50:49.139Z",
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-hero-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-hero-01-1200.webp"
+  }
 }

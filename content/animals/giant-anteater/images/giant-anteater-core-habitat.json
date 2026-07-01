@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-core-habitat",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-core-habitat",
+  "fileName": "giant-anteater-core-habitat-01-1200.webp",
+  "alt": "Giant anteater moving through tall dry grass on the savanna",
+  "caption": "Tall grasslands and savannas give anteaters plenty of ant and termite mounds to raid.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Pantanal, Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Ezio J. Rocha via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_Bandeira_pantaneiro.JPG\">Ezio J. Rocha</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_Bandeira_pantaneiro.JPG",
+    "creatorName": "Ezio J. Rocha",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:37.145Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Tamandu%C3%A1_Bandeira_pantaneiro.JPG",
+  "updatedAt": "2026-06-28T10:16:37.145Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-core-habitat-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-core-habitat-01-1200.webp"
+  }
+}

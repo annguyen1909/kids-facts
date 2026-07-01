@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Seven-spotted ladybug (Coccinella septempunctata).jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a seven-spotted ladybug with bright red wing covers and black spots",
+    "caption": "Ladybugs are beetles known for their shiny red dome-shaped bodies and black spots.",
+    "location": "Japan"
+  },
+  "habitat": {
+    "fileTitle": "File:Siebenpunkt-Marienkäfer (Coccinella septempunctata) auf Blüte im FFH-Gebiet \"Viernheimer Waldheide und angrenzende Flächen\".jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug walking on a yellow wildflower in a sun-drenched grassy meadow",
+    "caption": "They live in grasslands, deciduous forests, agricultural fields, and home gardens.",
+    "location": "Viernheim, Germany"
+  },
+  "diet": {
+    "fileTitle": "File:Ladybug eating aphids. (49485764276).jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug devouring tiny green aphids on a plant stem",
+    "caption": "Ladybugs are active carnivores that eat aphids and other plant-damaging pests.",
+    "location": "Plant City, Florida, USA"
+  },
+  "baby": {
+    "fileTitle": "File:Coccinella septempunctata larva.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug larva with a spiky blue-black body and orange spots on a green leaf",
+    "caption": "Ladybug larvae look like tiny, spiky alligators and have a massive appetite for aphids.",
+    "location": "Belgium"
+  },
+  "family": {
+    "fileTitle": "File:Bombus terrestris and Coccinella septempunctata on Cirsium vulgare A 2010-08-02 HPB.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug and a bumblebee feeding on the same purple thistle flower",
+    "caption": "Ladybugs are solitary, but they often gather in large groups in autumn to stay warm.",
+    "location": "Germany"
+  },
+  "range": {
+    "fileTitle": "File:Coccinella February 2013-1.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug climbing on green plant leaves",
+    "caption": "The seven-spotted ladybug is native to Europe and Asia, and was introduced to North America.",
+    "location": "Portugal"
+  },
+  "size": {
+    "fileTitle": "File:Seven-spot ladybird 1.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug on a leaf showing its small round body size",
+    "caption": "Ladybugs are very small, growing to only about 0.3 inches (7 to 10 mm) long.",
+    "location": "Hungary"
+  },
+  "closeup": {
+    "fileTitle": "File:Coccinella septempunctata qtl1.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Detailed close-up of a ladybug's glossy black head and red wing cover",
+    "caption": "Their bright red and black coloration warns predators that they taste bitter and are toxic.",
+    "location": "Germany"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Seven-spotted ladybug - Coccinella septempunctata (48756807402).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "A ladybug crawling along a plant stem in Yellowstone National Park",
+    "caption": "A single ladybug can eat up to 5,000 aphids during its lifetime!",
+    "location": "Yellowstone National Park, USA"
+  },
+  "core-habitat": {
+    "fileTitle": "File:20220623 Coccinella septempunctata.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "A ladybug resting on a green leaf in a meadow",
+    "caption": "Gardens and farms with flowering plants are ideal habitats for ladybugs.",
+    "location": "Germany"
+  },
+  "core-diet": {
+    "fileTitle": "File:The Aphid Party is Over! Attack of the Ladybug.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "A ladybug hunting on a plant leaf covered in aphids",
+    "caption": "Farmers love ladybugs because they protect crops from sap-sucking pests.",
+    "location": "USA"
+  },
+  "core-family": {
+    "fileTitle": "File:Lady red bugs.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Two ladybugs side by side on a green leaf",
+    "caption": "Ladybugs are solitary beetles that hunt alone during the spring and summer.",
+    "location": "India"
+  },
+  "core-baby": {
+    "fileTitle": "File:Newly-hatched small larva of Coccinella septempunctata.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "Newly hatched tiny ladybug larvae on a leaf next to yellow egg shells",
+    "caption": "Females lay clusters of tiny, yellow eggs under leaves near aphid colonies.",
+    "location": "Bulgaria"
+  },
+  "core-range": {
+    "fileTitle": "File:Coccinella septempunctata 117254759.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "A ladybug on a plant stem in a grassy field",
+    "caption": "Ladybugs are highly successful beetles found in many regions globally.",
+    "location": "United States"
+  }
+}

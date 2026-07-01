@@ -2,10 +2,10 @@
   "id": "octopus-baby",
   "animalSlug": "octopus",
   "slug": "octopus-baby",
-  "fileName": "Octopus vulgaris 03.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Octopus_vulgaris_03.jpg",
-  "width": 4752,
-  "height": 3168,
+  "fileName": "octopus-baby-01-1200.webp",
+  "src": "/images/animals/octopus/web/octopus-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Small common octopus showing early life stage",
   "caption": "Baby octopuses hatch from eggs and drift briefly before settling on the seafloor.",
   "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:21.349Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:10.560Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Mediterranean Sea",
-  "acquisitionNotes": "Manually curated young octopus image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:21.349Z"
+  "acquisitionNotes": "Manually curated young octopus image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5c/Octopus_vulgaris_03.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5c/Octopus_vulgaris_03.jpg",
+  "updatedAt": "2026-06-26T19:13:10.560Z",
+  "srcSet": {
+    "web1200": "/images/animals/octopus/web/octopus-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/octopus/thumbnails/octopus-baby-01-400.webp",
+    "original": "/images/animals/octopus/web/octopus-baby-01-1200.webp"
+  }
 }

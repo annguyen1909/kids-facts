@@ -1,0 +1,140 @@
+{
+  "id": "animal-hammerhead-shark",
+  "slug": "hammerhead-shark",
+  "name": "Great Hammerhead Shark",
+  "commonNames": [
+    "Great Hammerhead Shark",
+    "Hammerhead Shark",
+    "Hammerhead"
+  ],
+  "scientificName": "Sphyrna mokarran",
+  "summary": "The great hammerhead shark is a large, powerful predator famous for its unique hammer-shaped head, called a cephalofoil. Inhabiting warm tropical oceans around the world, this shark uses its wide head to scan for prey and pin down stingrays on the ocean floor.",
+  "heroTitle": "Great Hammerhead Shark Facts",
+  "metaTitle": "Great Hammerhead Shark Facts | Habitat, Diet, Head & Photos",
+  "metaDescription": "Great hammerhead shark facts for kids with photos, tropical ocean habitat, diet, hammer-shaped head, sensory powers, and quick facts on one easy-to-read page.",
+  "searchIntents": [
+    "great hammerhead shark facts",
+    "what do great hammerhead sharks eat",
+    "where do great hammerhead sharks live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Sphyrnidae",
+    "genus": "Sphyrna",
+    "species": "S. mokarran"
+  },
+  "classificationLabels": [
+    "fish"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "North America",
+    "South America",
+    "Africa",
+    "Asia",
+    "Australia"
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Bahamas",
+    "Brazil",
+    "South Africa",
+    "Australia",
+    "India",
+    "Japan"
+  ],
+  "biomes": [
+    "open-ocean",
+    "coral-reef",
+    "coast"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Stingrays",
+    "Small sharks",
+    "Fish",
+    "Squid",
+    "Crabs"
+  ],
+  "lifespan": {
+    "wild": "20 to 30 years"
+  },
+  "size": {
+    "lengthMin": "3.5 meters",
+    "lengthMax": "6.1 meters"
+  },
+  "weight": {
+    "min": "230 kg",
+    "max": "450 kg"
+  },
+  "speed": "Up to 25 mph (40 km/h) swimming speed",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "swimming long distances alone",
+    "hunting stingrays on the sea floor",
+    "patrolling deep waters near reefs",
+    "sweeping head side-to-side while hunting",
+    "migrating to cooler waters in summer"
+  ],
+  "adaptations": [
+    "hammer-shaped head (cephalofoil) for wide vision",
+    "extra sensory pores (Ampullae of Lorenzini) to detect prey",
+    "tall curved dorsal fin for stable swimming",
+    "sharp serrated teeth for catching prey",
+    "camouflage grey back and white belly (countershading)"
+  ],
+  "predators": [
+    "Orcas",
+    "Humans"
+  ],
+  "prey": [
+    "Stingrays",
+    "Groupers",
+    "Squid",
+    "Octopuses",
+    "Crabs"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "11 months",
+    "offspringCount": "6 to 42 pups"
+  },
+  "funFacts": [
+    "A hammerhead's hammer-shaped head is called a cephalofoil! It places the shark's eyes and nostrils far apart, giving them a 360-degree view of their surroundings.",
+    "Great hammerheads are immune to the venomous stings of stingrays! They often hunt them by using their wide heads to pin stingrays flat against the sandy ocean floor.",
+    "They have extra electrical sensors (Ampullae of Lorenzini) spread out across their wide heads, allowing them to detect the tiny heartbeats of prey buried in the sand.",
+    "Unlike most sharks, which are born from eggs, baby hammerheads are born alive! They are called pups and are fully independent from the moment they are born.",
+    "Hammerhead sharks have a massive, curved dorsal fin on their backs that is taller than that of most other sharks, helping them make sharp, quick turns.",
+    "Because they have to swim constantly to breathe, hammerhead sharks never truly sleep; they just rest parts of their brains while swimming slowly."
+  ],
+  "faq": [
+    {
+      "question": "What is a great hammerhead shark?",
+      "answer": "The great hammerhead shark is the largest of the hammerhead shark species, famous for its large hammer-shaped head and predatory skills."
+    },
+    {
+      "question": "Where do great hammerhead sharks live?",
+      "answer": "They live in warm, tropical, and warm-temperate ocean waters worldwide, both near the coast and in the open ocean near coral reefs."
+    },
+    {
+      "question": "What do great hammerhead sharks eat?",
+      "answer": "They are carnivores that eat a variety of marine animals, but their absolute favorite food is stingrays, along with fish, squid, and smaller sharks."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "whale-shark",
+    "manta-ray"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "hammerhead-shark-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

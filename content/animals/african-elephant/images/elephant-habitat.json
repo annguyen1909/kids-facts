@@ -2,23 +2,23 @@
   "id": "elephant-habitat",
   "animalSlug": "african-elephant",
   "slug": "elephant-habitat",
-  "fileName": "African_Elephant_from_Amboseli.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/African_Elephant_from_Amboseli.jpg",
-  "width": 1281,
-  "height": 1920,
+  "fileName": "elephant-habitat-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1799,
   "alt": "African elephant walking through savanna grassland in Amboseli",
   "caption": "Elephants live in savannas, forests, and grasslands across sub-Saharan Africa.",
   "attributionText": "Photo by Siggesson77 via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_Elephant_from_Amboseli.jpg\">Siggesson77</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_Elephant_from_Amboseli.jpg\">Siggesson77</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_Elephant_from_Amboseli.jpg",
     "creatorName": "Siggesson77",
     "licenseName": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:40.078Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Amboseli, Kenya",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ea/African_Elephant_from_Amboseli.jpg",
+  "updatedAt": "2026-06-25T14:48:40.078Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-habitat-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-habitat-01-1200.webp"
+  }
 }

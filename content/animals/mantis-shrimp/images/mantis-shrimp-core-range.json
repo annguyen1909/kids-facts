@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-core-range",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-core-range",
+  "fileName": "mantis-shrimp-core-range-01-1200.webp",
+  "alt": "A Mantis Shrimp traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Ryan McMinds via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_89462676.jpg\">Ryan McMinds</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_89462676.jpg",
+    "creatorName": "Ryan McMinds",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:05.880Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a4/Odontodactylus_scyllarus_89462676.jpg",
+  "updatedAt": "2026-06-26T08:17:05.880Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-core-range-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-range-01-1200.webp"
+  }
+}

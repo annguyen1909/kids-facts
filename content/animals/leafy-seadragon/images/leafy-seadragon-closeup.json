@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-closeup",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-closeup",
+  "fileName": "leafy-seadragon-closeup-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Superb close-up of a leafy seadragon's head, sharp eyes, and delicate leafy appendages",
+  "caption": "Their eyes can move independently of one another, allowing them to scan for predators and shrimp simultaneously.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rapid Bay Jetty, South Australia",
+  "acquisitionNotes": "Manually curated leafy seadragon close-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/04/Phycodurus_eques_P2023182.JPG",
+  "updatedAt": "2026-06-29T07:23:12.709Z",
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023182.JPG\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023182.JPG",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:12.709Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-closeup-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-closeup-01-1200.webp"
+  }
+}

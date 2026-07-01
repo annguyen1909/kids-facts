@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-core-diet",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-core-diet",
+  "alt": "Mandarinfish carefully inspecting the reef floor for harpacticoid copepods",
+  "caption": "Because they feed almost exclusively on live benthic copepods, they play a highly specialized role in the coral reef trophic web.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Aquarium Museum, Liège",
+  "fileName": "mandarinfish-core-diet-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1445,
+  "attributionText": "Photo by Luc Viatour via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_1_Luc_Viatour.jpg\">Luc Viatour</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Synchiropus_splendidus_1_Luc_Viatour.jpg",
+    "creatorName": "Luc Viatour",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:56:33.891Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Curated core diet benthic foraging photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b2/Synchiropus_splendidus_1_Luc_Viatour.jpg",
+  "updatedAt": "2026-06-29T11:56:33.891Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-core-diet-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-core-diet-01-1200.webp"
+  }
+}

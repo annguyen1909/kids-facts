@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-size",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-size",
+  "fileName": "gila-monster-size-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-size-01-1200.webp",
+  "width": 1200,
+  "height": 843,
+  "alt": "A photo showing the size of a Gila Monster",
+  "caption": "The size of a Gila Monster can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by MonsterDoc via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_captured.jpg\">MonsterDoc</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_captured.jpg",
+    "creatorName": "MonsterDoc",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:41.392Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Heloderma_suspectum_captured.jpg",
+  "updatedAt": "2026-06-25T14:55:41.392Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-size-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-size-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-size-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-core-range",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-core-range",
+  "fileName": "mandrill-core-range-01-1200.webp",
+  "alt": "A Mandrill traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by FakirNL via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_in_Ouwehands_Dierenpark_02.jpg\">FakirNL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_in_Ouwehands_Dierenpark_02.jpg",
+    "creatorName": "FakirNL",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:46.524Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7f/Mandrillus_sphinx_in_Ouwehands_Dierenpark_02.jpg",
+  "updatedAt": "2026-06-26T08:16:46.524Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-core-range-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-core-range-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "grizzly-bear-core-baby",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-core-baby",
-  "fileName": "Standing Grizzly Bear Cub (Ursus arctos horribilis) (51556280998).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Standing_Grizzly_Bear_Cub_%28Ursus_arctos_horribilis%29_%2851556280998%29.jpg",
-  "width": 3152,
-  "height": 4640,
+  "fileName": "grizzly-bear-core-baby-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1766,
   "alt": "Young grizzly bear cub standing on hind legs",
   "caption": "Cubs are born tiny in winter dens while the mother is in deep sleep.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "North America",
-  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7f/Standing_Grizzly_Bear_Cub_%28Ursus_arctos_horribilis%29_%2851556280998%29.jpg",
+  "updatedAt": "2026-06-25T14:56:57.104Z",
   "attributionText": "Photo by Gregory Smith via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Standing_Grizzly_Bear_Cub_(Ursus_arctos_horribilis)_(51556280998).jpg\">Gregory Smith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:57.104Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-core-baby-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-core-baby-01-1200.webp"
   }
 }

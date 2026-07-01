@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Common lion fish Pterois volitans.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Lionfish in the wild",
+    "caption": "The Lionfish is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Pterois volitans Manado-e.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Lionfish navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Pterois volitans Manado-e edit.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Lionfish finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Lionfish.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Pterois volitans 400.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Lionfish showing early development",
+    "caption": "Baby Lionfishs must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Common lionfish at Shaab El Erg reef.JPG",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Lionfishs interacting with each other",
+    "caption": "While often solitary, some Lionfishs interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Pterois antennata-3.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Lionfish traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Pterois volitans - Wilhelma 01.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Lionfish",
+    "caption": "The size of a Lionfish can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Pez león colorado (Pterois volitans), Anilao, Filipinas, 2023-08-21, DD 139.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Lionfish",
+    "caption": "A close-up view reveals the intricate details of a Lionfish's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Pez león colorado (Pterois volitans), Anilao, Filipinas, 2023-08-21, DD 140.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Lionfish showing a unique behavior or adaptation",
+    "caption": "Did you know that the Lionfish has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Pterois volitans red lionfish.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Lionfish navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Red Lionfish Pterois volitans Left Side 2460px.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Lionfish finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Lionfish.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Common lionfish at Shaab El Erg reef.JPG",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A wild red lionfish swimming over a coral reef",
+    "caption": "While often solitary, some Lionfishs interact with others of their species.",
+    "location": "Red Sea"
+  },
+  "core-baby": {
+    "fileTitle": "File:Red lionfish (Pterois volitans).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Lionfish showing early development",
+    "caption": "Baby Lionfishs must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Red lionfish (Pterois volitans) (44878672394).jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Lionfish traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

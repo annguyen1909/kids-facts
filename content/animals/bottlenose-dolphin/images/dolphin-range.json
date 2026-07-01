@@ -2,10 +2,10 @@
   "id": "dolphin-range",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-range",
-  "fileName": "Common_Bottlenose_Dolphin_(Tursiops_truncatus)_Catalina_swimming.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Common_Bottlenose_Dolphin_%28Tursiops_truncatus%29_Catalina_swimming.jpg",
-  "width": 4608,
-  "height": 3072,
+  "fileName": "dolphin-range-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Bottlenose dolphin swimming in clear blue coastal water",
   "caption": "These dolphins are found in temperate and tropical seas on almost every continent.",
   "attributionText": "Photo by Kiloueka via Wikimedia Commons, CC0",
@@ -17,8 +17,8 @@
     "licenseName": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:34:02.162Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Coastal ocean",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a7/Common_Bottlenose_Dolphin_%28Tursiops_truncatus%29_Catalina_swimming.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a7/Common_Bottlenose_Dolphin_%28Tursiops_truncatus%29_Catalina_swimming.jpg",
+  "updatedAt": "2026-07-01T12:34:02.162Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-range-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-range-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-range-01-1200.webp"
+  }
 }

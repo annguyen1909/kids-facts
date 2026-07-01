@@ -1,0 +1,39 @@
+{
+  "id": "ruby-throated-hummingbird-baby",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-baby",
+  "fileName": "ruby-throated-hummingbird-baby-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-baby-01-1200.webp",
+  "width": 1200,
+  "height": 975,
+  "alt": "Female ruby-throated hummingbird sitting in a tiny lichen-covered nest on a tree branch",
+  "caption": "A female builds a tiny nest out of plant down, spider webs, and lichens to raise her chicks.",
+  "attributionText": "Photo by Lorie Shaull via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_on_nest_01.jpg\">Lorie Shaull</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_on_nest_01.jpg",
+    "creatorName": "Lorie Shaull",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:09:59.096Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby",
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Aitkin, Minnesota",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Ruby-throated_hummingbird_on_nest_01.jpg",
+  "updatedAt": "2026-06-25T15:09:59.096Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-baby-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-baby-01-1200.webp"
+  }
+}

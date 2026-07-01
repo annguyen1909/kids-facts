@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-closeup",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-closeup",
+  "fileName": "ring-tailed-lemur-closeup-01-1200.webp",
+  "alt": "Close-up of a ring-tailed lemur's face with bright orange eyes",
+  "caption": "Big orange eyes and a black-and-white face help lemurs see and recognize each other.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Francis C. Franklin via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ring_tailed_lemur_portrait.jpg\">Francis C. Franklin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ring_tailed_lemur_portrait.jpg",
+    "creatorName": "Francis C. Franklin",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:12.018Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ea/Ring_tailed_lemur_portrait.jpg",
+  "updatedAt": "2026-06-28T09:59:12.018Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-closeup-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-closeup-01-1200.webp"
+  }
+}

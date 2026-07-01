@@ -2,10 +2,10 @@
   "id": "chimpanzee-closeup",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-closeup",
-  "fileName": "015 Chimpanzee at Kibale forest National Park Photo by Giles Laurent.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
-  "width": 5184,
-  "height": 7776,
+  "fileName": "chimpanzee-closeup-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
   "alt": "Close-up of a chimpanzee face with thoughtful expression",
   "caption": "Chimpanzees use facial expressions, sounds, and gestures to communicate.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Kibale Forest National Park, Uganda",
-  "acquisitionNotes": "Manually curated chimpanzee close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Manually curated chimpanzee close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T14:50:28.882Z",
   "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:28.882Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-closeup-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-closeup-01-1200.webp"
   }
 }

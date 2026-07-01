@@ -2,23 +2,23 @@
   "id": "angelfish-habitat",
   "animalSlug": "angelfish",
   "slug": "angelfish-habitat",
-  "fileName": "Emperor Angelfish, Pomacanthus imperator at Elphinstone Reef, Red Sea, Egypt -SCUBA (6194697417).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Emperor_Angelfish%2C_Pomacanthus_imperator_at_Elphinstone_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_%286194697417%29.jpg",
+  "fileName": "angelfish-habitat-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-habitat-01-1200.webp",
   "width": 1024,
   "height": 693,
   "alt": "Emperor angelfish swimming over a coral reef",
   "caption": "They live on coral reefs and rocky reefs in warm, clear ocean water.",
   "attributionText": "Photo by Derek Keats from Johannesburg, South Africa via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor_Angelfish%2C_Pomacanthus_imperator_at_Elphinstone_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_(6194697417).jpg\">Derek Keats from Johannesburg, South Africa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Pomacanthus_imperator_at_Elphinstone_Reef,_Red_Sea,_Egypt_-SCUBA_(6194697417).jpg\">Derek Keats from Johannesburg, South Africa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish%2C_Pomacanthus_imperator_at_Elphinstone_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_(6194697417).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Pomacanthus_imperator_at_Elphinstone_Reef,_Red_Sea,_Egypt_-SCUBA_(6194697417).jpg",
     "creatorName": "Derek Keats from Johannesburg, South Africa",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:52.726Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Red Sea, Egypt",
-  "acquisitionNotes": "Manually curated angelfish habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:20.375Z"
+  "acquisitionNotes": "Manually curated angelfish habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Emperor_Angelfish%2C_Pomacanthus_imperator_at_Elphinstone_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_%286194697417%29.jpg",
+  "updatedAt": "2026-06-25T14:48:52.726Z",
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-habitat-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-habitat-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "manta-ray-fun-fact",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-fun-fact",
+  "fileName": "manta-ray-fun-fact-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-fun-fact-01-1200.webp",
+  "width": 613,
+  "height": 999,
+  "alt": "",
+  "caption": "",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Post of Indonesia via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Stamp_of_Indonesia_-_1997_-_Colnect_254167_-_Giant_Oceanic_Manta_Ray_Manta_birostris_Brain_Coral.jpeg\">Post of Indonesia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stamp_of_Indonesia_-_1997_-_Colnect_254167_-_Giant_Oceanic_Manta_Ray_Manta_birostris_Brain_Coral.jpeg",
+    "creatorName": "Post of Indonesia",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:02:29.816Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manta-ray image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Stamp_of_Indonesia_-_1997_-_Colnect_254167_-_Giant_Oceanic_Manta_Ray_Manta_birostris_Brain_Coral.jpeg",
+  "updatedAt": "2026-06-25T15:02:29.816Z",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-fun-fact-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-fun-fact-01-1200.webp"
+  }
+}

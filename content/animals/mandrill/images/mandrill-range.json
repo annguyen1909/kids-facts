@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-range",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-range",
+  "fileName": "mandrill-range-01-1200.webp",
+  "alt": "A Mandrill traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-range-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "attributionText": "Photo by Adesolive via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx(Mandrill)_side.jpg\">Adesolive</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx(Mandrill)_side.jpg",
+    "creatorName": "Adesolive",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:17:06.400Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e4/Mandrillus_sphinx%28Mandrill%29_side.jpg",
+  "updatedAt": "2026-06-26T08:17:06.400Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-range-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-range-01-1200.webp"
+  }
+}

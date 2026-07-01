@@ -1,0 +1,38 @@
+{
+  "id": "manta-ray-family",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-family",
+  "fileName": "manta-ray-family-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-family-01-1200.webp",
+  "width": 1200,
+  "height": 1320,
+  "alt": "",
+  "caption": "",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Xyxyzyz via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mobula_birostris_-_Australian_Museum_2022.jpg\">Xyxyzyz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobula_birostris_-_Australian_Museum_2022.jpg",
+    "creatorName": "Xyxyzyz",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:02:30.183Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manta-ray image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1b/Mobula_birostris_-_Australian_Museum_2022.jpg",
+  "updatedAt": "2026-06-25T15:02:30.183Z",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-family-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-family-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-family-01-1200.webp"
+  }
+}

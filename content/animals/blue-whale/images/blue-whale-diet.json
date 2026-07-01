@@ -2,10 +2,10 @@
   "id": "blue-whale-diet",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-diet",
-  "fileName": "Bluewhale877.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bluewhale877.jpg",
-  "width": 1792,
-  "height": 1128,
+  "fileName": "blue-whale-diet-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-diet-01-1200.webp",
+  "width": 1200,
+  "height": 755,
   "alt": "Adult blue whale surfacing in the eastern Pacific Ocean",
   "caption": "Blue whales filter huge mouthfuls of krill and small fish from the sea.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Eastern Pacific Ocean",
-  "acquisitionNotes": "Manually curated blue whale diet image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale diet image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d8/Bluewhale877.jpg",
+  "updatedAt": "2026-06-25T14:49:13.662Z",
   "attributionText": "Photo by NMFS Northeast Fisheries Science Center (NOAA) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg\">NMFS Northeast Fisheries Science Center (NOAA)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg\">NMFS Northeast Fisheries Science Center (NOAA)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg",
     "creatorName": "NMFS Northeast Fisheries Science Center (NOAA)",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bluewhale877.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:13.662Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-diet-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-diet-01-1200.webp"
   }
 }

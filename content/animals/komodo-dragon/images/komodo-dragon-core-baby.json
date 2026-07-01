@@ -2,10 +2,10 @@
   "id": "komodo-dragon-core-baby",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-core-baby",
-  "fileName": "Komodo Dragon juvenile, Komodo, 2016 (04).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Komodo_Dragon_juvenile%2C_Komodo%2C_2016_%2804%29.jpg",
-  "width": 4368,
-  "height": 2453,
+  "fileName": "komodo-dragon-core-baby-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 674,
   "alt": "Juvenile Komodo dragon climbing on rocky island habitat",
   "caption": "Young Komodo dragons are agile climbers and hide in trees to avoid larger dragons.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Komodo Island, Indonesia",
-  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/Komodo_Dragon_juvenile%2C_Komodo%2C_2016_%2804%29.jpg",
+  "updatedAt": "2026-06-25T14:59:58.547Z",
   "attributionText": "Photo by Bahnfrend via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Dragon_juvenile%2C_Komodo%2C_2016_(04).jpg\">Bahnfrend</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_Dragon_juvenile,_Komodo,_2016_(04).jpg\">Bahnfrend</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_Dragon_juvenile%2C_Komodo%2C_2016_(04).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_Dragon_juvenile,_Komodo,_2016_(04).jpg",
     "creatorName": "Bahnfrend",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:58.547Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-core-baby-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-core-baby-01-1200.webp"
   }
 }

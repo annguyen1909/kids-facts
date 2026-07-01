@@ -2,32 +2,37 @@
   "id": "flamingo-size",
   "animalSlug": "flamingo",
   "slug": "flamingo-size",
-  "fileName": "Phoenicopterus ruber MHNT.ZOO.2010.11.64.1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Phoenicopterus_ruber_MHNT.ZOO.2010.11.64.1.jpg",
-  "width": 5256,
-  "height": 3496,
-  "alt": "American flamingo showing tall legs and long neck",
-  "caption": "American flamingos stand about 4 to 5 feet tall.",
-  "imageType": "size",
+  "fileName": "flamingo-size-01-1200.webp",
+  "alt": "An American Flamingo standing on one leg in shallow water",
+  "caption": "American Flamingos can stand up to 1.4 meters tall, using their long legs to wade in deep salt lakes.",
   "galleryTopics": [
     "size"
   ],
   "featuredOnPages": [
     "gallery"
   ],
+  "imageType": "size",
   "location": "Caribbean",
-  "acquisitionNotes": "Manually curated flamingo size image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:29.048Z",
-  "attributionText": "Photo by Roger Culos via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_MHNT.ZOO.2010.11.64.1.jpg\">Roger Culos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "src": "/images/animals/flamingo/web/flamingo-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Drew Avery via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_standing_on_one_leg.jpg\">Drew Avery</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_MHNT.ZOO.2010.11.64.1.jpg",
-    "creatorName": "Roger Culos",
-    "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber_standing_on_one_leg.jpg",
+    "creatorName": "Drew Avery",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T08:16:13.890Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified flamingo image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9d/Phoenicopterus_ruber_standing_on_one_leg.jpg",
+  "updatedAt": "2026-06-26T08:16:13.890Z",
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-size-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-size-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-size-01-1200.webp"
   }
 }

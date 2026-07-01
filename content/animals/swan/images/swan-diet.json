@@ -1,0 +1,38 @@
+{
+  "id": "swan-diet",
+  "animalSlug": "swan",
+  "slug": "swan-diet",
+  "fileName": "swan-diet-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Mute Swan finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Mute Swan.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mute_swans_(Cygnus_olor)_and_cygnets.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_swans_(Cygnus_olor)_and_cygnets.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:05.474Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Mute_swans_%28Cygnus_olor%29_and_cygnets.jpg",
+  "updatedAt": "2026-06-25T15:12:05.474Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-diet-01-400.webp",
+    "original": "/images/animals/swan/web/swan-diet-01-1200.webp"
+  }
+}

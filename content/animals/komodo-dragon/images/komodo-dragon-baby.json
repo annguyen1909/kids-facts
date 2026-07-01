@@ -2,10 +2,10 @@
   "id": "komodo-dragon-baby",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-baby",
-  "fileName": "Baby Komodo dragon on Rinca Island, Komodo National Park.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Baby_Komodo_dragon_on_Rinca_Island%2C_Komodo_National_Park.jpg",
-  "width": 3749,
-  "height": 2513,
+  "fileName": "komodo-dragon-baby-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-baby-01-1200.webp",
+  "width": 1200,
+  "height": 804,
   "alt": "Young Komodo dragon hatchling on rocky ground",
   "caption": "Baby Komodo dragons hatch from eggs and spend early life in trees to stay safe.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Rinca Island, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon hatchling image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon hatchling image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cd/Baby_Komodo_dragon_on_Rinca_Island%2C_Komodo_National_Park.jpg",
+  "updatedAt": "2026-06-25T14:59:56.827Z",
   "attributionText": "Photo by サラトラベルコモド via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_Komodo_dragon_on_Rinca_Island%2C_Komodo_National_Park.jpg\">サラトラベルコモド</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_Komodo_dragon_on_Rinca_Island,_Komodo_National_Park.jpg\">サラトラベルコモド</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_Komodo_dragon_on_Rinca_Island%2C_Komodo_National_Park.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_Komodo_dragon_on_Rinca_Island,_Komodo_National_Park.jpg",
     "creatorName": "サラトラベルコモド",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:56.827Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-baby-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-baby-01-1200.webp"
   }
 }

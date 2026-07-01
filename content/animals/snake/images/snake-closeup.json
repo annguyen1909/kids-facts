@@ -2,10 +2,10 @@
   "id": "snake-closeup",
   "animalSlug": "snake",
   "slug": "snake-closeup",
-  "fileName": "Ball Python (16271012717).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ball_Python_%2816271012717%29.jpg",
-  "width": 2816,
-  "height": 2112,
+  "fileName": "snake-closeup-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Close-up of a ball python head and eyes",
   "caption": "Like all snakes, ball pythons smell with their tongue and shed their skin as they grow.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Manually curated ball python close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/03/Ball_Python_%2816271012717%29.jpg",
+  "updatedAt": "2026-06-25T15:11:35.024Z",
   "attributionText": "Photo by shankar s. from sharjah, united arab emirates via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ball_Python_(16271012717).jpg\">shankar s. from sharjah, united arab emirates</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:35.024Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-closeup-01-400.webp",
+    "original": "/images/animals/snake/web/snake-closeup-01-1200.webp"
   }
 }

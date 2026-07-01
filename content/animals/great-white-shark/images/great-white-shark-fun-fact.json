@@ -2,10 +2,10 @@
   "id": "great-white-shark-fun-fact",
   "animalSlug": "great-white-shark",
   "slug": "great-white-shark-fun-fact",
-  "fileName": "Surfacing great white edit 4.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Surfacing_great_white_edit_4.jpg",
-  "width": 2835,
-  "height": 1890,
+  "fileName": "great-white-shark-fun-fact-01-1200.webp",
+  "src": "/images/animals/great-white-shark/web/great-white-shark-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Great white shark surfacing with its head above water",
   "caption": "A great white shark can rise quickly toward the surface while investigating prey.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "South Africa",
-  "acquisitionNotes": "Manually curated great white shark fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "acquisitionNotes": "Manually curated great white shark fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/ff/Surfacing_great_white_edit_4.jpg",
+  "updatedAt": "2026-06-25T14:56:47.961Z",
   "attributionText": "Photo by Brocken Inaglory (Photograph edited by Vassil) via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Surfacing_great_white_edit_4.jpg\">Brocken Inaglory (Photograph edited by Vassil)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Surfacing_great_white_edit_4.jpg\">Brocken Inaglory (Photograph edited by Vassil)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surfacing_great_white_edit_4.jpg",
     "creatorName": "Brocken Inaglory (Photograph edited by Vassil)",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.764Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:47.961Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/great-white-shark/web/great-white-shark-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/great-white-shark/thumbnails/great-white-shark-fun-fact-01-400.webp",
+    "original": "/images/animals/great-white-shark/web/great-white-shark-fun-fact-01-1200.webp"
   }
 }

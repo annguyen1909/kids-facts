@@ -1,0 +1,38 @@
+{
+  "id": "cicada-core-diet",
+  "animalSlug": "cicada",
+  "slug": "cicada-core-diet",
+  "fileName": "cicada-core-diet-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-core-diet-01-1200.webp",
+  "width": 840,
+  "height": 552,
+  "alt": "A Cicada finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Cicada.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Fontaine K, Cooley J, Simon C (2007) via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:A_Magicicada_septendecim_female_mating_with_a_Magicicada_cassini_male_-_journal.pone.0000892.g004C.png\">Fontaine K, Cooley J, Simon C (2007)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Magicicada_septendecim_female_mating_with_a_Magicicada_cassini_male_-_journal.pone.0000892.g004C.png",
+    "creatorName": "Fontaine K, Cooley J, Simon C (2007)",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:53.541Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/A_Magicicada_septendecim_female_mating_with_a_Magicicada_cassini_male_-_journal.pone.0000892.g004C.png",
+  "updatedAt": "2026-06-25T14:50:53.541Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-core-diet-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-core-diet-01-1200.webp"
+  }
+}

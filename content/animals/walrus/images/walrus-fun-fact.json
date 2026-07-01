@@ -1,0 +1,38 @@
+{
+  "id": "walrus-fun-fact",
+  "animalSlug": "walrus",
+  "slug": "walrus-fun-fact",
+  "fileName": "walrus-fun-fact-01-1200.webp",
+  "alt": "Walrus using its tusks while hauling its body onto land",
+  "caption": "A walrus can hook its tusks into the ice to drag itself out of the water, like tooth-walking.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Alaska, USA",
+  "src": "/images/animals/walrus/web/walrus-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Joel Garlich-Miller, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pacific_walrus_bull_animal_hauled_out.jpg\">Joel Garlich-Miller, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pacific_walrus_bull_animal_hauled_out.jpg",
+    "creatorName": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:12.153Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b4/Pacific_walrus_bull_animal_hauled_out.jpg",
+  "updatedAt": "2026-06-28T10:03:12.153Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-fun-fact-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-fun-fact-01-1200.webp"
+  }
+}

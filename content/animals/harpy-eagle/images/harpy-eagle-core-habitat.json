@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-core-habitat",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-core-habitat",
+  "alt": "Beautiful harpy eagle sitting gracefully amidst rich Neotropical foliage",
+  "caption": "The preservation of massive emergent trees like the kapok is vital for harpy eagle nesting and territorial dominance.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Summit Municipal Park, Panama",
+  "fileName": "harpy-eagle-core-habitat-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "attributionText": "Photo by Ivo Kruusamägi via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja,_Panama.jpg\">Ivo Kruusamägi</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja,_Panama.jpg",
+    "creatorName": "Ivo Kruusamägi",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:29.937Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-quality core habitat shot showcasing excellent clarity and surrounding greenery. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Harpia_harpyja%2C_Panama.jpg",
+  "updatedAt": "2026-06-29T11:55:29.937Z",
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-core-habitat-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-core-habitat-01-1200.webp"
+  }
+}

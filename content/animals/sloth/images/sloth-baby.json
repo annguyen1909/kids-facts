@@ -2,10 +2,10 @@
   "id": "sloth-baby",
   "animalSlug": "sloth",
   "slug": "sloth-baby",
-  "fileName": "Sloth with baby - Flickr - gailhampshire.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sloth_with_baby_-_Flickr_-_gailhampshire.jpg",
-  "width": 3174,
-  "height": 2479,
+  "fileName": "sloth-baby-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-baby-01-1200.webp",
+  "width": 1200,
+  "height": 937,
   "alt": "Mother sloth carrying a baby on her belly",
   "caption": "Baby sloths cling to their mothers for months while learning which leaves are safe.",
   "attributionText": "Photo by gailhampshire from Cradley, Malvern, U.K via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:21.846Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated sloth infant image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z"
+  "acquisitionNotes": "Manually curated sloth infant image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/35/Sloth_with_baby_-_Flickr_-_gailhampshire.jpg",
+  "updatedAt": "2026-06-25T15:11:21.846Z",
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-baby-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-baby-01-1200.webp"
+  }
 }

@@ -1,0 +1,150 @@
+{
+  "id": "animal-monarch-butterfly",
+  "slug": "monarch-butterfly",
+  "name": "Monarch Butterfly",
+  "commonNames": [
+    "Monarch Butterfly",
+    "Milkweed Butterfly",
+    "Monarch"
+  ],
+  "scientificName": "Danaus plexippus",
+  "summary": "Monarch butterflies are beautiful insects famous for their bright orange and black wings. They are best known for their incredible long-distance migration across North America and their unique relationship with milkweed plants, which is the only food their caterpillars eat.",
+  "heroTitle": "Monarch Butterfly Facts",
+  "metaTitle": "Monarch Butterfly Facts | Habitat, Diet, Migration & Photos",
+  "metaDescription": "Discover monarch butterfly facts with photos, caterpillar life cycle, long-distance migration, milkweed diet, and conservation. Learn how they grow and migrate.",
+  "searchIntents": [
+    "monarch butterfly facts",
+    "what do monarch butterflies eat",
+    "where do monarch butterflies live",
+    "monarch butterfly migration",
+    "monarch caterpillar facts",
+    "how long do monarchs live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Lepidoptera",
+    "family": "Nymphalidae",
+    "genus": "Danaus",
+    "species": "D. plexippus"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "continents": [
+    "North America",
+    "South America",
+    "Oceania",
+    "Europe"
+  ],
+  "countries": [
+    "United States",
+    "Mexico",
+    "Canada",
+    "Australia",
+    "New Zealand",
+    "Spain",
+    "Portugal"
+  ],
+  "biomes": [
+    "savanna",
+    "temperate forest",
+    "grassland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "milkweed leaves",
+    "wildflower nectar",
+    "flower nectar"
+  ],
+  "lifespan": {
+    "wild": "2 to 6 weeks (summer generations); up to 8 months (migrating generation)",
+    "captivity": "Up to 8 months in climate-controlled sanctuaries"
+  },
+  "size": {
+    "lengthMin": "3 inches wingspan",
+    "lengthMax": "4 inches wingspan"
+  },
+  "weight": {
+    "min": "0.009 ounces",
+    "max": "0.026 ounces"
+  },
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "migration",
+    "pollination",
+    "nectar feeding",
+    "clustering",
+    "mimicry"
+  ],
+  "adaptations": [
+    "toxic defense",
+    "warning coloration",
+    "magnetic sensing",
+    "efficient gliding"
+  ],
+  "predators": [
+    "birds",
+    "wasps",
+    "spiders",
+    "mice"
+  ],
+  "prey": [
+    "none"
+  ],
+  "reproduction": {
+    "offspringName": "caterpillar",
+    "gestationOrIncubation": "3 to 8 days (egg stage)",
+    "offspringCount": "Usually 300 to 500 eggs"
+  },
+  "funFacts": [
+    "Monarch caterpillars eat only milkweed leaves, which contain a toxin that makes them taste terrible to birds.",
+    "A migrating monarch butterfly can fly up to 80 miles (130 km) in a single day.",
+    "Monarchs are the only butterflies that make a two-way migration, similar to birds.",
+    "A group of monarch butterflies is called a flutter, a swarm, or a kaleidoscope!",
+    "Inside the chrysalis, the caterpillar's body completely breaks down before reforming into a butterfly.",
+    "Monarch butterflies use the sun as a compass to guide them on their long journey south."
+  ],
+  "faq": [
+    {
+      "question": "What is a monarch butterfly?",
+      "answer": "A monarch butterfly is a large, colorful insect famous for its bright orange wings with black stripes and white spots. They are known for traveling thousands of miles every year."
+    },
+    {
+      "question": "Why do monarchs eat milkweed?",
+      "answer": "Milkweed is the only food that monarch caterpillars eat. The plant has a special sap that makes the caterpillar and the adult butterfly taste bad to predators like birds."
+    },
+    {
+      "question": "Where do monarch butterflies go in winter?",
+      "answer": "In winter, millions of monarchs fly south to warm places. Monarchs from eastern North America travel to pine forests in Mexico, while western monarchs fly to eucalyptus trees in California."
+    },
+    {
+      "question": "How long does a monarch butterfly live?",
+      "answer": "Most summer monarchs live for only two to six weeks. However, the generation that migrates south in the fall can live up to eight months to survive the winter."
+    },
+    {
+      "question": "What is a baby monarch called?",
+      "answer": "A baby monarch is called a caterpillar or a larva. It hatches from a tiny egg, eats lots of milkweed, and later turns into a chrysalis to grow into a butterfly."
+    },
+    {
+      "question": "Are monarch butterflies endangered?",
+      "answer": "Yes, monarch butterflies face threats from habitat loss, weather changes, and pesticides. Many communities plant milkweed to help save them."
+    }
+  ],
+  "relatedAnimals": [
+    "honeybee",
+    "ruby-throated-hummingbird",
+    "tokay-gecko"
+  ],
+  "comparisonCandidates": [
+    "honeybee"
+  ],
+  "galleryIds": [
+    "monarch-butterfly-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T15:28:30.000Z",
+  "publishedAt": "2026-06-24T15:28:30.000Z",
+  "habitat": "grassland"
+}

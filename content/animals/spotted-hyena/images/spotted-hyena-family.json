@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-family",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-family",
+  "fileName": "spotted-hyena-family-01-1200.webp",
+  "alt": "Mother spotted hyena standing with her cub in the wild",
+  "caption": "Spotted hyenas live in large family groups called clans that are led by females.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Kruger National Park, South Africa",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Spotted_Hyaenas_(Crocuta_crocuta)_female_with_cub_..._(50332449498).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_Hyaenas_(Crocuta_crocuta)_female_with_cub_..._(50332449498).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:21.417Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/12/Spotted_Hyaenas_%28Crocuta_crocuta%29_female_with_cub_..._%2850332449498%29.jpg",
+  "updatedAt": "2026-06-28T09:46:21.417Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-family-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-family-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-family-01-1200.webp"
+  }
+}

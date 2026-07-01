@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-core-habitat",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-core-habitat",
+  "fileName": "american-bison-core-habitat-01-1200.webp",
+  "alt": "American bison grazing near the Old Faithful geyser in Yellowstone",
+  "caption": "Grasslands give bison the open space and steady food they need to thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Yellowstone National Park, Wyoming, USA",
+  "src": "/images/animals/american-bison/web/american-bison-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Dietmar Rabich via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_(und_Bison)_--_2022_--_2587.jpg\">Dietmar Rabich</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_(und_Bison)_--_2022_--_2587.jpg",
+    "creatorName": "Dietmar Rabich",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:13.367Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/ba/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_%28und_Bison%29_--_2022_--_2587.jpg",
+  "updatedAt": "2026-06-28T09:54:13.367Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-core-habitat-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-core-habitat-01-1200.webp"
+  }
+}

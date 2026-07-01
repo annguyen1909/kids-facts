@@ -1,0 +1,42 @@
+{
+  "id": "lionfish-core-habitat",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-core-habitat",
+  "fileName": "lionfish-core-habitat-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 998,
+  "alt": "A Lionfish navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by z2amiller via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pterois_volitans_red_lionfish.jpg\">z2amiller</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_red_lionfish.jpg",
+    "creatorName": "z2amiller",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:51.395Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8e/Pterois_volitans_red_lionfish.jpg",
+  "updatedAt": "2026-06-25T15:01:51.395Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_red_lionfish.jpg",
+  "creatorName": "z2amiller",
+  "licenseName": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-core-habitat-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-core-habitat-01-1200.webp"
+  }
+}

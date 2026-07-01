@@ -2,10 +2,10 @@
   "id": "great-white-shark-hero",
   "animalSlug": "great-white-shark",
   "slug": "great-white-shark-hero",
-  "fileName": "Great White Shark (14730796397).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Great_White_Shark_%2814730796397%29.jpg",
-  "width": 3024,
-  "height": 2268,
+  "fileName": "great-white-shark-hero-01-1200.webp",
+  "src": "/images/animals/great-white-shark/web/great-white-shark-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Great white shark swimming just below the surface",
   "caption": "Great white sharks are powerful ocean fish with streamlined bodies and sharp teeth.",
   "imageType": "hero",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Open ocean",
-  "acquisitionNotes": "Manually curated great white shark hero image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "acquisitionNotes": "Manually curated great white shark hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/79/Great_White_Shark_%2814730796397%29.jpg",
+  "updatedAt": "2026-06-25T14:56:49.746Z",
   "attributionText": "Photo by Elias Levy via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730796397).jpg\">Elias Levy</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.764Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:49.746Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/great-white-shark/web/great-white-shark-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/great-white-shark/thumbnails/great-white-shark-hero-01-400.webp",
+    "original": "/images/animals/great-white-shark/web/great-white-shark-hero-01-1200.webp"
   }
 }

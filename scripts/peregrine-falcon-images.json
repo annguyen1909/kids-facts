@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Peregrine Falcon (male) cropped.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon perched majestically on a branch, showing its slate-grey back and barred breast",
+    "caption": "The peregrine falcon is the fastest animal in the world, capable of diving at over 200 mph.",
+    "location": "India"
+  },
+  "habitat": {
+    "fileTitle": "File:Falco peregrinus minor, Cape Town, South Africa 118534019.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon perched high on a rocky cliff face overlooking Cape Town",
+    "caption": "They live in open habitats, nesting on high cliffs, mountains, and even skyscrapers in cities.",
+    "location": "Cape Town, South Africa"
+  },
+  "diet": {
+    "fileTitle": "File:Peregrine Falcon (Falco peregrinus) (37767121582).jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon scanning its surroundings from a branch while holding a freshly caught bird",
+    "caption": "As carnivores, peregrine falcons hunt other birds, catching them mid-air in high-speed dives.",
+    "location": "Pakistan"
+  },
+  "baby": {
+    "fileTitle": "File:Peregrine falcon (Falco peregrinus) and four chicks (ed4d091b-79a4-4752-be96-589ad25c39c7).jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "A mother peregrine falcon feeding her four fluffy white chicks in a nest",
+    "caption": "Peregrine falcon chicks, called eyases, are born covered in fluffy white down.",
+    "location": "Yellowstone National Park, USA"
+  },
+  "family": {
+    "fileTitle": "File:Falco peregrinus 113345020.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Two peregrine falcons perched near each other on a high ledge",
+    "caption": "Falcons mate for life and return to the same nesting site, called an eyrie, every year.",
+    "location": "California, USA"
+  },
+  "range": {
+    "fileTitle": "File:Peregrine falcon approaching-20200411-RM-164346.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon soaring with wings spread wide in a bright blue sky",
+    "caption": "Peregrine falcons are found on every continent except Antarctica, making them one of the most widespread birds.",
+    "location": "Germany"
+  },
+  "size": {
+    "fileTitle": "File:Falco peregrinus 113345024.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon perched, displaying its full body and tail length",
+    "caption": "They are medium-sized birds, with a wingspan of about 3 to 4 feet (90 to 120 cm).",
+    "location": "California, USA"
+  },
+  "closeup": {
+    "fileTitle": "File:Peregrine. Falco peregrinus (45536992454).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Detailed close-up of a peregrine falcon's head showing its yellow beak and keen black eyes",
+    "caption": "Their large eyes are specially protected by a third eyelid to help them see clearly during fast flights.",
+    "location": "United Kingdom"
+  },
+  "fun-fact": {
+    "fileTitle": "File:The Peregrine Falcon a Living Missile Bird.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "A peregrine falcon in mid-flight diving like a missile",
+    "caption": "When diving for prey, they fold their wings and tuck their legs, acting like an aerodynamic missile.",
+    "location": "India"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Falco peregrinus 114336093.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "A peregrine falcon perched on a rocky ledge",
+    "caption": "High cliff ledges protect their nests from land predators like foxes.",
+    "location": "Netherlands"
+  },
+  "core-diet": {
+    "fileTitle": "File:Falco peregrinus 122816425.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "A peregrine falcon on a post looking around after feeding",
+    "caption": "They require high-protein diets to maintain their high-energy flight style.",
+    "location": "Netherlands"
+  },
+  "core-family": {
+    "fileTitle": "File:Falco peregrinus 148261320.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "A peregrine falcon calling out from its perch",
+    "caption": "Falcons guard their nesting territories aggressively against other birds of prey.",
+    "location": "Netherlands"
+  },
+  "core-baby": {
+    "fileTitle": "File:Falco peregrinus 143426659.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "A young peregrine falcon chick learning to stand in its rocky nest",
+    "caption": "Chicks grow rapidly and are ready to fly about 40 days after hatching.",
+    "location": "Russia"
+  },
+  "core-range": {
+    "fileTitle": "File:Peregrine falcon (Falco peregrinus) in flight, Cape Baily, Kamay Botany Bay NSW Jun 2022.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "A peregrine falcon gliding effortlessly in search of prey",
+    "caption": "Their long-distance migrations are among the longest of any North American bird.",
+    "location": "New South Wales, Australia"
+  }
+}

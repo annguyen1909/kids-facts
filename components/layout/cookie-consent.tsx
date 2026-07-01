@@ -1,25 +1,20 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { updateConsentStatus, useConsentStatus } from "@/lib/consent";
 import { hasThirdPartyScripts, siteConfig } from "@/lib/site-config";
 
-const CONSENT_KEY = "afk-cookie-consent";
-
 export function CookieConsent() {
-  const [visible, setVisible] = useState(false);
+  const consent = useConsentStatus();
 
-  useEffect(() => {
-    if (!hasThirdPartyScripts()) return;
-    const stored = window.localStorage.getItem(CONSENT_KEY);
-    if (!stored) setVisible(true);
-  }, []);
-
-  if (!visible) return null;
+  if (!hasThirdPartyScripts() || consent === null || consent !== "unknown") return null;
 
   function accept() {
-    window.localStorage.setItem(CONSENT_KEY, "accepted");
-    setVisible(false);
+    updateConsentStatus("accepted");
+  }
+
+  function decline() {
+    updateConsentStatus("declined");
   }
 
   return (
@@ -32,16 +27,22 @@ export function CookieConsent() {
       <div className="cookie-consent__panel">
         <p className="cookie-consent__title">Cookies on {siteConfig.name}</p>
         <p className="cookie-consent__text">
-          We use cookies for basic analytics and, when enabled, advertising that helps keep the
-          site free. Read our{" "}
+          We only load optional analytics and advertising after you accept. Read our{" "}
           <Link href="/privacy" className="cookie-consent__link">
             Privacy Policy
+          </Link>
+          {" "}or change this any time in{" "}
+          <Link href="/privacy#privacy-settings" className="cookie-consent__link">
+            Privacy settings
           </Link>
           .
         </p>
         <div className="cookie-consent__actions">
           <button type="button" onClick={accept} className="cookie-consent__accept">
-            Got it
+            Accept
+          </button>
+          <button type="button" onClick={decline} className="cookie-consent__learn">
+            Decline
           </button>
           <Link href="/privacy" className="cookie-consent__learn">
             Learn more

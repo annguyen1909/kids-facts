@@ -1,0 +1,22 @@
+{
+  "id": "leafcutter-ant-gallery-main",
+  "animalSlug": "leafcutter-ant",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Leafcutter Ant Photo Gallery",
+  "metaTitle": "Leafcutter Ant Photo Gallery",
+  "metaDescription": "Browse a leafcutter ant photo gallery with wildlife photos.",
+  "intro": "Explore leafcutter ant photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "leafcutter-ant-hero",
+    "leafcutter-ant-habitat",
+    "leafcutter-ant-diet",
+    "leafcutter-ant-baby",
+    "leafcutter-ant-family",
+    "leafcutter-ant-range",
+    "leafcutter-ant-size",
+    "leafcutter-ant-closeup",
+    "leafcutter-ant-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

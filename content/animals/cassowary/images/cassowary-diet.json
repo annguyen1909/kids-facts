@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-diet",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-diet",
+  "fileName": "cassowary-diet-01-1200.webp",
+  "alt": "A Southern Cassowary foraging on the forest floor",
+  "caption": "Southern Cassowaries are key seed dispersers in tropical rainforests, feeding mainly on fallen fruits.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Queensland, Australia",
+  "src": "/images/animals/cassowary/web/cassowary-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Summerdrought via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg\">Summerdrought</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_7071.jpg",
+    "creatorName": "Summerdrought",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:58.755Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/54/Southern_Cassowary_7071.jpg",
+  "updatedAt": "2026-06-26T08:15:58.755Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-diet-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-diet-01-1200.webp"
+  }
+}

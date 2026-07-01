@@ -2,10 +2,10 @@
   "id": "gorilla-core-range",
   "animalSlug": "gorilla",
   "slug": "gorilla-core-range",
-  "fileName": "Lowland Gorilla (8973697544).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Lowland_Gorilla_%288973697544%29.jpg",
-  "width": 1692,
-  "height": 1827,
+  "fileName": "gorilla-core-range-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1296,
   "alt": "Western lowland gorilla in dense forest habitat",
   "caption": "Gorillas are listed as Critically Endangered because of habitat loss and hunting.",
   "attributionText": "Photo by Rennett Stowe from USA via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:13.232Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set.",
-  "updatedAt": "2026-06-24T09:05:05.825Z"
+  "acquisitionNotes": "Core article image curated separately from the gorilla gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/09/Lowland_Gorilla_%288973697544%29.jpg",
+  "updatedAt": "2026-06-25T14:56:13.232Z",
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-core-range-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-core-range-01-1200.webp"
+  }
 }

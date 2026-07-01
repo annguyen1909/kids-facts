@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-core-baby",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-core-baby",
+  "alt": "Historic photograph of a juvenile wandering albatross on Antipodes Island",
+  "caption": "Once fully fledged, young albatrosses take to the sky and may not touch land again for five to ten years before returning to their natal colony to breed.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Antipodes Island",
+  "fileName": "wandering-albatross-core-baby-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-core-baby-01-1200.webp",
+  "width": 859,
+  "height": 745,
+  "attributionText": "Photo by Charles Chilton via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:FMIB_50776_Young_Wandering_Albatross_(Diomedea_exulans)_in_Dosn,_Antipodes_Island.jpeg\">Charles Chilton</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMIB_50776_Young_Wandering_Albatross_(Diomedea_exulans)_in_Dosn,_Antipodes_Island.jpeg",
+    "creatorName": "Charles Chilton",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T12:05:38.567Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile life cycle illustration. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/83/FMIB_50776_Young_Wandering_Albatross_%28Diomedea_exulans%29_in_Dosn%2C_Antipodes_Island.jpeg",
+  "updatedAt": "2026-06-29T12:05:38.567Z",
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-core-baby-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-core-baby-01-1200.webp"
+  }
+}

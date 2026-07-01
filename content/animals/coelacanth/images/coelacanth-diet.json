@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-diet",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-diet",
+  "fileName": "coelacanth-diet-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Coelacanth displaying robust jaws and mouth adapted for catching deep-sea prey",
+  "caption": "As nocturnal carnivores, coelacanths hunt cuttlefish, squid, eels, and small deep-water sharks.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Royal Museum for Central Africa",
+  "acquisitionNotes": "Manually curated coelacanth diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d5/Royal_Museum_for_Central_Africa_Coelacanthe_Latimeria_chalumnae_2.jpg",
+  "updatedAt": "2026-06-29T07:22:28.651Z",
+  "attributionText": "Photo by Lionel Allorge via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Royal_Museum_for_Central_Africa_Coelacanthe_Latimeria_chalumnae_2.jpg\">Lionel Allorge</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Museum_for_Central_Africa_Coelacanthe_Latimeria_chalumnae_2.jpg",
+    "creatorName": "Lionel Allorge",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:28.651Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-diet-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-diet-01-1200.webp"
+  }
+}

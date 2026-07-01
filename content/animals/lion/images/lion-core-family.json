@@ -2,10 +2,10 @@
   "id": "lion-core-family",
   "animalSlug": "lion",
   "slug": "lion-core-family",
-  "fileName": "1280px-Family_of_lions_during_the_mating_season.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Family_of_lions_during_the_mating_season.jpg/1280px-Family_of_lions_during_the_mating_season.jpg",
-  "width": 1280,
-  "height": 854,
+  "fileName": "lion-core-family-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 801,
   "alt": "Lion pride with adults and young resting together on plain",
   "caption": "Lions live in prides, social groups that help defend territory and cubs.",
   "attributionText": "Photo by Byrdyak via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:23.154Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Africa",
-  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a0/Family_of_lions_during_the_mating_season.jpg",
+  "updatedAt": "2026-06-25T15:01:23.154Z",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-core-family-01-400.webp",
+    "original": "/images/animals/lion/web/lion-core-family-01-1200.webp"
+  }
 }

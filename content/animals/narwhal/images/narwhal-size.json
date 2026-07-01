@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-size",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-size",
+  "fileName": "narwhal-size-01-1200.webp",
+  "alt": "A photo showing the size of a Narwhal",
+  "caption": "The size of a Narwhal can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-size-01-1200.webp",
+  "width": 1200,
+  "height": 702,
+  "attributionText": "Photo by Calliopejen via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monodon_monoceros_range_in_ak.png\">Calliopejen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monodon_monoceros_range_in_ak.png",
+    "creatorName": "Calliopejen",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:07:01.861Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/67/Monodon_monoceros_range_in_ak.png Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/67/Monodon_monoceros_range_in_ak.png",
+  "updatedAt": "2026-06-26T19:07:01.861Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-size-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-size-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-size-01-1200.webp"
+  }
+}

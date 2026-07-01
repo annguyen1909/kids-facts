@@ -1,0 +1,38 @@
+{
+  "id": "snow-leopard-core-range",
+  "animalSlug": "snow-leopard",
+  "slug": "snow-leopard-core-range",
+  "fileName": "snow-leopard-core-range-01-1200.webp",
+  "alt": "A Snow Leopard traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/snow-leopard/web/snow-leopard-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Jolanta Dyr via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Uncia_uncia_in_Warsaw_Zoo_-_02.jpg\">Jolanta Dyr</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uncia_uncia_in_Warsaw_Zoo_-_02.jpg",
+    "creatorName": "Jolanta Dyr",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:13:57.979Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified snow-leopard image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/Uncia_uncia_in_Warsaw_Zoo_-_02.jpg",
+  "updatedAt": "2026-06-26T08:13:57.979Z",
+  "srcSet": {
+    "web1200": "/images/animals/snow-leopard/web/snow-leopard-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/snow-leopard/thumbnails/snow-leopard-core-range-01-400.webp",
+    "original": "/images/animals/snow-leopard/web/snow-leopard-core-range-01-1200.webp"
+  }
+}

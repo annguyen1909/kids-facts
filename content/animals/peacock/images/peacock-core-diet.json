@@ -1,0 +1,38 @@
+{
+  "id": "peacock-core-diet",
+  "animalSlug": "peacock",
+  "slug": "peacock-core-diet",
+  "fileName": "peacock-core-diet-01-1200.webp",
+  "alt": "A peacock feeding on seeds in a garden",
+  "caption": "Peacocks are omnivorous, foraging on the ground for seeds, grains, berries, insects, and small reptiles.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "United Kingdom",
+  "src": "/images/animals/peacock/web/peacock-core-diet-01-1200.webp",
+  "width": 640,
+  "height": 547,
+  "attributionText": "Photo by Bob Embleton via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peacock_feeding_in_a_garden_-_geograph.org.uk_-_1727973.jpg\">Bob Embleton</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peacock_feeding_in_a_garden_-_geograph.org.uk_-_1727973.jpg",
+    "creatorName": "Bob Embleton",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:23.383Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Peacock_feeding_in_a_garden_-_geograph.org.uk_-_1727973.jpg",
+  "updatedAt": "2026-06-26T08:17:23.383Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-core-diet-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-core-diet-01-1200.webp"
+  }
+}

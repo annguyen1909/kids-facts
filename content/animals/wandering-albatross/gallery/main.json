@@ -1,0 +1,22 @@
+{
+  "id": "wandering-albatross-gallery-main",
+  "animalSlug": "wandering-albatross",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Wandering Albatross Photo Gallery",
+  "metaTitle": "Wandering Albatross Photo Gallery",
+  "metaDescription": "Browse a wandering albatross photo gallery with wildlife photos.",
+  "intro": "Explore wandering albatross photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "wandering-albatross-hero",
+    "wandering-albatross-habitat",
+    "wandering-albatross-diet",
+    "wandering-albatross-baby",
+    "wandering-albatross-family",
+    "wandering-albatross-range",
+    "wandering-albatross-size",
+    "wandering-albatross-closeup",
+    "wandering-albatross-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:25.723Z"
+}

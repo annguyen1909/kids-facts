@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-core-baby",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-core-baby",
+  "fileName": "tasmanian-devil-core-baby-01-1200.webp",
+  "alt": "A young or baby Tasmanian Devil showing early development",
+  "caption": "Baby Tasmanian Devils must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-baby-01-1200.webp",
+  "width": 1003,
+  "height": 246,
+  "attributionText": "Photo by Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Karyotype_of_DFTD_Tasmanian_devil_(Sarcophilus_Harrisii).png\">Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karyotype_of_DFTD_Tasmanian_devil_(Sarcophilus_Harrisii).png",
+    "creatorName": "Hannah S. Bender , Elizabeth P. Murchison, Hilda A. Pickett, Janine E. Deakin, Margaret A. Strong, Carly Conlan, Daniel A. McMillan, Axel A. Neumann, Carol W. Greider, Gregory J. Hannon, Roger R. Reddel, Jennifer A. Marshall. Graves",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:35.235Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/Karyotype_of_DFTD_Tasmanian_devil_%28Sarcophilus_Harrisii%29.png",
+  "updatedAt": "2026-06-26T08:17:35.235Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-core-baby-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-core-baby-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-core-family",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-core-family",
+  "fileName": "praying-mantis-core-family-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "alt": "A praying mantis turning its head to look directly at the camera",
+  "caption": "European mantises are solitary animals and defend their hunting territory.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Sète, France",
+  "attributionText": "Photo by Christian Ferrer via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mantis_religiosa,_immature_female,_S%C3%A8te_04.jpg\">Christian Ferrer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mantis_religiosa,_immature_female,_S%C3%A8te_04.jpg",
+    "creatorName": "Christian Ferrer",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:11.258Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ef/Mantis_religiosa%2C_immature_female%2C_S%C3%A8te_04.jpg",
+  "updatedAt": "2026-06-25T15:08:11.258Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-core-family-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-core-family-01-1200.webp"
+  }
+}

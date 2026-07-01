@@ -1,0 +1,38 @@
+{
+  "id": "walrus-core-habitat",
+  "animalSlug": "walrus",
+  "slug": "walrus-core-habitat",
+  "fileName": "walrus-core-habitat-01-1200.webp",
+  "alt": "Walrus resting near an Arctic glacier and cold water",
+  "caption": "Walruses need shallow Arctic seas for feeding and ice or shore for resting.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Smeerenburgbreen, Svalbard",
+  "src": "/images/animals/walrus/web/walrus-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 857,
+  "attributionText": "Photo by Jay Ruzesky via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Odobenus_rosmarus_in_Smeerenburgbreen.jpg\">Jay Ruzesky</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odobenus_rosmarus_in_Smeerenburgbreen.jpg",
+    "creatorName": "Jay Ruzesky",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:03:11.038Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/00/Odobenus_rosmarus_in_Smeerenburgbreen.jpg",
+  "updatedAt": "2026-06-28T10:03:11.038Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-core-habitat-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-core-habitat-01-1200.webp"
+  }
+}

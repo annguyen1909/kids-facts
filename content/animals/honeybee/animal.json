@@ -1,0 +1,153 @@
+{
+  "id": "animal-honeybee",
+  "slug": "honeybee",
+  "name": "Honeybee",
+  "commonNames": [
+    "Western Honey Bee",
+    "European Honey Bee",
+    "Honey Bee"
+  ],
+  "scientificName": "Apis mellifera",
+  "summary": "Honey bees are amazing social insects famous for making sweet honey and building complex wax combs. They live in large colonies, communicate through unique 'dances', and play an essential role in pollinating plants that produce fruits, vegetables, and flowers.",
+  "heroTitle": "Honeybee Facts",
+  "metaTitle": "Honeybee Facts | Habitat, Diet, Hive Life & Photos",
+  "metaDescription": "Discover honeybee facts with photos, hive colony structure, pollination diet, honeycomb building, and quick facts. Learn how bees live and make honey.",
+  "searchIntents": [
+    "honeybee facts",
+    "how do bees make honey",
+    "honey bee queen facts",
+    "what do honey bees eat",
+    "where do honey bees live",
+    "why are bees important"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Apidae",
+    "genus": "Apis",
+    "species": "A. mellifera"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "continents": [
+    "Africa",
+    "Europe",
+    "Asia",
+    "North America",
+    "South America",
+    "Oceania"
+  ],
+  "countries": [
+    "Germany",
+    "France",
+    "United States",
+    "Tanzania",
+    "Estonia",
+    "India",
+    "Italy"
+  ],
+  "biomes": [
+    "savanna",
+    "temperate forest",
+    "grassland",
+    "desert"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "nectar",
+    "pollen"
+  ],
+  "lifespan": {
+    "wild": "6 weeks (workers in summer); 4 to 9 months (workers in winter); up to 5 years (queen)",
+    "captivity": "Up to 5 years in managed beehives"
+  },
+  "size": {
+    "lengthMin": "0.4 inches",
+    "lengthMax": "0.8 inches"
+  },
+  "weight": {
+    "min": "0.003 ounces",
+    "max": "0.004 ounces"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "social living",
+    "pollination",
+    "honey making",
+    "waggle dancing",
+    "nest building"
+  ],
+  "adaptations": [
+    "pollen baskets",
+    "venomous stinger",
+    "compound eyes",
+    "whip-like antennae"
+  ],
+  "predators": [
+    "bears",
+    "birds",
+    "spiders",
+    "wasps",
+    "skunks"
+  ],
+  "prey": [
+    "none"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "3 days (egg stage)",
+    "offspringCount": "Queen lays up to 2,000 eggs per day"
+  },
+  "funFacts": [
+    "A single worker honey bee makes only about 1/12th of a teaspoon of honey in her entire lifetime.",
+    "Honey bees communicate the direction and distance of flowers to other bees by doing a 'waggle dance'.",
+    "A queen bee is the only female that can lay eggs, and she can lay her own weight in eggs every day!",
+    "Honey bees fly at about 15 miles (24 km) per hour and beat their wings 200 times per second.",
+    "Honey bees are the only insects that produce food eaten by humans—honey!",
+    "Honey never spoils! Archaeologists have found pots of honey in ancient Egyptian tombs that are thousands of years old and still safe to eat."
+  ],
+  "faq": [
+    {
+      "question": "What is a honey bee?",
+      "answer": "A honey bee is a small flying insect known for living in large groups called colonies, producing honey, and pollinating flowers."
+    },
+    {
+      "question": "How do honey bees make honey?",
+      "answer": "Bees collect sweet nectar from flowers, swallow it, and carry it back to their hive. They spit it into wax cells and fan it with their wings to make it thick and sweet."
+    },
+    {
+      "question": "Who lives in a bee colony?",
+      "answer": "A colony has three types of bees: one Queen who lays eggs, thousands of female Workers who do all the chores, and a few male Drones who fertilize new queens."
+    },
+    {
+      "question": "Why do bees dance?",
+      "answer": "Worker bees perform a special 'waggle dance' inside the hive to tell other bees exactly where to find the best patches of flowers."
+    },
+    {
+      "question": "Do all honey bees sting?",
+      "answer": "No. Male drone bees cannot sting at all. Female worker bees have stingers to defend the hive, but they will only sting if they feel threatened."
+    },
+    {
+      "question": "Why are honey bees important?",
+      "answer": "Honey bees are super pollinators. By visiting flowers for food, they help plants grow fruits, nuts, and vegetables, which humans and other animals eat."
+    }
+  ],
+  "relatedAnimals": [
+    "monarch-butterfly",
+    "ruby-throated-hummingbird",
+    "tokay-gecko"
+  ],
+  "comparisonCandidates": [
+    "monarch-butterfly"
+  ],
+  "galleryIds": [
+    "honeybee-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T15:29:31.000Z",
+  "publishedAt": "2026-06-24T15:29:31.000Z",
+  "habitat": "grassland"
+}

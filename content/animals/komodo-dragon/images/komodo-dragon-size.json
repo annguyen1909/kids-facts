@@ -2,10 +2,10 @@
   "id": "komodo-dragon-size",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-size",
-  "fileName": "Komodo dragon walking.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Komodo_dragon_walking.JPG",
-  "width": 5184,
-  "height": 3456,
+  "fileName": "komodo-dragon-size-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Full-body Komodo dragon walking and flicking its tongue",
   "caption": "Adult Komodo dragons can grow longer than most people are tall.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Komodo National Park, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon size image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ab/Komodo_dragon_walking.JPG",
+  "updatedAt": "2026-06-25T15:00:11.681Z",
   "attributionText": "Photo by Viglianti via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_walking.JPG\">Viglianti</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:11.681Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-size-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-size-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-size-01-1200.webp"
   }
 }

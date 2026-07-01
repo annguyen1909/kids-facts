@@ -2,10 +2,10 @@
   "id": "otter-closeup",
   "animalSlug": "otter",
   "slug": "otter-closeup",
-  "fileName": "Enhydra lutris face.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Enhydra_lutris_face.jpg",
-  "width": 2311,
-  "height": 1541,
+  "fileName": "otter-closeup-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up sea otter face with whiskers and wet fur",
   "caption": "Sensitive whiskers help sea otters detect prey underwater.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Coastal waters",
-  "acquisitionNotes": "Manually curated otter close-up image with verified sea otter identification.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Manually curated otter close-up image with verified sea otter identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/17/Enhydra_lutris_face.jpg",
+  "updatedAt": "2026-06-25T15:05:08.952Z",
   "attributionText": "Photo by mikebaird via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Enhydra_lutris_face.jpg\">mikebaird</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:08.952Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-closeup-01-400.webp",
+    "original": "/images/animals/otter/web/otter-closeup-01-1200.webp"
   }
 }

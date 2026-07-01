@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-core-closeup",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-core-closeup",
+  "fileName": "mandrill-core-closeup-01-1200.webp",
+  "alt": "Close-up of an adult male mandrill's brightly colored red and blue face",
+  "caption": "The vivid red and blue face of a dominant male mandrill — its bright colors help mandrills recognize and communicate with each other.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-core-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1605,
+  "attributionText": "Photo by Rolf Dietrich Brecher via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Said_red-nose-day,_man???_(15583038206).jpg\">Rolf Dietrich Brecher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Said_red-nose-day,_man%3F%3F%3F_(15583038206).jpg",
+    "creatorName": "Rolf Dietrich Brecher",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T17:34:19.542Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Added core closeup image for the 'Coloring and communication' section, which previously had no image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/53/Said_red-nose-day%2C_man%3F%3F%3F_%2815583038206%29.jpg",
+  "updatedAt": "2026-06-26T17:34:19.542Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-core-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-core-closeup-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-core-closeup-01-1200.webp"
+  }
+}

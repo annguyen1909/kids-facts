@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-range",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-range",
+  "fileName": "wandering-albatross-range-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-range-01-1200.webp",
+  "width": 1200,
+  "height": 898,
+  "alt": "Wandering albatross resting on the grassy slopes of Possession Island in the Crozet Archipelago",
+  "caption": "They breed on remote, windswept subantarctic islands such as South Georgia, Crozet, and Kerguelen.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Possession Island, Crozet Archipelago",
+  "acquisitionNotes": "Curated breeding colony island landscape photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/33/Diomedea_exulans%2C_%C3%AEle_de_la_Possession_%28Crozet%29.jpg",
+  "updatedAt": "2026-06-29T12:06:19.917Z",
+  "attributionText": "Photo by Nweider via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Diomedea_exulans,_%C3%AEle_de_la_Possession_(Crozet).jpg\">Nweider</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans,_%C3%AEle_de_la_Possession_(Crozet).jpg",
+    "creatorName": "Nweider",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:19.917Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-range-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-range-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-range-01-1200.webp"
+  }
+}

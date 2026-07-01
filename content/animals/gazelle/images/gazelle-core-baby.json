@@ -2,10 +2,10 @@
   "id": "gazelle-core-baby",
   "animalSlug": "gazelle",
   "slug": "gazelle-core-baby",
-  "fileName": "Calf was born five minutes ago Thomson's Gazelle Masai Mara Kenya (20601063455).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Calf_was_born_five_minutes_ago_Thomson%27s_Gazelle_Masai_Mara_Kenya_%2820601063455%29.jpg",
-  "width": 4608,
-  "height": 3072,
+  "fileName": "gazelle-core-baby-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Newborn Thomson's gazelle calf standing soon after birth",
   "caption": "A gazelle calf must get on its feet quickly to keep up with its mother.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Masai Mara, Kenya",
-  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0c/Calf_was_born_five_minutes_ago_Thomson%27s_Gazelle_Masai_Mara_Kenya_%2820601063455%29.jpg",
+  "updatedAt": "2026-06-25T14:54:45.647Z",
   "attributionText": "Photo by Esin Üstün from Istanbul, Turkey via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Calf_was_born_five_minutes_ago_Thomson's_Gazelle_Masai_Mara_Kenya_(20601063455).jpg\">Esin Üstün from Istanbul, Turkey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Calf_was_born_five_minutes_ago_Thomson%27s_Gazelle_Masai_Mara_Kenya_(20601063455).jpg\">Esin Üstün from Istanbul, Turkey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calf_was_born_five_minutes_ago_Thomson's_Gazelle_Masai_Mara_Kenya_(20601063455).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calf_was_born_five_minutes_ago_Thomson%27s_Gazelle_Masai_Mara_Kenya_(20601063455).jpg",
     "creatorName": "Esin Üstün from Istanbul, Turkey",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:45.647Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-core-baby-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-core-baby-01-1200.webp"
   }
 }

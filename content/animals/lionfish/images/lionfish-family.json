@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-family",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-family",
+  "fileName": "lionfish-family-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-family-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Red lionfish swimming above a sandy coral reef",
+  "caption": "Lionfish often hover slowly above reefs while they search for small fish and shrimp.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Alexander Vasenin via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_lionfish_at_Shaab_El_Erg_reef.JPG\">Alexander Vasenin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_lionfish_at_Shaab_El_Erg_reef.JPG",
+    "creatorName": "Alexander Vasenin",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:53.467Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5e/Common_lionfish_at_Shaab_El_Erg_reef.JPG",
+  "updatedAt": "2026-06-25T15:01:53.467Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-family-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-family-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-family-01-1200.webp"
+  }
+}

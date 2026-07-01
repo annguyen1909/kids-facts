@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-range",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-range",
+  "fileName": "lionfish-range-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "",
+  "caption": "",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by BS Thurner Hof via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pterois_antennata-3.jpg\">BS Thurner Hof</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterois_antennata-3.jpg",
+    "creatorName": "BS Thurner Hof",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:01:56.551Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/16/Pterois_antennata-3.jpg",
+  "updatedAt": "2026-06-25T15:01:56.551Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-range-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-range-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-range-01-1200.webp"
+  }
+}

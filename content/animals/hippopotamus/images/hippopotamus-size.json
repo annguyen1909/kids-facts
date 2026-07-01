@@ -1,33 +1,38 @@
 {
   "id": "hippopotamus-size",
-  "animalSlug": "hippopotamus",
   "slug": "hippopotamus-size",
-  "fileName": "048 Hippopotamus fight in the Serengeti National Park Photo by Giles Laurent.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
-  "width": 3855,
-  "height": 2570,
-  "alt": "Two large hippos showing their massive size in the water",
-  "caption": "Adult hippos can weigh over 3,000 pounds, making them among the heaviest land mammals.",
-  "imageType": "size",
+  "animalSlug": "hippopotamus",
+  "fileName": "hippopotamus-size-01-1200.webp",
   "galleryTopics": [
     "size"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Serengeti National Park, Tanzania",
-  "acquisitionNotes": "Manually curated hippopotamus size image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z",
-  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "imageType": "size",
+  "updatedAt": "2026-06-26T19:13:08.464Z",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-size-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-size-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-size-01-1200.webp"
+  },
+  "alt": "Adult hippopotamus standing at the edge of a pool showing its massive body size",
+  "caption": "Despite their stocky shape, hippos can weigh more than 3,000 pounds.",
+  "attributionText": "Photo by Pedroserafin via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippopotamus_@_Barcelona_zoo.jpg\">Pedroserafin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
-    "creatorName": "Giles Laurent",
-    "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
-  }
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippopotamus_@_Barcelona_zoo.jpg",
+    "creatorName": "Pedroserafin",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:13:08.464Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Spain",
+  "acquisitionNotes": "Distinct size gallery image — unique from the hero fight scene. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2b/Hippopotamus_%40_Barcelona_zoo.jpg"
 }

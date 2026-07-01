@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-core-range",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-core-range",
+  "alt": "Kakapo peering gently through the forest foliage on Codfish Island",
+  "caption": "Through world-leading conservation science, the kakapo population is slowly making a remarkable comeback from the brink of extinction.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Codfish Island",
+  "fileName": "kakapo-core-range-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-core-range-01-1200.webp",
+  "width": 640,
+  "height": 480,
+  "attributionText": "Photo by Mnolf via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Strigops_habroptilus,_face.jpg\">Mnolf</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strigops_habroptilus,_face.jpg",
+    "creatorName": "Mnolf",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:49.575Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core range conservation wrap-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c7/Strigops_habroptilus%2C_face.jpg",
+  "updatedAt": "2026-06-29T11:55:49.575Z",
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-core-range-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-core-range-01-1200.webp"
+  }
+}

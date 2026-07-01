@@ -2,23 +2,23 @@
   "id": "tuna-closeup",
   "animalSlug": "tuna",
   "slug": "tuna-closeup",
-  "fileName": "Marquage d'un thon albacore (Thunnus albacares) (Ifremer 00540-65191).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Marquage_d%27un_thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00540-65191%29.jpg",
-  "width": 3008,
-  "height": 2000,
+  "fileName": "tuna-closeup-01-1200.webp",
+  "src": "/images/animals/tuna/web/tuna-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "Close view of a yellowfin tuna body and fins",
   "caption": "Their torpedo-shaped bodies and stiff fins help them swim at high speed.",
   "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Marquage_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Marquage_d%27un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg\">Marc Taquet</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marquage_d'un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marquage_d%27un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg",
     "creatorName": "Marc Taquet",
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:11.144Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:13:42.702Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated tuna close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:11.144Z"
+  "acquisitionNotes": "Manually curated tuna close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/09/Marquage_d%27un_thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00540-65191%29.jpg",
+  "updatedAt": "2026-06-25T15:13:42.702Z",
+  "srcSet": {
+    "web1200": "/images/animals/tuna/web/tuna-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/tuna/thumbnails/tuna-closeup-01-400.webp",
+    "original": "/images/animals/tuna/web/tuna-closeup-01-1200.webp"
+  }
 }

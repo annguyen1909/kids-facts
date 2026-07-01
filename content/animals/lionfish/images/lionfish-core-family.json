@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-core-family",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-core-family",
+  "fileName": "lionfish-core-family-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 687,
+  "alt": "Red lionfish swimming with fins fully extended",
+  "caption": "Lionfish are solitary hunters but may gather where prey is abundant.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Pacific Ocean",
+  "attributionText": "Photo by Raimond Spekking via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pazifischer_Rotfeuerfisch_-_Red_lionfish_-_Pterois_volitans.jpg\">Raimond Spekking</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pazifischer_Rotfeuerfisch_-_Red_lionfish_-_Pterois_volitans.jpg",
+    "creatorName": "Raimond Spekking",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:49.079Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article family image — unique from gallery family and size images. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fc/Pazifischer_Rotfeuerfisch_-_Red_lionfish_-_Pterois_volitans.jpg",
+  "updatedAt": "2026-06-25T15:01:49.079Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-core-family-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-core-family-01-1200.webp"
+  }
+}

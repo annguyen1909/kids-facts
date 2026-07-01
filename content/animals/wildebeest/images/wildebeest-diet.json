@@ -2,10 +2,10 @@
   "id": "wildebeest-diet",
   "animalSlug": "wildebeest",
   "slug": "wildebeest-diet",
-  "fileName": "Blue Wildebeest (Connochaetes taurinus) grazing ... (50910737976).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Blue_Wildebeest_%28Connochaetes_taurinus%29_grazing_..._%2850910737976%29.jpg",
-  "width": 4320,
-  "height": 2791,
+  "fileName": "wildebeest-diet-01-1200.webp",
+  "src": "/images/animals/wildebeest/web/wildebeest-diet-01-1200.webp",
+  "width": 1200,
+  "height": 775,
   "alt": "Blue wildebeest grazing on short savanna grass",
   "caption": "Wildebeest are grazers that eat short grasses and need daily water.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "East Africa",
-  "acquisitionNotes": "Manually curated wildebeest diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "acquisitionNotes": "Manually curated wildebeest diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/Blue_Wildebeest_%28Connochaetes_taurinus%29_grazing_..._%2850910737976%29.jpg",
+  "updatedAt": "2026-06-25T15:14:35.873Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Wildebeest_(Connochaetes_taurinus)_grazing_..._(50910737976).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:18.505Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:35.873Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wildebeest/web/wildebeest-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/wildebeest/thumbnails/wildebeest-diet-01-400.webp",
+    "original": "/images/animals/wildebeest/web/wildebeest-diet-01-1200.webp"
   }
 }

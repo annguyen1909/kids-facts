@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-family",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-family",
+  "fileName": "whale-shark-family-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-family-01-1200.webp",
+  "width": 1200,
+  "height": 902,
+  "alt": "A wild whale shark swimming in the open sea",
+  "caption": "Whale sharks are solitary animals, but they will gather in groups where food is plentiful.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Maldives",
+  "attributionText": "Photo by Jean-Paul Boerekamps via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus_420227906.jpg\">Jean-Paul Boerekamps</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_420227906.jpg",
+    "creatorName": "Jean-Paul Boerekamps",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:14:09.835Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/97/Rhincodon_typus_420227906.jpg",
+  "updatedAt": "2026-06-25T15:14:09.835Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-family-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-family-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-family-01-1200.webp"
+  }
+}

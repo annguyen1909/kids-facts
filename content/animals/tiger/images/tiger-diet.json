@@ -2,10 +2,10 @@
   "id": "tiger-diet",
   "animalSlug": "tiger",
   "slug": "tiger-diet",
-  "fileName": "tiger-diet-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tiger_%28Panthera_tigris%29_eating_deer_%2819268279553%29.jpg",
-  "width": 3168,
-  "height": 4752,
+  "fileName": "tiger-diet-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-diet-01-1200.webp",
+  "width": 1200,
+  "height": 788,
   "alt": "Tiger feeding on deer prey in the wild",
   "caption": "Tigers are carnivores that hunt deer, wild pigs, and other large animals.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "India",
-  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
-  "updatedAt": "2026-06-21T16:58:28.827Z",
-  "attributionText": "Photo by Rohit Varma via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tiger_(Panthera_tigris)_eating_deer_(19268279553).jpg\">Rohit Varma</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>",
+  "acquisitionNotes": "Manually verified tiger image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8c/Tiger_%28Panthera_tigris%29_eating_deer_%2819268279553%29.jpg",
+  "updatedAt": "2026-06-25T15:12:47.947Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tiger_(Panthera_tigris)_eating_deer_(19268279553).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_(Panthera_tigris)_eating_deer_(19268279553).jpg",
-    "creatorName": "Rohit Varma",
+    "creatorName": "Bernard DUPONT from FRANCE",
     "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:58:28.827Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:12:47.947Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-diet-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-diet-01-1200.webp"
   }
 }

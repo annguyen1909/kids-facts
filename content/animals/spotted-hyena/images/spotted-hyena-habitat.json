@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-habitat",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-habitat",
+  "fileName": "spotted-hyena-habitat-01-1200.webp",
+  "alt": "Spotted hyena walking through open savanna grass in Tanzania",
+  "caption": "Spotted hyenas live across African savannas, woodlands, and dry country south of the Sahara.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Tarangire National Park, Tanzania",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-25,_DD_25.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-25,_DD_25.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:21.092Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/39/Hiena_manchada_%28Crocuta_crocuta%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-25%2C_DD_25.jpg",
+  "updatedAt": "2026-06-28T09:46:21.092Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-habitat-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-habitat-01-1200.webp"
+  }
+}

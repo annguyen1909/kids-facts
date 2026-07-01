@@ -2,10 +2,10 @@
   "id": "parrot-family",
   "animalSlug": "parrot",
   "slug": "parrot-family",
-  "fileName": "Scarlet macaws (Ara macao macao) pair Yasuni.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
-  "width": 4716,
-  "height": 3144,
+  "fileName": "parrot-family-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Pair of scarlet macaws perched together",
   "caption": "Macaw pairs often stay together and may use the same nest year after year.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Yasuní, Ecuador",
-  "acquisitionNotes": "Manually curated macaw pair image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Manually curated macaw pair image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Scarlet_macaws_%28Ara_macao_macao%29_pair_Yasuni.jpg",
+  "updatedAt": "2026-06-25T15:05:58.218Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Scarlet_macaws_(Ara_macao_macao)_pair_Yasuni.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:58.218Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-family-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-family-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-family-01-1200.webp"
   }
 }

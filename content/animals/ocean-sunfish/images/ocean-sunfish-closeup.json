@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-closeup",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-closeup",
+  "fileName": "ocean-sunfish-closeup-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Close-up of an ocean sunfish's face, small mouth, and textured tough leathery skin",
+  "caption": "Their tough, scaleless skin is exceptionally thick and covered in mucus, often harboring numerous marine parasites.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Monterey, CA",
+  "acquisitionNotes": "Manually curated ocean sunfish close-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/df/Mola_mola_with_scar.jpg",
+  "updatedAt": "2026-06-29T07:22:33.816Z",
+  "attributionText": "Photo by kylenumber1 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola_with_scar.jpg\">kylenumber1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola_with_scar.jpg",
+    "creatorName": "kylenumber1",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:33.816Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-closeup-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-closeup-01-1200.webp"
+  }
+}

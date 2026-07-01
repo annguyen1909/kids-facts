@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-closeup",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-closeup",
+  "fileName": "luna-moth-closeup-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A detailed close-up showing the physical features of a Luna Moth",
+  "caption": "A close-up view reveals the intricate details of a Luna Moth's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Tempest Rain via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Luna_Moth_(Actias_luna).JPG\">Tempest Rain</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luna_Moth_(Actias_luna).JPG",
+    "creatorName": "Tempest Rain",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:59.893Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/33/Luna_Moth_%28Actias_luna%29.JPG",
+  "updatedAt": "2026-06-25T15:01:59.893Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-closeup-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-closeup-01-1200.webp"
+  }
+}

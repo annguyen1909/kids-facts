@@ -2,12 +2,12 @@
   "id": "raccoon-habitat",
   "animalSlug": "raccoon",
   "slug": "raccoon-habitat",
-  "fileName": "Procyon lotor 7 - am Wasser.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Procyon_lotor_7_-_am_Wasser.jpg",
-  "width": 1341,
-  "height": 1865,
-  "alt": "Raccoon at the edge of a stream in forest habitat",
-  "caption": "Raccoons live near forests, rivers, and wetlands across North America.",
+  "fileName": "raccoon-habitat-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1669,
+  "alt": "Wild raccoon near a stream, washing food with its nimble paws",
+  "caption": "Raccoons are famous for appearing to wash their food in water, though they are actually softening it to better feel for inedible parts.",
   "imageType": "habitat",
   "galleryTopics": [
     "habitat"
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated raccoon habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Manually curated raccoon habitat image with verified species identification. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/74/Procyon_lotor_7_-_am_Wasser.jpg",
+  "updatedAt": "2026-06-25T15:09:00.577Z",
   "attributionText": "Photo by BS Thurner Hof via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Procyon_lotor_7_-_am_Wasser.jpg\">BS Thurner Hof</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Procyon_lotor_7_-_am_Wasser.jpg\">BS Thurner Hof</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Procyon_lotor_7_-_am_Wasser.jpg",
     "creatorName": "BS Thurner Hof",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:00.577Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-habitat-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-habitat-01-1200.webp"
   }
 }

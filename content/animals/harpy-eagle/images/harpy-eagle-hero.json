@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-hero",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-hero",
+  "fileName": "harpy-eagle-hero-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Majestic harpy eagle displaying its robust beak and unique grey-white head crest",
+  "caption": "The harpy eagle is one of the largest and most powerful raptors found in the Americas.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Belize Zoo",
+  "acquisitionNotes": "High-resolution harpy eagle hero image showcasing distinctive facial disc and crest. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Captive_Harpia_harpyja_%28Harpy_Eagle%29_at_Belize_Zoo.jpg",
+  "updatedAt": "2026-06-29T11:55:37.444Z",
+  "attributionText": "Photo by Perryprog via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Captive_Harpia_harpyja_(Harpy_Eagle)_at_Belize_Zoo.jpg\">Perryprog</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Captive_Harpia_harpyja_(Harpy_Eagle)_at_Belize_Zoo.jpg",
+    "creatorName": "Perryprog",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:37.444Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-hero-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-hero-01-1200.webp"
+  }
+}

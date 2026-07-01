@@ -1,0 +1,39 @@
+{
+  "id": "honeybee-range",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-range",
+  "fileName": "honeybee-range-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Honey bee flying in the air carrying bright orange pollen in its pollen basket",
+  "caption": "Honey bees fly at about 15 miles per hour and can travel miles from their hive.",
+  "imageType": "range",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tanzania",
+  "acquisitionNotes": "Manually verified honeybee image for range. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/Apis_mellifera_flying.jpg",
+  "updatedAt": "2026-06-25T14:58:26.099Z",
+  "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Apis_mellifera_flying.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_flying.jpg",
+    "creatorName": "Muhammad Mahdi Karim",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:26.099Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-range-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-range-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-range-01-1200.webp"
+  }
+}

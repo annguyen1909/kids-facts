@@ -2,10 +2,10 @@
   "id": "giraffe-habitat",
   "animalSlug": "giraffe",
   "slug": "giraffe-habitat",
-  "fileName": "Giraffes habitat in mikumi National Park Tanzania.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg",
-  "width": 5634,
-  "height": 3756,
+  "fileName": "giraffe-habitat-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Giraffes walking through broad savanna habitat",
   "caption": "Savannas with scattered trees give giraffes food, shade, and long sightlines.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Mikumi National Park, Tanzania",
-  "acquisitionNotes": "Manually curated giraffe habitat image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "acquisitionNotes": "Manually curated giraffe habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/02/Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg",
+  "updatedAt": "2026-06-25T14:56:05.363Z",
   "attributionText": "Photo by Rasheedhrasheed via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffes_habitat_in_mikumi_National_Park_Tanzania.jpg\">Rasheedhrasheed</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:05.363Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-habitat-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-habitat-01-1200.webp"
   }
 }

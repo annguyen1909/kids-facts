@@ -2,10 +2,10 @@
   "id": "orca-core-diet",
   "animalSlug": "orca",
   "slug": "orca-core-diet",
-  "fileName": "Killer Whales Hunting a Crabeater Seal.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Killer_Whales_Hunting_a_Crabeater_Seal.jpg",
-  "width": 4942,
-  "height": 2668,
+  "fileName": "orca-core-diet-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 648,
   "alt": "Orcas surrounding prey in icy water",
   "caption": "Some orca pods specialize in marine mammals and hunt with teamwork.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Antarctic waters",
-  "acquisitionNotes": "Core article image curated separately from the orca gallery set.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Core article image curated separately from the orca gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3e/Killer_Whales_Hunting_a_Crabeater_Seal.jpg",
+  "updatedAt": "2026-06-25T15:04:30.638Z",
   "attributionText": "Photo by Callan Carpenter via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Killer_Whales_Hunting_a_Crabeater_Seal.jpg\">Callan Carpenter</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:30.638Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-core-diet-01-400.webp",
+    "original": "/images/animals/orca/web/orca-core-diet-01-1200.webp"
   }
 }

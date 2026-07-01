@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-closeup",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-closeup",
+  "fileName": "monarch-butterfly-core-closeup-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 983,
+  "alt": "Monarch butterflies clustering on Oyamel fir trees in Mexico during migration",
+  "caption": "Overwintering monarchs gather in thousands on Sacred Fir trees in Mexico's forests.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "closeup",
+  "location": "Valle de Bravo, Mexico",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_butterflies_(Danaus_plexippus_plexippus)_on_Oyamel_fir_(Abies_religiosa)_Piedra_Herrada.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterflies_(Danaus_plexippus_plexippus)_on_Oyamel_fir_(Abies_religiosa)_Piedra_Herrada.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:10.483Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for closeup. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Monarch_butterflies_%28Danaus_plexippus_plexippus%29_on_Oyamel_fir_%28Abies_religiosa%29_Piedra_Herrada.jpg",
+  "updatedAt": "2026-06-25T15:03:10.483Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-closeup-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-closeup-01-1200.webp"
+  }
+}

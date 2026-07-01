@@ -2,10 +2,10 @@
   "id": "gazelle-core-habitat",
   "animalSlug": "gazelle",
   "slug": "gazelle-core-habitat",
-  "fileName": "Thomson Gazelle Ngorongoro 04.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thomson_Gazelle_Ngorongoro_04.jpg",
-  "width": 3488,
-  "height": 2616,
+  "fileName": "gazelle-core-habitat-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Gazelle in short grass under a wide sky",
   "caption": "Gazelles rely on open habitat where they can use eyesight, hearing, and speed together.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Ngorongoro, Tanzania",
-  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Thomson_Gazelle_Ngorongoro_04.jpg",
+  "updatedAt": "2026-06-25T14:54:49.955Z",
   "attributionText": "Photo by Nicor via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson_Gazelle_Ngorongoro_04.jpg\">Nicor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:49.955Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-core-habitat-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-core-habitat-01-1200.webp"
   }
 }

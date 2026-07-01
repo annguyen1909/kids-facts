@@ -2,10 +2,10 @@
   "id": "cheetah-core-diet",
   "animalSlug": "cheetah",
   "slug": "cheetah-core-diet",
-  "fileName": "Gepardkilling3 (Acinonyx jubatus).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gepardkilling3_%28Acinonyx_jubatus%29.jpg",
-  "width": 4440,
-  "height": 3424,
+  "fileName": "cheetah-core-diet-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 925,
   "alt": "Cheetah feeding after a successful hunt",
   "caption": "After a fast chase, cheetahs must rest before they can eat safely.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Gepardkilling3_%28Acinonyx_jubatus%29.jpg",
+  "updatedAt": "2026-06-25T14:50:21.141Z",
   "attributionText": "Photo by Malene Thyssen via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gepardkilling3_(Acinonyx_jubatus).jpg\">Malene Thyssen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:21.141Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-core-diet-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-core-diet-01-1200.webp"
   }
 }

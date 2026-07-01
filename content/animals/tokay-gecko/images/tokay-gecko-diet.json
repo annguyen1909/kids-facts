@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-diet",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-diet",
+  "fileName": "tokay-gecko-diet-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-diet-01-1200.webp",
+  "width": 1184,
+  "height": 2624,
+  "alt": "Tokay gecko eating insects inside its enclosure",
+  "caption": "Geckos are carnivores that hunt insects, spiders, and even small rodents.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "United States",
+  "attributionText": "Photo by LensOfTheNorth via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_gecko_baby.jpg\">LensOfTheNorth</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_gecko_baby.jpg",
+    "creatorName": "LensOfTheNorth",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:09.422Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Gallery diet image — unique from core diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f7/Tokay_gecko_baby.jpg",
+  "updatedAt": "2026-06-25T15:13:09.422Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-diet-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-diet-01-1200.webp"
+  }
+}

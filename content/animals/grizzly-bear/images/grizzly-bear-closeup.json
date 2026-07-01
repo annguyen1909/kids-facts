@@ -2,10 +2,10 @@
   "id": "grizzly-bear-closeup",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-closeup",
-  "fileName": "Grizzly bear (50833367591).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Grizzly_bear_%2850833367591%29.jpg",
-  "width": 2656,
-  "height": 2050,
+  "fileName": "grizzly-bear-closeup-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 926,
   "alt": "Close-up of a grizzly bear face and shoulder hump",
   "caption": "A grizzly's shoulder hump is made of muscle for digging and strength.",
   "imageType": "closeup",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated grizzly bear close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Manually curated grizzly bear close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5c/Grizzly_bear_%2850833367591%29.jpg",
+  "updatedAt": "2026-06-25T14:56:54.626Z",
   "attributionText": "Photo by BLM Alaska via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_(50833367591).jpg\">BLM Alaska</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_(50833367591).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Grizzly_bear_(50833367591).jpg\">BLM Alaska</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_(50833367591).jpg",
     "creatorName": "BLM Alaska",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Grizzly_bear_(50833367591).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:54.626Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-closeup-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-closeup-01-1200.webp"
   }
 }

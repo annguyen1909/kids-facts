@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-baby",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-baby",
+  "fileName": "praying-mantis-baby-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A protective frothy brown praying mantis ootheca attached to a twigs",
+  "caption": "Baby mantises hatch from a hard, protective egg case called an ootheca.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Cap Bon, Tunisia",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Praying_mantis_(Mantis_religiosa)_ootheca_Cap_Bon.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Praying_mantis_(Mantis_religiosa)_ootheca_Cap_Bon.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:01.657Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2a/Praying_mantis_%28Mantis_religiosa%29_ootheca_Cap_Bon.jpg",
+  "updatedAt": "2026-06-25T15:08:01.657Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-baby-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-baby-01-1200.webp"
+  }
+}

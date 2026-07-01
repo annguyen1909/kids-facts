@@ -1,0 +1,144 @@
+{
+  "id": "animal-hoatzin",
+  "slug": "hoatzin",
+  "name": "Hoatzin",
+  "commonNames": [
+    "Hoatzin",
+    "Stinkbird",
+    "Reptile Bird",
+    "Canje Pheasant"
+  ],
+  "scientificName": "Opisthocomus hoazin",
+  "summary": "The hoatzin, often called the 'stinkbird' or 'reptile bird', is an extraordinary Amazonian avian species famous for its spiky crest, leaf-fermenting digestive system, and wing-clawed chicks.",
+  "heroTitle": "Hoatzin Facts",
+  "metaTitle": "Hoatzin Facts | Amazon Habitat, Diet, Wing Claws & Photos",
+  "metaDescription": "Explore hoatzin facts with high-quality photos, Amazonian riparian habitat, folivore leaf diet, dinosaur-like wing claws, and stinkbird biology.",
+  "searchIntents": [
+    "hoatzin stinkbird",
+    "hoatzin wing claws",
+    "hoatzin dinosaur evolution",
+    "why does the hoatzin smell bad",
+    "opisthocomus hoazin diet",
+    "can you eat hoatzin meat"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Opisthocomiformes",
+    "family": "Opisthocomidae",
+    "genus": "Opisthocomus",
+    "species": "O. hoazin"
+  },
+  "classificationLabels": [
+    "bird",
+    "herbivore",
+    "rainforest"
+  ],
+  "habitat": "rainforest",
+  "continents": [
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Peru",
+    "Colombia",
+    "Ecuador",
+    "Venezuela",
+    "Bolivia",
+    "Guyana"
+  ],
+  "biomes": [
+    "tropical rainforest",
+    "riparian corridor",
+    "mangrove swamp"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "green tree leaves",
+    "swamp foliage",
+    "botanical flowers",
+    "tree buds",
+    "succulent shoots"
+  ],
+  "lifespan": {
+    "wild": "8 to 12 years",
+    "captivity": "Highly difficult to keep in captivity"
+  },
+  "size": {
+    "lengthMin": "24 inches",
+    "lengthMax": "26 inches"
+  },
+  "weight": {
+    "min": "1.8 pounds",
+    "max": "2.2 pounds"
+  },
+  "speed": "Clumsy flier; prefers hopping and short gliding bursts up to 12 mph",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "sedentary leaf digestion",
+    "communal colony roosting",
+    "vocal flock signaling",
+    "collaborative breeding"
+  ],
+  "adaptations": [
+    "enlarged foregut fermentation crop",
+    "functional reptile claws on chick wings",
+    "reduced sternum and flight muscles",
+    "chemical odor defense",
+    "mobile spiky head crest"
+  ],
+  "predators": [
+    "tree boas",
+    "capuchin monkeys",
+    "birds of prey",
+    "jungle cats"
+  ],
+  "prey": [
+    "green tree leaves",
+    "flowers",
+    "tree buds"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for 28 to 32 days",
+    "offspringCount": "2 to 3 eggs per clutch"
+  },
+  "funFacts": [
+    "The hoatzin is the only known avian species in the world that digests food through foregut fermentation, using an enlarged crop packed with specialized bacteria hệt như hệ tiêu hóa của một con bò.",
+    "Because of this unique fermentation process, the bird emits a strong, musky, manure-like odor, earning it the famous nickname 'stinkbird' and making its meat completely inedible to humans.",
+    "Hoatzin chicks possess two functional, reptile-like claws on the leading edge of each wing, which they use to grip branches and climb trees hệt như loài chim cổ đại Archaeopteryx.",
+    "To accommodate its massive, heavy crop, the hoatzin's flight muscles and keel bone are drastically reduced, resulting in remarkably clumsy and awkward flight.",
+    "The hoatzin is the national bird of Guyana, where it is celebrated as an enduring living symbol of rich neotropical biodiversity."
+  ],
+  "faq": [
+    {
+      "question": "Why is the hoatzin called the 'stinkbird'?",
+      "answer": "The hoatzin is called the stinkbird because its diet consists almost entirely of tough green leaves, which it breaks down via bacterial fermentation inside an unusually large crop. This digestive process produces volatile fatty acids that emit a strong, musky odor often compared to fresh cow manure or sweet hay."
+    },
+    {
+      "question": "Are hoatzins eaten or hunted for meat?",
+      "answer": "Hoatzins are absolutely never hunted or consumed by humans. Due to the intense foregut fermentation of toxic leaves, their meat carries an extremely foul taste and pungent odor, rendering them completely inedible ('bị làm thịt là điều không bao giờ xảy ra')."
+    },
+    {
+      "question": "Why do hoatzin chicks have claws on their wings?",
+      "answer": "Hoatzin chicks hatch in nests built directly over rivers. If a predator like a monkey or snake threatens the nest, the chicks jump into the water below, swim underwater to safety, and later use their specialized wing claws to climb back up the tree branches to their nest."
+    },
+    {
+      "question": "Is the hoatzin a living dinosaur or related to Archaeopteryx?",
+      "answer": "While the wing claws of the hoatzin chick bear an uncanny resemblance to the ancient Archaeopteryx, genetic studies suggest this is an incredible case of secondary evolutionary adaptation rather than a direct primitive lineage. The hoatzin represents an ancient, distinct evolutionary lineage placed in its own order, Opisthocomiformes."
+    }
+  ],
+  "relatedAnimals": [
+    "toucan",
+    "harpy-eagle",
+    "sloth"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "hoatzin-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

@@ -2,10 +2,10 @@
   "id": "raccoon-core-baby",
   "animalSlug": "raccoon",
   "slug": "raccoon-core-baby",
-  "fileName": "Procyon lotor raccoon Yucatan 0592.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Procyon_lotor_raccoon_Yucatan_0592.jpg",
-  "width": 3888,
-  "height": 2592,
+  "fileName": "raccoon-core-baby-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young raccoon exploring forest floor",
   "caption": "Kits open their eyes after a few weeks and soon leave the den.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Yucatán, Mexico",
-  "acquisitionNotes": "Core article image curated separately from the raccoon gallery set.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Core article image curated separately from the raccoon gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/33/Procyon_lotor_raccoon_Yucatan_0592.jpg",
+  "updatedAt": "2026-06-25T15:08:50.529Z",
   "attributionText": "Photo by ImagePerson via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Procyon_lotor_raccoon_Yucatan_0592.jpg\">ImagePerson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Procyon_lotor_raccoon_Yucatan_0592.jpg\">ImagePerson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Procyon_lotor_raccoon_Yucatan_0592.jpg",
     "creatorName": "ImagePerson",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:50.529Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-core-baby-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-core-baby-01-1200.webp"
   }
 }

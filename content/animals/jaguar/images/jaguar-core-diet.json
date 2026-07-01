@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-core-diet",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-core-diet",
+  "fileName": "jaguar-core-diet-01-1200.webp",
+  "alt": "A Jaguar finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Jaguar.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River.JPG\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River.JPG",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:13.442Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River.JPG",
+  "updatedAt": "2026-06-26T08:11:13.442Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-core-diet-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-core-diet-01-1200.webp"
+  }
+}

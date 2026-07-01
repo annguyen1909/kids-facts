@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-diet",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-diet",
+  "fileName": "peregrine-falcon-diet-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A peregrine falcon scanning its surroundings from a branch while holding a freshly caught bird",
+  "caption": "As carnivores, peregrine falcons hunt other birds, catching them mid-air in high-speed dives.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Pakistan",
+  "attributionText": "Photo by Imran Shah from Islamabad, Pakistan via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(Falco_peregrinus)_(37767121582).jpg\">Imran Shah from Islamabad, Pakistan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(Falco_peregrinus)_(37767121582).jpg",
+    "creatorName": "Imran Shah from Islamabad, Pakistan",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:04.259Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/16/Peregrine_Falcon_%28Falco_peregrinus%29_%2837767121582%29.jpg",
+  "updatedAt": "2026-06-25T15:07:04.259Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-diet-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-diet-01-1200.webp"
+  }
+}

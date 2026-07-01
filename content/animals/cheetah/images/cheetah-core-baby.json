@@ -2,10 +2,10 @@
   "id": "cheetah-core-baby",
   "animalSlug": "cheetah",
   "slug": "cheetah-core-baby",
-  "fileName": "Cheetah (Acinonyx jubatus) cub ... (50934422903).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cheetah_%28Acinonyx_jubatus%29_cub_..._%2850934422903%29.jpg",
-  "width": 4320,
-  "height": 3060,
+  "fileName": "cheetah-core-baby-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 850,
   "alt": "Very young cheetah cub peeking from cover",
   "caption": "Young cubs rely on camouflage and hiding more than speed.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African wildlife reserve",
-  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Cheetah_%28Acinonyx_jubatus%29_cub_..._%2850934422903%29.jpg",
+  "updatedAt": "2026-06-25T14:50:18.954Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_cub_..._(50934422903).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:18.954Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-core-baby-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-core-baby-01-1200.webp"
   }
 }

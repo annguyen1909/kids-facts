@@ -1,0 +1,161 @@
+{
+  "id": "animal-archerfish",
+  "slug": "archerfish",
+  "name": "Archerfish",
+  "commonNames": [
+    "Archerfish",
+    "Banded Archerfish",
+    "Spotted Archerfish"
+  ],
+  "scientificName": "Toxotes jaculatrix",
+  "summary": "The archerfish is a spectacular, highly intelligent sharpshooter endemic to the mangrove estuaries of the Indo-Pacific. World-famous for its extraordinary ability to shoot down land-based insects by firing a high-pressure jet of water from its mouth, it calculates optical refraction perfectly to knock prey from overhanging branches directly into the water.",
+  "heroTitle": "Archerfish Facts",
+  "metaTitle": "Archerfish Facts | Water Shooting Mechanism & Photos",
+  "metaDescription": "Explore archerfish facts with high-quality photos, mangrove estuary habitat, water shooting mechanism, insect diet, and incredible optical intelligence.",
+  "searchIntents": [
+    "archerfish facts",
+    "archerfish shooting water jet",
+    "what do archerfish eat",
+    "where do archerfish live",
+    "how do archerfish shoot water",
+    "archerfish optical refraction physics"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Toxotidae",
+    "genus": "Toxotes",
+    "species": "T. jaculatrix"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "small"
+  ],
+  "habitat": "wetland",
+  "continents": [
+    "Asia",
+    "Oceania"
+  ],
+  "countries": [
+    "Australia",
+    "Indonesia",
+    "Philippines",
+    "Thailand",
+    "Malaysia",
+    "Papua New Guinea",
+    "Vietnam",
+    "India",
+    "Myanmar",
+    "Cambodia"
+  ],
+  "biomes": [
+    "mangrove estuary",
+    "brackish river mouth",
+    "tropical freshwater stream"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "spiders",
+    "beetles",
+    "crickets",
+    "grasshoppers",
+    "moths",
+    "small lizards"
+  ],
+  "lifespan": {
+    "wild": "5 to 10 years",
+    "captivity": "Up to 10 years"
+  },
+  "size": {
+    "lengthMin": "0.5 feet",
+    "lengthMax": "1.0 feet"
+  },
+  "weight": {
+    "min": "0.5 pounds",
+    "max": "1.5 pounds"
+  },
+  "speed": "Fast surface darting swimmer; calculates prey landing point in 40 milliseconds",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "hydraulic water shooting",
+    "rapid ballistic calculating",
+    "surface leaping",
+    "opportunistic schooling",
+    "mangrove root patrolling"
+  ],
+  "adaptations": [
+    "deep groove in roof of mouth to form a water-firing gun barrel",
+    "large binocular eyes positioned near snout to overcome optical refraction",
+    "flattened dorsal profile to allow hovering millimeters beneath surface",
+    "highly advanced visual brain cortex for instantaneous physics calculation",
+    "protrusible lower jaw to aid in rapid surface snatching"
+  ],
+  "predators": [
+    "birds of prey",
+    "herons",
+    "kingfishers",
+    "large predatory estuarine fish",
+    "crocodiles"
+  ],
+  "prey": [
+    "overhanging spiders",
+    "flying moths",
+    "basking grasshoppers",
+    "juvenile lizards",
+    "dragonflies"
+  ],
+  "reproduction": {
+    "offspringName": "fry",
+    "gestationOrIncubation": "Broadcast spawned buoyant eggs hatch into floating fry within 48 hours",
+    "offspringCount": "20,000 to 150,000 buoyant eggs released per estuarine spawning event"
+  },
+  "funFacts": [
+    "Archerfish can shoot down overhanging insects by pressing their tongue against a specialized groove in the roof of their mouth and snapping their gills shut to fire a high-pressure jet of water up to 5 feet (1.5 meters).",
+    "They are master physicists; they perfectly calculate the severe optical refraction (*bending of light*) caused by the air-water interface to hit targets with pinpoint, 100% accuracy.",
+    "When firing, they modulate the speed of the water stream so that the rear of the jet catches up to the front just as it hits the target, delivering a heavy, concentrated knockout blow.",
+    "They are incredibly fast decision-makers; once a shot connects, an archerfish calculates the precise parabolic landing point of the falling insect and darts to the catch in just 40 milliseconds.",
+    "If an insect hangs low enough on a mangrove branch, an archerfish will bypass shooting entirely and leap straight out of the water to snatch the prey in its jaws.",
+    "Archerfish possess highly complex cognitive abilities and can be trained in laboratories to recognize specific human faces on computer monitors."
+  ],
+  "faq": [
+    {
+      "question": "What is an archerfish?",
+      "answer": "The archerfish is a highly intelligent, specialized fish belonging to the family Toxotidae, world-famous for its ability to shoot down land-based insects with water jets."
+    },
+    {
+      "question": "Where do archerfish live?",
+      "answer": "They inhabit brackish mangrove estuaries, river mouths, and slow-moving tropical freshwater streams throughout Southeast Asia and Northern Australia."
+    },
+    {
+      "question": "What do archerfish eat?",
+      "answer": "They are strict carnivores whose diet consists primarily of terrestrial insects, spiders, beetles, moths, and small lizards resting on overhanging vegetation."
+    },
+    {
+      "question": "How do archerfish shoot water?",
+      "answer": "They create a natural gun barrel by pressing their flexible tongue against a narrow groove in the roof of their mouth, then forcefully compress their gill covers to squirt a high-speed jet of water out."
+    },
+    {
+      "question": "How do archerfish overcome light refraction in water?",
+      "answer": "Their highly advanced eyes and visual brain cortex automatically compensate for the visual bending of light, allowing them to establish the exact true coordinates of the insect in the air."
+    },
+    {
+      "question": "How far can an archerfish shoot?",
+      "answer": "Adult archerfish can shoot water jets up to 5 feet (1.5 meters) into the air with lethal knockdown precision."
+    }
+  ],
+  "relatedAnimals": [
+    "moorish-idol",
+    "hoatzin",
+    "electric-eel"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "archerfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

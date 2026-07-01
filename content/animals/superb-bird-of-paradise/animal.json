@@ -1,0 +1,147 @@
+{
+  "id": "animal-superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise",
+  "name": "Superb Bird-of-Paradise",
+  "commonNames": [
+    "Superb Bird-of-Paradise",
+    "Greater Superb Bird-of-Paradise",
+    "Vogelkop Superb Bird-of-Paradise"
+  ],
+  "scientificName": "Lophorina superba",
+  "summary": "The superb bird-of-paradise is a spectacular passerine bird endemic to the mountain rainforests of New Guinea. World-famous for its mesmerizing, shape-shifting courtship display, the male flares a velvety black cape and an iridescent neon-green breast shield to perform an intricate dance for female onlookers.",
+  "heroTitle": "Superb Bird-of-Paradise Facts",
+  "metaTitle": "Superb Bird-of-Paradise Facts | Courtship Dance, Habitat & Photos",
+  "metaDescription": "Explore superb bird-of-paradise facts with high-quality photos, New Guinea rainforest habitat, courtship dance display, insect diet, and life cycle info.",
+  "searchIntents": [
+    "superb bird of paradise facts",
+    "superb bird of paradise mating dance",
+    "what do superb birds of paradise eat",
+    "where do superb birds of paradise live",
+    "superb bird of paradise black feather absorption",
+    "how big is a superb bird of paradise"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Passeriformes",
+    "family": "Paradisaeidae",
+    "genus": "Lophorina",
+    "species": "L. superba"
+  },
+  "classificationLabels": [
+    "bird",
+    "omnivore"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "Oceania"
+  ],
+  "countries": [
+    "Papua New Guinea",
+    "Indonesia"
+  ],
+  "biomes": [
+    "montane rainforest",
+    "tropical cloud forest"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "insects",
+    "spiders",
+    "arthropods",
+    "small fruits",
+    "berries",
+    "seeds"
+  ],
+  "lifespan": {
+    "wild": "5 to 8 years",
+    "captivity": "Up to 10 years"
+  },
+  "size": {
+    "lengthMin": "0.8 feet",
+    "lengthMax": "0.9 feet"
+  },
+  "weight": {
+    "min": "0.15 pounds",
+    "max": "0.25 pounds"
+  },
+  "speed": "Agile forest flier and skilled hopper among branches",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "shape-shifting display",
+    "solitary foraging",
+    "lekking courtship",
+    "territorial perch defense",
+    "rhythmic wing snapping"
+  ],
+  "adaptations": [
+    "super-black feathers absorbing 99.95% of light",
+    "highly reflective iridescent green breast shield",
+    "false neon eye spots for optical illusion",
+    "powerful perching feet for dance stability",
+    "sharp agile beak for snatching insects"
+  ],
+  "predators": [
+    "snakes",
+    "birds of prey",
+    "tree kangaroos"
+  ],
+  "prey": [
+    "crickets",
+    "beetles",
+    "caterpillars",
+    "spiders"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for 18 to 20 days",
+    "offspringCount": "1 to 2 eggs per clutch (reared entirely by the female)"
+  },
+  "funFacts": [
+    "During courtship, the male flares his jet-black cape feathers forward to create an absolute black disc, framing a glowing neon-green 'smiley face' formed by his breast shield and eye spots.",
+    "The black feathers of the superb bird-of-paradise are structurally modified to trap light, absorbing up to 99.95% of directly incident light—rivalling artificial Vantablack.",
+    "Because female superb birds-of-paradise are exceptionally picky, a male may perform his exhausting courtship dance for dozens of females before successfully mating.",
+    "The species exhibits extreme sexual dimorphism: males are velvet-black and neon green, while females possess cryptic, reddish-brown plumage to blend into the nest.",
+    "Young males maintain cryptic, female-like brown plumage for several years to avoid territorial aggression from mature adult males.",
+    "During his dance, the male produces a rhythmic snapping sound by forcefully flicking his wing feathers together while hopping around the female."
+  ],
+  "faq": [
+    {
+      "question": "What is a superb bird-of-paradise?",
+      "answer": "The superb bird-of-paradise is a medium-sized songbird native to New Guinea, world-renowned for the male's spectacular shape-shifting courtship dance."
+    },
+    {
+      "question": "Where do superb birds-of-paradise live?",
+      "answer": "They inhabit the lush, sloping montane rainforests and cloud forests along the central mountainous spine of New Guinea, in both Papua New Guinea and Indonesia."
+    },
+    {
+      "question": "What do superb birds-of-paradise eat?",
+      "answer": "They are active omnivores whose diet consists of a healthy mix of insects, spiders, and arthropods, supplemented by small forest fruits, berries, and seeds."
+    },
+    {
+      "question": "How does the superb bird-of-paradise do its dance?",
+      "answer": "The male erects a massive black cape of feathers around his head to form a perfect oval disc, exposes an iridescent green breast shield, and hops rhythmically around the female while snapping his wings."
+    },
+    {
+      "question": "Why are the feathers of the superb bird-of-paradise so black?",
+      "answer": "The microscopic barbules of their black feathers feature deeply branching, leaf-like ridges that bounce and trap light internally, preventing reflection and making the adjacent green feathers appear incredibly vibrant."
+    },
+    {
+      "question": "Are superb birds-of-paradise endangered?",
+      "answer": "No, they are currently classified as Least Concern by the IUCN, as their rugged, inaccessible mountain forest habitats provide excellent natural protection."
+    }
+  ],
+  "relatedAnimals": [
+    "harpy-eagle",
+    "kakapo",
+    "peacock"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "superb-bird-of-paradise-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

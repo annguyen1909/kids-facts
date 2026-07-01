@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-core-baby",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-core-baby",
+  "fileName": "lionfish-core-baby-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "",
+  "caption": "",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Theo Kruse Burgers' Zoo via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_lionfish_(Pterois_volitans).jpg\">Theo Kruse Burgers' Zoo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_lionfish_(Pterois_volitans).jpg",
+    "creatorName": "Theo Kruse Burgers' Zoo",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:47.506Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/25/Red_lionfish_%28Pterois_volitans%29.jpg",
+  "updatedAt": "2026-06-25T15:01:47.506Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-core-baby-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-core-baby-01-1200.webp"
+  }
+}

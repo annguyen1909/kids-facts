@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-size",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-size",
+  "fileName": "archerfish-size-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-size-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "A mature banded archerfish showcasing its flattened dorsal profile and robust body shape",
+  "caption": "They possess a highly specialized flattened back profile that allows them to swim just millimeters below the surface without disturbing the water.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Aquarium display",
+  "acquisitionNotes": "Stunning 4539x3030 size profile highlighting flattened dorsal morphology. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Toxotes_jaculatrix_-_9320.jpg",
+  "updatedAt": "2026-06-29T11:55:01.309Z",
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9320.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9320.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:01.309Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-size-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-size-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-size-01-1200.webp"
+  }
+}

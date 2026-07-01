@@ -2,10 +2,10 @@
   "id": "gazelle-diet",
   "animalSlug": "gazelle",
   "slug": "gazelle-diet",
-  "fileName": "Thompson's Gazelle (7513435330).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Thompson%27s_Gazelle_%287513435330%29.jpg",
-  "width": 3888,
-  "height": 2592,
+  "fileName": "gazelle-diet-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Thomson's gazelle feeding close to the ground",
   "caption": "Gazelles eat grasses, herbs, and other low plants in open pasture.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "African grassland",
-  "acquisitionNotes": "Manually curated gazelle diet image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Manually curated gazelle diet image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Thompson%27s_Gazelle_%287513435330%29.jpg",
+  "updatedAt": "2026-06-25T14:54:51.930Z",
   "attributionText": "Photo by shankar s. from Dubai, united arab emirates via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thompson's_Gazelle_(7513435330).jpg\">shankar s. from Dubai, united arab emirates</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thompson%27s_Gazelle_(7513435330).jpg\">shankar s. from Dubai, united arab emirates</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thompson's_Gazelle_(7513435330).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thompson%27s_Gazelle_(7513435330).jpg",
     "creatorName": "shankar s. from Dubai, united arab emirates",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:51.930Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-diet-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-diet-01-1200.webp"
   }
 }

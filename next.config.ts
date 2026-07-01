@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   pageExtensions: ["ts", "tsx", "mdx"],
   experimental: {
     mdxRs: true,
+    viewTransition: true,
   },
   turbopack: {
     root: __dirname,

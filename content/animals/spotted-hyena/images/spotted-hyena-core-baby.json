@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-core-baby",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-core-baby",
+  "fileName": "spotted-hyena-core-baby-01-1200.webp",
+  "alt": "Young spotted hyena cub sitting on a dirt track",
+  "caption": "Cubs stay close to the den for months while the clan helps keep them safe.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Kruger National Park, South Africa",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1211,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Spotted_Hyaena_(Crocuta_crocuta)_cub_(32409007053).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_Hyaena_(Crocuta_crocuta)_cub_(32409007053).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:16.689Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c9/Spotted_Hyaena_%28Crocuta_crocuta%29_cub_%2832409007053%29.jpg",
+  "updatedAt": "2026-06-28T09:46:16.689Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-core-baby-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-core-baby-01-1200.webp"
+  }
+}

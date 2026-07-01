@@ -2,23 +2,23 @@
   "id": "elephant-baby",
   "animalSlug": "african-elephant",
   "slug": "elephant-baby",
-  "fileName": "African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/African_bush_elephant_%28Loxodonta_africana%29_baby_6_weeks.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "elephant-baby-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Six-week-old African bush elephant calf standing on grass",
   "caption": "Baby elephants stay close to their mothers for years while learning to survive.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_baby_6_weeks.jpg",
     "creatorName": "Charles J. Sharp",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:26.258Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/African_bush_elephant_%28Loxodonta_africana%29_baby_6_weeks.jpg",
+  "updatedAt": "2026-06-25T14:48:26.258Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-baby-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-baby-01-1200.webp"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "id": "peregrine-falcon-gallery-main",
+  "animalSlug": "peregrine-falcon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Peregrine Falcon Photo Gallery",
+  "metaTitle": "Peregrine Falcon Photo Gallery",
+  "metaDescription": "Browse a peregrine falcon photo gallery with wildlife photos.",
+  "intro": "Explore peregrine falcon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "peregrine-falcon-hero",
+    "peregrine-falcon-habitat",
+    "peregrine-falcon-diet",
+    "peregrine-falcon-baby",
+    "peregrine-falcon-family",
+    "peregrine-falcon-range",
+    "peregrine-falcon-size",
+    "peregrine-falcon-closeup",
+    "peregrine-falcon-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-closeup",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-closeup",
+  "fileName": "peregrine-falcon-closeup-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 920,
+  "alt": "Detailed close-up of a peregrine falcon's head showing its yellow beak and keen black eyes",
+  "caption": "Their large eyes are specially protected by a third eyelid to help them see clearly during fast flights.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "United Kingdom",
+  "attributionText": "Photo by gailhampshire from Cradley, Malvern, U.K via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine._Falco_peregrinus_(45536992454).jpg\">gailhampshire from Cradley, Malvern, U.K</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine._Falco_peregrinus_(45536992454).jpg",
+    "creatorName": "gailhampshire from Cradley, Malvern, U.K",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:48.764Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3d/Peregrine._Falco_peregrinus_%2845536992454%29.jpg",
+  "updatedAt": "2026-06-25T15:06:48.764Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-closeup-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-closeup-01-1200.webp"
+  }
+}

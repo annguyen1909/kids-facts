@@ -2,10 +2,10 @@
   "id": "salmon-diet",
   "animalSlug": "salmon",
   "slug": "salmon-diet",
-  "fileName": "Ocean Ness (35576146900).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ocean_Ness_%2835576146900%29.jpg",
-  "width": 3872,
-  "height": 2581,
+  "fileName": "salmon-diet-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Atlantic salmon swimming in a clear river",
   "caption": "In the ocean, salmon eat small fish, shrimp, and other marine animals.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Scotland",
-  "acquisitionNotes": "Replaced duplicate lab specimen with a clear wild river photo.",
-  "updatedAt": "2026-06-24T14:30:25.424Z",
+  "acquisitionNotes": "Replaced duplicate lab specimen with a clear wild river photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Ocean_Ness_%2835576146900%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Ocean_Ness_%2835576146900%29.jpg",
+  "updatedAt": "2026-06-26T19:17:03.505Z",
   "attributionText": "Photo by Alan Jamieson from Aberdeen, Scotland via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ocean_Ness_(35576146900).jpg\">Alan Jamieson from Aberdeen, Scotland</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T14:30:25.424Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:17:03.505Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-diet-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-diet-01-1200.webp"
   }
 }

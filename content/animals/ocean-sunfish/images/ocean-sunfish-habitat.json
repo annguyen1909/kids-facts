@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-habitat",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-habitat",
+  "fileName": "ocean-sunfish-habitat-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Huge ocean sunfish drifting gracefully in an open ocean habitat exhibit",
+  "caption": "Ocean sunfish live in the pelagic zone of tropical and temperate oceans across the globe.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Monterey Bay Aquarium",
+  "acquisitionNotes": "Manually curated ocean sunfish habitat image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c0/Mola_mola_ocean_sunfish_Monterey_Bay_Aquarium_1.jpg",
+  "updatedAt": "2026-06-29T07:22:50.795Z",
+  "attributionText": "Photo by Fred Hsu ( Wikipedia:User:Fredhsu on en.wikipedia ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola_ocean_sunfish_Monterey_Bay_Aquarium_1.jpg\">Fred Hsu ( Wikipedia:User:Fredhsu on en.wikipedia )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola_ocean_sunfish_Monterey_Bay_Aquarium_1.jpg",
+    "creatorName": "Fred Hsu ( Wikipedia:User:Fredhsu on en.wikipedia )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:50.795Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-habitat-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-habitat-01-1200.webp"
+  }
+}

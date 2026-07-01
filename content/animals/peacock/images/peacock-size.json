@@ -1,0 +1,38 @@
+{
+  "id": "peacock-size",
+  "animalSlug": "peacock",
+  "slug": "peacock-size",
+  "fileName": "peacock-size-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-size-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "alt": "A photo showing the size of a Peacock",
+  "caption": "The size of a Peacock can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:012_Indian_peafowl_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:012_Indian_peafowl_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:32.824Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/012_Indian_peafowl_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:06:32.824Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-size-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-size-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-size-01-1200.webp"
+  }
+}

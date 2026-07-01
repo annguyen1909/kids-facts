@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-hero",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-hero",
+  "fileName": "hoatzin-hero-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Spectacular high-res shot of Hoatzin perched in the Amazonian trees of Rio Napo",
+  "caption": "The hoatzin is a legendary, spectacular Amazonian bird famous for its spiky crest and extraordinary digestive system.",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hoatzin_(Opisthocomus_hoazin)_Rio_Napo_2.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoatzin_(Opisthocomus_hoazin)_Rio_Napo_2.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:57.249Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rio Napo, Ecuador",
+  "acquisitionNotes": "High-resolution hoatzin hero image showcasing its distinctive spiky crest. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo_2.jpg",
+  "updatedAt": "2026-06-29T12:23:57.249Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-hero-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-hero-01-1200.webp"
+  }
+}

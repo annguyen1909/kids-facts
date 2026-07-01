@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-family",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-family",
+  "fileName": "peregrine-falcon-family-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Two peregrine falcons perched near each other on a high ledge",
+  "caption": "Falcons mate for life and return to the same nesting site, called an eyrie, every year.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "California, USA",
+  "attributionText": "Photo by Jonathan Eisen via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falco_peregrinus_113345020.jpg\">Jonathan Eisen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_113345020.jpg",
+    "creatorName": "Jonathan Eisen",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:05.284Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/Falco_peregrinus_113345020.jpg",
+  "updatedAt": "2026-06-25T15:07:05.284Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-family-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-family-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-family-01-1200.webp"
+  }
+}

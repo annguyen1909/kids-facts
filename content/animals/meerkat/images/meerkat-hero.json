@@ -2,10 +2,10 @@
   "id": "meerkat-hero",
   "animalSlug": "meerkat",
   "slug": "meerkat-hero",
-  "fileName": "Meerkat (Suricata suricatta).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Meerkat_%28Suricata_suricatta%29.jpg",
-  "width": 2444,
-  "height": 1833,
+  "fileName": "meerkat-hero-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Meerkat standing alert on sandy ground",
   "caption": "Meerkats are small mongooses famous for standing guard and living in groups.",
   "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:01.505Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Manually curated meerkat hero image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Manually curated meerkat hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Meerkat_%28Suricata_suricatta%29.jpg",
+  "updatedAt": "2026-06-25T15:03:01.505Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-hero-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-hero-01-1200.webp"
+  }
 }

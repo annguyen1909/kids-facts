@@ -1,0 +1,22 @@
+{
+  "id": "archerfish-gallery-main",
+  "animalSlug": "archerfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Archerfish Photo Gallery",
+  "metaTitle": "Archerfish Photo Gallery",
+  "metaDescription": "Browse a archerfish photo gallery with wildlife photos.",
+  "intro": "Explore archerfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "archerfish-hero",
+    "archerfish-habitat",
+    "archerfish-diet",
+    "archerfish-baby",
+    "archerfish-family",
+    "archerfish-range",
+    "archerfish-size",
+    "archerfish-closeup",
+    "archerfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:27.347Z"
+}

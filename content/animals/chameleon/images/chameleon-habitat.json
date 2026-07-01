@@ -2,12 +2,12 @@
   "id": "chameleon-habitat",
   "animalSlug": "chameleon",
   "slug": "chameleon-habitat",
-  "fileName": "Veiled chameleon Chamaeleo calyptratus Berlin Zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg",
+  "fileName": "chameleon-habitat-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-habitat-01-1200.webp",
   "width": 1000,
   "height": 1000,
-  "alt": "Veiled chameleon in leafy branch habitat",
-  "caption": "Veiled chameleons live in trees and bushes in dry mountain regions of Yemen.",
+  "alt": "A panther chameleon in the wild rainforest of Madagascar",
+  "caption": "Chameleons thrive in tropical forests and bushlands, where they blend into leafy surroundings.",
   "imageType": "habitat",
   "galleryTopics": [
     "habitat"
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Berlin, Germany",
-  "acquisitionNotes": "Manually curated chameleon habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:20.803Z",
+  "acquisitionNotes": "Manually curated chameleon habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg",
+  "updatedAt": "2026-06-25T14:50:01.355Z",
   "attributionText": "Photo by Kristof Magnusson via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Veiled_chameleon_Chamaeleo_calyptratus_Berlin_Zoo.jpg\">Kristof Magnusson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:01.355Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-habitat-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-habitat-01-1200.webp"
   }
 }

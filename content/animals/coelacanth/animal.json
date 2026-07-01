@@ -1,0 +1,152 @@
+{
+  "id": "animal-coelacanth",
+  "slug": "coelacanth",
+  "name": "Coelacanth",
+  "commonNames": [
+    "Coelacanth",
+    "West Indian Ocean Coelacanth",
+    "African Coelacanth",
+    "Gombessa"
+  ],
+  "scientificName": "Latimeria chalumnae",
+  "summary": "The coelacanth is a legendary deep-sea fish once thought to have gone extinct with the dinosaurs 65 million years ago. Re-discovered in 1938, this 'living fossil' features unique paired lobed fins that move like the legs of a walking land animal.",
+  "heroTitle": "Coelacanth Facts",
+  "metaTitle": "Coelacanth Facts | Deep Sea Habitat, Living Fossil & Photos",
+  "metaDescription": "Discover coelacanth facts with high-quality photos, deep-sea volcanic cave habitat, nocturnal diet, lobed fin locomotion, and live-bearing reproduction.",
+  "searchIntents": [
+    "coelacanth facts",
+    "what is a coelacanth",
+    "where do coelacanths live",
+    "why is the coelacanth a living fossil",
+    "how big is a coelacanth",
+    "is the coelacanth extinct"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Sarcopterygii",
+    "order": "Coelacanthiformes",
+    "family": "Latimeriidae",
+    "genus": "Latimeria",
+    "species": "L. chalumnae"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "large"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "Africa",
+    "Asia"
+  ],
+  "countries": [
+    "Comoros",
+    "South Africa",
+    "Tanzania",
+    "Mozambique",
+    "Madagascar",
+    "Indonesia"
+  ],
+  "biomes": [
+    "marine",
+    "deep sea",
+    "benthic zone"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "cuttlefish",
+    "squid",
+    "deep-water sharks",
+    "eels",
+    "snappers"
+  ],
+  "lifespan": {
+    "wild": "60 to 100 years"
+  },
+  "size": {
+    "lengthMin": "5 feet",
+    "lengthMax": "6.5 feet"
+  },
+  "weight": {
+    "min": "130 pounds",
+    "max": "200 pounds"
+  },
+  "speed": "Slow drift swimmer, capable of quick bursts to capture prey",
+  "conservationStatus": "Critically Endangered",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "nocturnal hunting",
+    "daytime cave resting",
+    "head-down drifting",
+    "electroreception",
+    "group aggregation"
+  ],
+  "adaptations": [
+    "paired fleshy lobed fins",
+    "electrosensory rostral organ",
+    "intracranial joint for opening mouth wide",
+    "heavy armored cosmoid scales",
+    "notochord instead of a bony spine"
+  ],
+  "predators": [
+    "large deep-water sharks",
+    "humans (bycatch)"
+  ],
+  "prey": [
+    "cuttlefish",
+    "squid",
+    "eels",
+    "lanternfish"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "Gestation lasts up to 3 to 5 years",
+    "offspringCount": "5 to 25 live pups per litter"
+  },
+  "funFacts": [
+    "Scientists firmly believed coelacanths had been extinct for 65 million years until a living specimen was hauled onto a fishing boat in South Africa in 1938.",
+    "Rather than a solid bony backbone, coelacanths possess a hollow, pressurized oil-filled tube called a notochord.",
+    "Their pectoral and pelvic fins are attached to fleshy stalks and move in an alternating diagonal pattern, exactly like a trotting four-legged mammal.",
+    "They have a special electroreceptive organ in their snouts called a rostral organ that detects the faint electric currents of hidden prey.",
+    "Coelacanths possess an intracranial joint in their skulls, allowing them to hinge their upper jaw upwards to consume large prey.",
+    "Their gestation period is estimated to be around five years, making it the longest known pregnancy of any vertebrate animal."
+  ],
+  "faq": [
+    {
+      "question": "What is a coelacanth?",
+      "answer": "A coelacanth is an ancient deep-sea lobe-finned fish famously known as a 'living fossil' because it was thought to be extinct with the dinosaurs until its rediscovery in 1938."
+    },
+    {
+      "question": "Where do coelacanths live?",
+      "answer": "Coelacanths inhabit deep marine volcanic slopes and underwater caves at depths between 500 and 2,300 feet, primarily near the Comoros Islands, South Africa, and Indonesia."
+    },
+    {
+      "question": "What do coelacanths eat?",
+      "answer": "Coelacanths are nocturnal carnivores that feed on cuttlefish, squid, snappers, eels, and small deep-water sharks."
+    },
+    {
+      "question": "Why is the coelacanth considered a living fossil?",
+      "answer": "It is called a living fossil because its physical body structure and unique lobed fins have remained virtually unchanged from fossil specimens dating back over 400 million years."
+    },
+    {
+      "question": "How does a coelacanth reproduce?",
+      "answer": "Coelacanths are ovoviviparous; eggs are internally fertilized and developing pups nourish themselves on large yolk sacs inside the mother for several years before being born alive."
+    },
+    {
+      "question": "Is the coelacanth endangered?",
+      "answer": "Yes, the West Indian Ocean coelacanth is listed as Critically Endangered by the IUCN, primarily threatened by deep-water fishing bycatch."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "ocean-sunfish",
+    "clownfish"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "coelacanth-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

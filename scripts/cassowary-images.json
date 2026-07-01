@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Casuarius casuarius MHNT.ZOO.2010.11.1.9.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Cassowary in the wild",
+    "caption": "The Cassowary is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Skull of cassowary (Casuarius casuarius), Paris - 2025.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Cassowary navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Skull of cassowary (Casuarius casuarius) - Paris, 2025.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Cassowary finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Cassowary.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Double-wattled Cassowary, Kasuari (Casuarius casuarius).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Cassowary showing early development",
+    "caption": "Baby Cassowarys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Casuariidae Casuarius casuarius 1.1.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Cassowarys interacting with each other",
+    "caption": "While often solitary, some Cassowarys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Double-wattled Cassowary or Kasuari (Casuarius casuarius).jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Cassowary traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Casuarius casuarius Southern Cassowary Papua New Guinea by Nick Hobgood.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Cassowary",
+    "caption": "The size of a Cassowary can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Double-wattled Cassowary.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Cassowary",
+    "caption": "A close-up view reveals the intricate details of a Cassowary's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Casuarius casuarius - double-wattled cassowary.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Cassowary showing a unique behavior or adaptation",
+    "caption": "Did you know that the Cassowary has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Southern Cassowary (Casuarius casuarius) (9741540559).jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Cassowary navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Casuarius casuarius - Kypäräkasuaari, Southern Cassowary, Hjälmkasuar IMG 1554 C.JPG",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Cassowary finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Cassowary.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Double-Wattled Cassowary (Casuarius bicarunculatus).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Cassowarys interacting with each other",
+    "caption": "While often solitary, some Cassowarys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Casuarius casuarius 333553365.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Cassowary showing early development",
+    "caption": "Baby Cassowarys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Cassowary (Casuarius casuarius).png",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Cassowary traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

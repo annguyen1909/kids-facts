@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-core-baby",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-core-baby",
+  "fileName": "galapagos-tortoise-core-baby-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 787,
+  "alt": "A young Galapagos tortoise feeding on green plants",
+  "caption": "Young tortoises have soft shells and must hide from birds like hawks for their first few years.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Simon Tonge via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_13470362.jpg\">Simon Tonge</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelonoidis_vandenburghi_13470362.jpg",
+    "creatorName": "Simon Tonge",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:54:19.691Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e4/Chelonoidis_vandenburghi_13470362.jpg",
+  "updatedAt": "2026-06-25T14:54:19.691Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-core-baby-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-core-baby-01-1200.webp"
+  }
+}

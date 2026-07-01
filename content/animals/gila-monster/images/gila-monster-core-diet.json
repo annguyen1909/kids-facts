@@ -1,0 +1,42 @@
+{
+  "id": "gila-monster-core-diet",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-core-diet",
+  "fileName": "gila-monster-core-diet-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 811,
+  "alt": "A Gila Monster finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Gila Monster.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by ALAN SCHMIERER via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum)_78_circulo_montana,_patagonia_lake_ranch_estates,_scc,_az_-06_(14475203698).jpg\">ALAN SCHMIERER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum)_78_circulo_montana,_patagonia_lake_ranch_estates,_scc,_az_-06_(14475203698).jpg",
+    "creatorName": "ALAN SCHMIERER",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:55:32.811Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/RETICULATE_GILA_MONSTER_%28Heloderma_suspectum%29_78_circulo_montana%2C_patagonia_lake_ranch_estates%2C_scc%2C_az_-06_%2814475203698%29.jpg",
+  "updatedAt": "2026-06-25T14:55:32.811Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:RETICULATE_GILA_MONSTER_(Heloderma_suspectum)_78_circulo_montana,_patagonia_lake_ranch_estates,_scc,_az_-06_(14475203698).jpg",
+  "creatorName": "ALAN SCHMIERER",
+  "licenseName": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-core-diet-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-core-diet-01-1200.webp"
+  }
+}

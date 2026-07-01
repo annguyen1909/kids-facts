@@ -2,10 +2,10 @@
   "id": "penguin-core-range",
   "animalSlug": "penguin",
   "slug": "penguin-core-range",
-  "fileName": "Falkland Islands Penguins 49.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Falkland_Islands_Penguins_49.jpg",
-  "width": 2048,
-  "height": 1361,
+  "fileName": "penguin-core-range-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 797,
   "alt": "Group of penguins on grassy Falkland Islands coastline",
   "caption": "Some penguin species breed as far north as the Galápagos Islands near the equator.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Falkland Islands",
-  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/Falkland_Islands_Penguins_49.jpg",
+  "updatedAt": "2026-06-25T15:06:38.851Z",
   "attributionText": "Photo by Ben Tubby via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falkland_Islands_Penguins_49.jpg\">Ben Tubby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:38.851Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-core-range-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-core-range-01-1200.webp"
   }
 }

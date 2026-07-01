@@ -2,10 +2,10 @@
   "id": "komodo-dragon-core-habitat",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-core-habitat",
-  "fileName": "Komodo dragon (Varanus komodoensis).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg",
-  "width": 3670,
-  "height": 2895,
+  "fileName": "komodo-dragon-core-habitat-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 946,
   "alt": "Komodo dragon on sunlit rocky island terrain",
   "caption": "Komodo dragons thrive on hot, dry islands with sparse trees and open ground.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Komodo National Park, Indonesia",
-  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Core article image curated separately from the Komodo dragon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg",
+  "updatedAt": "2026-06-25T15:00:00.548Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis).jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:00.548Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-core-habitat-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-core-habitat-01-1200.webp"
   }
 }

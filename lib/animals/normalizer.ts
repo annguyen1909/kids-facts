@@ -72,11 +72,16 @@ function normalizeCountries(countryCodes: string[]): string[] {
 }
 
 export function cleanScientificName(name: string): string {
-  const parts = name.trim().split(/\s+/).filter(Boolean);
+  const binomial = name
+    .trim()
+    .replace(/\s*\([^)]*\)\s*$/, "")
+    .replace(/\s+[A-Z][^,]+,\s*\d{4}\s*$/, "")
+    .trim();
+  const parts = binomial.split(/\s+/).filter(Boolean);
   if (parts.length >= 2) {
     return `${parts[0]} ${parts[1]}`;
   }
-  return name.trim();
+  return binomial || name.trim();
 }
 
 export function slugFromScientificName(scientificName: string): string {

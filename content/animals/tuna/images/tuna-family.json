@@ -2,10 +2,10 @@
   "id": "tuna-family",
   "animalSlug": "tuna",
   "slug": "tuna-family",
-  "fileName": "Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25191).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25191%29.jpg",
-  "width": 3008,
-  "height": 2000,
+  "fileName": "tuna-family-01-1200.webp",
+  "src": "/images/animals/tuna/web/tuna-family-01-1200.webp",
+  "width": 1200,
+  "height": 798,
   "alt": "Large school of yellowfin tuna swimming together",
   "caption": "Tuna often travel in schools, especially when they are younger.",
   "attributionText": "Photo by Marc Taquet via Wikimedia Commons, CC BY 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:11.144Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:13:48.151Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated tuna school image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:11.144Z"
+  "acquisitionNotes": "Manually curated tuna school image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Banc_de_thons_albacores_%28Thunnus_albacares%29_%28Ifremer_00568-68027_-_25191%29.jpg",
+  "updatedAt": "2026-06-25T15:13:48.151Z",
+  "srcSet": {
+    "web1200": "/images/animals/tuna/web/tuna-family-01-1200.webp",
+    "thumbnail400": "/images/animals/tuna/thumbnails/tuna-family-01-400.webp",
+    "original": "/images/animals/tuna/web/tuna-family-01-1200.webp"
+  }
 }

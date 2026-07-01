@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-size",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-size",
+  "fileName": "hoatzin-size-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-size-01-1200.webp",
+  "width": 1000,
+  "height": 881,
+  "alt": "Hoatzin showing its robust body and long tail feathers against a tree branch",
+  "caption": "Reaching up to 26 inches in length, their heavy bodies are packed with a massive crop used for breaking down tough leaves.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Amazon Basin",
+  "acquisitionNotes": "Excellent detailed shot highlighting physical proportions and relative size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a5/Opisthocomus_hoazin_-_Flickr_-_Dick_Culbert.jpg",
+  "updatedAt": "2026-06-29T12:23:55.937Z",
+  "attributionText": "Photo by Dick Culbert from Gibsons, B.C., Canada via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_-_Flickr_-_Dick_Culbert.jpg\">Dick Culbert from Gibsons, B.C., Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_-_Flickr_-_Dick_Culbert.jpg",
+    "creatorName": "Dick Culbert from Gibsons, B.C., Canada",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:55.937Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-size-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-size-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-size-01-1200.webp"
+  }
+}

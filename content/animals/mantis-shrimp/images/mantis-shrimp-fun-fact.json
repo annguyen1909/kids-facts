@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-fun-fact",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-fun-fact",
+  "fileName": "mantis-shrimp-fun-fact-01-1200.webp",
+  "alt": "A Mantis Shrimp showing a unique behavior or adaptation",
+  "caption": "Did you know that the Mantis Shrimp has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_mantis_(Odontodactylus_scyllarus),_Anilao,_Filipinas,_2023-08-24,_DD_165.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camar%C3%B3n_mantis_(Odontodactylus_scyllarus),_Anilao,_Filipinas,_2023-08-24,_DD_165.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:19.790Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/66/Camar%C3%B3n_mantis_%28Odontodactylus_scyllarus%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_165.jpg",
+  "updatedAt": "2026-06-26T08:17:19.790Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-fun-fact-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-fun-fact-01-1200.webp"
+  }
+}

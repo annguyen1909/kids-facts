@@ -2,10 +2,10 @@
   "id": "penguin-range",
   "animalSlug": "penguin",
   "slug": "penguin-range",
-  "fileName": "Antarctica penguin colony (53168733476).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Antarctica_penguin_colony_%2853168733476%29.jpg",
-  "width": 5044,
-  "height": 2837,
+  "fileName": "penguin-range-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-range-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Large penguin colony spread across Antarctic ice and snow",
   "caption": "Wild penguins live only in the Southern Hemisphere, from Antarctica to southern coasts.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Antarctica",
-  "acquisitionNotes": "Manually curated penguin range image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated penguin range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/78/Antarctica_penguin_colony_%2853168733476%29.jpg",
+  "updatedAt": "2026-06-25T15:06:46.232Z",
   "attributionText": "Photo by Pedro Szekely from Los Angeles, USA via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Antarctica_penguin_colony_(53168733476).jpg\">Pedro Szekely from Los Angeles, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:46.232Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-range-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-range-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-range-01-1200.webp"
   }
 }

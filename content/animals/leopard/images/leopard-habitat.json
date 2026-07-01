@@ -2,10 +2,10 @@
   "id": "leopard-habitat",
   "animalSlug": "leopard",
   "slug": "leopard-habitat",
-  "fileName": "Leopard Tree AdF.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Leopard_Tree_AdF.jpg",
-  "width": 3000,
-  "height": 2000,
+  "fileName": "leopard-habitat-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Leopard resting on a tree branch in woodland habitat",
   "caption": "Leopards use trees for rest, safety, and to stash prey away from scavengers.",
   "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:13.023Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "African woodland",
-  "acquisitionNotes": "Manually curated leopard habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z"
+  "acquisitionNotes": "Manually curated leopard habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Leopard_Tree_AdF.jpg",
+  "updatedAt": "2026-06-25T15:01:13.023Z",
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-habitat-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-habitat-01-1200.webp"
+  }
 }

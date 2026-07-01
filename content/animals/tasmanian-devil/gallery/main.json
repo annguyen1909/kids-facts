@@ -1,0 +1,22 @@
+{
+  "id": "tasmanian-devil-gallery-main",
+  "animalSlug": "tasmanian-devil",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Tasmanian Devil Photo Gallery",
+  "metaTitle": "Tasmanian Devil Photo Gallery",
+  "metaDescription": "Browse a Tasmanian devil photo gallery with wildlife images of joeys, feeding, habitat, facial features, and Tasmania's temperate forests.",
+  "intro": "Explore Tasmanian devils through photos organized for learning, image search, and classroom observation—from newborn joeys and powerful jaws to nocturnal foraging in Tasmanian bush.",
+  "imageSlugs": [
+    "tasmanian-devil-hero",
+    "tasmanian-devil-habitat",
+    "tasmanian-devil-diet",
+    "tasmanian-devil-baby",
+    "tasmanian-devil-family",
+    "tasmanian-devil-range",
+    "tasmanian-devil-size",
+    "tasmanian-devil-closeup",
+    "tasmanian-devil-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-core-habitat",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-core-habitat",
+  "alt": "Coelacanth swimming in its natural deep marine habitat off Pumula, South Africa",
+  "caption": "Living coelacanths thrive in deep, dark ocean waters where cool currents supply abundant oxygen.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "KwaZulu-Natal, South Africa",
+  "fileName": "coelacanth-core-habitat-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-core-habitat-01-1200.webp",
+  "width": 963,
+  "height": 578,
+  "attributionText": "Photo by Bruce A.S. Henderson via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png\">Bruce A.S. Henderson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+    "creatorName": "Bruce A.S. Henderson",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:14.659Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the coelacanth gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b7/Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast%2C_South_Africa%2C_on_22_November_2019.png",
+  "updatedAt": "2026-06-29T07:22:14.659Z",
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-core-habitat-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-core-habitat-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "orangutan-habitat",
   "animalSlug": "orangutan",
   "slug": "orangutan-habitat",
-  "fileName": "Bornean orangutan (Pongo pygmaeus), Tanjung Putting National Park 02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_02.jpg",
-  "width": 4433,
-  "height": 2955,
+  "fileName": "orangutan-habitat-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Orangutan climbing in tropical rainforest canopy",
   "caption": "Bornean orangutans live in tropical rainforests on the island of Borneo.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Tanjung Putting National Park, Indonesia",
-  "acquisitionNotes": "Manually curated orangutan habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Manually curated orangutan habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c2/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_02.jpg",
+  "updatedAt": "2026-06-25T15:04:23.501Z",
   "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus)%2C_Tanjung_Putting_National_Park_02.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_02.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus)%2C_Tanjung_Putting_National_Park_02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_02.jpg",
     "creatorName": "Thomas Fuhrmann",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:23.501Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-habitat-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-habitat-01-1200.webp"
   }
 }

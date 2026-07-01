@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:A giant Gal\u00e1pagos tortoise (Chelonoidis niger donfaustoi).jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "A massive adult Galapagos giant tortoise standing in grassy green vegetation",
+    "caption": "The Galapagos giant tortoise is the largest living species of tortoise on Earth.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "habitat": {
+    "fileTitle": "File:Chelonoidis-niger-donfaustoi-wallow.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "A giant tortoise cooling off in a muddy water wallow",
+    "caption": "They inhabit both dry lowlands and humid highlands, often wallowing in mud to cool off.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "diet": {
+    "fileTitle": "File:Chelonoidis vicina 02.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "A Galapagos giant tortoise feeding on green plants and grass",
+    "caption": "They are herbivores that eat grass, leaves, cacti, lichens, and berries.",
+    "location": "Isabela Island, Galapagos"
+  },
+  "baby": {
+    "fileTitle": "File:Chelonoidis vandenburghi 41250276.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "A small juvenile Galapagos giant tortoise walking on volcanic soil",
+    "caption": "Hatchling tortoises emerge from underground nests and are about the size of a tennis ball.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "family": {
+    "fileTitle": "File:Chelonoidis vicina 01.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "A group of giant tortoises gathered in a grassy clearing near trees",
+    "caption": "While solitary, tortoises often gather in groups in grassy feeding pastures or mud pools.",
+    "location": "Isabela Island, Galapagos"
+  },
+  "range": {
+    "fileTitle": "File:Gal\u00e1pagos giant tortoise, moving (Chelonoidis niger hoodensis).jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "A giant tortoise walking slowly with legs extended on volcanic soil",
+    "caption": "They walk very slowly, traveling at a speed of about 0.16 miles per hour (0.26 km/h).",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "size": {
+    "fileTitle": "File:Gal\u00e1pagos tortoise at Asilo de la Paz on Floreana Island.jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "A massive Galapagos tortoise standing in a field next to a fence, showcasing its enormous size",
+    "caption": "These giants can weigh up to 900 pounds (417 kg) and grow to over 5 feet long.",
+    "location": "Floreana Island, Galapagos"
+  },
+  "closeup": {
+    "fileTitle": "File:Galapagos giant tortoise, head (Chelonoidis niger hoodensis).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a giant tortoise's wrinkled head and neck, showing its scale-like skin",
+    "caption": "Tortoises have sharp, toothless beaks that they use to bite and tear tough vegetation.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Galapagos giant tortoise (Chelonoidis nigra) (5526013597).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "A Galapagos giant tortoise stretching its long neck to reach leaves",
+    "caption": "Galapagos tortoises are among the longest-lived vertebrates, often living over 100 to 150 years!",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Chelonoidis vandenburghi 30165605.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "A giant tortoise in a humid upland meadow",
+    "caption": "Highlands with moist grass are their preferred feeding spots during the dry season.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "core-diet": {
+    "fileTitle": "File:Chelonoidis vicina 04.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "A giant tortoise feeding on fallen fruits and foliage",
+    "caption": "Their slow metabolism allows them to go up to a year without food or water.",
+    "location": "Isabela Island, Galapagos"
+  },
+  "core-family": {
+    "fileTitle": "File:Chelonoidis vicina 03.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Two giant tortoises resting near each other",
+    "caption": "Tortoises co-exist peacefully, often sleeping near one another.",
+    "location": "Isabela Island, Galapagos"
+  },
+  "core-baby": {
+    "fileTitle": "File:Chelonoidis vandenburghi 13470362.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "A young Galapagos tortoise feeding on green plants",
+    "caption": "Young tortoises have soft shells and must hide from birds like hawks for their first few years.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "core-range": {
+    "fileTitle": "File:Chelonoidis vandenburghi 13470370.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "A giant tortoise moving along a dirt path",
+    "caption": "They follow well-defined paths through the islands' volcanic terrain.",
+    "location": "Galapagos Islands, Ecuador"
+  }
+}

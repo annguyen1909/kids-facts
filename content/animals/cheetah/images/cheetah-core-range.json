@@ -2,10 +2,10 @@
   "id": "cheetah-core-range",
   "animalSlug": "cheetah",
   "slug": "cheetah-core-range",
-  "fileName": "Namibian Cheetah (39618420).jpeg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Namibian_Cheetah_%2839618420%29.jpeg",
-  "width": 2048,
-  "height": 1814,
+  "fileName": "cheetah-core-range-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1063,
   "alt": "Cheetah standing in dry Namibian habitat",
   "caption": "Most wild cheetahs now live in scattered populations across Africa.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Namibia",
-  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Core article image curated separately from the cheetah gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/34/Namibian_Cheetah_%2839618420%29.jpeg",
+  "updatedAt": "2026-06-25T14:50:22.802Z",
   "attributionText": "Photo by Louise via Wikimedia Commons, CC BY 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Namibian_Cheetah_(39618420).jpeg\">Louise</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:22.802Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-core-range-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-core-range-01-1200.webp"
   }
 }

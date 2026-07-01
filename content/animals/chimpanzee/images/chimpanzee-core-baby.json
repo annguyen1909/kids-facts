@@ -2,10 +2,10 @@
   "id": "chimpanzee-core-baby",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-core-baby",
-  "fileName": "Baby chimpanzee-MGL 95208-P5030049-black.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Baby_chimpanzee-MGL_95208-P5030049-black.jpg",
-  "width": 2000,
-  "height": 2000,
+  "fileName": "chimpanzee-core-baby-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Very young chimpanzee infant clinging close",
   "caption": "Infants ride on their mother's body and learn by watching adults.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Baby_chimpanzee-MGL_95208-P5030049-black.jpg",
+  "updatedAt": "2026-06-25T14:50:28.587Z",
   "attributionText": "Photo by Rama via Wikimedia Commons, CC BY-SA 3.0 fr",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_chimpanzee-MGL_95208-P5030049-black.jpg\">Rama</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en\">CC BY-SA 3.0 fr</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0 fr",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:28.587Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-core-baby-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-core-baby-01-1200.webp"
   }
 }

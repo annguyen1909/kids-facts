@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-closeup",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-closeup",
+  "fileName": "moorish-idol-closeup-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Intimate close-up of a moorish idol's yellow snout, bold black mask, and small mouth",
+  "caption": "Their prominent yellow snout features small, bristle-like teeth perfectly engineered for scraping stubborn sponges from rock.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tropical reef view",
+  "acquisitionNotes": "Crisp, extreme detail close-up of snout and facial structure. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7d/Zanclus_cornutus_392894186.jpg",
+  "updatedAt": "2026-06-29T12:23:58.507Z",
+  "attributionText": "Photo by sunny tyson via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_392894186.jpg\">sunny tyson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_392894186.jpg",
+    "creatorName": "sunny tyson",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T12:23:58.507Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-closeup-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-closeup-01-1200.webp"
+  }
+}

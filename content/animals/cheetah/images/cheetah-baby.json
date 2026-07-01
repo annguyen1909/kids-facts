@@ -2,10 +2,10 @@
   "id": "cheetah-baby",
   "animalSlug": "cheetah",
   "slug": "cheetah-baby",
-  "fileName": "Cheetah (Acinonyx jubatus) cub.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cheetah_%28Acinonyx_jubatus%29_cub.jpg",
-  "width": 5472,
-  "height": 3648,
+  "fileName": "cheetah-baby-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young cheetah cub resting in dry grass",
   "caption": "Cheetah cubs stay hidden while their mother hunts nearby.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:04.826Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Phinda Private Game Reserve, South Africa",
-  "acquisitionNotes": "Manually curated cheetah cub image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:36.035Z"
+  "acquisitionNotes": "Manually curated cheetah cub image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2c/Cheetah_%28Acinonyx_jubatus%29_cub.jpg",
+  "updatedAt": "2026-06-25T14:50:04.826Z",
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-baby-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-baby-01-1200.webp"
+  }
 }

@@ -2,10 +2,10 @@
   "id": "komodo-dragon-habitat",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-habitat",
-  "fileName": "Komodo dragon (Varanus komodoensis) on Pulau Komodo - Indonesia 05.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Komodo_dragon_%28Varanus_komodoensis%29_on_Pulau_Komodo_-_Indonesia_05.jpg",
-  "width": 2380,
-  "height": 1587,
+  "fileName": "komodo-dragon-habitat-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Komodo dragon resting on rocky island habitat in Indonesia",
   "caption": "Wild Komodo dragons live on dry Indonesian islands with scrubby forest and open grassland.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Pulau Komodo, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Komodo_dragon_%28Varanus_komodoensis%29_on_Pulau_Komodo_-_Indonesia_05.jpg",
+  "updatedAt": "2026-06-25T15:00:05.980Z",
   "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis)_on_Pulau_Komodo_-_Indonesia_05.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:05.980Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-habitat-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-habitat-01-1200.webp"
   }
 }

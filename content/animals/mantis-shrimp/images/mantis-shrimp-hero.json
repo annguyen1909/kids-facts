@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-hero",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-hero",
+  "fileName": "mantis-shrimp-hero-01-1200.webp",
+  "alt": "A beautiful portrait of a Mantis Shrimp in the wild",
+  "caption": "The Mantis Shrimp is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Jens Petersen via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus1.jpg\">Jens Petersen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus1.jpg",
+    "creatorName": "Jens Petersen",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:19.747Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b5/Odontodactylus_scyllarus1.jpg",
+  "updatedAt": "2026-06-26T08:17:19.747Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-hero-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-hero-01-1200.webp"
+  }
+}

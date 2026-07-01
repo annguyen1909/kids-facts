@@ -1,0 +1,38 @@
+{
+  "id": "manatee-hero",
+  "animalSlug": "manatee",
+  "slug": "manatee-hero",
+  "fileName": "manatee-hero-01-1200.webp",
+  "alt": "West Indian manatee gliding underwater in dark blue water",
+  "caption": "Manatees are slow-moving plant eaters that spend much of the day cruising for food.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-hero-01-1200.webp",
+  "width": 1050,
+  "height": 750,
+  "attributionText": "Photo by NASA via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manatee_photo.jpg\">NASA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manatee_photo.jpg",
+    "creatorName": "NASA",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:28.291Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b1/Manatee_photo.jpg",
+  "updatedAt": "2026-06-26T08:16:28.291Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-hero-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-hero-01-1200.webp"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "giant-panda-hero",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-hero",
-  "fileName": "giant-panda-hero-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lightmatter_panda.jpg",
+  "fileName": "giant-panda-hero-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-hero-01-1200.webp",
   "width": 720,
   "height": 480,
   "alt": "Giant panda resting with black and white fur markings",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "San Diego Zoo, United States",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8d/Lightmatter_panda.jpg",
+  "updatedAt": "2026-06-25T14:55:15.377Z",
   "attributionText": "Photo by Aaron Logan via Wikimedia Commons, CC BY 1.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lightmatter_panda.jpg\">Aaron Logan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/1.0/\">CC BY 1.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lightmatter_panda.jpg\">Aaron Logan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/1.0\">CC BY 1.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lightmatter_panda.jpg",
     "creatorName": "Aaron Logan",
     "licenseName": "CC BY 1.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/1.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/1.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:15.377Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-hero-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-hero-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-core-family",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-core-family",
+  "alt": "Adult leafy seadragon floating peacefully in a sheltered bay habitat",
+  "caption": "Seadragons are gentle, slow-moving creatures that rely entirely on their flawless camouflage to evade large predatory fish.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Aquarium of Canada, Toronto",
+  "fileName": "leafy-seadragon-core-family-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Laslovarga via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_Laslovarga02.JPG\">Laslovarga</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_Laslovarga02.JPG",
+    "creatorName": "Laslovarga",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:14.781Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the leafy seadragon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b8/Phycodurus_eques_Laslovarga02.JPG",
+  "updatedAt": "2026-06-29T07:23:14.781Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-core-family-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-family-01-1200.webp"
+  }
+}

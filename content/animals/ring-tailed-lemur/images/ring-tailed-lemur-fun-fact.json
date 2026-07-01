@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-fun-fact",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-fun-fact",
+  "fileName": "ring-tailed-lemur-fun-fact-01-1200.webp",
+  "alt": "Ring-tailed lemurs sitting up with arms out, sunbathing",
+  "caption": "On cool mornings lemurs sit up and spread their arms to soak up the sun like little sunbathers.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 752,
+  "attributionText": "Photo by Tony Hisgett from Birmingham, UK via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ring_Tailed_Lemurs_Sunbathing_(5512667912).jpg\">Tony Hisgett from Birmingham, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ring_Tailed_Lemurs_Sunbathing_(5512667912).jpg",
+    "creatorName": "Tony Hisgett from Birmingham, UK",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:16.406Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/52/Ring_Tailed_Lemurs_Sunbathing_%285512667912%29.jpg",
+  "updatedAt": "2026-06-28T09:59:16.406Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-fun-fact-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-fun-fact-01-1200.webp"
+  }
+}

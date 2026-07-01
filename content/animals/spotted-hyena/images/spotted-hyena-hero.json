@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-hero",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-hero",
+  "fileName": "spotted-hyena-hero-01-1200.webp",
+  "alt": "Spotted hyena standing alert in dry grassland in Namibia",
+  "caption": "Spotted hyenas have sandy fur covered in dark spots and strong, sloping shoulders.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Etosha National Park, Namibia",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-hero-01-1200.webp",
+  "width": 1200,
+  "height": 644,
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:21.016Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Spotted_hyena_%28Crocuta_crocuta%29.jpg",
+  "updatedAt": "2026-06-28T09:46:21.016Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-hero-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-hero-01-1200.webp"
+  }
+}

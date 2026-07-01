@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-core-family",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-core-family",
+  "fileName": "ring-tailed-lemur-core-family-01-1200.webp",
+  "alt": "Several ring-tailed lemurs grouped together",
+  "caption": "Living in a troop helps lemurs stay safe, share warmth, and watch out for danger.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 789,
+  "attributionText": "Photo by Sxenko at English Wikipedia via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lemur_catta_group.jpg\">Sxenko at English Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemur_catta_group.jpg",
+    "creatorName": "Sxenko at English Wikipedia",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:13.111Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Lemur_catta_group.jpg",
+  "updatedAt": "2026-06-28T09:59:13.111Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-core-family-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-core-family-01-1200.webp"
+  }
+}

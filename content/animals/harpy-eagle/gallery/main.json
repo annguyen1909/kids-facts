@@ -1,0 +1,22 @@
+{
+  "id": "harpy-eagle-gallery-main",
+  "animalSlug": "harpy-eagle",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Harpy Eagle Photo Gallery",
+  "metaTitle": "Harpy Eagle Photo Gallery",
+  "metaDescription": "Browse a harpy eagle photo gallery with wildlife photos.",
+  "intro": "Explore harpy eagle photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "harpy-eagle-hero",
+    "harpy-eagle-habitat",
+    "harpy-eagle-diet",
+    "harpy-eagle-baby",
+    "harpy-eagle-family",
+    "harpy-eagle-range",
+    "harpy-eagle-size",
+    "harpy-eagle-closeup",
+    "harpy-eagle-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:24.788Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-range",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-range",
+  "fileName": "giant-anteater-range-01-1200.webp",
+  "alt": "Giant anteater foraging across a green Pantanal grassland",
+  "caption": "Giant anteaters live across Central and South America, from Honduras down to northern Argentina.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Pantanal, Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla_in_Pantanal.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla_in_Pantanal.jpg",
+    "creatorName": "Unknown creator",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T10:16:40.204Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/de/Myrmecophaga_tridactyla_in_Pantanal.jpg",
+  "updatedAt": "2026-06-28T10:16:40.204Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-range-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-range-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-range-01-1200.webp"
+  }
+}

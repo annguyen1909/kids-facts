@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-hero",
+  "slug": "hammerhead-shark-hero",
+  "animalSlug": "hammerhead-shark",
+  "fileName": "hammerhead-shark-hero-01-1200.webp",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:21:04.357Z",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-hero-01-1200.webp",
+  "width": 1200,
+  "height": 890,
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-hero-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-hero-01-1200.webp"
+  },
+  "alt": "Great hammerhead shark showing its distinctive T-shaped head",
+  "caption": "The great hammerhead's wide head gives it excellent vision and hunting ability.",
+  "attributionText": "Photo by Jim Capaldi from Springfield, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_camden.jpg\">Jim Capaldi from Springfield, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_camden.jpg",
+    "creatorName": "Jim Capaldi from Springfield, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:21:04.357Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Unknown",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Sphyrna_mokarran_camden.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Sphyrna_mokarran_camden.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Sphyrna_mokarran_camden.jpg"
+}

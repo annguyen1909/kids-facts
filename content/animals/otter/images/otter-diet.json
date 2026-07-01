@@ -2,10 +2,10 @@
   "id": "otter-diet",
   "animalSlug": "otter",
   "slug": "otter-diet",
-  "fileName": "Sea otter eating crab.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sea_otter_eating_crab.jpg",
-  "width": 1240,
-  "height": 960,
+  "fileName": "otter-diet-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-diet-01-1200.webp",
+  "width": 1200,
+  "height": 929,
   "alt": "Sea otter eating crab while floating",
   "caption": "Sea otters eat shellfish and other marine animals while floating on the surface.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Coastal waters",
-  "acquisitionNotes": "Manually curated otter diet image with verified sea otter identification.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Manually curated otter diet image with verified sea otter identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Sea_otter_eating_crab.jpg",
+  "updatedAt": "2026-06-25T15:05:15.019Z",
   "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_otter_eating_crab.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:15.019Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-diet-01-400.webp",
+    "original": "/images/animals/otter/web/otter-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-size",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-size",
+  "fileName": "coelacanth-size-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-size-01-1200.webp",
+  "width": 1200,
+  "height": 608,
+  "alt": "Large West Indian Ocean coelacanth holotype specimen showing immense adult size",
+  "caption": "Adult coelacanths can grow over 6.5 feet (2 meters) in length and weigh up to 200 pounds.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "East London Museum, South Africa",
+  "acquisitionNotes": "Manually curated coelacanth size image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/52/West_Indian_Ocean_Coelacanth_%28Latimeria_chalumnae%29_holotype.jpg",
+  "updatedAt": "2026-06-29T07:22:31.382Z",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:West_Indian_Ocean_Coelacanth_(Latimeria_chalumnae)_holotype.jpg\">Bernard DUPONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Indian_Ocean_Coelacanth_(Latimeria_chalumnae)_holotype.jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:31.382Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-size-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-size-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-size-01-1200.webp"
+  }
+}

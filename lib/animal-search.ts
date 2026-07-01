@@ -1,6 +1,8 @@
 import type { AnimalRecord } from "@/lib/types";
 
-export function animalMatchesSearchQuery(animal: AnimalRecord, query: string): boolean {
+type SearchableAnimal = Pick<AnimalRecord, "core">;
+
+export function animalMatchesSearchQuery<T extends SearchableAnimal>(animal: T, query: string): boolean {
   const normalized = query.trim().toLowerCase();
   if (!normalized) return true;
 
@@ -23,6 +25,6 @@ export function animalMatchesSearchQuery(animal: AnimalRecord, query: string): b
   return tokens.every((token) => haystack.includes(token));
 }
 
-export function filterAnimalsBySearchQuery(animals: AnimalRecord[], query: string): AnimalRecord[] {
+export function filterAnimalsBySearchQuery<T extends SearchableAnimal>(animals: T[], query: string): T[] {
   return animals.filter((animal) => animalMatchesSearchQuery(animal, query));
 }

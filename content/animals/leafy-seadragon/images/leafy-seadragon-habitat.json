@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-habitat",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-habitat",
+  "fileName": "leafy-seadragon-habitat-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Leafy seadragon hovering gracefully among seagrass beds at Rapid Bay Jetty",
+  "caption": "They inhabit calm, cold coastal waters, seagrass meadows, and kelp forests along the southern coast of Australia.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Rapid Bay Jetty, South Australia",
+  "acquisitionNotes": "Manually curated leafy seadragon habitat image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Phycodurus_eques_P2023167.JPG",
+  "updatedAt": "2026-06-29T07:23:32.200Z",
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023167.JPG\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023167.JPG",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:32.200Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-habitat-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-habitat-01-1200.webp"
+  }
+}

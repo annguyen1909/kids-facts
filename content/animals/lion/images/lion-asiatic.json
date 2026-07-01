@@ -2,22 +2,22 @@
   "id": "lion-asiatic",
   "animalSlug": "lion",
   "slug": "lion-asiatic",
-  "fileName": "asiatic-lion-forest-grassland.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Adult_Asiatic_Lion.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-asiatic-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-asiatic-01-1200.webp",
+  "width": 800,
+  "height": 1200,
   "alt": "Adult Asiatic lion in forest habitat",
   "caption": "Asiatic lions survive in India's Gir Forest, a woodland-grassland mosaic.",
-  "attributionText": "Photo by Rupal Vaidya via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionText": "Photo by Sumeet Moghe via Wikimedia Commons, CC BY-SA 3.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adult_Asiatic_Lion.jpg",
-    "creatorName": "Rupal Vaidya",
+    "creatorName": "Sumeet Moghe",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:16.082Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,12 @@
     "gallery"
   ],
   "location": "Gir Forest, India",
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/51/Adult_Asiatic_Lion.jpg",
+  "updatedAt": "2026-06-25T15:01:16.082Z",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Adult_Asiatic_Lion.jpg\">Sumeet Moghe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-asiatic-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-asiatic-01-400.webp",
+    "original": "/images/animals/lion/web/lion-asiatic-01-1200.webp"
+  }
 }

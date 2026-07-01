@@ -2,8 +2,8 @@
   "id": "snake-baby",
   "animalSlug": "snake",
   "slug": "snake-baby",
-  "fileName": "Hatchling Pastel Ball Python.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hatchling_Pastel_Ball_Python.jpg",
+  "fileName": "snake-baby-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-baby-01-1200.webp",
   "width": 865,
   "height": 865,
   "alt": "Tiny ball python hatchling on a surface",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:33.048Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "West Africa",
-  "acquisitionNotes": "Manually curated ball python hatchling image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:26.092Z"
+  "acquisitionNotes": "Manually curated ball python hatchling image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/aa/Hatchling_Pastel_Ball_Python.jpg",
+  "updatedAt": "2026-06-25T15:11:33.048Z",
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-baby-01-400.webp",
+    "original": "/images/animals/snake/web/snake-baby-01-1200.webp"
+  }
 }

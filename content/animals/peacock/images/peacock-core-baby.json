@@ -1,0 +1,42 @@
+{
+  "id": "peacock-core-baby",
+  "animalSlug": "peacock",
+  "slug": "peacock-core-baby",
+  "fileName": "peacock-core-baby-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A young or baby Peacock showing early development",
+  "caption": "Baby Peacocks must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Indian_peafowl_(Pavo_cristatus)_female_with_chick.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_peafowl_(Pavo_cristatus)_female_with_chick.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:17.410Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/Indian_peafowl_%28Pavo_cristatus%29_female_with_chick.jpg",
+  "updatedAt": "2026-06-25T15:06:17.410Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_peafowl_(Pavo_cristatus)_female_with_chick.jpg",
+  "creatorName": "Charles J. Sharp",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-core-baby-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-core-baby-01-1200.webp"
+  }
+}

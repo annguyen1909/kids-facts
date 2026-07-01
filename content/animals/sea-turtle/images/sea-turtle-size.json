@@ -2,10 +2,10 @@
   "id": "sea-turtle-size",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-size",
-  "fileName": "Hawaii turtle 2.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hawaii_turtle_2.JPG",
-  "width": 1632,
-  "height": 1224,
+  "fileName": "sea-turtle-size-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Large green sea turtle swimming showing shell and flippers",
   "caption": "Adult green sea turtles can weigh over 300 pounds and grow more than 3 feet long.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Hawaii, USA",
-  "acquisitionNotes": "Manually curated sea turtle size image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Manually curated sea turtle size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Hawaii_turtle_2.JPG",
+  "updatedAt": "2026-06-25T15:10:56.515Z",
   "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hawaii_turtle_2.JPG\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hawaii_turtle_2.JPG\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hawaii_turtle_2.JPG",
     "creatorName": "Brocken Inaglory",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:56.515Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-size-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-size-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-size-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-fun-fact",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-fun-fact",
+  "fileName": "kakapo-fun-fact-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-fun-fact-01-1200.webp",
+  "width": 344,
+  "height": 450,
+  "alt": "Sirocco standing upright, showing its charismatic personality and strong climbing legs",
+  "caption": "Despite being completely flightless, the kakapo uses its powerful legs and claws to climb high into towering canopy trees.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "New Zealand",
+  "acquisitionNotes": "Curated fun-fact full length portrait of Sirocco. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/aa/Sirocco_full_length_portrait.jpg",
+  "updatedAt": "2026-06-29T11:55:51.755Z",
+  "attributionText": "Photo by Department of Conservation via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sirocco_full_length_portrait.jpg\">Department of Conservation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sirocco_full_length_portrait.jpg",
+    "creatorName": "Department of Conservation",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:51.755Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-fun-fact-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-fun-fact-01-1200.webp"
+  }
+}

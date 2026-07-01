@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-size",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-size",
+  "fileName": "leafy-seadragon-size-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Full adult leafy seadragon showing its entire body length and intricate leafy extensions",
+  "caption": "Adult leafy seadragons are relatively large for the syngnathid family, reaching up to 14 inches (35 cm) in length.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Sydney exhibit",
+  "acquisitionNotes": "Manually curated leafy seadragon size image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b2/Leafy_Sea_Dragon-Phycodurus_eques_%2823694746864%29.jpg",
+  "updatedAt": "2026-06-29T07:23:34.743Z",
+  "attributionText": "Photo by Sylke Rohrlach from Sydney via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leafy_Sea_Dragon-Phycodurus_eques_(23694746864).jpg\">Sylke Rohrlach from Sydney</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leafy_Sea_Dragon-Phycodurus_eques_(23694746864).jpg",
+    "creatorName": "Sylke Rohrlach from Sydney",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:34.743Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-size-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-size-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-size-01-1200.webp"
+  }
+}

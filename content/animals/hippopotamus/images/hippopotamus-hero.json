@@ -1,33 +1,38 @@
 {
   "id": "hippopotamus-hero",
-  "animalSlug": "hippopotamus",
   "slug": "hippopotamus-hero",
-  "fileName": "Hipopótamos (Hippopotamus amphibius), parque nacional de Chobe, Botsuana, 2018-07-28, DD 79.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hipop%C3%B3tamos_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_79.jpg",
-  "width": 5246,
-  "height": 2951,
-  "alt": "Hippopotamus standing at the edge of a river in Botswana",
-  "caption": "Hippos are huge river mammals with barrel-shaped bodies and wide mouths.",
-  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamos_(Hippopotamus_amphibius)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_79.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
-  "source": {
-    "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamos_(Hippopotamus_amphibius)%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_79.jpg",
-    "creatorName": "Diego Delso",
-    "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
-  },
-  "imageType": "hero",
+  "animalSlug": "hippopotamus",
+  "fileName": "hippopotamus-hero-01-1200.webp",
   "galleryTopics": [
     "hero"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Chobe National Park, Botswana",
-  "acquisitionNotes": "Manually curated hippopotamus hero image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:13:06.559Z",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-hero-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-hero-01-1200.webp"
+  },
+  "alt": "Two large hippos showing their massive size in the water",
+  "caption": "Adult hippos can weigh over 3,000 pounds, making them among the heaviest land mammals.",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:13:06.559Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Serengeti National Park, Tanzania",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/03/048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/03/048_Hippopotamus_fight_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
 }

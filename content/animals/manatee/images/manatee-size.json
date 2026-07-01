@@ -1,0 +1,38 @@
+{
+  "id": "manatee-size",
+  "animalSlug": "manatee",
+  "slug": "manatee-size",
+  "fileName": "manatee-size-01-1200.webp",
+  "alt": "Large West Indian manatee viewed from the front underwater",
+  "caption": "An adult manatee has a barrel-shaped body that can weigh more than 1,000 pounds.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-size-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by NOAA via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Trichechus_manatus,_NOAA.jpg\">NOAA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trichechus_manatus,_NOAA.jpg",
+    "creatorName": "NOAA",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:41.570Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Trichechus_manatus%2C_NOAA.jpg",
+  "updatedAt": "2026-06-26T08:16:41.570Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-size-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-size-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-size-01-1200.webp"
+  }
+}

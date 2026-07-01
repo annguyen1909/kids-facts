@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-size",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-size",
+  "fileName": "ring-tailed-lemur-size-01-1200.webp",
+  "alt": "Full body view of a ring-tailed lemur with its long tail curled up",
+  "caption": "A lemur's body is about the size of a house cat, but its tail is even longer than its body.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-size-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "attributionText": "Photo by Architas via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lemur_catta_2018.jpg\">Architas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemur_catta_2018.jpg",
+    "creatorName": "Architas",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:29.189Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0d/Lemur_catta_2018.jpg",
+  "updatedAt": "2026-06-28T09:59:29.189Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-size-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-size-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-size-01-1200.webp"
+  }
+}

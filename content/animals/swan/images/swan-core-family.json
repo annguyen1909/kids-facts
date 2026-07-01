@@ -1,0 +1,38 @@
+{
+  "id": "swan-core-family",
+  "animalSlug": "swan",
+  "slug": "swan-core-family",
+  "fileName": "swan-core-family-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "alt": "Young mute swan resting with its head tucked into feathers",
+  "caption": "Soft juvenile feathers help young swans stay warm while they rest.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by böhringer friedrich via Wikimedia Commons, CC BY-SA 3.0 at",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Junger_H%C3%B6ckerschwan,_Cygnus_olor_09.JPG\">böhringer friedrich</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/at/deed.en\">CC BY-SA 3.0 at</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Junger_H%C3%B6ckerschwan,_Cygnus_olor_09.JPG",
+    "creatorName": "böhringer friedrich",
+    "licenseName": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:02.398Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e1/Junger_H%C3%B6ckerschwan%2C_Cygnus_olor_09.JPG",
+  "updatedAt": "2026-06-25T15:12:02.398Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-core-family-01-400.webp",
+    "original": "/images/animals/swan/web/swan-core-family-01-1200.webp"
+  }
+}

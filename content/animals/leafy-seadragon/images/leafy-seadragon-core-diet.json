@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-core-diet",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-core-diet",
+  "alt": "Leafy seadragon hovering attentively in search of floating mysid shrimp",
+  "caption": "A single adult leafy seadragon can consume upwards of several thousand tiny mysid shrimp every day.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Rapid Bay Jetty, South Australia",
+  "fileName": "leafy-seadragon-core-diet-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023190.JPG\">Peter Southwood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_P2023190.JPG",
+    "creatorName": "Peter Southwood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:14.484Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the leafy seadragon gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/71/Phycodurus_eques_P2023190.JPG",
+  "updatedAt": "2026-06-29T07:23:14.484Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-core-diet-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-core-diet-01-1200.webp"
+  }
+}

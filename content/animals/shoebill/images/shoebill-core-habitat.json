@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-core-habitat",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-core-habitat",
+  "alt": "Shoebill stalking through papyrus reeds in a wetland",
+  "caption": "Papyrus swamps provide perfect camouflage and abundant aquatic prey for the shoebill.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wetland exhibit",
+  "fileName": "shoebill-core-habitat-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Just chaos via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_1.jpg\">Just chaos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_1.jpg",
+    "creatorName": "Just chaos",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:01.140Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the shoebill gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4c/Balaeniceps_rex_1.jpg",
+  "updatedAt": "2026-06-29T07:22:01.140Z",
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-core-habitat-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-core-habitat-01-1200.webp"
+  }
+}

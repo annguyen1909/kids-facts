@@ -1,0 +1,38 @@
+{
+  "id": "swan-core-habitat",
+  "animalSlug": "swan",
+  "slug": "swan-core-habitat",
+  "fileName": "swan-core-habitat-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 784,
+  "alt": "A Mute Swan navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Thermos via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:CygnusOlorNaturalHabitatMorning.jpg\">Thermos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CygnusOlorNaturalHabitatMorning.jpg",
+    "creatorName": "Thermos",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:03.832Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9d/CygnusOlorNaturalHabitatMorning.jpg",
+  "updatedAt": "2026-06-25T15:12:03.832Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-core-habitat-01-400.webp",
+    "original": "/images/animals/swan/web/swan-core-habitat-01-1200.webp"
+  }
+}

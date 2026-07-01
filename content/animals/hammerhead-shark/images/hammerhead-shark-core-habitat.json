@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-core-habitat",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-core-habitat",
+  "fileName": "hammerhead-shark-core-habitat-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Great Hammerhead Shark navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by James Emery from Douglasville, United States via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_2.jpg\">James Emery from Douglasville, United States</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_2.jpg",
+    "creatorName": "James Emery from Douglasville, United States",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:21:02.357Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Sphyrna_mokarran_2.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Sphyrna_mokarran_2.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a1/Sphyrna_mokarran_2.jpg",
+  "updatedAt": "2026-06-26T19:21:02.357Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-core-habitat-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-core-habitat-01-1200.webp"
+  }
+}

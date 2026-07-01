@@ -2,10 +2,10 @@
   "id": "otter-core-habitat",
   "animalSlug": "otter",
   "slug": "otter-core-habitat",
-  "fileName": "Sea Otter (37795895835).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Sea_Otter_%2837795895835%29.jpg",
-  "width": 4134,
-  "height": 2760,
+  "fileName": "otter-core-habitat-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 801,
   "alt": "Sea otter floating in shallow coastal habitat",
   "caption": "Sea otters depend on healthy coastal ecosystems close to shore.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "California coast",
-  "acquisitionNotes": "Core article image curated separately from the otter gallery set.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Core article image curated separately from the otter gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/ba/Sea_Otter_%2837795895835%29.jpg",
+  "updatedAt": "2026-06-25T15:05:12.990Z",
   "attributionText": "Photo by blmcalifornia via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(37795895835).jpg\">blmcalifornia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(37795895835).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(37795895835).jpg\">blmcalifornia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(37795895835).jpg",
     "creatorName": "blmcalifornia",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(37795895835).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:12.990Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-core-habitat-01-400.webp",
+    "original": "/images/animals/otter/web/otter-core-habitat-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-baby",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-baby",
+  "fileName": "monarch-butterfly-core-baby-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "A tiny pale yellow monarch butterfly egg on a green milkweed leaf next to a finger",
+  "caption": "A female monarch lays a single tiny egg on the underside of a milkweed leaf.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "United States",
+  "attributionText": "Photo by Shocksingularity via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_butterfly_egg_on_a_leaf.jpg\">Shocksingularity</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_egg_on_a_leaf.jpg",
+    "creatorName": "Shocksingularity",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:03:06.019Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for baby. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Monarch_butterfly_egg_on_a_leaf.jpg",
+  "updatedAt": "2026-06-25T15:03:06.019Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-baby-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-baby-01-1200.webp"
+  }
+}

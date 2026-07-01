@@ -2,23 +2,23 @@
   "id": "sea-turtle-habitat",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-habitat",
-  "fileName": "Tortuga verde (Chelonia mydas), Anilao, Filipinas, 2023-08-24, DD 131.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tortuga_verde_%28Chelonia_mydas%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg",
-  "width": 6351,
-  "height": 4234,
+  "fileName": "sea-turtle-habitat-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Green sea turtle swimming over reef and seagrass habitat",
   "caption": "Green sea turtles live in warm coastal oceans, reefs, and seagrass meadows.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas)%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas),_Anilao,_Filipinas,_2023-08-24,_DD_131.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas)%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tortuga_verde_(Chelonia_mydas),_Anilao,_Filipinas,_2023-08-24,_DD_131.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:55.815Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Anilao, Philippines",
-  "acquisitionNotes": "Manually curated sea turtle habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:13.697Z"
+  "acquisitionNotes": "Manually curated sea turtle habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/54/Tortuga_verde_%28Chelonia_mydas%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_131.jpg",
+  "updatedAt": "2026-06-25T15:10:55.815Z",
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-habitat-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-habitat-01-1200.webp"
+  }
 }

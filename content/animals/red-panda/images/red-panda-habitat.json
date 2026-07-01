@@ -2,23 +2,23 @@
   "id": "red-panda-habitat",
   "animalSlug": "red-panda",
   "slug": "red-panda-habitat",
-  "fileName": "red-panda-habitat.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Red_Panda_DSC_3253_copy.jpg",
-  "width": 5130,
-  "height": 3383,
+  "fileName": "red-panda-habitat-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 791,
   "alt": "Red panda perched in a tree in its forest habitat",
   "caption": "Red pandas use trees for resting, escaping danger, and moving through mountain forests.",
   "attributionText": "Photo by Supradai via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Panda_DSC_3253_copy.jpg\">Supradai</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Panda_DSC_3253_copy.jpg\">Supradai</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda_DSC_3253_copy.jpg",
     "creatorName": "Supradai",
     "licenseName": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:44:18.785Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:35.003Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Montane forest",
-  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
-  "updatedAt": "2026-06-21T16:44:18.785Z"
+  "acquisitionNotes": "Manually verified red panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fc/Red_Panda_DSC_3253_copy.jpg",
+  "updatedAt": "2026-06-25T15:09:35.003Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-habitat-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-habitat-01-1200.webp"
+  }
 }

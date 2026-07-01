@@ -1,0 +1,38 @@
+{
+  "id": "cicada-family",
+  "animalSlug": "cicada",
+  "slug": "cicada-family",
+  "fileName": "cicada-family-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A group of Cicadas interacting with each other",
+  "caption": "While often solitary, some Cicadas interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by peterwchen via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-mating.jpg\">peterwchen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-mating.jpg",
+    "creatorName": "peterwchen",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:11.165Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8e/Magicicada_septendecim-mating.jpg",
+  "updatedAt": "2026-06-25T14:51:11.165Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-family-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-family-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-family-01-1200.webp"
+  }
+}

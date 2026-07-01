@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-family",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-family",
+  "fileName": "monarch-butterfly-core-family-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Dense cluster of monarch butterflies hanging from a eucalyptus branch",
+  "caption": "Monarchs hang in massive clusters on trees during the winter months.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Pacific Grove, California",
+  "attributionText": "Photo by Pacific Southwest Region USFWS from Sacramento, US via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_Butterflies_Overwintering_in_Pacific_Grove,_California_(31297516240).jpg\">Pacific Southwest Region USFWS from Sacramento, US</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_Butterflies_Overwintering_in_Pacific_Grove,_California_(31297516240).jpg",
+    "creatorName": "Pacific Southwest Region USFWS from Sacramento, US",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:03:12.180Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for family. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/73/Monarch_Butterflies_Overwintering_in_Pacific_Grove%2C_California_%2831297516240%29.jpg",
+  "updatedAt": "2026-06-25T15:03:12.180Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-family-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-family-01-1200.webp"
+  }
+}

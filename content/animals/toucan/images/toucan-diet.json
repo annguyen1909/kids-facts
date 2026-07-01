@@ -1,0 +1,38 @@
+{
+  "id": "toucan-diet",
+  "animalSlug": "toucan",
+  "slug": "toucan-diet",
+  "fileName": "toucan-diet-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Toco Toucan finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Toco Toucan.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toco_toucan_(Ramphastos_toco)_drinking_composite.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toco_toucan_(Ramphastos_toco)_drinking_composite.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:32.586Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Toco_toucan_%28Ramphastos_toco%29_drinking_composite.jpg",
+  "updatedAt": "2026-06-25T15:13:32.586Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-diet-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-diet-01-1200.webp"
+  }
+}

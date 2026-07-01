@@ -2,10 +2,10 @@
   "id": "otter-range",
   "animalSlug": "otter",
   "slug": "otter-range",
-  "fileName": "Sea Otter (24810604978).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sea_Otter_%2824810604978%29.jpg",
-  "width": 4104,
-  "height": 2592,
+  "fileName": "otter-range-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-range-01-1200.webp",
+  "width": 1200,
+  "height": 758,
   "alt": "Sea otter floating in cool Pacific coastal water",
   "caption": "Sea otters live along cold North Pacific coasts where food is plentiful.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Pacific coast",
-  "acquisitionNotes": "Manually curated otter range image with verified sea otter identification.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Manually curated otter range image with verified sea otter identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/65/Sea_Otter_%2824810604978%29.jpg",
+  "updatedAt": "2026-06-25T15:05:30.609Z",
   "attributionText": "Photo by blmcalifornia via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg\">blmcalifornia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg\">blmcalifornia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg",
     "creatorName": "blmcalifornia",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sea_Otter_(24810604978).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:30.609Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-range-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-range-01-400.webp",
+    "original": "/images/animals/otter/web/otter-range-01-1200.webp"
   }
 }

@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Walrus (Odobenus rosmarus) on Svalbard.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "Walrus with long white tusks resting on Arctic ground in Svalbard",
+    "caption": "Walruses are huge Arctic sea mammals known for their long tusks and bristly whiskers.",
+    "location": "Svalbard, Norway"
+  },
+  "habitat": {
+    "fileTitle": "File:Walruses on ice floes.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "Walruses hauled out on floating sea ice in the Arctic",
+    "caption": "Walruses live in the cold Arctic, resting on floating sea ice and rocky coasts.",
+    "location": "Arctic"
+  },
+  "diet": {
+    "fileTitle": "File:Close up of head of young bull walrus marine mammal in water odobenus rosmarus.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a walrus head showing thick whiskers above the water",
+    "caption": "Walruses use their sensitive whiskers to feel for clams and shellfish on the dark seabed.",
+    "location": "Arctic"
+  },
+  "baby": {
+    "fileTitle": "File:Walrus cow with her young calf on the ice odobenus rosmarus.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "Mother walrus resting on ice beside her young calf",
+    "caption": "A walrus calf stays close to its mother for two years or more while it grows.",
+    "location": "Arctic"
+  },
+  "family": {
+    "fileTitle": "File:Walrus (Odobenus rosmarus) resting in a crowd on Wahlbergøya, Svalbard (2).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "Crowd of walruses piled together resting on a beach in Svalbard",
+    "caption": "Walruses are very social and crowd together in big groups called herds when they rest.",
+    "location": "Wahlbergøya, Svalbard"
+  },
+  "range": {
+    "fileTitle": "File:Pacific walrus surfacing through ice on the Alaska coast.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "Walrus surfacing through a gap in the sea ice off Alaska",
+    "caption": "Walruses live around the icy seas of the Arctic, near Alaska, Canada, Russia, and Norway.",
+    "location": "Alaska, USA"
+  },
+  "size": {
+    "fileTitle": "File:Pacific Walrus - Bull (8247646168).jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "Full body view of a massive male walrus on a beach",
+    "caption": "Big male walruses can weigh over a ton, as much as a small car.",
+    "location": "Alaska, USA"
+  },
+  "closeup": {
+    "fileTitle": "File:A Face Only a Mother Could Love? (13958342330).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a walrus face with tusks and dense whiskers",
+    "caption": "A walrus has hundreds of stiff whiskers and two long tusks that never stop growing.",
+    "location": "Point Lay, Alaska, USA"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Pacific walrus bull animal hauled out.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "Walrus using its tusks while hauling its body onto land",
+    "caption": "A walrus can hook its tusks into the ice to drag itself out of the water, like tooth-walking.",
+    "location": "Alaska, USA"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Odobenus rosmarus in Smeerenburgbreen.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "Walrus resting near an Arctic glacier and cold water",
+    "caption": "Walruses need shallow Arctic seas for feeding and ice or shore for resting.",
+    "location": "Smeerenburgbreen, Svalbard"
+  },
+  "core-diet": {
+    "fileTitle": "File:Bull walrus swimming.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "Walrus swimming underwater in cold Arctic seas",
+    "caption": "Walruses dive to the seafloor to search for food and can eat thousands of clams in one meal.",
+    "location": "Arctic"
+  },
+  "core-baby": {
+    "fileTitle": "File:A curious pacific walrus calf checks out the photographer from the icy water.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "Young walrus calf peeking out of the icy water",
+    "caption": "Calves can swim soon after birth and ride on their mother's back when they get tired.",
+    "location": "Alaska, USA"
+  },
+  "core-family": {
+    "fileTitle": "File:Walrus (Odobenus rosmarus) resting in a crowd on Wahlbergøya, Svalbard (4).jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "Many walruses huddled together on an Arctic shore",
+    "caption": "Huddling together keeps walruses warm and helps protect the young in the middle of the herd.",
+    "location": "Wahlbergøya, Svalbard"
+  },
+  "core-range": {
+    "fileTitle": "File:Pacific walrus hauled out on a round island beach.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "Walruses hauled out on a rocky Arctic island beach",
+    "caption": "When sea ice melts, walruses gather on coastal beaches across the Arctic to rest.",
+    "location": "Round Island, Alaska, USA"
+  }
+}

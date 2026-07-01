@@ -1,0 +1,114 @@
+{
+  "hero": {
+    "fileTitle": "File:Whale Shark AdF.jpg",
+    "imageType": "hero",
+    "featuredOnPages": ["gallery"],
+    "alt": "A massive whale shark swimming gracefully in deep blue water near the surface",
+    "caption": "The whale shark is the largest fish in the sea, reaching lengths of up to 40 feet.",
+    "location": "Galapagos Islands, Ecuador"
+  },
+  "habitat": {
+    "fileTitle": "File:Whale shark, Rhincodon typus, at Daedalus in the Egyptian Red Sea. (35827412321).jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["gallery"],
+    "alt": "A whale shark swimming through clear waters of the Red Sea near coral reefs",
+    "caption": "They live in warm, tropical oceans and seas around the world.",
+    "location": "Red Sea, Egypt"
+  },
+  "diet": {
+    "fileTitle": "File:Whale Shark (Rhincodon typus) with open mouth in La Paz, Mexico.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["gallery"],
+    "alt": "A whale shark feeding with its massive mouth wide open to filter plankton",
+    "caption": "Despite their size, whale sharks are gentle filter feeders that eat tiny plankton and krill.",
+    "location": "La Paz, Mexico"
+  },
+  "baby": {
+    "fileTitle": "File:Rhincodon typus fgbnms.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["gallery"],
+    "alt": "A smaller, juvenile whale shark swimming in deep ocean waters",
+    "caption": "Mother whale sharks give birth to live young called pups, which are about 2 feet long at birth.",
+    "location": "Gulf of Mexico"
+  },
+  "family": {
+    "fileTitle": "File:Rhincodon typus 420227906.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["gallery"],
+    "alt": "A wild whale shark swimming in the open sea",
+    "caption": "Whale sharks are solitary animals, but they will gather in groups where food is plentiful.",
+    "location": "Maldives"
+  },
+  "range": {
+    "fileTitle": "File:Rhincodon typus, western Caribbean - NOAA.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["gallery"],
+    "alt": "A whale shark cruising through warm waters of the western Caribbean",
+    "caption": "They travel huge distances across oceans to find warm water and rich food sources.",
+    "location": "Caribbean Sea"
+  },
+  "size": {
+    "fileTitle": "File:Whale shark (Rhincodon typus) (16222515872).jpg",
+    "imageType": "size",
+    "featuredOnPages": ["gallery"],
+    "alt": "A massive whale shark swimming alongside a small boat, demonstrating its immense size",
+    "caption": "Whale sharks can weigh up to 20 tons — about as heavy as three school buses!",
+    "location": "Australia"
+  },
+  "closeup": {
+    "fileTitle": "File:Whale Shark (Rhincodon typus).jpg",
+    "imageType": "closeup",
+    "featuredOnPages": ["gallery"],
+    "alt": "Close-up of a whale shark's broad, flat head showing its unique pattern of pale spots and stripes",
+    "caption": "Every whale shark has a unique pattern of spots behind its gills, like a human fingerprint.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Rhincodon-typus-IMG 7126.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": ["gallery"],
+    "alt": "A whale shark feeding near the surface in shallow coastal waters",
+    "caption": "A whale shark has about 3,000 tiny teeth, but they do not use them to eat!",
+    "location": "Cebu, Philippines"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Whale shark (Rhincodon typus) (15603514463).jpg",
+    "imageType": "habitat",
+    "featuredOnPages": ["core"],
+    "alt": "A whale shark swimming in sunlit waters near the surface",
+    "caption": "They prefer warm tropical coastal waters and open oceans.",
+    "location": "Australia"
+  },
+  "core-diet": {
+    "fileTitle": "File:Rhincodon typus, whale shark IMG 7075.jpg",
+    "imageType": "diet",
+    "featuredOnPages": ["core"],
+    "alt": "A whale shark sucking in water and filtering out food",
+    "caption": "They can filter over 1,500 gallons of water every hour to catch tiny prey.",
+    "location": "Cebu, Philippines"
+  },
+  "core-family": {
+    "fileTitle": "File:Rhincodon typus 470872328.jpg",
+    "imageType": "family",
+    "featuredOnPages": ["core"],
+    "alt": "A whale shark gliding silently in the deep blue ocean",
+    "caption": "They are gentle giants and do not pose any danger to humans.",
+    "location": "Maldives"
+  },
+  "core-baby": {
+    "fileTitle": "File:Rhincodon typus 450094718.jpg",
+    "imageType": "baby",
+    "featuredOnPages": ["core"],
+    "alt": "A young juvenile whale shark near the surface",
+    "caption": "Very little is known about where baby whale sharks grow up.",
+    "location": "Mexico"
+  },
+  "core-range": {
+    "fileTitle": "File:Rhincodon typus 344681934.jpg",
+    "imageType": "range",
+    "featuredOnPages": ["core"],
+    "alt": "A whale shark migrating through the ocean",
+    "caption": "They are found in warm oceans around the equator.",
+    "location": "Madagascar"
+  }
+}

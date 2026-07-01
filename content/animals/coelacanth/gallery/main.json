@@ -1,0 +1,22 @@
+{
+  "id": "coelacanth-gallery-main",
+  "animalSlug": "coelacanth",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Coelacanth Photo Gallery",
+  "metaTitle": "Coelacanth Photo Gallery",
+  "metaDescription": "Browse a coelacanth photo gallery with wildlife photos.",
+  "intro": "Explore coelacanth photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "coelacanth-hero",
+    "coelacanth-habitat",
+    "coelacanth-diet",
+    "coelacanth-baby",
+    "coelacanth-family",
+    "coelacanth-range",
+    "coelacanth-size",
+    "coelacanth-closeup",
+    "coelacanth-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T07:15:56.694Z"
+}

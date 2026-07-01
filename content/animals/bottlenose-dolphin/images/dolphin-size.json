@@ -2,10 +2,10 @@
   "id": "dolphin-size",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-size",
-  "fileName": "Tursiops_truncatus_178353051.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tursiops_truncatus_178353051.jpg",
-  "width": 2048,
-  "height": 1408,
+  "fileName": "dolphin-size-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-size-01-1200.webp",
+  "width": 1200,
+  "height": 825,
   "alt": "Side view of a bottlenose dolphin showing its full streamlined body",
   "caption": "Adult bottlenose dolphins can grow about 6 to 12 feet long and weigh up to 1,400 pounds.",
   "attributionText": "Photo by JUAN ROMERO via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.225Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:34:02.706Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "size",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Ocean",
-  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.225Z"
+  "acquisitionNotes": "Manually verified bottlenose dolphin image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Tursiops_truncatus_178353051.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Tursiops_truncatus_178353051.jpg",
+  "updatedAt": "2026-07-01T12:34:02.706Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-size-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-size-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-size-01-1200.webp"
+  }
 }

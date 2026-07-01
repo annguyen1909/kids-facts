@@ -1,0 +1,154 @@
+{
+  "id": "animal-giant-anteater",
+  "slug": "giant-anteater",
+  "name": "Giant Anteater",
+  "commonNames": [
+    "Giant Anteater",
+    "Ant Bear"
+  ],
+  "scientificName": "Myrmecophaga tridactyla",
+  "summary": "The giant anteater is a large, shaggy mammal from Central and South America with a long tube-shaped snout, no teeth, and a sticky tongue almost two feet long. It uses powerful claws to rip open ant and termite nests and can slurp up tens of thousands of insects a day.",
+  "heroTitle": "Giant Anteater Facts",
+  "metaTitle": "Giant Anteater Facts | Habitat, Diet, Tongue & Photos",
+  "metaDescription": "Discover giant anteater facts with photos, grassland habitat, ant-and-termite diet, the amazing two-foot tongue, pups that ride on mom's back, and why anteaters are vulnerable.",
+  "searchIntents": [
+    "giant anteater facts",
+    "what do giant anteaters eat",
+    "where do giant anteaters live",
+    "how long is a giant anteater tongue",
+    "how big is a giant anteater",
+    "are giant anteaters endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Pilosa",
+    "family": "Myrmecophagidae",
+    "genus": "Myrmecophaga",
+    "species": "M. tridactyla"
+  },
+  "classificationLabels": [
+    "mammal",
+    "insectivore",
+    "large"
+  ],
+  "habitat": "savanna",
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Argentina",
+    "Bolivia",
+    "Colombia",
+    "Venezuela",
+    "Peru"
+  ],
+  "biomes": [
+    "tropical savanna",
+    "grassland",
+    "tropical forest",
+    "wetland"
+  ],
+  "dietType": "Insectivore",
+  "dietItems": [
+    "ants",
+    "termites",
+    "ant larvae",
+    "termite larvae"
+  ],
+  "lifespan": {
+    "wild": "About 14 to 16 years",
+    "captivity": "Up to about 26 years"
+  },
+  "size": {
+    "lengthMin": "6 feet (nose to tail)",
+    "lengthMax": "7 feet (nose to tail)",
+    "heightMin": "Tongue can reach about 2 feet long",
+    "heightMax": "Tongue can reach about 2 feet long"
+  },
+  "weight": {
+    "min": "60 pounds",
+    "max": "100 pounds"
+  },
+  "speed": "Up to about 30 mph in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "ripping open nests with claws",
+    "flicking its long sticky tongue",
+    "walking on its knuckles",
+    "carrying the pup on its back",
+    "living alone"
+  ],
+  "adaptations": [
+    "long tube-shaped snout",
+    "sticky tongue almost two feet long",
+    "huge front claws",
+    "no teeth",
+    "thick coat and bushy tail"
+  ],
+  "predators": [
+    "jaguars",
+    "pumas",
+    "humans"
+  ],
+  "prey": [
+    "ants",
+    "termites"
+  ],
+  "reproduction": {
+    "offspringName": "pup",
+    "gestationOrIncubation": "About 6 months",
+    "offspringCount": "Usually 1 pup"
+  },
+  "funFacts": [
+    "A giant anteater's tongue can be almost two feet long and flick in and out about 150 times every minute.",
+    "Anteaters have no teeth at all, so they swallow ants and termites whole.",
+    "One giant anteater can eat tens of thousands of ants and termites in a single day.",
+    "A baby anteater rides on its mother's back, and its stripe lines up with hers like a clever disguise.",
+    "Anteaters walk on their knuckles to keep their long, sharp claws from getting dull.",
+    "Giant anteaters have one of the lowest body temperatures of any mammal to help save energy."
+  ],
+  "faq": [
+    {
+      "question": "What is a giant anteater?",
+      "answer": "A giant anteater is a large mammal from Central and South America with a long snout, a bushy tail, and no teeth. It belongs to the same group as sloths and uses a long, sticky tongue to eat ants and termites."
+    },
+    {
+      "question": "Where do giant anteaters live?",
+      "answer": "Giant anteaters live in the grasslands, savannas, wetlands, and tropical forests of Central and South America, from Honduras all the way south to northern Argentina."
+    },
+    {
+      "question": "What do giant anteaters eat?",
+      "answer": "Giant anteaters eat ants and termites. They tear open a nest with their strong claws and quickly lap up the insects with a long, sticky tongue before the soldiers can bite back."
+    },
+    {
+      "question": "How long is a giant anteater's tongue?",
+      "answer": "A giant anteater's tongue can stretch almost two feet long, longer than its own head. It is coated in sticky spit and can flick in and out about 150 times a minute."
+    },
+    {
+      "question": "How big is a giant anteater?",
+      "answer": "A giant anteater can measure about six to seven feet from the tip of its snout to the end of its tail and weigh between 60 and 100 pounds. That makes it the biggest of all the anteaters."
+    },
+    {
+      "question": "Are giant anteaters endangered?",
+      "answer": "Giant anteaters are listed as Vulnerable. They are threatened by habitat loss, grassland fires, and being hit by cars, and their numbers are slowly going down."
+    }
+  ],
+  "relatedAnimals": [
+    "jaguar",
+    "capybara",
+    "leafcutter-ant"
+  ],
+  "comparisonCandidates": [
+    "capybara"
+  ],
+  "galleryIds": [
+    "giant-anteater-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z"
+}

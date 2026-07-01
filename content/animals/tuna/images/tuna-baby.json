@@ -2,10 +2,10 @@
   "id": "tuna-baby",
   "animalSlug": "tuna",
   "slug": "tuna-baby",
-  "fileName": "Thon albacore (Thunnus albacares) (Ifremer 00764-87616).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00764-87616%29.jpg",
-  "width": 3648,
-  "height": 2736,
+  "fileName": "tuna-baby-01-1200.webp",
+  "src": "/images/animals/tuna/web/tuna-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Young yellowfin tuna in research setting",
   "caption": "Young tuna grow quickly in the open ocean after hatching from eggs.",
   "attributionText": "Photo by Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Biologiques et Environnement (RBE), F-97420 Le Port, France) via Wikimedia Commons, CC BY 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:11.144Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:13:40.977Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Manually curated young tuna image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:11.144Z"
+  "acquisitionNotes": "Manually curated young tuna image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/63/Thon_albacore_%28Thunnus_albacares%29_%28Ifremer_00764-87616%29.jpg",
+  "updatedAt": "2026-06-25T15:13:40.977Z",
+  "srcSet": {
+    "web1200": "/images/animals/tuna/web/tuna-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/tuna/thumbnails/tuna-baby-01-400.webp",
+    "original": "/images/animals/tuna/web/tuna-baby-01-1200.webp"
+  }
 }

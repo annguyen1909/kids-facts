@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-diet",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-diet",
+  "fileName": "tasmanian-devil-diet-01-1200.webp",
+  "alt": "A Tasmanian Devil finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Tasmanian Devil.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "attributionText": "Photo by Miguel de Salas via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_Scat.jpg\">Miguel de Salas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_Scat.jpg",
+    "creatorName": "Miguel de Salas",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:37.190Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Sarcophilus_harrisii_Scat.jpg",
+  "updatedAt": "2026-06-26T08:17:37.190Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-diet-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-diet-01-1200.webp"
+  }
+}

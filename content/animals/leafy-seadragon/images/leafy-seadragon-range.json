@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-range",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-range",
+  "fileName": "leafy-seadragon-range-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-range-01-1200.webp",
+  "width": 477,
+  "height": 439,
+  "alt": "Geographic map highlighting the endemic range of Phycodurus eques in southern Australia",
+  "caption": "They are exclusively endemic to the southern Australian waters, from Western Australia across to Victoria.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southern Australia",
+  "acquisitionNotes": "Manually curated leafy seadragon range map. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1a/Phycodurus_eques_range_map.png",
+  "updatedAt": "2026-06-29T07:23:32.488Z",
+  "attributionText": "Photo by Cowdy001 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phycodurus_eques_range_map.png\">Cowdy001</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phycodurus_eques_range_map.png",
+    "creatorName": "Cowdy001",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:32.488Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-range-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-range-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-hero",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-hero",
+  "fileName": "tasmanian-devil-hero-01-1200.webp",
+  "alt": "A beautiful portrait of a Tasmanian Devil in the wild",
+  "caption": "The Tasmanian Devil is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-hero-01-1200.webp",
+  "width": 1200,
+  "height": 783,
+  "attributionText": "Photo by JJ Harrison ( https://www.jjharrison.com.au/ ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg\">JJ Harrison ( https://www.jjharrison.com.au/ )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_taranna.jpg",
+    "creatorName": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:39.854Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/43/Sarcophilus_harrisii_taranna.jpg",
+  "updatedAt": "2026-06-26T08:17:39.854Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-hero-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-hero-01-1200.webp"
+  }
+}

@@ -1,33 +1,38 @@
 {
   "id": "salmon-hero",
-  "animalSlug": "salmon",
   "slug": "salmon-hero",
-  "fileName": "Atlantic Salmon Adults (5198590842).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlantic_Salmon_Adults_%285198590842%29.jpg",
-  "width": 1188,
-  "height": 778,
-  "alt": "Adult Atlantic salmon swimming in water",
-  "caption": "Atlantic salmon are famous fish that hatch in rivers and migrate to the ocean.",
-  "attributionText": "Photo by U.S. Fish and Wildlife Service Northeast Region via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg\">U.S. Fish and Wildlife Service Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg\">Public domain</a>",
-  "source": {
-    "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg",
-    "creatorName": "U.S. Fish and Wildlife Service Northeast Region",
-    "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Salmon_Adults_(5198590842).jpg",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
-    "reviewedBy": "editor@kidsfacts.local"
-  },
-  "imageType": "hero",
+  "animalSlug": "salmon",
+  "fileName": "salmon-hero-01-1200.webp",
   "galleryTopics": [
     "hero"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "North Atlantic",
-  "acquisitionNotes": "Manually curated Atlantic salmon hero image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:10.265Z"
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:17:05.363Z",
+  "src": "/images/animals/salmon/web/salmon-hero-01-1200.webp",
+  "width": 1200,
+  "height": 865,
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-hero-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-hero-01-1200.webp"
+  },
+  "alt": "Adult Atlantic salmon showing full silver body length",
+  "caption": "Adult Atlantic salmon can grow more than 3 feet long and weigh over 30 pounds.",
+  "attributionText": "Photo by Hans-Petter Fjeld via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_(cropped).JPG\">Hans-Petter Fjeld</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_(cropped).JPG",
+    "creatorName": "Hans-Petter Fjeld",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:17:05.363Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Norway",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_%28cropped%29.JPG Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Salmo_salar-Atlantic_Salmon-Atlanterhavsparken_Norway_%28cropped%29.JPG"
 }

@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-core-habitat",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-core-habitat",
+  "fileName": "tokay-gecko-core-habitat-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Tokay gecko on a ceiling inside a home in Asia",
+  "caption": "Tokay geckos frequently live in urban areas, hiding inside houses to hunt pest insects.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Indonesia",
+  "attributionText": "Photo by NasserHalaweh via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gekkonidae_Gekko_gecko_1.jpg\">NasserHalaweh</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gekkonidae_Gekko_gecko_1.jpg",
+    "creatorName": "NasserHalaweh",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:07.530Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tokay gecko image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Gekkonidae_Gekko_gecko_1.jpg",
+  "updatedAt": "2026-06-25T15:13:07.530Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-core-habitat-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-core-habitat-01-1200.webp"
+  }
+}

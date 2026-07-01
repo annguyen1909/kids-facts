@@ -1,0 +1,38 @@
+{
+  "id": "cicada-core-habitat",
+  "animalSlug": "cicada",
+  "slug": "cicada-core-habitat",
+  "fileName": "cicada-core-habitat-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-core-habitat-01-1200.webp",
+  "width": 1000,
+  "height": 629,
+  "alt": "A Cicada navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_55zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_55zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:55.607Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/70/Magicicada_septendecim_55zz.jpg",
+  "updatedAt": "2026-06-25T14:50:55.607Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-core-habitat-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-core-habitat-01-1200.webp"
+  }
+}

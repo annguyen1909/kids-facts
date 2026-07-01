@@ -1,0 +1,38 @@
+{
+  "id": "lionfish-diet",
+  "animalSlug": "lionfish",
+  "slug": "lionfish-diet",
+  "fileName": "lionfish-diet-01-1200.webp",
+  "src": "/images/animals/lionfish/web/lionfish-diet-01-1200.webp",
+  "width": 1200,
+  "height": 869,
+  "alt": "A Lionfish finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Lionfish.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by Jens Petersen , Edited by User:Olegiwit (cloned in part of fins) and Fir0002 (removed spots and noise) via Wikimedia Commons, CC BY 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pterois_volitans_Manado-e_edit.jpg\">Photo by Jens Petersen , Edited by User:Olegiwit (cloned in part of fins) and Fir0002 (removed spots and noise)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pterois_volitans_Manado-e_edit.jpg",
+    "creatorName": "Photo by Jens Petersen , Edited by User:Olegiwit (cloned in part of fins) and Fir0002 (removed spots and noise)",
+    "licenseName": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:52.095Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified lionfish image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bf/Pterois_volitans_Manado-e_edit.jpg",
+  "updatedAt": "2026-06-25T15:01:52.095Z",
+  "srcSet": {
+    "web1200": "/images/animals/lionfish/web/lionfish-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/lionfish/thumbnails/lionfish-diet-01-400.webp",
+    "original": "/images/animals/lionfish/web/lionfish-diet-01-1200.webp"
+  }
+}

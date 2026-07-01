@@ -2,10 +2,10 @@
   "id": "gorilla-hero",
   "animalSlug": "gorilla",
   "slug": "gorilla-hero",
-  "fileName": "Silverback Western lowland gorilla in forest - DPLA - be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Silverback_Western_lowland_gorilla_in_forest_-_DPLA_-_be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
-  "width": 1590,
-  "height": 1060,
+  "fileName": "gorilla-hero-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Silverback western lowland gorilla in African forest",
   "caption": "Gorillas are large apes that live in family groups led by a silverback male.",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:19.207Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated western lowland gorilla hero image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z"
+  "acquisitionNotes": "Manually curated western lowland gorilla hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/54/Silverback_Western_lowland_gorilla_in_forest_-_DPLA_-_be25be22ec7b3f6f17fc2c3c4571dfc1.jpg",
+  "updatedAt": "2026-06-25T14:56:19.207Z",
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-hero-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-hero-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-size",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-size",
+  "fileName": "cassowary-size-01-1200.webp",
+  "alt": "A photo showing the size of a Cassowary",
+  "caption": "The size of a Cassowary can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-size-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
+  "attributionText": "Photo by Nick Hobgood via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_Southern_Cassowary_Papua_New_Guinea_by_Nick_Hobgood.jpg\">Nick Hobgood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casuarius_casuarius_Southern_Cassowary_Papua_New_Guinea_by_Nick_Hobgood.jpg",
+    "creatorName": "Nick Hobgood",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:14.241Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/34/Casuarius_casuarius_Southern_Cassowary_Papua_New_Guinea_by_Nick_Hobgood.jpg",
+  "updatedAt": "2026-06-26T08:16:14.241Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-size-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-size-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-size-01-1200.webp"
+  }
+}

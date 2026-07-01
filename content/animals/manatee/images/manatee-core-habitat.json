@@ -1,0 +1,38 @@
+{
+  "id": "manatee-core-habitat",
+  "animalSlug": "manatee",
+  "slug": "manatee-core-habitat",
+  "fileName": "manatee-core-habitat-01-1200.webp",
+  "alt": "A Manatee navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Hillebrand Steve, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Aquatic_mammals_manatee_trichechus_manatus_latirostris.jpg\">Hillebrand Steve, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aquatic_mammals_manatee_trichechus_manatus_latirostris.jpg",
+    "creatorName": "Hillebrand Steve, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:27.433Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/65/Aquatic_mammals_manatee_trichechus_manatus_latirostris.jpg",
+  "updatedAt": "2026-06-26T08:16:27.433Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-core-habitat-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-core-habitat-01-1200.webp"
+  }
+}

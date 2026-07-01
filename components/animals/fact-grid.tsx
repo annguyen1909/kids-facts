@@ -3,54 +3,41 @@ import { ConservationStatusBadge } from "@/components/ui/conservation-status-bad
 import { getHabitatLabel } from "@/lib/canonical-habitats";
 import { getDietSlug, getHabitatSlug } from "@/lib/hub-clusters";
 import type { AnimalRecord } from "@/lib/types";
-import {
-  Clock3,
-  Leaf,
-  MapPin,
-  PawPrint,
-  Ruler,
-  Scale,
-  Shield,
-  Zap,
-  type LucideIcon,
-} from "lucide-react";
 import type { ReactNode } from "react";
 
-type FactItem = {
-  icon: LucideIcon;
+type FactItemType = {
   label: string;
   value: ReactNode;
 };
 
 function FactItem({
-  icon: Icon,
   label,
   children,
 }: {
-  icon: LucideIcon;
   label: string;
   children: ReactNode;
 }) {
   return (
-    <div className="fact-item">
-      <div className="fact-item__icon-wrap">
-        <Icon className="fact-item__icon" size={20} strokeWidth={2} fill="none" aria-hidden />
-      </div>
-      <div className="fact-item__content">
-        <p className="fact-item__label">{label}</p>
-        <div className="fact-item__value">{children}</div>
+    <div className="group flex flex-col justify-center py-8 px-6 sm:px-10 transition-colors hover:bg-[var(--foreground)]/[0.02]">
+      <h4 className="text-[0.65rem] font-bold uppercase tracking-[0.2em] text-[var(--muted)] mb-3">
+        {label}
+      </h4>
+      <div className="font-serif text-3xl sm:text-4xl italic leading-tight text-[var(--forest-deep)] break-words w-full transition-colors group-hover:text-[var(--sky-deep)]">
+        {children}
       </div>
     </div>
   );
 }
 
-function FactGroup({ title, facts }: { title: string; facts: FactItem[] }) {
+function FactGroup({ title, facts }: { title: string; facts: FactItemType[] }) {
   return (
-    <section className="fact-group">
-      <h3 className="fact-group__title">{title}</h3>
-      <div className="fact-group__list">
+    <section className="flex flex-col h-full bg-[var(--surface-strong)]">
+      <h3 className="font-serif text-xs uppercase tracking-[0.2em] font-bold text-[var(--forest-deep)] px-6 sm:px-10 py-5 border-b border-[var(--line)] bg-[var(--foreground)]/5">
+        {title}
+      </h3>
+      <div className="grid grid-cols-1 sm:grid-cols-2 divide-y sm:divide-y-0 sm:divide-x divide-[var(--line)] flex-1 [&>div:nth-child(n+3)]:border-t [&>div:nth-child(n+3)]:border-[var(--line)]">
         {facts.map((fact) => (
-          <FactItem key={fact.label} icon={fact.icon} label={fact.label}>
+          <FactItem key={fact.label} label={fact.label}>
             {fact.value}
           </FactItem>
         ))}
@@ -63,10 +50,9 @@ export function FactGrid({ animal }: { animal: AnimalRecord }) {
   const habitatSlug = getHabitatSlug(animal);
   const dietSlug = getDietSlug(animal);
 
-  const homeFacts: FactItem[] = [
-    { icon: PawPrint, label: "Kind of animal", value: animal.core.taxonomy.class },
+  const homeFacts: FactItemType[] = [
+    { label: "Kind of animal", value: animal.core.taxonomy.class },
     {
-      icon: MapPin,
       label: "Where they live",
       value: habitatSlug ? (
         <Link href={`/habitats/${habitatSlug}`} className="text-[var(--forest)] hover:underline">
@@ -77,7 +63,6 @@ export function FactGrid({ animal }: { animal: AnimalRecord }) {
       ),
     },
     {
-      icon: Leaf,
       label: "What they eat",
       value: dietSlug ? (
         <Link href={`/diets/${dietSlug}`} className="text-[var(--forest)] hover:underline">
@@ -88,46 +73,45 @@ export function FactGrid({ animal }: { animal: AnimalRecord }) {
       ),
     },
     {
-      icon: Shield,
-      label: "How safe are they?",
-      value: <ConservationStatusBadge status={animal.core.conservationStatus} />,
+      label: "How safe?",
+      value: <div className="-ml-1"><ConservationStatusBadge status={animal.core.conservationStatus} /></div>,
     },
   ];
 
-  const sizeFacts: FactItem[] = [
+  const sizeFacts: FactItemType[] = [
     {
-      icon: Scale,
       label: "How heavy",
       value: `${animal.core.weight.min} – ${animal.core.weight.max}`,
     },
     {
-      icon: Ruler,
       label: "How long",
       value: `${animal.core.size.lengthMin} – ${animal.core.size.lengthMax}`,
     },
-    { icon: Zap, label: "How fast", value: animal.core.speed ?? "—" },
-    { icon: Clock3, label: "How long they live", value: animal.core.lifespan.wild },
+    { label: "How fast", value: animal.core.speed ?? "—" },
+    { label: "Lifespan", value: animal.core.lifespan.wild },
   ];
 
   return (
-    <section className="fact-grid overflow-hidden rounded-[1.75rem] border border-[var(--line)] bg-white shadow-[var(--shadow)]">
-      <div className="border-b border-[var(--line)] px-5 py-5 sm:px-7 sm:py-6">
-        <p className="eyebrow eyebrow--light">Quick facts</p>
-        <h2 className="section-title mt-3 text-[var(--forest-deep)]">
+    <section className="group overflow-hidden rounded-[2rem] bg-[var(--surface-strong)] shadow-xl ring-1 ring-[var(--line)] transition-all hover:shadow-2xl">
+      <div className="border-b border-[var(--line)] bg-[var(--surface-strong)] px-6 py-8 sm:px-10">
+        <span className="inline-flex rounded-full bg-[var(--foreground)]/5 px-3 py-1 text-[0.65rem] font-bold uppercase tracking-widest text-[var(--forest-deep)] ring-1 ring-inset ring-[var(--line)] mb-5 backdrop-blur-md">
+          Quick Facts
+        </span>
+        <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-[var(--forest-deep)]">
           {animal.core.name} at a glance
         </h2>
-        <p className="mt-2 max-w-2xl text-base leading-7 text-[var(--muted)] sm:text-lg">
-          <span className="font-semibold italic text-[var(--forest-deep)]">
+        <p className="mt-4 text-sm sm:text-base text-[var(--muted)]">
+          <span className="font-serif italic font-semibold text-[var(--forest-deep)] text-lg sm:text-xl">
             {animal.core.scientificName}
           </span>
-          <span aria-hidden> · </span>
+          <span aria-hidden className="px-3 opacity-50">·</span>
           {animal.core.taxonomy.order}
-          <span aria-hidden> · </span>
+          <span aria-hidden className="px-3 opacity-50">·</span>
           {animal.core.taxonomy.family}
         </p>
       </div>
 
-      <div className="fact-grid__body">
+      <div className="grid grid-cols-1 lg:grid-cols-2 divide-y lg:divide-y-0 lg:divide-x divide-[var(--line)]">
         <FactGroup title="About their home" facts={homeFacts} />
         <FactGroup title="Size and speed" facts={sizeFacts} />
       </div>

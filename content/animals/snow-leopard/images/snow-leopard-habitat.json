@@ -1,0 +1,38 @@
+{
+  "id": "snow-leopard-habitat",
+  "animalSlug": "snow-leopard",
+  "slug": "snow-leopard-habitat",
+  "fileName": "snow-leopard-habitat-01-1200.webp",
+  "alt": "A Snow Leopard navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/snow-leopard/web/snow-leopard-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1131,
+  "attributionText": "Photo by Tambako The Jaguar via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait.jpg\">Tambako The Jaguar</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snow_leopard_portrait.jpg",
+    "creatorName": "Tambako The Jaguar",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:14:00.965Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified snow-leopard image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/19/Snow_leopard_portrait.jpg",
+  "updatedAt": "2026-06-26T08:14:00.965Z",
+  "srcSet": {
+    "web1200": "/images/animals/snow-leopard/web/snow-leopard-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/snow-leopard/thumbnails/snow-leopard-habitat-01-400.webp",
+    "original": "/images/animals/snow-leopard/web/snow-leopard-habitat-01-1200.webp"
+  }
+}

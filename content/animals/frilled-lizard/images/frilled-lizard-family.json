@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-family",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-family",
+  "fileName": "frilled-lizard-family-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-family-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Frilled lizard resting on a tree branch with its frill folded",
+  "caption": "Outside breeding season, frilled lizards spend much of their time quietly perched in trees.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Northern Territory, Australia",
+  "attributionText": "Photo by Edward Bell via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_103835211.jpg\">Edward Bell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_103835211.jpg",
+    "creatorName": "Edward Bell",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:05:06.150Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Replaced burst-pair photo that looked identical to the range image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bf/Chlamydosaurus_kingii_103835211.jpg",
+  "updatedAt": "2026-06-26T19:05:06.150Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-family-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-family-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-family-01-1200.webp"
+  }
+}

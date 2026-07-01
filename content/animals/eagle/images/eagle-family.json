@@ -2,10 +2,10 @@
   "id": "eagle-family",
   "animalSlug": "eagle",
   "slug": "eagle-family",
-  "fileName": "Eagles in nest-by NASA.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Eagles_in_nest-by_NASA.jpg",
-  "width": 3000,
-  "height": 2000,
+  "fileName": "eagle-family-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Adult bald eagles at a large nest in a pine tree",
   "caption": "Eagle pairs often return to the same nest year after year, adding more sticks.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Kennedy Space Center, Florida",
-  "acquisitionNotes": "Manually curated bald eagle family image with verified species identification.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Manually curated bald eagle family image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/26/Eagles_in_nest-by_NASA.jpg",
+  "updatedAt": "2026-06-25T14:52:25.789Z",
   "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eagles_in_nest-by_NASA.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Eagles_in_nest-by_NASA.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eagles_in_nest-by_NASA.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eagles_in_nest-by_NASA.jpg",
     "creatorName": "Unknown creator",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Eagles_in_nest-by_NASA.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:25.789Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-family-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-family-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-family-01-1200.webp"
   }
 }

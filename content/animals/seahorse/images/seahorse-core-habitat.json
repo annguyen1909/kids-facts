@@ -2,10 +2,10 @@
   "id": "seahorse-core-habitat",
   "animalSlug": "seahorse",
   "slug": "seahorse-core-habitat",
-  "fileName": "Lined seahorse, Hippocampus erectus.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lined_seahorse%2C_Hippocampus_erectus.jpg",
-  "width": 5184,
-  "height": 3456,
+  "fileName": "seahorse-core-habitat-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Lined seahorse holding onto underwater vegetation",
   "caption": "Seagrass and coral give seahorses places to hide from currents and predators.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set.",
-  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "acquisitionNotes": "Core article image curated separately from the seahorse gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b6/Lined_seahorse%2C_Hippocampus_erectus.jpg",
+  "updatedAt": "2026-06-25T15:11:05.109Z",
   "attributionText": "Photo by Brian Gratwicke via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lined_seahorse%2C_Hippocampus_erectus.jpg\">Brian Gratwicke</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lined_seahorse,_Hippocampus_erectus.jpg\">Brian Gratwicke</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lined_seahorse%2C_Hippocampus_erectus.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lined_seahorse,_Hippocampus_erectus.jpg",
     "creatorName": "Brian Gratwicke",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:05.109Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-core-habitat-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-core-habitat-01-1200.webp"
   }
 }

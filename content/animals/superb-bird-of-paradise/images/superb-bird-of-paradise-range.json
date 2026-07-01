@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-range",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-range",
+  "fileName": "superb-bird-of-paradise-range-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Pristine historical specimen representing the endemic New Guinea distribution",
+  "caption": "The species is widely distributed across the central mountainous spine and isolated mountain ranges of New Guinea.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Auckland Museum Collections",
+  "acquisitionNotes": "High-quality archival image demonstrating regional taxonomy. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Lophorina_superba_superba_%2848719820777%29.jpg",
+  "updatedAt": "2026-06-29T12:05:47.044Z",
+  "attributionText": "Photo by Auckland Museum Collections from Auckland, Aotearoa New Zealand via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lophorina_superba_superba_(48719820777).jpg\">Auckland Museum Collections from Auckland, Aotearoa New Zealand</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lophorina_superba_superba_(48719820777).jpg",
+    "creatorName": "Auckland Museum Collections from Auckland, Aotearoa New Zealand",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:47.044Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-range-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-range-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-range-01-1200.webp"
+  }
+}

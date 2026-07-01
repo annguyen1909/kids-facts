@@ -2,8 +2,8 @@
   "id": "dolphin-core-baby",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-core-baby",
-  "fileName": "Bottlenose_Dolphin_(Tursiops_truncatus)_and_calf,_Skuda_Sound,_Unst_-_geograph.org.uk_-_7867074.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bottlenose_Dolphin_%28Tursiops_truncatus%29_and_calf%2C_Skuda_Sound%2C_Unst_-_geograph.org.uk_-_7867074.jpg",
+  "fileName": "dolphin-core-baby-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-core-baby-01-1200.webp",
   "width": 1080,
   "height": 721,
   "alt": "Bottlenose dolphin mother swimming beside her calf at sea surface",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:36.911Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Skuda Sound, Unst, Scotland",
-  "acquisitionNotes": "Core article baby image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article baby image sourced from Wikimedia Commons; kept separate from gallery image set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/32/Bottlenose_Dolphin_%28Tursiops_truncatus%29_and_calf%2C_Skuda_Sound%2C_Unst_-_geograph.org.uk_-_7867074.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/32/Bottlenose_Dolphin_%28Tursiops_truncatus%29_and_calf%2C_Skuda_Sound%2C_Unst_-_geograph.org.uk_-_7867074.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/32/Bottlenose_Dolphin_%28Tursiops_truncatus%29_and_calf%2C_Skuda_Sound%2C_Unst_-_geograph.org.uk_-_7867074.jpg",
+  "updatedAt": "2026-07-01T12:33:36.911Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-core-baby-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-core-baby-01-1200.webp"
+  }
 }

@@ -2,23 +2,23 @@
   "id": "rhinoceros-core-range",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-core-range",
-  "fileName": "Rinoceronte blanco (Ceratotherium simum), Santuario de Rinocerontes Khama, Botsuana, 2018-08-02, DD 09.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rinoceronte_blanco_%28Ceratotherium_simum%29%2C_Santuario_de_Rinocerontes_Khama%2C_Botsuana%2C_2018-08-02%2C_DD_09.jpg",
-  "width": 6486,
-  "height": 4116,
+  "fileName": "rhinoceros-core-range-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 762,
   "alt": "White rhinoceros in protected Botswana sanctuary habitat",
   "caption": "White rhinos are Near Threatened because of poaching for their horns.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum)%2C_Santuario_de_Rinocerontes_Khama%2C_Botsuana%2C_2018-08-02%2C_DD_09.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_09.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum)%2C_Santuario_de_Rinocerontes_Khama%2C_Botsuana%2C_2018-08-02%2C_DD_09.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rinoceronte_blanco_(Ceratotherium_simum),_Santuario_de_Rinocerontes_Khama,_Botsuana,_2018-08-02,_DD_09.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:48.864Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Khama Rhino Sanctuary, Botswana",
-  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.739Z"
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bb/Rinoceronte_blanco_%28Ceratotherium_simum%29%2C_Santuario_de_Rinocerontes_Khama%2C_Botsuana%2C_2018-08-02%2C_DD_09.jpg",
+  "updatedAt": "2026-06-25T15:09:48.864Z",
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-core-range-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-core-range-01-1200.webp"
+  }
 }

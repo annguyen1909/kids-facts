@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-diet",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-diet",
+  "fileName": "archerfish-diet-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-diet-01-1200.webp",
+  "width": 1200,
+  "height": 720,
+  "alt": "Archerfish positioned just below the water surface, tilting its sharp snout upward to target overhanging insects",
+  "caption": "They are legendary marksmen, forming a specialized tube with their tongue and palate to shoot lethal streams of water at overhanging insects.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Newport Aquarium",
+  "acquisitionNotes": "Curated diet aiming posture photograph showcasing surface target alignment. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/02/Toxotes_jaculatrix_%28banded_archerfish%29_4_%2815533393159%29.jpg",
+  "updatedAt": "2026-06-29T11:54:49.105Z",
+  "attributionText": "Photo by James St. John via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_(banded_archerfish)_4_(15533393159).jpg\">James St. John</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_(banded_archerfish)_4_(15533393159).jpg",
+    "creatorName": "James St. John",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:49.105Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-diet-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-diet-01-1200.webp"
+  }
+}

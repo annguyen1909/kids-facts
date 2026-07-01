@@ -1,0 +1,38 @@
+{
+  "id": "hercules-beetle-range",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-range",
+  "fileName": "hercules-beetle-range-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-range-01-1200.webp",
+  "width": 1200,
+  "height": 448,
+  "alt": "",
+  "caption": "",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Ichiishi W, Shimada S, Motobayashi T, Abe H (2019) Completely engaged three-dimensional mandibular gear-like structures in the adult horned beetles: reconsideration of bark-carving behaviors (Coleoptera, Scarabaeidae, Dynastinae). ZooKeys 813: 89-110. https://doi.org/10.3897/zookeys.813.29236 via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dynastes_hercules_(10.3897-zookeys.813.29236)_Figure_8.jpg\">Ichiishi W, Shimada S, Motobayashi T, Abe H (2019) Completely engaged three-dimensional mandibular gear-like structures in the adult horned beetles: reconsideration of bark-carving behaviors (Coleoptera, Scarabaeidae, Dynastinae). ZooKeys 813: 89-110. https://doi.org/10.3897/zookeys.813.29236</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules_(10.3897-zookeys.813.29236)_Figure_8.jpg",
+    "creatorName": "Ichiishi W, Shimada S, Motobayashi T, Abe H (2019) Completely engaged three-dimensional mandibular gear-like structures in the adult horned beetles: reconsideration of bark-carving behaviors (Coleoptera, Scarabaeidae, Dynastinae). ZooKeys 813: 89-110. https://doi.org/10.3897/zookeys.813.29236",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:47.037Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hercules-beetle image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Dynastes_hercules_%2810.3897-zookeys.813.29236%29_Figure_8.jpg",
+  "updatedAt": "2026-06-25T14:57:47.037Z",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-range-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-baby",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-baby",
+  "fileName": "mantis-shrimp-baby-01-1200.webp",
+  "alt": "A young or baby Mantis Shrimp showing early development",
+  "caption": "Baby Mantis Shrimps must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Cédric Peneau via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_eyes.jpg\">Cédric Peneau</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_eyes.jpg",
+    "creatorName": "Cédric Peneau",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:02.043Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c3/Odontodactylus_scyllarus_eyes.jpg",
+  "updatedAt": "2026-06-26T08:17:02.043Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-baby-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-baby-01-1200.webp"
+  }
+}

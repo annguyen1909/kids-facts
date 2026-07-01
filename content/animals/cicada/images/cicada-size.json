@@ -1,0 +1,38 @@
+{
+  "id": "cicada-size",
+  "animalSlug": "cicada",
+  "slug": "cicada-size",
+  "fileName": "cicada-size-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-size-01-1200.webp",
+  "width": 960,
+  "height": 606,
+  "alt": "A photo showing the size of a Cicada",
+  "caption": "The size of a Cicada can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_54zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_54zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:14.067Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b6/Magicicada_septendecim_54zz.jpg",
+  "updatedAt": "2026-06-25T14:51:14.067Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-size-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-size-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-size-01-1200.webp"
+  }
+}

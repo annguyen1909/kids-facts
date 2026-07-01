@@ -2,12 +2,12 @@
   "id": "angelfish-core-range",
   "animalSlug": "angelfish",
   "slug": "angelfish-core-range",
-  "fileName": "Императорский ангел (Pomacanthus imperator), Imperator-Kaiserfisch DSCF5058WI.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_%28Pomacanthus_imperator%29%2C_Imperator-Kaiserfisch_DSCF5058WI.jpg",
-  "width": 1487,
-  "height": 945,
-  "alt": "Emperor angelfish in Indo-Pacific reef habitat",
-  "caption": "Reef damage and aquarium collection threaten wild angelfish in some areas.",
+  "fileName": "angelfish-core-range-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 763,
+  "alt": "Emperor angelfish swimming over a coral reef in the Indian Ocean",
+  "caption": "Emperor angelfish are found throughout the Indo-Pacific, from the Red Sea to Hawaii.",
   "imageType": "range",
   "galleryTopics": [
     "range"
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Indo-Pacific",
-  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set.",
-  "updatedAt": "2026-06-24T10:39:20.375Z",
+  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e4/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_%28Pomacanthus_imperator%29%2C_Imperator-Kaiserfisch_DSCF5058WI.jpg",
+  "updatedAt": "2026-06-25T14:48:49.870Z",
   "attributionText": "Photo by Kora27 via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_(Pomacanthus_imperator)%2C_Imperator-Kaiserfisch_DSCF5058WI.jpg\">Kora27</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_(Pomacanthus_imperator),_Imperator-Kaiserfisch_DSCF5058WI.jpg\">Kora27</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_(Pomacanthus_imperator)%2C_Imperator-Kaiserfisch_DSCF5058WI.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_(Pomacanthus_imperator),_Imperator-Kaiserfisch_DSCF5058WI.jpg",
     "creatorName": "Kora27",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:49.870Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-core-range-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-core-range-01-1200.webp"
   }
 }

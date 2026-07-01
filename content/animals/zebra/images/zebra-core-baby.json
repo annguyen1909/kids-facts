@@ -2,10 +2,10 @@
   "id": "zebra-core-baby",
   "animalSlug": "zebra",
   "slug": "zebra-core-baby",
-  "fileName": "Burchell's zebra (Equus quagga burchellii) suckling.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Burchell%27s_zebra_%28Equus_quagga_burchellii%29_suckling.jpg",
-  "width": 5352,
-  "height": 3568,
+  "fileName": "zebra-core-baby-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young zebra foal nursing beside its mother",
   "caption": "Foals stay very close to their mother while learning the herd's movements.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/24/Burchell%27s_zebra_%28Equus_quagga_burchellii%29_suckling.jpg",
+  "updatedAt": "2026-06-25T15:15:09.005Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Burchell's_zebra_(Equus_quagga_burchellii)_suckling.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Burchell%27s_zebra_(Equus_quagga_burchellii)_suckling.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burchell's_zebra_(Equus_quagga_burchellii)_suckling.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burchell%27s_zebra_(Equus_quagga_burchellii)_suckling.jpg",
     "creatorName": "Charles J. Sharp",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:09.005Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-core-baby-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-core-baby-01-1200.webp"
   }
 }

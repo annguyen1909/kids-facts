@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-habitat",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-habitat",
+  "fileName": "moorish-idol-habitat-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Moorish idol navigating through intricate coral reef heads in crystal clear water",
+  "caption": "They inhabit pristine tropical coral reefs, rocky overhangs, and shallow sheltered lagoons throughout the Indo-Pacific.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%C3%8Ddolo_moro_(Zanclus_cornutus),_Anilao,_Filipinas,_2023-08-22,_DD_189.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%8Ddolo_moro_(Zanclus_cornutus),_Anilao,_Filipinas,_2023-08-22,_DD_189.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:24:25.563Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Curated moorish idol habitat view in native Indo-Pacific coral gardens. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/34/%C3%8Ddolo_moro_%28Zanclus_cornutus%29%2C_Anilao%2C_Filipinas%2C_2023-08-22%2C_DD_189.jpg",
+  "updatedAt": "2026-06-29T12:24:25.563Z",
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-habitat-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-habitat-01-1200.webp"
+  }
+}

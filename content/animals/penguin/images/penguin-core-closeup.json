@@ -2,10 +2,10 @@
   "id": "penguin-core-closeup",
   "animalSlug": "penguin",
   "slug": "penguin-core-closeup",
-  "fileName": "2007 Snow-Hill-Island Luyten-De-Hauwere-Emperor-Penguin-10.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg",
-  "width": 2385,
-  "height": 1430,
+  "fileName": "penguin-core-closeup-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-core-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 719,
   "alt": "Emperor penguin head close-up showing yellow neck patches and dense feathers",
   "caption": "Dense feathers and a layer of fat help emperor penguins survive Antarctic cold.",
   "imageType": "closeup",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Snow Hill Island, Antarctica",
-  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/44/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg",
+  "updatedAt": "2026-06-25T15:06:34.978Z",
   "attributionText": "Photo by Denis Luyten via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg\">Denis Luyten</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg\">Denis Luyten</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg",
     "creatorName": "Denis Luyten",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-10.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:34.978Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-core-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-core-closeup-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-core-closeup-01-1200.webp"
   }
 }

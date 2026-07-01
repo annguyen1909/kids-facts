@@ -1,0 +1,38 @@
+{
+  "id": "capybara-core-family",
+  "animalSlug": "capybara",
+  "slug": "capybara-core-family",
+  "fileName": "capybara-core-family-01-1200.webp",
+  "alt": "Close-up of a capybara head beside a river",
+  "caption": "A capybara's blunt snout and high-set eyes help it watch the water's edge.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/capybara/web/capybara-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 899,
+  "attributionText": "Photo by @LuizAlves1990 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hydrochoerus_hydrochaeris_por_Luiz_Alves_(02).jpg\">@LuizAlves1990</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrochoerus_hydrochaeris_por_Luiz_Alves_(02).jpg",
+    "creatorName": "@LuizAlves1990",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:40.091Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/ba/Hydrochoerus_hydrochaeris_por_Luiz_Alves_%2802%29.jpg",
+  "updatedAt": "2026-06-26T08:15:40.091Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-core-family-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-core-family-01-1200.webp"
+  }
+}

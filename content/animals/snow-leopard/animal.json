@@ -1,0 +1,164 @@
+{
+  "id": "animal-snow-leopard",
+  "slug": "snow-leopard",
+  "name": "Snow Leopard",
+  "commonNames": [
+    "Ounce",
+    "Ghost of the mountains"
+  ],
+  "scientificName": "Panthera uncia",
+  "summary": "Snow leopards are elusive mountain cats that live in the high peaks and rocky ridges of Central Asia, using thick spotted fur and a long tail for balance and warmth in extreme cold.",
+  "heroTitle": "Snow Leopard Facts",
+  "metaTitle": "Snow Leopard Facts | Habitat, Diet, Fur & Photos",
+  "metaDescription": "Discover snow leopard facts with photos, mountain habitat, hunting diet, cub life, and conservation. Learn where snow leopards live and why they are called ghosts of the mountains.",
+  "searchIntents": [
+    "snow leopard facts",
+    "what do snow leopards eat",
+    "where do snow leopards live",
+    "snow leopard habitat",
+    "are snow leopards endangered",
+    "snow leopard vs leopard"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Felidae",
+    "genus": "Panthera",
+    "species": "P. uncia"
+  },
+  "classificationLabels": [
+    "mammal",
+    "carnivore",
+    "large"
+  ],
+  "continents": [
+    "Asia"
+  ],
+  "countries": [
+    "China",
+    "Mongolia",
+    "Nepal",
+    "India",
+    "Bhutan",
+    "Pakistan",
+    "Afghanistan",
+    "Kyrgyzstan",
+    "Kazakhstan"
+  ],
+  "biomes": [
+    "mountain",
+    "alpine"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "blue sheep",
+    "Himalayan tahr",
+    "ibex",
+    "marmot",
+    "hare",
+    "deer"
+  ],
+  "lifespan": {
+    "wild": "10 to 12 years",
+    "captivity": "Up to 21 years in human care"
+  },
+  "size": {
+    "lengthMin": "3 feet",
+    "lengthMax": "4.5 feet",
+    "heightMin": "1.7 feet",
+    "heightMax": "2 feet"
+  },
+  "weight": {
+    "min": "55 pounds",
+    "max": "120 pounds"
+  },
+  "speed": "Up to 40 mph in short bursts",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "solitary",
+    "crepuscular activity",
+    "territory marking",
+    "long-distance leaping",
+    "tail wrapping for warmth"
+  ],
+  "adaptations": [
+    "thick spotted fur",
+    "wide nasal cavity",
+    "long bushy tail",
+    "large paws for snow",
+    "powerful hind legs"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "blue sheep",
+    "ibex",
+    "marmot",
+    "deer"
+  ],
+  "reproduction": {
+    "offspringName": "cub",
+    "gestationOrIncubation": "About 90 to 100 days",
+    "offspringCount": "2 to 3 cubs per litter"
+  },
+  "funFacts": [
+    "A snow leopard's tail is nearly as long as its body and acts like a scarf in the cold.",
+    "Snow leopards cannot roar—they make a unique sound called a 'chuff' or 'prusten'.",
+    "Their wide paws act like natural snowshoes, spreading weight across deep snow.",
+    "Snow leopards can leap up to 50 feet in a single bound on mountain terrain.",
+    "They are nicknamed 'ghost of the mountains' because they are so rarely seen.",
+    "Snow leopards often wrap their thick tails around their faces to keep warm while resting."
+  ],
+  "faq": [
+    {
+      "question": "What is a snow leopard?",
+      "answer": "A snow leopard is a large wild cat that lives in the mountain ranges of Central Asia. It has thick spotted fur, a long bushy tail, and wide paws designed for life in deep snow and rocky terrain."
+    },
+    {
+      "question": "Where do snow leopards live?",
+      "answer": "Snow leopards live in the high mountain ranges of Central and South Asia, including the Himalayas, the Tibetan Plateau, and the Altai mountains. They are found in countries such as China, Mongolia, Nepal, and India."
+    },
+    {
+      "question": "What do snow leopards eat?",
+      "answer": "Snow leopards hunt blue sheep, Himalayan tahr, ibex, marmots, and hares. They are capable of killing prey up to three times their own body weight."
+    },
+    {
+      "question": "Can snow leopards roar?",
+      "answer": "No. Snow leopards cannot roar like lions or tigers. Instead they make a range of sounds including a soft 'chuff' or 'prusten,' hisses, growls, and wailing calls."
+    },
+    {
+      "question": "Why is the snow leopard called the ghost of the mountains?",
+      "answer": "Snow leopards are called ghosts of the mountains because they are extremely secretive and rarely seen. Their spotted coats blend perfectly with rocky mountain terrain, making them almost invisible."
+    },
+    {
+      "question": "Are snow leopards endangered?",
+      "answer": "Snow leopards are listed as Vulnerable. Illegal hunting, loss of prey animals, and conflict with herders who lose livestock to snow leopards are the main threats."
+    },
+    {
+      "question": "How does a snow leopard's tail help it?",
+      "answer": "The tail is nearly as long as the body and serves two purposes: it helps the cat balance on steep, rocky slopes and it can be wrapped around the face and body for warmth in freezing temperatures."
+    },
+    {
+      "question": "What is a baby snow leopard called?",
+      "answer": "A baby snow leopard is called a cub. Cubs are born in a rocky den lined with the mother's fur, and stay with her for about 18 months while learning to hunt on mountain terrain."
+    }
+  ],
+  "relatedAnimals": [
+    "leopard",
+    "tiger",
+    "lion"
+  ],
+  "comparisonCandidates": [
+    "leopard"
+  ],
+  "galleryIds": [
+    "snow-leopard-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "grassland"
+}

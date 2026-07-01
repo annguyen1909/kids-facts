@@ -2,10 +2,10 @@
   "id": "leopard-size",
   "animalSlug": "leopard",
   "slug": "leopard-size",
-  "fileName": "Leopard (Panthera pardus pardus) Kruger 3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Leopard_%28Panthera_pardus_pardus%29_Kruger_3.jpg",
-  "width": 1803,
-  "height": 2404,
+  "fileName": "leopard-size-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-size-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Full-body leopard showing muscular build and spotted coat",
   "caption": "Adult leopards are strong, compact cats built for climbing and ambush hunting.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:15.591Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "size",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Manually curated leopard size image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z"
+  "acquisitionNotes": "Manually curated leopard size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/57/Leopard_%28Panthera_pardus_pardus%29_Kruger_3.jpg",
+  "updatedAt": "2026-06-25T15:01:15.591Z",
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-size-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-size-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-size-01-1200.webp"
+  }
 }

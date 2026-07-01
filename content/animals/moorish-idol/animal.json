@@ -1,0 +1,143 @@
+{
+  "id": "animal-moorish-idol",
+  "slug": "moorish-idol",
+  "name": "Moorish Idol",
+  "commonNames": [
+    "Moorish Idol",
+    "Moorish Idol Fish",
+    "Sickle Fish"
+  ],
+  "scientificName": "Zanclus cornutus",
+  "summary": "The Moorish idol is a spectacularly beautiful coral reef fish known for its contrasting black, white, and yellow vertical bands and a remarkably long trailing dorsal pennant.",
+  "heroTitle": "Moorish Idol Facts",
+  "metaTitle": "Moorish Idol Facts | Coral Reef Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Explore Moorish idol facts with high-quality photos, tropical coral reef habitat, specialized sponge diet, pair behavior, and aquarium information.",
+  "searchIntents": [
+    "moorish idol fish",
+    "moorish idol vs bannerfish",
+    "zanclus cornutus facts",
+    "moorish idol diet",
+    "why are moorish idols hard to keep",
+    "moorish idol finding nemo gill"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Acanthuriformes",
+    "family": "Zanclidae",
+    "genus": "Zanclus",
+    "species": "Z. cornutus"
+  },
+  "classificationLabels": [
+    "fish",
+    "omnivore",
+    "tropical"
+  ],
+  "habitat": "coral reef",
+  "continents": [
+    "Africa",
+    "Asia",
+    "Oceania"
+  ],
+  "countries": [
+    "Philippines",
+    "Indonesia",
+    "Australia",
+    "Maldives",
+    "Fiji",
+    "French Polynesia"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef",
+    "coastal lagoon"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "encrusting sponges",
+    "tunicates",
+    "benthic invertebrates",
+    "bryozoans",
+    "marine algae"
+  ],
+  "lifespan": {
+    "wild": "5 to 8 years",
+    "captivity": "3 to 5 years (difficult to maintain)"
+  },
+  "size": {
+    "lengthMin": "6 inches",
+    "lengthMax": "9 inches"
+  },
+  "weight": {
+    "min": "100 grams",
+    "max": "250 grams"
+  },
+  "speed": "Agile reef cruiser, capable of bursts up to 15 mph to evade danger",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "synchronized pair swimming",
+    "territorial defense",
+    "crevice foraging",
+    "broadcast spawning"
+  ],
+  "adaptations": [
+    "long trailing dorsal pennant",
+    "extended tubular snout",
+    "bristle-like teeth for scraping",
+    "highly compressed disc body",
+    "disruptive vertical banding"
+  ],
+  "predators": [
+    "large reef groupers",
+    "snappers",
+    "reef sharks"
+  ],
+  "prey": [
+    "encrusting sponges",
+    "tunicates",
+    "benthic invertebrates"
+  ],
+  "reproduction": {
+    "offspringName": "pelagic larva",
+    "gestationOrIncubation": "Eggs hatch into pelagic larvae within 24–48 hours",
+    "offspringCount": "Thousands of broadcast eggs per spawning event"
+  },
+  "funFacts": [
+    "The Moorish idol gets its name from the Moors of Africa, who believed the fish brought good luck to fishermen.",
+    "They are the sole living species in the family Zanclidae, making them an evolutionary outlier closely related to surgeonfish.",
+    "Their exceptionally long, elegant dorsal pennant can regenerate rapidly if it is bitten off by predators.",
+    "Moorish idols are notoriously difficult to maintain in home aquariums because their diet heavily depends on living coralline sponges that are nearly impossible to replicate synthetically.",
+    "The character 'Gill' from Pixar's Finding Nemo is a Moorish idol, accurately depicted with a strong desire to return to the open ocean."
+  ],
+  "faq": [
+    {
+      "question": "What is the difference between a Moorish idol and a Pennant bannerfish?",
+      "answer": "While both share a similar black, white, and yellow color palette and a long dorsal pennant, the Moorish idol (Zanclus cornutus) has a distinctive long tubular snout with a yellow patch across the bridge and lacks the sharp scalpels on the caudal peduncle. The Pennant bannerfish (Heniochus acuminatus) is a butterflyfish with a shorter snout and slightly different banding."
+    },
+    {
+      "question": "Are Moorish idols edible or caught for food?",
+      "answer": "Moorish idols are strictly ornamental coral reef fish. Because of their small, highly compressed bony bodies and diet of chemically defended sponges, they are not caught or consumed as food by humans."
+    },
+    {
+      "question": "Why do Moorish idols have such a long tubular snout?",
+      "answer": "Their specialized tubular snout is equipped with long, bristle-like teeth designed specifically for reaching into tight coral crevices and scraping encrusting sponges and tunicates off rock walls."
+    },
+    {
+      "question": "Do Moorish idols live in schools or pairs?",
+      "answer": "As juveniles, they are often solitary. However, once mature, Moorish idols frequently form lifelong monogamous pairs, navigating the complex structure of the reef together in perfect synchronization."
+    }
+  ],
+  "relatedAnimals": [
+    "angelfish",
+    "clownfish",
+    "seahorse"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "moorish-idol-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

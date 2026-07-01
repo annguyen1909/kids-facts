@@ -1,0 +1,22 @@
+{
+  "id": "american-bison-gallery-main",
+  "animalSlug": "american-bison",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "American Bison Photo Gallery",
+  "metaTitle": "American Bison Photo Gallery",
+  "metaDescription": "Browse a american bison photo gallery with wildlife photos.",
+  "intro": "Explore american bison photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "american-bison-hero",
+    "american-bison-habitat",
+    "american-bison-diet",
+    "american-bison-baby",
+    "american-bison-family",
+    "american-bison-range",
+    "american-bison-size",
+    "american-bison-closeup",
+    "american-bison-fun-fact"
+  ],
+  "updatedAt": "2026-06-28T09:42:11.215Z"
+}

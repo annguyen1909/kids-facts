@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-size",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-size",
+  "fileName": "mandarinfish-size-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-size-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "A mature male mandarinfish showcasing its elongated dorsal spine and compact body size",
+  "caption": "They are small fish, reaching only about 6 cm (2.4 inches) in length, with males distinguished by a highly elongated first dorsal spine.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Pristine 3848x3848 size profile highlighting male dorsal fin elongation. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/Pez_mandar%C3%ADn_%28Synchiropus_splendidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_208.jpg",
+  "updatedAt": "2026-06-29T11:59:32.487Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_208.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_208.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:59:32.487Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-size-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-size-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-size-01-1200.webp"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "puffin-gallery-main",
+  "animalSlug": "puffin",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Atlantic Puffin Photo Gallery",
+  "metaTitle": "Atlantic Puffin Photo Gallery",
+  "metaDescription": "Browse an Atlantic puffin photo gallery with wildlife photos.",
+  "intro": "Explore Atlantic puffin photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "puffin-hero",
+    "puffin-habitat",
+    "puffin-diet",
+    "puffin-baby",
+    "puffin-family",
+    "puffin-range",
+    "puffin-size",
+    "puffin-closeup",
+    "puffin-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

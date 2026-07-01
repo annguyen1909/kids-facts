@@ -1,0 +1,22 @@
+{
+  "id": "mantis-shrimp-gallery-main",
+  "animalSlug": "mantis-shrimp",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Mantis Shrimp Photo Gallery",
+  "metaTitle": "Mantis Shrimp Photo Gallery",
+  "metaDescription": "Browse a mantis shrimp photo gallery with wildlife images of vivid colors, compound eyes, reef habitat, strike behavior, and larval stages.",
+  "intro": "Explore mantis shrimp through photos organized for learning, image search, and classroom observation—from their rainbow colors and compound eyes to their powerful strikes on coral reefs.",
+  "imageSlugs": [
+    "mantis-shrimp-hero",
+    "mantis-shrimp-habitat",
+    "mantis-shrimp-diet",
+    "mantis-shrimp-baby",
+    "mantis-shrimp-family",
+    "mantis-shrimp-range",
+    "mantis-shrimp-size",
+    "mantis-shrimp-closeup",
+    "mantis-shrimp-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

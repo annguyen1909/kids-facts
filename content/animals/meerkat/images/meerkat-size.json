@@ -2,10 +2,10 @@
   "id": "meerkat-size",
   "animalSlug": "meerkat",
   "slug": "meerkat-size",
-  "fileName": "Erdmännchen, Suricata suricatta 1.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Erdm%C3%A4nnchen%2C_Suricata_suricatta_1.JPG",
-  "width": 2456,
-  "height": 2456,
+  "fileName": "meerkat-size-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-size-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Meerkat standing upright showing small body size",
   "caption": "Adult meerkats are only about 10 to 14 inches long plus a tail.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Europe",
-  "acquisitionNotes": "Manually curated meerkat size image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:13.126Z",
+  "acquisitionNotes": "Manually curated meerkat size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Erdm%C3%A4nnchen%2C_Suricata_suricatta_1.JPG",
+  "updatedAt": "2026-06-25T15:03:03.496Z",
   "attributionText": "Photo by Böhringer Friedrich via Wikimedia Commons, CC BY-SA 2.5",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Erdm%C3%A4nnchen%2C_Suricata_suricatta_1.JPG\">Böhringer Friedrich</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Erdm%C3%A4nnchen,_Suricata_suricatta_1.JPG\">Böhringer Friedrich</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erdm%C3%A4nnchen%2C_Suricata_suricatta_1.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erdm%C3%A4nnchen,_Suricata_suricatta_1.JPG",
     "creatorName": "Böhringer Friedrich",
     "licenseName": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:03.496Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-size-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-size-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-size-01-1200.webp"
   }
 }

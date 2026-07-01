@@ -1,13 +1,51 @@
 import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 import { AnimalCard } from "@/components/animals/animal-card";
+import { PageHeroShell } from "@/components/animals/page-hero-shell";
 import { JsonLd } from "@/components/layout/json-ld";
 import { MdxArticle } from "@/components/mdx/mdx-article";
-import { Breadcrumbs } from "@/components/ui/breadcrumb";
 import { formatFeaturedPageLabel } from "@/lib/content";
-import { formatDisplayLabel } from "@/lib/format-display";
-import { getAbsoluteUrl } from "@/lib/images";
+import { getAbsoluteUrl, getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
+import { getHubIndexPath, getHubTypeLabel, isNavigableInternalPath } from "@/lib/routes";
 import { buildBreadcrumbSchema, buildHubSchema } from "@/lib/schema";
 import type { AnimalRecord, HubRecord } from "@/lib/types";
+
+const hubToneClass: Record<HubRecord["type"], string> = {
+  habitats: "hub-page--sky",
+  diets: "hub-page--warm",
+  families: "hub-page--forest",
+  "conservation-status": "hub-page--conservation",
+  topics: "hub-page--sky",
+};
+
+function getHubCoverImage(hubType: HubRecord["type"], animals: AnimalRecord[]): string | undefined {
+  if (!animals.length) return undefined;
+
+  // 1. Try to find an image matching the hub type across all animals
+  const targetImageType = 
+    hubType === "habitats" ? "habitat" : 
+    hubType === "diets" ? "diet" : 
+    hubType === "families" ? "family" : null;
+  
+  if (targetImageType) {
+    for (const animal of animals) {
+      const match = animal.images.find(img => img.imageType === targetImageType);
+      if (match) return match.src;
+    }
+  }
+
+  // 2. Try to find any secondary image (not the primary one) to avoid visual repetition
+  for (const animal of animals) {
+    if (animal.images.length > 1) {
+      const primarySrc = getAnimalPrimaryImage(animal).src;
+      const secondary = animal.images.find(img => img.src !== primarySrc);
+      if (secondary) return secondary.src;
+    }
+  }
+
+  // 3. Fallback to primary image of the first animal
+  return getAnimalPrimaryImage(animals[0]).src;
+}
 
 export async function HubPage({
   hub,
@@ -16,12 +54,20 @@ export async function HubPage({
   hub: HubRecord;
   animals: AnimalRecord[];
 }) {
+  const hubTypeLabel = getHubTypeLabel(hub.type);
+  const hubIndexPath = getHubIndexPath(hub.type);
+  const toneClass = hubToneClass[hub.type] ?? "hub-page--forest";
+  
+  const coverImage = getHubCoverImage(hub.type, animals);
+
   return (
-    <div className="section-shell py-10">
+    <div className={`hub-page ${toneClass}`}>
       <JsonLd
         data={buildBreadcrumbSchema([
           { name: "Home", item: getAbsoluteUrl("/") },
-          { name: formatDisplayLabel(hub.type.replace(/-/g, " ")), item: getAbsoluteUrl(`/${hub.type}/${hub.slug}`) },
+          ...(hubIndexPath
+            ? [{ name: hubTypeLabel, item: getAbsoluteUrl(hubIndexPath) }]
+            : []),
           { name: hub.name, item: getAbsoluteUrl(`/${hub.type}/${hub.slug}`) },
         ])}
       />
@@ -34,55 +80,67 @@ export async function HubPage({
           })),
         )}
       />
-      <Breadcrumbs
-        items={[
+      
+      <PageHeroShell
+        compact
+        slim
+        breadcrumbs={[
           { label: "Home", href: "/" },
-          { label: formatDisplayLabel(hub.type.replace(/-/g, " ")), href: `/${hub.type}` },
+          ...(hubIndexPath ? [{ label: hubTypeLabel, href: hubIndexPath }] : []),
           { label: hub.name },
         ]}
+        eyebrow={`${hubTypeLabel} hub`}
+        title={hub.name}
+        intro={hub.description}
+        coverImage={coverImage}
       />
-      <section className="mt-6 rounded-[2rem] bg-white px-6 py-8 shadow-[var(--shadow)] sm:px-8">
-        <p className="eyebrow eyebrow--light">
-          {formatDisplayLabel(hub.type.replace(/-/g, " "))} hub
-        </p>
-        <h1 className="section-title mt-4 text-[var(--forest-deep)]">
-          {hub.name}
-        </h1>
-        <p className="mt-4 body-lead">
-          {hub.description}
-        </p>
-      </section>
-      {hub.body ? (
-        <section className="mt-8 rounded-[2rem] bg-white p-8 shadow-[var(--shadow)]">
-          <MdxArticle source={hub.body} />
-        </section>
-      ) : null}
-      <section className="mt-10">
-        <h2 className="section-title text-[var(--forest-deep)]">
-          Animals in this cluster
-        </h2>
-        <div className="mt-6 grid gap-6 lg:grid-cols-3">
-          {animals.map((animal) => (
-            <AnimalCard key={animal.core.slug} animal={animal} />
-          ))}
-        </div>
-      </section>
-      {hub.featuredPagePaths.length > 0 ? (
-        <section className="mt-10 rounded-[2rem] bg-white p-6 shadow-[var(--shadow)]">
-          <h2 className="text-2xl font-bold tracking-tight text-[var(--forest-deep)]">
-            Featured pages
-          </h2>
-          <ul className="mt-4 space-y-3">
-            {hub.featuredPagePaths.map((pagePath) => (
-              <li key={pagePath}>
-                <Link href={pagePath} className="font-semibold text-[var(--forest)] hover:underline">
-                  {formatFeaturedPageLabel(pagePath)}
-                </Link>
-              </li>
+
+      <div className="section-shell py-10">
+        {hub.body ? (
+          <section className="hub-page__panel mt-8">
+            <MdxArticle source={hub.body} />
+          </section>
+        ) : null}
+        <section className="mt-4">
+          <h2 className="section-title text-[var(--forest-deep)]">Animals in this cluster</h2>
+          <div className="mt-5 grid gap-6 lg:grid-cols-3 animate-on-scroll-fast">
+            {animals.map((animal) => (
+              <AnimalCard key={animal.core.slug} animal={animal} />
             ))}
-          </ul>
+          </div>
         </section>
-      ) : null}
+        {hub.featuredPagePaths.length > 0 ? (
+          <section className="hub-page__panel mt-4">
+            <h2 className="text-2xl font-bold tracking-tight text-[var(--forest-deep)]">
+              Featured pages
+            </h2>
+            <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3 animate-on-scroll-fast">
+              {hub.featuredPagePaths.map((pagePath) => {
+                const label = formatFeaturedPageLabel(pagePath);
+                const navigable = isNavigableInternalPath(pagePath);
+
+                if (!navigable) {
+                  return (
+                    <div key={pagePath} className="hub-page__featured-card hub-page__featured-card--static">
+                      <p className="font-semibold text-[var(--forest-deep)]">{label}</p>
+                    </div>
+                  );
+                }
+
+                return (
+                  <Link key={pagePath} href={pagePath} className="hub-page__featured-card group">
+                    <p className="font-semibold text-[var(--forest-deep)]">{label}</p>
+                    <span className="hub-page__featured-cta">
+                      Open page
+                      <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden />
+                    </span>
+                  </Link>
+                );
+              })}
+            </div>
+          </section>
+        ) : null}
+      </div>
     </div>
   );
 }

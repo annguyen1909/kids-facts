@@ -2,10 +2,10 @@
   "id": "crocodile-habitat",
   "animalSlug": "crocodile",
   "slug": "crocodile-habitat",
-  "fileName": "Nile Crocodile Kafue River Bank Zambia Jul23 A7C 05542.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nile_Crocodile_Kafue_River_Bank_Zambia_Jul23_A7C_05542.jpg",
-  "width": 4243,
-  "height": 2652,
+  "fileName": "crocodile-habitat-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 750,
   "alt": "Nile crocodile on a riverbank in Zambia",
   "caption": "Nile crocodiles need rivers, lakes, and wetlands with warm water and basking spots.",
   "attributionText": "Photo by This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract . via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:49.901Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Kafue River, Zambia",
-  "acquisitionNotes": "Manually curated crocodile habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:15.558Z"
+  "acquisitionNotes": "Manually curated crocodile habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/Nile_Crocodile_Kafue_River_Bank_Zambia_Jul23_A7C_05542.jpg",
+  "updatedAt": "2026-06-25T14:51:49.901Z",
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-habitat-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-habitat-01-1200.webp"
+  }
 }

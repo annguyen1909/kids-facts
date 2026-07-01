@@ -2,10 +2,10 @@
   "id": "parrot-size",
   "animalSlug": "parrot",
   "slug": "parrot-size",
-  "fileName": "Ara macao qtl1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ara_macao_qtl1.jpg",
-  "width": 2612,
-  "height": 4056,
+  "fileName": "parrot-size-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-size-01-1200.webp",
+  "width": 1200,
+  "height": 1863,
   "alt": "Scarlet macaw showing large body and long tail",
   "caption": "Scarlet macaws can grow more than 2 feet long including their tail feathers.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated macaw size image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Manually curated macaw size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c0/Ara_macao_qtl1.jpg",
+  "updatedAt": "2026-06-25T15:06:03.856Z",
   "attributionText": "Photo by Quartl via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ara_macao_qtl1.jpg\">Quartl</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:03.856Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-size-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-size-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-size-01-1200.webp"
   }
 }

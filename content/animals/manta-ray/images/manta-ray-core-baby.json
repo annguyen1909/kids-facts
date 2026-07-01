@@ -1,0 +1,42 @@
+{
+  "id": "manta-ray-core-baby",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-core-baby",
+  "fileName": "manta-ray-core-baby-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Young giant oceanic manta ray swimming in open water",
+  "caption": "Manta rays give birth to live young that are already several feet across.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Okinawa, Japan",
+  "attributionText": "Photo by Hiroya02 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Okinawa_Giant_oceanic_manta_ray.png\">Hiroya02</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okinawa_Giant_oceanic_manta_ray.png",
+    "creatorName": "Hiroya02",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:26.675Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article baby image — unique from gallery baby image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/77/Okinawa_Giant_oceanic_manta_ray.png",
+  "updatedAt": "2026-06-25T15:02:26.675Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobula_birostris_459064540.jpg",
+  "creatorName": "Alicia Christman",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-core-baby-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-core-baby-01-1200.webp"
+  }
+}

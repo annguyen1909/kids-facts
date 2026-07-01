@@ -1,0 +1,22 @@
+{
+  "id": "moorish-idol-gallery-main",
+  "animalSlug": "moorish-idol",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Moorish Idol Photo Gallery",
+  "metaTitle": "Moorish Idol Photo Gallery",
+  "metaDescription": "Browse a moorish idol photo gallery with wildlife photos.",
+  "intro": "Explore moorish idol photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "moorish-idol-hero",
+    "moorish-idol-habitat",
+    "moorish-idol-diet",
+    "moorish-idol-baby",
+    "moorish-idol-family",
+    "moorish-idol-range",
+    "moorish-idol-size",
+    "moorish-idol-closeup",
+    "moorish-idol-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T12:20:52.778Z"
+}

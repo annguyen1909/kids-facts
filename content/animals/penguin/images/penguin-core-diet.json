@@ -2,8 +2,8 @@
   "id": "penguin-core-diet",
   "animalSlug": "penguin",
   "slug": "penguin-core-diet",
-  "fileName": "EmperorPenguinFeedingChick.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/EmperorPenguinFeedingChick.jpg",
+  "fileName": "penguin-core-diet-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-core-diet-01-1200.webp",
   "width": 1024,
   "height": 768,
   "alt": "Emperor penguin parent regurgitating food for a hungry chick",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Antarctica",
-  "acquisitionNotes": "Core article image curated separately from the penguin gallery set.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Core article image curated separately from the penguin gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/EmperorPenguinFeedingChick.jpg",
+  "updatedAt": "2026-06-25T15:06:34.057Z",
   "attributionText": "Photo by Unknown creator via Wikimedia Commons, CC BY 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:EmperorPenguinFeedingChick.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:34.057Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-core-diet-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-core-diet-01-1200.webp"
   }
 }

@@ -2,10 +2,10 @@
   "id": "moose-diet",
   "animalSlug": "moose",
   "slug": "moose-diet",
-  "fileName": "MOOSE (Alces alces) (6-23-2016) homer, alaska (2) (28424267294).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/MOOSE_%28Alces_alces%29_%286-23-2016%29_homer%2C_alaska_%282%29_%2828424267294%29.jpg",
-  "width": 4000,
-  "height": 4013,
+  "fileName": "moose-diet-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1204,
   "alt": "Moose feeding on aquatic plants near water",
   "caption": "Moose eat leaves, twigs, bark, and water plants. They can wade into lakes to reach food.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Homer, Alaska",
-  "acquisitionNotes": "Manually curated moose diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Manually curated moose diet image with verified species identification. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/60/MOOSE_%28Alces_alces%29_%286-23-2016%29_homer%2C_alaska_%282%29_%2828424267294%29.jpg",
+  "updatedAt": "2026-06-25T15:03:40.710Z",
   "attributionText": "Photo by ALAN SCHMIERER via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:MOOSE_(Alces_alces)_(6-23-2016)_homer%2C_alaska_(2)_(28424267294).jpg\">ALAN SCHMIERER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:MOOSE_(Alces_alces)_(6-23-2016)_homer,_alaska_(2)_(28424267294).jpg\">ALAN SCHMIERER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOOSE_(Alces_alces)_(6-23-2016)_homer%2C_alaska_(2)_(28424267294).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MOOSE_(Alces_alces)_(6-23-2016)_homer,_alaska_(2)_(28424267294).jpg",
     "creatorName": "ALAN SCHMIERER",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:40.710Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-diet-01-400.webp",
+    "original": "/images/animals/moose/web/moose-diet-01-1200.webp"
   }
 }

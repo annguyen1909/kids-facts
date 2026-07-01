@@ -2,10 +2,10 @@
   "id": "rhinoceros-range",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-range",
-  "fileName": "Adult White Rhinoceros (Ceratotherium simum simum) (CWPG).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Adult_White_Rhinoceros_%28Ceratotherium_simum_simum%29_%28CWPG%29.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "rhinoceros-range-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Adult white rhinoceros in African grassland habitat",
   "caption": "Southern white rhinos live mainly in South Africa, Namibia, Zimbabwe, and Kenya.",
   "attributionText": "Photo by Vauxford via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:59.573Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Manually curated rhinoceros range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.739Z"
+  "acquisitionNotes": "Manually curated rhinoceros range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bf/Adult_White_Rhinoceros_%28Ceratotherium_simum_simum%29_%28CWPG%29.jpg",
+  "updatedAt": "2026-06-25T15:09:59.573Z",
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-range-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-range-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-range-01-1200.webp"
+  }
 }

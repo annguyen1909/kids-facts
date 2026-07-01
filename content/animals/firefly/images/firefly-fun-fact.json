@@ -1,0 +1,38 @@
+{
+  "id": "firefly-fun-fact",
+  "animalSlug": "firefly",
+  "slug": "firefly-fun-fact",
+  "fileName": "firefly-fun-fact-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-fun-fact-01-1200.webp",
+  "width": 765,
+  "height": 703,
+  "alt": "A Firefly showing a unique behavior or adaptation",
+  "caption": "Did you know that the Firefly has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by art farmer from evansville indiana, usa via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_glowing.jpg\">art farmer from evansville indiana, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_glowing.jpg",
+    "creatorName": "art farmer from evansville indiana, usa",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:09.002Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Photinus_pyralis_Firefly_glowing.jpg",
+  "updatedAt": "2026-06-25T14:53:09.002Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-fun-fact-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-fun-fact-01-1200.webp"
+  }
+}

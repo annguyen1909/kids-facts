@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-habitat",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-habitat",
+  "fileName": "american-bison-habitat-01-1200.webp",
+  "alt": "American bison on open grassland in Yellowstone National Park",
+  "caption": "Bison live on the wide grasslands and prairies of North America, like Yellowstone's valleys.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Yellowstone National Park, Wyoming, USA",
+  "src": "/images/animals/american-bison/web/american-bison-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 750,
+  "attributionText": "Photo by Frank Schulenburg via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:American_bison_in_Yellowstone_National_Park.jpg\">Frank Schulenburg</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:American_bison_in_Yellowstone_National_Park.jpg",
+    "creatorName": "Frank Schulenburg",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:18.008Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d1/American_bison_in_Yellowstone_National_Park.jpg",
+  "updatedAt": "2026-06-28T09:54:18.008Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-habitat-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-habitat-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-baby",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-baby",
+  "fileName": "ladybug-baby-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A ladybug larva with a spiky blue-black body and orange spots on a green leaf",
+  "caption": "Ladybug larvae look like tiny, spiky alligators and have a massive appetite for aphids.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Belgium",
+  "attributionText": "Photo by Gilles San Martin via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Coccinella_septempunctata_larva.jpg\">Gilles San Martin</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coccinella_septempunctata_larva.jpg",
+    "creatorName": "Gilles San Martin",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:13.337Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1f/Coccinella_septempunctata_larva.jpg",
+  "updatedAt": "2026-06-25T15:00:13.337Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-baby-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-baby-01-1200.webp"
+  }
+}

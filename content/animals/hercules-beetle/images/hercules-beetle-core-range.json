@@ -1,0 +1,42 @@
+{
+  "id": "hercules-beetle-core-range",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-core-range",
+  "fileName": "hercules-beetle-core-range-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-core-range-01-1200.webp",
+  "width": 640,
+  "height": 480,
+  "alt": "Hercules beetle in its natural range across tropical forests",
+  "caption": "Hercules beetles range from southern Mexico through Central America to Bolivia.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Costa Rica",
+  "attributionText": "Photo by Furry yui via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dynastes_hercules_hercules01.JPG\">Furry yui</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules_hercules01.JPG",
+    "creatorName": "Furry yui",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:57:42.695Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article range image — unique from gallery images. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e0/Dynastes_hercules_hercules01.JPG",
+  "updatedAt": "2026-06-25T14:57:42.695Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_30_May_2011.jpg",
+  "creatorName": "Novita Estiti from Tokyo, Japan",
+  "licenseName": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-core-range-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-core-range-01-1200.webp"
+  }
+}

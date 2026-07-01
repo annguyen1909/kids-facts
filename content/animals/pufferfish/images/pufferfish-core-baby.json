@@ -2,23 +2,23 @@
   "id": "pufferfish-core-baby",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-core-baby",
-  "fileName": "Arothron meleagris 449742970.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Arothron_meleagris_449742970.jpg",
-  "width": 2048,
-  "height": 1152,
+  "fileName": "pufferfish-core-baby-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Young guinea fowl pufferfish on a tropical reef",
   "caption": "Juveniles must learn which reef foods are safe to eat.",
   "attributionText": "Photo by Chris Spain via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_449742970.jpg\">Chris Spain</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Arothron_meleagris_449742970.jpg\">Chris Spain</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arothron_meleagris_449742970.jpg",
     "creatorName": "Chris Spain",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:22.726Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Pacific Ocean",
-  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set.",
-  "updatedAt": "2026-06-24T10:01:10.621Z"
+  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cd/Arothron_meleagris_449742970.jpg",
+  "updatedAt": "2026-06-25T15:08:22.726Z",
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-core-baby-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-core-baby-01-1200.webp"
+  }
 }

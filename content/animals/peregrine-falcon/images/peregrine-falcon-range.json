@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-range",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-range",
+  "fileName": "peregrine-falcon-range-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A peregrine falcon soaring with wings spread wide in a bright blue sky",
+  "caption": "Peregrine falcons are found on every continent except Antarctica, making them one of the most widespread birds.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Germany",
+  "attributionText": "Photo by Ermell via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine_falcon_approaching-20200411-RM-164346.jpg\">Ermell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine_falcon_approaching-20200411-RM-164346.jpg",
+    "creatorName": "Ermell",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:10.638Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/52/Peregrine_falcon_approaching-20200411-RM-164346.jpg",
+  "updatedAt": "2026-06-25T15:07:10.638Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-range-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-range-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-range-01-1200.webp"
+  }
+}

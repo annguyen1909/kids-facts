@@ -1,0 +1,22 @@
+{
+  "id": "ring-tailed-lemur-gallery-main",
+  "animalSlug": "ring-tailed-lemur",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Ring-tailed Lemur Photo Gallery",
+  "metaTitle": "Ring-tailed Lemur Photo Gallery",
+  "metaDescription": "Browse a ring-tailed lemur photo gallery with wildlife photos.",
+  "intro": "Explore ring-tailed lemur photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "ring-tailed-lemur-hero",
+    "ring-tailed-lemur-habitat",
+    "ring-tailed-lemur-diet",
+    "ring-tailed-lemur-baby",
+    "ring-tailed-lemur-family",
+    "ring-tailed-lemur-range",
+    "ring-tailed-lemur-size",
+    "ring-tailed-lemur-closeup",
+    "ring-tailed-lemur-fun-fact"
+  ],
+  "updatedAt": "2026-06-28T09:42:11.529Z"
+}

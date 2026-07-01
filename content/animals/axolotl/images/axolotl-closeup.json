@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-closeup",
+  "slug": "axolotl-closeup",
+  "animalSlug": "axolotl",
+  "fileName": "axolotl-closeup-01-1200.webp",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "updatedAt": "2026-06-26T19:18:05.309Z",
+  "src": "/images/animals/axolotl/web/axolotl-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1079,
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-closeup-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-closeup-01-1200.webp"
+  },
+  "alt": "Close-up of an axolotl showing feathery external gills and a gentle smile",
+  "caption": "External gills give axolotls a permanent smile and let them breathe underwater.",
+  "attributionText": "Photo by Stan Shebs via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_1.jpg\">Stan Shebs</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_1.jpg",
+    "creatorName": "Stan Shebs",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:18:05.309Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Mexico",
+  "acquisitionNotes": "Distinct close-up gallery image — unique from hero and range photos. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Ambystoma_mexicanum_1.jpg"
+}

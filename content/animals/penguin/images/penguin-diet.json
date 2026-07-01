@@ -2,8 +2,8 @@
   "id": "penguin-diet",
   "animalSlug": "penguin",
   "slug": "penguin-diet",
-  "fileName": "Emperor-feeding hg.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Emperor-feeding_hg.jpg",
+  "fileName": "penguin-diet-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-diet-01-1200.webp",
   "width": 1024,
   "height": 1365,
   "alt": "Emperor penguin feeding chick with regurgitated food",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Antarctica",
-  "acquisitionNotes": "Manually curated penguin diet image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated penguin diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/02/Emperor-feeding_hg.jpg",
+  "updatedAt": "2026-06-25T15:06:39.831Z",
   "attributionText": "Photo by Hannes Grobe/AWI via Wikimedia Commons, CC BY 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor-feeding_hg.jpg\">Hannes Grobe/AWI</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:39.831Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-diet-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-diet-01-1200.webp"
   }
 }

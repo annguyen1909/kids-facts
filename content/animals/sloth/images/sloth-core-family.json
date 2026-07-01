@@ -2,10 +2,10 @@
   "id": "sloth-core-family",
   "animalSlug": "sloth",
   "slug": "sloth-core-family",
-  "fileName": "Bradypus variegatus Costa Rica 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bradypus_variegatus_Costa_Rica_01.jpg",
-  "width": 2048,
-  "height": 1365,
+  "fileName": "sloth-core-family-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Three-toed sloth resting among rainforest leaves",
   "caption": "Algae sometimes grows in sloth fur, helping them blend in with green leaves.",
   "attributionText": "Photo by Ken-ichi Ueda via Wikimedia Commons, CC BY 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:24.679Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Costa Rica",
-  "acquisitionNotes": "Core article image curated separately from the sloth gallery set.",
-  "updatedAt": "2026-06-24T09:30:11.989Z"
+  "acquisitionNotes": "Core article image curated separately from the sloth gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9b/Bradypus_variegatus_Costa_Rica_01.jpg",
+  "updatedAt": "2026-06-25T15:11:24.679Z",
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-core-family-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-core-family-01-1200.webp"
+  }
 }

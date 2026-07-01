@@ -2,23 +2,23 @@
   "id": "zebra-hero",
   "animalSlug": "zebra",
   "slug": "zebra-hero",
-  "fileName": "Equus quagga (Namutoni, 2012).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Equus_quagga_%28Namutoni%2C_2012%29.jpg",
-  "width": 3778,
-  "height": 2519,
+  "fileName": "zebra-hero-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Plains zebra walking across open grassland",
   "caption": "Plains zebras are strong runners that live in open African grasslands.",
   "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus_quagga_(Namutoni%2C_2012).jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Equus_quagga_(Namutoni,_2012).jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_(Namutoni%2C_2012).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_(Namutoni,_2012).jpg",
     "creatorName": "Yathin S Krishnappa",
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:19.755Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Etosha National Park, Namibia",
-  "acquisitionNotes": "Manually curated zebra hero image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z"
+  "acquisitionNotes": "Manually curated zebra hero image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a4/Equus_quagga_%28Namutoni%2C_2012%29.jpg",
+  "updatedAt": "2026-06-25T15:15:19.755Z",
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-hero-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-hero-01-1200.webp"
+  }
 }

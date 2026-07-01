@@ -2,10 +2,10 @@
   "id": "chimpanzee-core-diet",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-core-diet",
-  "fileName": "Young chimpanzee eating - DPLA - 92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
-  "width": 3500,
-  "height": 2407,
+  "fileName": "chimpanzee-core-diet-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 825,
   "alt": "Young chimpanzee eating fruit in a tree",
   "caption": "Fruit makes up much of the diet, especially when trees are in season.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg",
+  "updatedAt": "2026-06-25T14:50:30.838Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Young_chimpanzee_eating_-_DPLA_-_92d49cd00c8cc1954f11ef9bdb754d2c.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:30.838Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-core-diet-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-core-diet-01-1200.webp"
   }
 }

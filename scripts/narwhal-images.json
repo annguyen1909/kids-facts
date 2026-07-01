@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Нарвал в российской Арктике.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Narwhal in the wild",
+    "caption": "The Narwhal is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Pod Monodon monoceros.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Narwhal navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Monodon monoceros NOAA.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Narwhal finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Narwhal.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Monodon monoceros pod.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Narwhal showing early development",
+    "caption": "Baby Narwhals must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:EB1911 Cetacea - Fig. 8.—Upper surface of the Skull of male Narwhal (Monodon monoceros).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Narwhals interacting with each other",
+    "caption": "While often solitary, some Narwhals interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Narwhal tail above surface.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Narwhal traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Monodon monoceros range in ak.png",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Narwhal",
+    "caption": "The size of a Narwhal can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Нарвал в Арктике.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Narwhal",
+    "caption": "A close-up view reveals the intricate details of a Narwhal's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Monodon monoceros (cranio Narvalo, Narwhal skull), museo di Bologna.JPG",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Narwhal showing a unique behavior or adaptation",
+    "caption": "Did you know that the Narwhal has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:FMIB 34111 Monodon monoceros Linne Narwhal.jpeg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Narwhal navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Horn of the narwhal (Monodon monoceros), or horn of the unic Wellcome V0018439.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Narwhal finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Narwhal.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Gesner Narwhal sea unicorn.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Narwhals interacting with each other",
+    "caption": "While often solitary, some Narwhals interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Em - Monodon monoceros - 5.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Narwhal showing early development",
+    "caption": "Baby Narwhals must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Em - Monodon monoceros - 4.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Narwhal traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

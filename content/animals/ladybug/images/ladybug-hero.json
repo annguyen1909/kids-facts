@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-hero",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-hero",
+  "fileName": "ladybug-hero-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-hero-01-1200.webp",
+  "width": 1200,
+  "height": 761,
+  "alt": "Close-up of a seven-spotted ladybug with bright red wing covers and black spots",
+  "caption": "Ladybugs are beetles known for their shiny red dome-shaped bodies and black spots.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Japan",
+  "attributionText": "Photo by Trachemys via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Seven-spotted_ladybug_(Coccinella_septempunctata).jpg\">Trachemys</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seven-spotted_ladybug_(Coccinella_septempunctata).jpg",
+    "creatorName": "Trachemys",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:32.944Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Seven-spotted_ladybug_%28Coccinella_septempunctata%29.jpg",
+  "updatedAt": "2026-06-25T15:00:32.944Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-hero-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-hero-01-1200.webp"
+  }
+}

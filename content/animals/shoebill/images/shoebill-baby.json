@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-baby",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-baby",
+  "fileName": "shoebill-baby-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1807,
+  "alt": "Young juvenile shoebill showing early plumage development",
+  "caption": "Shoebill chicks have downy feathers and grow rapidly, dependent on their parents for food.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Weltvogelpark Walsrode, Germany",
+  "acquisitionNotes": "Manually curated juvenile shoebill image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/74/Balaeniceps_rex_-_Weltvogelpark_Walsrode_2010-09-18.jpg",
+  "updatedAt": "2026-06-29T07:21:57.054Z",
+  "attributionText": "Photo by Olaf Oliviero Riemer via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-_Weltvogelpark_Walsrode_2010-09-18.jpg\">Olaf Oliviero Riemer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-_Weltvogelpark_Walsrode_2010-09-18.jpg",
+    "creatorName": "Olaf Oliviero Riemer",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:21:57.054Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-baby-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-baby-01-1200.webp"
+  }
+}

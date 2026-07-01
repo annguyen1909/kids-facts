@@ -2,10 +2,10 @@
   "id": "great-white-shark-habitat",
   "animalSlug": "great-white-shark",
   "slug": "great-white-shark-habitat",
-  "fileName": "Guadalupe Island Great White Shark Underwater.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guadalupe_Island_Great_White_Shark_Underwater.jpg",
-  "width": 4641,
-  "height": 3121,
+  "fileName": "great-white-shark-habitat-01-1200.webp",
+  "src": "/images/animals/great-white-shark/web/great-white-shark-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 807,
   "alt": "Great white shark gliding through clear blue ocean water",
   "caption": "Great white sharks patrol coastal seas and offshore waters in many parts of the world.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Guadalupe Island, Mexico",
-  "acquisitionNotes": "Manually curated great white shark habitat image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "acquisitionNotes": "Manually curated great white shark habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6c/Guadalupe_Island_Great_White_Shark_Underwater.jpg",
+  "updatedAt": "2026-06-25T14:56:48.348Z",
   "attributionText": "Photo by Sharkcrew via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Guadalupe_Island_Great_White_Shark_Underwater.jpg\">Sharkcrew</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.764Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:48.348Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/great-white-shark/web/great-white-shark-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/great-white-shark/thumbnails/great-white-shark-habitat-01-400.webp",
+    "original": "/images/animals/great-white-shark/web/great-white-shark-habitat-01-1200.webp"
   }
 }

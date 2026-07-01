@@ -2,10 +2,10 @@
   "id": "platypus-fun-fact",
   "animalSlug": "platypus",
   "slug": "platypus-fun-fact",
-  "fileName": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 5.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_5.jpg",
-  "width": 4455,
-  "height": 2970,
+  "fileName": "platypus-fun-fact-01-1200.webp",
+  "src": "/images/animals/platypus/web/platypus-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Platypus swimming with bill above the water",
   "caption": "Male platypuses have venomous spurs on their hind legs used during fights.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Scottsdale, Tasmania, Australia",
-  "acquisitionNotes": "Manually curated platypus fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "acquisitionNotes": "Manually curated platypus fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/18/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_5.jpg",
+  "updatedAt": "2026-06-25T15:07:32.324Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale_5.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:06.111Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:32.324Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/platypus/web/platypus-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/platypus/thumbnails/platypus-fun-fact-01-400.webp",
+    "original": "/images/animals/platypus/web/platypus-fun-fact-01-1200.webp"
   }
 }

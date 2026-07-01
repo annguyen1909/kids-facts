@@ -1,0 +1,22 @@
+{
+  "id": "manta-ray-gallery-main",
+  "animalSlug": "manta-ray",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Manta Ray Photo Gallery",
+  "metaTitle": "Manta Ray Photo Gallery",
+  "metaDescription": "Browse a manta-ray photo gallery with wildlife photos.",
+  "intro": "Explore manta-ray photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "manta-ray-hero",
+    "manta-ray-habitat",
+    "manta-ray-diet",
+    "manta-ray-baby",
+    "manta-ray-family",
+    "manta-ray-range",
+    "manta-ray-size",
+    "manta-ray-closeup",
+    "manta-ray-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

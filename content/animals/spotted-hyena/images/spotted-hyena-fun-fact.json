@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-fun-fact",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-fun-fact",
+  "fileName": "spotted-hyena-fun-fact-01-1200.webp",
+  "alt": "Group of spotted hyenas resting together in Ngorongoro, Tanzania",
+  "caption": "Spotted hyenas 'laugh' with giggle-like calls that share excitement across the clan.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Ngorongoro Conservation Area, Tanzania",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ngorongoro_Conservation_Area_02_-_Spotted_hyenas_(Crocuta_crocuta).jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ngorongoro_Conservation_Area_02_-_Spotted_hyenas_(Crocuta_crocuta).jpg",
+    "creatorName": "Thomas Fuhrmann",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:20.134Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/df/Ngorongoro_Conservation_Area_02_-_Spotted_hyenas_%28Crocuta_crocuta%29.jpg",
+  "updatedAt": "2026-06-28T09:46:20.134Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-fun-fact-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-fun-fact-01-1200.webp"
+  }
+}

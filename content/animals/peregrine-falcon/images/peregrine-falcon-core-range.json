@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-core-range",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-core-range",
+  "fileName": "peregrine-falcon-core-range-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "A peregrine falcon gliding effortlessly in search of prey",
+  "caption": "Their long-distance migrations are among the longest of any North American bird.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "New South Wales, Australia",
+  "attributionText": "Photo by Kytabu via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_in_flight,_Cape_Baily,_Kamay_Botany_Bay_NSW_Jun_2022.jpg\">Kytabu</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_in_flight,_Cape_Baily,_Kamay_Botany_Bay_NSW_Jun_2022.jpg",
+    "creatorName": "Kytabu",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:03.794Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5e/Peregrine_falcon_%28Falco_peregrinus%29_in_flight%2C_Cape_Baily%2C_Kamay_Botany_Bay_NSW_Jun_2022.jpg",
+  "updatedAt": "2026-06-25T15:07:03.794Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-core-range-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-range-01-1200.webp"
+  }
+}

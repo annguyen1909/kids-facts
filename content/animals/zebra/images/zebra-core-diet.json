@@ -2,10 +2,10 @@
   "id": "zebra-core-diet",
   "animalSlug": "zebra",
   "slug": "zebra-core-diet",
-  "fileName": "Day 29 Plains Zebra (Equus quagga) grazing ... (53579611536).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Day_29_Plains_Zebra_%28Equus_quagga%29_grazing_..._%2853579611536%29.jpg",
-  "width": 3648,
-  "height": 5136,
+  "fileName": "zebra-core-diet-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1689,
   "alt": "Zebra tearing mouthfuls of grass from the ground",
   "caption": "Zebras use strong front teeth to crop tough grass close to the ground.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African grassland",
-  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Day_29_Plains_Zebra_%28Equus_quagga%29_grazing_..._%2853579611536%29.jpg",
+  "updatedAt": "2026-06-25T15:15:11.807Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Day_29_Plains_Zebra_(Equus_quagga)_grazing_..._(53579611536).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:11.807Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-core-diet-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-core-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-closeup",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-closeup",
+  "fileName": "spotted-hyena-closeup-01-1200.webp",
+  "alt": "Close-up of a spotted hyena's face, rounded ears, and eyes",
+  "caption": "Powerful jaws and big teeth let hyenas crush bones that other predators leave behind.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Africa",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 795,
+  "attributionText": "Photo by Kongkham6211 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Portrait_of_spotted_hyena.jpg\">Kongkham6211</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_spotted_hyena.jpg",
+    "creatorName": "Kongkham6211",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:16.636Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/73/Portrait_of_spotted_hyena.jpg",
+  "updatedAt": "2026-06-28T09:46:16.636Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-closeup-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-closeup-01-1200.webp"
+  }
+}

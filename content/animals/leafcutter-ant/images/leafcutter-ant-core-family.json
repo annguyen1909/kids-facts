@@ -1,0 +1,42 @@
+{
+  "id": "leafcutter-ant-core-family",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-core-family",
+  "fileName": "leafcutter-ant-core-family-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 844,
+  "alt": "Leafcutter ants working together along a forest trail",
+  "caption": "Leafcutter ants live in huge colonies where thousands of workers cooperate.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Central America",
+  "attributionText": "Photo by Pjt56 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atta_cephalotes-pjt.jpg\">Pjt56</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atta_cephalotes-pjt.jpg",
+    "creatorName": "Pjt56",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:40.551Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article family image — unique from gallery family image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5f/Atta_cephalotes-pjt.jpg",
+  "updatedAt": "2026-06-25T15:00:40.551Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6782922753).jpg",
+  "creatorName": "Bernard DUPONT from FRANCE",
+  "licenseName": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-core-family-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-core-family-01-1200.webp"
+  }
+}

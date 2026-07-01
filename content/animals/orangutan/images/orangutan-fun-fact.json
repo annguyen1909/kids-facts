@@ -2,10 +2,10 @@
   "id": "orangutan-fun-fact",
   "animalSlug": "orangutan",
   "slug": "orangutan-fun-fact",
-  "fileName": "Bornean Orangutan at Night-time Nest (15026373952).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bornean_Orangutan_at_Night-time_Nest_%2815026373952%29.jpg",
-  "width": 2048,
-  "height": 1536,
+  "fileName": "orangutan-fun-fact-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Orangutan resting in a leafy nest high in the trees",
   "caption": "Orangutans build fresh leafy nests in trees to sleep in almost every night.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Manually curated orangutan fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Manually curated orangutan fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/56/Bornean_Orangutan_at_Night-time_Nest_%2815026373952%29.jpg",
+  "updatedAt": "2026-06-25T15:04:21.604Z",
   "attributionText": "Photo by Mike Prince from Bangalore, India via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_at_Night-time_Nest_(15026373952).jpg\">Mike Prince from Bangalore, India</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:21.604Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-fun-fact-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-fun-fact-01-1200.webp"
   }
 }

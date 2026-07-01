@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-closeup",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-closeup",
+  "fileName": "superb-bird-of-paradise-closeup-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 448,
+  "alt": "Striking close-up comparison of the distinct eye spots and reflective breast shields during display",
+  "caption": "During display, specialized light-absorbing black feathers frame a brilliant, highly reflective neon breast shield and false eye spots.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Research comparison display",
+  "acquisitionNotes": "Invaluable scientific close-up of optical feather physics and display mechanics. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Cape_presentation_display_of_superb_birds-of-paradise.jpg",
+  "updatedAt": "2026-06-29T12:03:57.722Z",
+  "attributionText": "Photo by (A) Edwin Scholes / (B) Tim Laman via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cape_presentation_display_of_superb_birds-of-paradise.jpg\">(A) Edwin Scholes / (B) Tim Laman</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_presentation_display_of_superb_birds-of-paradise.jpg",
+    "creatorName": "(A) Edwin Scholes / (B) Tim Laman",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:03:57.722Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-closeup-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-closeup-01-1200.webp"
+  }
+}

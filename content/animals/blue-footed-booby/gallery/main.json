@@ -1,0 +1,22 @@
+{
+  "id": "blue-footed-booby-gallery-main",
+  "animalSlug": "blue-footed-booby",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Blue Footed Booby Photo Gallery",
+  "metaTitle": "Blue Footed Booby Photo Gallery",
+  "metaDescription": "Browse a blue footed booby photo gallery with wildlife photos.",
+  "intro": "Explore blue footed booby photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "blue-footed-booby-hero",
+    "blue-footed-booby-habitat",
+    "blue-footed-booby-diet",
+    "blue-footed-booby-baby",
+    "blue-footed-booby-family",
+    "blue-footed-booby-range",
+    "blue-footed-booby-size",
+    "blue-footed-booby-closeup",
+    "blue-footed-booby-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T07:15:57.165Z"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "animal-leafcutter-ant",
+  "slug": "leafcutter-ant",
+  "name": "Leafcutter Ant",
+  "commonNames": [
+    "Leafcutter Ant",
+    "Hairy-headed Leafcutter Ant"
+  ],
+  "scientificName": "Atta cephalotes",
+  "summary": "The leafcutter ant is a fascinating insect famous for its farming skills. They cut leaves from trees and carry them back to their underground nests to grow a special fungus, which is the sole food source for their massive colonies.",
+  "heroTitle": "Leafcutter Ant Facts",
+  "metaTitle": "Leafcutter Ant Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Leafcutter ant facts for kids with photos, tropical habitat, diet, behavior, and farming secrets on one easy-to-read page.",
+  "searchIntents": [
+    "leafcutter ant facts",
+    "what do leafcutter ants eat",
+    "where do leafcutter ants live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hymenoptera",
+    "family": "Formicidae",
+    "genus": "Atta",
+    "species": "A. cephalotes"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Mexico",
+    "Costa Rica",
+    "Colombia",
+    "Brazil",
+    "Ecuador",
+    "Peru",
+    "Panama"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "savanna"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "Special fungus grown on leaves"
+  ],
+  "lifespan": {
+    "wild": "2 to 3 years (workers)"
+  },
+  "size": {
+    "lengthMin": "2 mm",
+    "lengthMax": "24 mm"
+  },
+  "weight": {
+    "min": "5 mg",
+    "max": "60 mg"
+  },
+  "speed": "Around 0.2 mph (0.3 km/h)",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "leaf cutting",
+    "fungus farming",
+    "caste labor division",
+    "underground nest building",
+    "trail pheromone marking"
+  ],
+  "adaptations": [
+    "powerful leaf-cutting jaws",
+    "ability to carry 50 times their weight",
+    "special pockets to carry starter fungus",
+    "vibration communication"
+  ],
+  "predators": [
+    "Anteaters",
+    "Birds",
+    "Lizards",
+    "Armadillos",
+    "Army ants"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "3 to 4 weeks",
+    "offspringCount": "Thousands of eggs daily"
+  },
+  "funFacts": [
+    "Leafcutter ants are the world's first farmers, growing their own fungus crops millions of years before humans existed!",
+    "A single leafcutter ant can carry a piece of leaf that is 50 times heavier than its own body.",
+    "Their massive underground colonies can contain up to 5 million ants and span over 30 feet wide.",
+    "The colony is divided into different sizes (castes), including tiny gardeners, leaf cutters, and giant soldiers.",
+    "When a new queen leaves to start a new nest, she carries a tiny bit of the mother colony's fungus in a special pocket.",
+    "They do not eat the leaves they cut; they use them as compost to feed and grow their underground fungus gardens."
+  ],
+  "faq": [
+    {
+      "question": "What is a leafcutter ant?",
+      "answer": "A leafcutter ant is a species of ant famous for cutting pieces of leaves and carrying them back to its nest. They are social insects that live in highly organized colonies."
+    },
+    {
+      "question": "Do leafcutter ants eat leaves?",
+      "answer": "No, they do not eat the leaves. Instead, they chew the leaves into a paste and use it to grow a special type of fungus, which is the only food the colony eats."
+    },
+    {
+      "question": "How much weight can a leafcutter ant carry?",
+      "answer": "A leafcutter ant can carry a leaf piece that is up to 50 times its own body weight. This is like a human carrying a car on their back!"
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "leafcutter-ant-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

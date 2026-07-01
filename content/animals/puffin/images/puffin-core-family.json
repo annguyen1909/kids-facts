@@ -1,0 +1,38 @@
+{
+  "id": "puffin-core-family",
+  "animalSlug": "puffin",
+  "slug": "puffin-core-family",
+  "fileName": "puffin-core-family-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Atlantic puffin flying with several fish held in its bill",
+  "caption": "Adult puffins can carry several fish at once back to nest burrows for their chicks.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:027_Atlantic_puffin_in_flight_with_mouth_full_of_fishes_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:027_Atlantic_puffin_in_flight_with_mouth_full_of_fishes_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:38.542Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/23/027_Atlantic_puffin_in_flight_with_mouth_full_of_fishes_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:08:38.542Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-core-family-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-core-family-01-1200.webp"
+  }
+}

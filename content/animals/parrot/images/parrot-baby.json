@@ -2,8 +2,8 @@
   "id": "parrot-baby",
   "animalSlug": "parrot",
   "slug": "parrot-baby",
-  "fileName": "Scarlet Macaw (Ara macao) -nest -Henry Doorly Zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Scarlet_Macaw_%28Ara_macao%29_-nest_-Henry_Doorly_Zoo.jpg",
+  "fileName": "parrot-baby-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-baby-01-1200.webp",
   "width": 800,
   "height": 533,
   "alt": "Scarlet macaw at a nest box",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:46.053Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Omaha, Nebraska",
-  "acquisitionNotes": "Manually curated macaw nest image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:09.537Z"
+  "acquisitionNotes": "Manually curated macaw nest image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Scarlet_Macaw_%28Ara_macao%29_-nest_-Henry_Doorly_Zoo.jpg",
+  "updatedAt": "2026-06-25T15:05:46.053Z",
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-baby-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-baby-01-1200.webp"
+  }
 }

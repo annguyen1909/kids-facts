@@ -1,0 +1,38 @@
+{
+  "id": "electric-eel-core-habitat",
+  "animalSlug": "electric-eel",
+  "slug": "electric-eel-core-habitat",
+  "fileName": "electric-eel-core-habitat-01-1200.webp",
+  "src": "/images/animals/electric-eel/web/electric-eel-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "A Electric Eel navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Oleksandr (Alex) Zakletsky via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_in_Gdynia_Oceanarium.jpg\">Oleksandr (Alex) Zakletsky</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_in_Gdynia_Oceanarium.jpg",
+    "creatorName": "Oleksandr (Alex) Zakletsky",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:19:07.082Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified electric-eel image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Electrophorus_electricus_in_Gdynia_Oceanarium.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Electrophorus_electricus_in_Gdynia_Oceanarium.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Electrophorus_electricus_in_Gdynia_Oceanarium.jpg",
+  "updatedAt": "2026-06-26T19:19:07.082Z",
+  "srcSet": {
+    "web1200": "/images/animals/electric-eel/web/electric-eel-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/electric-eel/thumbnails/electric-eel-core-habitat-01-400.webp",
+    "original": "/images/animals/electric-eel/web/electric-eel-core-habitat-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "electric-eel-family",
+  "animalSlug": "electric-eel",
+  "slug": "electric-eel-family",
+  "fileName": "electric-eel-family-01-1200.webp",
+  "src": "/images/animals/electric-eel/web/electric-eel-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A group of Electric Eels interacting with each other",
+  "caption": "While often solitary, some Electric Eels interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Steven G. Johnson via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Electric-eel.jpg\">Steven G. Johnson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electric-eel.jpg",
+    "creatorName": "Steven G. Johnson",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:20:02.025Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified electric-eel image for family. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8f/Electric-eel.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8f/Electric-eel.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8f/Electric-eel.jpg",
+  "updatedAt": "2026-06-26T19:20:02.025Z",
+  "srcSet": {
+    "web1200": "/images/animals/electric-eel/web/electric-eel-family-01-1200.webp",
+    "thumbnail400": "/images/animals/electric-eel/thumbnails/electric-eel-family-01-400.webp",
+    "original": "/images/animals/electric-eel/web/electric-eel-family-01-1200.webp"
+  }
+}

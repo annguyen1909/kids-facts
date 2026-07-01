@@ -1,0 +1,38 @@
+{
+  "id": "cicada-hero",
+  "animalSlug": "cicada",
+  "slug": "cicada-hero",
+  "fileName": "cicada-hero-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-hero-01-1200.webp",
+  "width": 640,
+  "height": 432,
+  "alt": "A beautiful portrait of a Cicada in the wild",
+  "caption": "The Cicada is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Unknown creator via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim.jpg\">Unknown creator</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim.jpg",
+    "creatorName": "Unknown creator",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:51:12.821Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for hero. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/43/Magicicada_septendecim.jpg",
+  "updatedAt": "2026-06-25T14:51:12.821Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-hero-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-hero-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-habitat",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-habitat",
+  "fileName": "luna-moth-habitat-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 843,
+  "alt": "A Luna Moth navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by No machine-readable author provided. Kugamazog~commonswiki assumed (based on copyright claims). via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Actias_luna_female_sjh.JPG\">No machine-readable author provided. Kugamazog~commonswiki assumed (based on copyright claims).</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Actias_luna_female_sjh.JPG",
+    "creatorName": "No machine-readable author provided. Kugamazog~commonswiki assumed (based on copyright claims).",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:21.248Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e6/Actias_luna_female_sjh.JPG",
+  "updatedAt": "2026-06-25T15:02:21.248Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-habitat-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-habitat-01-1200.webp"
+  }
+}

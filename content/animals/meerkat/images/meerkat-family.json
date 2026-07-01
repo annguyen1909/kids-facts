@@ -2,23 +2,23 @@
   "id": "meerkat-family",
   "animalSlug": "meerkat",
   "slug": "meerkat-family",
-  "fileName": "Suricatos (Suricata suricatta), parque nacional Makgadikgadi Pans, Botsuana, 2018-07-30, DD 29.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_29.jpg",
-  "width": 6005,
-  "height": 4233,
+  "fileName": "meerkat-family-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-family-01-1200.webp",
+  "width": 1200,
+  "height": 846,
   "alt": "Group of meerkats together in Botswana habitat",
   "caption": "Meerkats live in groups called mobs or gangs that dig burrows together.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta)%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_29.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_29.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta)%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_29.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_29.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:00.056Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Makgadikgadi Pans, Botswana",
-  "acquisitionNotes": "Manually curated meerkat group image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Manually curated meerkat group image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Suricatos_%28Suricata_suricatta%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_29.jpg",
+  "updatedAt": "2026-06-25T15:03:00.056Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-family-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-family-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-family-01-1200.webp"
+  }
 }

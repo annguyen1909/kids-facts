@@ -2,10 +2,10 @@
   "id": "penguin-size",
   "animalSlug": "penguin",
   "slug": "penguin-size",
-  "fileName": "King penguin Aptenodytes patagonicus-4932.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/King_penguin_Aptenodytes_patagonicus-4932.jpg",
-  "width": 4162,
-  "height": 2775,
+  "fileName": "penguin-size-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "King penguin standing upright showing full body height on grass",
   "caption": "King penguins stand about three feet tall, smaller than emperor penguins.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "South Georgia",
-  "acquisitionNotes": "Manually curated penguin size image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated penguin size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/King_penguin_Aptenodytes_patagonicus-4932.jpg",
+  "updatedAt": "2026-06-25T15:06:47.981Z",
   "attributionText": "Photo by Isiwal via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:King_penguin_Aptenodytes_patagonicus-4932.jpg\">Isiwal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:47.981Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-size-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-size-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-size-01-1200.webp"
   }
 }

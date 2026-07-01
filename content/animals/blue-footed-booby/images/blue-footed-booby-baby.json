@@ -1,0 +1,38 @@
+{
+  "id": "blue-footed-booby-baby",
+  "animalSlug": "blue-footed-booby",
+  "slug": "blue-footed-booby-baby",
+  "fileName": "blue-footed-booby-baby-01-1200.webp",
+  "src": "/images/animals/blue-footed-booby/web/blue-footed-booby-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Mother blue-footed booby tending to her fluffy white downy chick in a ground nest",
+  "caption": "Chicks hatch covered in fluffy white down and are fed regurgitated fish by both attentive parents.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Galapagos Islands",
+  "acquisitionNotes": "Manually curated juvenile blue-footed booby image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Blue-footed_booby_with_chick_and_egg.jpg",
+  "updatedAt": "2026-06-29T07:22:55.583Z",
+  "attributionText": "Photo by E bailey via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue-footed_booby_with_chick_and_egg.jpg\">E bailey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue-footed_booby_with_chick_and_egg.jpg",
+    "creatorName": "E bailey",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:55.583Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-footed-booby/web/blue-footed-booby-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-footed-booby/thumbnails/blue-footed-booby-baby-01-400.webp",
+    "original": "/images/animals/blue-footed-booby/web/blue-footed-booby-baby-01-1200.webp"
+  }
+}

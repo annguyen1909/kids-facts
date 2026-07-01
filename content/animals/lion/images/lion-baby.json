@@ -2,10 +2,10 @@
   "id": "lion-baby",
   "animalSlug": "lion",
   "slug": "lion-baby",
-  "fileName": "lion-cub-looking-forward.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lion_%28Panthera_leo%29_cub_Etosha.jpg/1920px-Lion_%28Panthera_leo%29_cub_Etosha.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-baby-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young lion cub in Etosha National Park",
   "caption": "Lion cubs stay close to adults while learning how to survive.",
   "credit": "Unsplash",
@@ -19,17 +19,23 @@
     "gallery"
   ],
   "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z",
-  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "updatedAt": "2026-06-25T15:01:18.323Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_cub_Etosha.jpg",
-    "creatorName": "Bernard DUPONT",
-    "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:18.323Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e5/Lion_%28Panthera_leo%29_cub_Etosha.jpg",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_cub_Etosha.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-baby-01-400.webp",
+    "original": "/images/animals/lion/web/lion-baby-01-1200.webp"
+  }
 }

@@ -2,12 +2,12 @@
   "id": "ostrich-baby",
   "animalSlug": "ostrich",
   "slug": "ostrich-baby",
-  "fileName": "Ostrich Chicks (Struthio camelus) (6526127407).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ostrich_Chicks_%28Struthio_camelus%29_%286526127407%29.jpg",
-  "width": 4320,
-  "height": 2592,
-  "alt": "Fluffy ostrich chicks standing together",
-  "caption": "Ostrich chicks hatch from large eggs and can run within days.",
+  "fileName": "ostrich-baby-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-baby-01-1200.webp",
+  "width": 1200,
+  "height": 709,
+  "alt": "Small ostrich chicks foraging together on open ground",
+  "caption": "Ostrich chicks hatch from large eggs and can walk and run within days.",
   "imageType": "baby",
   "galleryTopics": [
     "baby"
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Africa",
-  "acquisitionNotes": "Manually curated ostrich chick image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "location": "Southern Africa",
+  "acquisitionNotes": "Wild chick group — no farm or egg imagery. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3f/Southern_Ostriches_%28Struthio_camelus_australis%29_chicks_looking_for_food_..._%2845299063915%29.jpg",
+  "updatedAt": "2026-06-28T09:18:53.829Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_Chicks_(Struthio_camelus)_(6526127407).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Southern_Ostriches_(Struthio_camelus_australis)_chicks_looking_for_food_..._(45299063915).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_Chicks_(Struthio_camelus)_(6526127407).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Ostriches_(Struthio_camelus_australis)_chicks_looking_for_food_..._(45299063915).jpg",
     "creatorName": "Bernard DUPONT from FRANCE",
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:53.829Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-baby-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-baby-01-1200.webp"
   }
 }

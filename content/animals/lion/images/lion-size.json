@@ -2,10 +2,10 @@
   "id": "lion-size",
   "animalSlug": "lion",
   "slug": "lion-size",
-  "fileName": "lion-cub-adult-size-comparison.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg/1920px-Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-size-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-size-01-1200.webp",
+  "width": 1200,
+  "height": 795,
   "alt": "Adult male lion with a small cub showing size difference",
   "caption": "A cub beside an adult shows how much lions grow over time.",
   "credit": "Unsplash",
@@ -19,17 +19,23 @@
     "gallery"
   ],
   "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z",
-  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "updatedAt": "2026-06-25T15:01:45.960Z",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_and_cub_Etosha.jpg",
-    "creatorName": "Bernard DUPONT",
-    "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:45.960Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c0/Lion_%28Panthera_leo%29_male_and_cub_Etosha.jpg",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_and_cub_Etosha.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-size-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-size-01-400.webp",
+    "original": "/images/animals/lion/web/lion-size-01-1200.webp"
+  }
 }

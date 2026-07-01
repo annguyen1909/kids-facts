@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-size",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-size",
+  "fileName": "tokay-gecko-size-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-size-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Adult Tokay gecko showing its full length next to a wooden perch",
+  "caption": "Adult Tokay geckos are large lizards, reaching up to 12 to 15 inches (35 cm) in length.",
+  "attributionText": "Photo by Snakelover54321 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_Gecko_(Gekko_gecko)_2.jpg\">Snakelover54321</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_Gecko_(Gekko_gecko)_2.jpg",
+    "creatorName": "Snakelover54321",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:13.428Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified tokay gecko image for size. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f0/Tokay_Gecko_%28Gekko_gecko%29_2.jpg",
+  "updatedAt": "2026-06-25T15:13:13.428Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-size-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-size-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-size-01-1200.webp"
+  }
+}

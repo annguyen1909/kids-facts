@@ -2,10 +2,10 @@
   "id": "dolphin-core-family",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-core-family",
-  "fileName": "Bottlenose_Dolphins.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Bottlenose_Dolphins.jpg",
-  "width": 4440,
-  "height": 2784,
+  "fileName": "dolphin-core-family-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 752,
   "alt": "Atlantic bottlenose dolphins swimming together as a social pod",
   "caption": "Bottlenose dolphins travel in pods where they cooperate and communicate constantly.",
   "attributionText": "Photo by Rick Berg via Wikimedia Commons, CC BY-SA 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-07-01T12:33:38.385Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Pine Island Sound, Florida, USA",
-  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Bottlenose_Dolphins.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Bottlenose_Dolphins.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c1/Bottlenose_Dolphins.jpg",
+  "updatedAt": "2026-07-01T12:33:38.385Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-core-family-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-core-family-01-1200.webp"
+  }
 }

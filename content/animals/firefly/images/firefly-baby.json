@@ -1,0 +1,38 @@
+{
+  "id": "firefly-baby",
+  "animalSlug": "firefly",
+  "slug": "firefly-baby",
+  "fileName": "firefly-baby-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-baby-01-1200.webp",
+  "width": 716,
+  "height": 821,
+  "alt": "A young or baby Firefly showing early development",
+  "caption": "Baby Fireflys must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Jacy Lucier via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_1.jpg\">Jacy Lucier</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_1.jpg",
+    "creatorName": "Jacy Lucier",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:52:53.207Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Photinus_pyralis_1.jpg",
+  "updatedAt": "2026-06-25T14:52:53.207Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-baby-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-baby-01-1200.webp"
+  }
+}

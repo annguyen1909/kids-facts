@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Ambystoma mexicanum 1.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Axolotl in the wild",
+    "caption": "The Axolotl is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Ambystoma mexicanum in Ouwehands Dierenpark 01.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Axolotl navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Ambystoma mexicanum in Ouwehands Dierenpark 02.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Axolotl finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Axolotl.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Ambystoma mexicanum (6337857516).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Axolotl showing early development",
+    "caption": "Baby Axolotls must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Detalle a larva de axolote Ambystoma mexicanum dentro del huevo.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Axolotls interacting with each other",
+    "caption": "While often solitary, some Axolotls interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Cromatóforos de larva de axolote pardo (Ambystoma mexicanum).jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Axolotl traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:6 maja 06 r. ZOO 204.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Axolotl",
+    "caption": "The size of a Axolotl can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Axolotl Ambystoma mexicanum Aquarium Zoo Berlin, 2007.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Axolotl",
+    "caption": "A close-up view reveals the intricate details of a Axolotl's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Axolotl ambystoma mexicanum anfibio ASAG.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Axolotl showing a unique behavior or adaptation",
+    "caption": "Did you know that the Axolotl has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Ambystoma mexicanum at Vancouver Aquarium.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Axolotl navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Neurulación de huevo de axolote Ambystoma Mexicanum.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Axolotl finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Axolotl.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Karyotype of axolotl (Ambystoma mexicanum).png",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Axolotls interacting with each other",
+    "caption": "While often solitary, some Axolotls interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Axolotl ganz.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Axolotl showing early development",
+    "caption": "Baby Axolotls must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Puesta de huevos de axolote Ambystoma mexicanum.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Axolotl traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

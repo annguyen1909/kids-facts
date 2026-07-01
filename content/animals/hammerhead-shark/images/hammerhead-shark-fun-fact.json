@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-fun-fact",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-fun-fact",
+  "fileName": "hammerhead-shark-fun-fact-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-fun-fact-01-1200.webp",
+  "width": 640,
+  "height": 436,
+  "alt": "A Great Hammerhead Shark showing a unique behavior or adaptation",
+  "caption": "Did you know that the Great Hammerhead Shark has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by D Ross Robertson via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_upper_teeth.jpg\">D Ross Robertson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_upper_teeth.jpg",
+    "creatorName": "D Ross Robertson",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:21:03.657Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphyrna_mokarran_upper_teeth.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphyrna_mokarran_upper_teeth.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/Sphyrna_mokarran_upper_teeth.jpg",
+  "updatedAt": "2026-06-26T19:21:03.657Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-fun-fact-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-fun-fact-01-1200.webp"
+  }
+}

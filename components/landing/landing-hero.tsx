@@ -8,6 +8,7 @@ import { getAnimalImageForDisplay } from "@/lib/images";
 type LandingHeroProps = {
   animalCount: number;
   heroAnimal: AnimalRecord;
+  heroPanelAnimal: AnimalRecord;
   heroImage: ReturnType<typeof getAnimalImageForDisplay>;
   heroPanelImage: ReturnType<typeof getAnimalImageForDisplay>;
 };
@@ -22,115 +23,115 @@ const quickLinks = [
 export function LandingHero({
   animalCount,
   heroAnimal,
+  heroPanelAnimal,
   heroImage,
   heroPanelImage,
 }: LandingHeroProps) {
+  const heroStats = [
+    { label: "Animal pages", value: `${animalCount}+` },
+    { label: "Field photos", value: "Every profile" },
+    { label: "Trail routes", value: "Habitat / Diet" },
+  ] as const;
+
   return (
-    <section className="section-band landing-hero-band pb-6 pt-5 sm:pt-8">
-      <div className="section-shell">
-        <div className="landing-hero-grid">
-          <div className="landing-hero-panel">
-            <Image
-              src={heroPanelImage.src}
-              alt=""
-              fill
-              priority
-              unoptimized={heroPanelImage.unoptimized}
-              className="object-cover"
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              aria-hidden
-            />
-            <div className="landing-hero-panel__overlay" />
-            <div className="landing-hero-panel__content">
-              <p className="eyebrow eyebrow--dark">Digital encyclopedia</p>
-              <h1 className="display-title mt-4 max-w-3xl font-extrabold text-white">
-                Discover amazing animals, one page at a time
-              </h1>
-              <p className="mt-3 max-w-2xl text-lg leading-7 text-white/90">
-                Large wildlife photos and clear facts. Search for a species or browse from one page
-                to the next in a few clicks.
-              </p>
+    <section className="relative w-full overflow-hidden bg-black min-h-[85vh] flex items-center justify-center -mt-[4.5rem] lg:-mt-[5.5rem]">
+      {/* Immersive Background */}
+      <div className="absolute inset-0 z-0 parallax-bg -top-[15%] h-[115%]">
+        <Image
+          src={heroImage.src}
+          alt={heroImage.alt}
+          fill
+          priority
+          unoptimized={heroImage.unoptimized}
+          className="object-cover opacity-70"
+          sizes="100vw"
+        />
+        {/* Gradient Overlay for Text Legibility */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent" />
+      </div>
 
-              <form action="/animals" className="landing-hero-search mt-6">
-                <label htmlFor="landing-search" className="sr-only">
-                  Search animals
-                </label>
-                <Search className="h-5 w-5 shrink-0 text-white/80" aria-hidden />
-                <input
-                  id="landing-search"
-                  name="query"
-                  type="search"
-                  placeholder="Search lions, dolphins, whales…"
-                  className="landing-hero-search__input"
-                />
-                <button type="submit" className="landing-hero-search__button">
-                  Search
-                </button>
-              </form>
-
-              <div className="mt-5 flex flex-wrap gap-2">
-                {quickLinks.map((link) => (
-                  <Link key={link.href} href={link.href} className="landing-hero-chip">
-                    {link.label}
-                  </Link>
-                ))}
-              </div>
-
-              <div className="mt-6 flex flex-wrap gap-3">
-                <Link href="/animals">
-                  <Button size="lg">Explore animals</Button>
-                </Link>
-                <Link href={`/animals/${heroAnimal.core.slug}`}>
-                  <Button size="lg" variant="secondary">
-                    Read about {heroAnimal.core.name}
-                  </Button>
-                </Link>
-              </div>
-
-              <div className="landing-hero-stats mt-6">
-                {[
-                  { label: "Animal pages", value: `${animalCount}+` },
-                  { label: "Big photos", value: "Every page" },
-                  { label: "Learning paths", value: "Habitat · Diet · Gallery" },
-                ].map((item) => (
-                  <div key={item.label} className="landing-hero-stat">
-                    <p className="landing-hero-stat__label">{item.label}</p>
-                    <p className="landing-hero-stat__value">{item.value}</p>
-                  </div>
-                ))}
-              </div>
+      <div className="section-shell relative z-10 w-full flex flex-col lg:flex-row items-end justify-between gap-10 pb-16 pt-32 lg:pt-48">
+        {/* Left Side: Main Typography */}
+        <div className="flex-1 max-w-3xl">
+          <p className="eyebrow text-white/70 font-semibold uppercase tracking-widest text-sm mb-4">
+            Field Guide Expedition
+          </p>
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white leading-[1.1] font-serif">
+            Explore wildlife like a naturalist in the field
+          </h1>
+          <p className="mt-6 text-lg sm:text-xl leading-relaxed text-white/80 max-w-2xl font-light">
+            Photo-led animal profiles, quick taxonomy, and habitat trails for curious readers
+            moving from one discovery to the next.
+          </p>
+          
+          <form action="/animals" className="mt-8 relative max-w-md group">
+            <label htmlFor="landing-search" className="sr-only">
+              Search animals
+            </label>
+            <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none">
+              <Search className="h-5 w-5 text-white/60 transition-colors group-focus-within:text-white" aria-hidden />
             </div>
-          </div>
+            <input
+              id="landing-search"
+              name="query"
+              type="search"
+              placeholder="Search lions, dolphins, whales…"
+              className="w-full bg-white/10 backdrop-blur-md border border-white/20 text-white placeholder:text-white/50 rounded-full py-4 pl-12 pr-6 focus:outline-none focus:ring-2 focus:ring-[var(--forest)] focus:bg-white/15 transition-all font-serif italic text-lg"
+            />
+          </form>
 
-          <Link
-            href={`/animals/${heroAnimal.core.slug}`}
-            className="landing-featured-card group"
-          >
-            <div className="landing-featured-card__media">
-              <Image
-                src={heroImage.src}
-                alt={heroImage.alt}
+          <div className="mt-8 flex flex-wrap gap-4">
+            <Link href="/animals">
+              <Button size="lg" className="bg-[var(--forest)] text-white hover:bg-[var(--forest-deep)] border-none px-8 rounded-full h-12 text-base">
+                Explore animals
+              </Button>
+            </Link>
+            <Link href={`/animals/${heroAnimal.core.slug}`}>
+              <Button size="lg" variant="secondary" className="bg-white/5 backdrop-blur-sm border-white/20 text-white hover:bg-white/15 hover:text-white rounded-full h-12 text-base">
+                Read about {heroAnimal.core.name}
+              </Button>
+            </Link>
+          </div>
+        </div>
+
+        {/* Right Side: Glassmorphic Field Note */}
+        <aside 
+          className="w-full lg:w-[420px] shrink-0 bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-6 ambient-glow relative overflow-hidden group/card mt-12 lg:mt-0"
+          style={{ '--ambient-color': 'rgba(122, 168, 196, 0.4)' } as React.CSSProperties}
+        >
+          <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent opacity-50 pointer-events-none" />
+          <Link href={`/animals/${heroPanelAnimal.core.slug}`} className="relative block z-10">
+            <div className="flex items-center justify-between mb-5">
+              <span className="text-xs font-bold uppercase tracking-wider text-white/80">Featured Specimen</span>
+              <span className="h-2 w-2 rounded-full bg-[var(--forest)] animate-pulse" />
+            </div>
+            
+            <div className="relative aspect-[4/3] w-full rounded-2xl overflow-hidden mb-6 shadow-inner">
+               <Image
+                src={heroPanelImage.src}
+                alt={heroPanelImage.alt}
                 fill
                 priority
-                unoptimized={heroImage.unoptimized}
-                className="object-cover transition-transform duration-700 group-hover:scale-[1.03]"
-                sizes="(max-width: 1024px) 100vw, 45vw"
+                unoptimized={heroPanelImage.unoptimized}
+                className="object-cover transition-transform duration-1000 group-hover/card:scale-105"
+                sizes="(max-width: 1024px) 100vw, 420px"
               />
-              <div className="landing-featured-card__badge">Featured animal</div>
             </div>
-            <div className="landing-featured-card__body">
-              <h2 className="truncate text-2xl font-extrabold tracking-tight text-[var(--forest-deep)]">
-                {heroAnimal.core.name}
-              </h2>
-              <p className="text-slot-2 mt-2 text-base text-[var(--foreground)]/85">
-                {heroAnimal.core.summary}
-              </p>
-              <p className="landing-featured-card__link mt-3">
-                See photos, quick facts, and related pages →
-              </p>
-            </div>
+
+            <h2 className="text-3xl font-bold text-white font-serif">{heroPanelAnimal.core.name}</h2>
+            <p className="text-white/70 italic mt-1 text-sm">{heroPanelAnimal.core.scientificName}</p>
+            
+            <dl className="mt-6 space-y-3">
+              {heroStats.map((item) => (
+                <div key={item.label} className="flex items-center justify-between border-b border-white/10 pb-3 last:border-0 last:pb-0">
+                  <dt className="text-sm text-white/60">{item.label}</dt>
+                  <dd className="text-sm font-semibold text-white text-right">{item.value}</dd>
+                </div>
+              ))}
+            </dl>
           </Link>
-        </div>
+        </aside>
       </div>
     </section>
   );

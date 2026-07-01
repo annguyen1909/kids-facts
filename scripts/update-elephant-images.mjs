@@ -172,7 +172,7 @@ function buildRecord(slug, data) {
       licenseUrl: data.licenseUrl,
       requiresAttribution: data.licenseName !== "CC0" && data.licenseName !== "Public domain",
       downloadedAt: timestamp,
-      reviewedBy: "editor@kidsfacts.local",
+      reviewedBy: "editor@wildlifedb.local",
     },
     imageType: data.imageType,
     galleryTopics: data.galleryTopics,

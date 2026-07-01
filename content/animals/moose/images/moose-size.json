@@ -2,10 +2,10 @@
   "id": "moose-size",
   "animalSlug": "moose",
   "slug": "moose-size",
-  "fileName": "Eland - Elk - Moose - Alces alces 5.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eland_-_Elk_-_Moose_-_Alces_alces_5.jpg",
-  "width": 3896,
-  "height": 2830,
+  "fileName": "moose-size-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-size-01-1200.webp",
+  "width": 1200,
+  "height": 872,
   "alt": "Moose showing tall shoulder hump and long legs",
   "caption": "Adult moose can stand over 6 feet tall at the shoulder and weigh more than 1,000 pounds.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Europe",
-  "acquisitionNotes": "Manually curated moose size image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Manually curated moose size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Eland_-_Elk_-_Moose_-_Alces_alces_5.jpg",
+  "updatedAt": "2026-06-25T15:03:47.448Z",
   "attributionText": "Photo by Bouke ten Cate via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eland_-_Elk_-_Moose_-_Alces_alces_5.jpg\">Bouke ten Cate</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:47.448Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-size-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-size-01-400.webp",
+    "original": "/images/animals/moose/web/moose-size-01-1200.webp"
   }
 }

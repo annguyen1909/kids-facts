@@ -1,0 +1,136 @@
+{
+  "id": "animal-iguana",
+  "slug": "iguana",
+  "name": "Green Iguana",
+  "commonNames": [
+    "Green Iguana",
+    "American Iguana",
+    "Common Green Iguana"
+  ],
+  "scientificName": "Iguana iguana",
+  "summary": "The green iguana is a large, tree-dwelling lizard native to the tropical forests and savannas of Central and South America. Famous for its long tail, sharp claws, and the row of spikes running down its back, this green reptile is a herbivore that loves eating leaves and basking in the warm sun.",
+  "heroTitle": "Green Iguana Facts",
+  "metaTitle": "Green Iguana Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Green iguana facts for kids with photos, tropical tree habitat, leafy diet, behavior, adaptations, and life cycle on one easy-to-read page.",
+  "searchIntents": [
+    "green iguana facts",
+    "what do green iguanas eat",
+    "where do green iguanas live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Reptilia",
+    "order": "Squamata",
+    "family": "Iguanidae",
+    "genus": "Iguana",
+    "species": "I. iguana"
+  },
+  "classificationLabels": [
+    "reptile"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Colombia",
+    "United States",
+    "Mexico",
+    "Costa Rica",
+    "Brazil",
+    "Puerto Rico",
+    "Panama",
+    "Ecuador",
+    "French Guiana",
+    "Curaçao",
+    "Caribbean Netherlands",
+    "Belize"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "shrubland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "Leaves",
+    "Flowers",
+    "Fruit",
+    "Young shoots"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years"
+  },
+  "size": {
+    "lengthMin": "1.2 meters",
+    "lengthMax": "1.8 meters"
+  },
+  "weight": {
+    "min": "4 kg",
+    "max": "9 kg"
+  },
+  "speed": "Up to 21 mph (34 km/h) on land",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "basking in the sun",
+    "climbing in tall trees",
+    "swimming to escape predators",
+    "tail whipping for defense",
+    "head bobbing communication"
+  ],
+  "adaptations": [
+    "long strong tail for swimming and defense",
+    "sharp claws for gripping tree bark",
+    "spines along back for protection",
+    "third eye (parietal eye) to detect shadows",
+    "excellent eyesight and color vision"
+  ],
+  "predators": [
+    "Hawks",
+    "Eagles",
+    "Snakes",
+    "Crocodiles",
+    "Large wild cats"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "hatchling",
+    "gestationOrIncubation": "90 to 120 days",
+    "offspringCount": "20 to 70 eggs"
+  },
+  "funFacts": [
+    "Green iguanas are amazing swimmers and can dive underwater for up to 30 minutes to escape predators.",
+    "They have a special third eye on top of their head, called a parietal eye, which helps them sense shadows of flying birds overhead.",
+    "If a predator catches an iguana by its tail, the tail can break off cleanly, allowing the iguana to escape and grow a new tail later!",
+    "Green iguanas are excellent climbers and can survive a fall of up to 40 feet (12 meters) onto the ground without getting hurt.",
+    "Although they are called green iguanas, they can actually be blue, orange, brown, or even purple depending on where they live.",
+    "They are almost strictly herbivores, eating leaves, flowers, and fruit, and get all the water they need from their food."
+  ],
+  "faq": [
+    {
+      "question": "What is a green iguana?",
+      "answer": "A green iguana is a large, tree-dwelling reptile known for its long tail, spikes along its back, and bright green color."
+    },
+    {
+      "question": "Where do green iguanas live?",
+      "answer": "Green iguanas live in the warm tropical forests, rainforests, and savannas of Central and South America, spending most of their time in the treetops near water."
+    },
+    {
+      "question": "What do green iguanas eat?",
+      "answer": "Green iguanas are herbivores, meaning they eat plants. Their diet consists of leaves, flowers, fruits, and young plant shoots."
+    }
+  ],
+  "relatedAnimals": [
+    "chameleon",
+    "tokay-gecko",
+    "komodo-dragon"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "iguana-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

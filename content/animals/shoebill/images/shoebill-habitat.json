@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-habitat",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-habitat",
+  "fileName": "shoebill-habitat-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 980,
+  "alt": "Shoebill standing in dense marsh vegetation in East Africa",
+  "caption": "Shoebills live in extensive, dense freshwater swamps and marshes of tropical East Africa.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "East Africa",
+  "acquisitionNotes": "Manually curated shoebill habitat image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cd/Balaeniceps_rex_-East_Africa-8.jpg",
+  "updatedAt": "2026-06-29T07:22:06.175Z",
+  "attributionText": "Photo by Eric Inafuku via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-East_Africa-8.jpg\">Eric Inafuku</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_-East_Africa-8.jpg",
+    "creatorName": "Eric Inafuku",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:06.175Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-habitat-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-habitat-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "superb-bird-of-paradise-habitat",
+  "animalSlug": "superb-bird-of-paradise",
+  "slug": "superb-bird-of-paradise-habitat",
+  "fileName": "superb-bird-of-paradise-habitat-01-1200.webp",
+  "src": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A male superb bird-of-paradise perched elegantly in the montane rainforest of Papua New Guinea",
+  "caption": "They inhabit the lush, sloping montane rainforests and forest edges of New Guinea.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Papua New Guinea",
+  "acquisitionNotes": "Curated native habitat image showing natural perching environment. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Lophorina_superba_-Papua_New_Guinea-4.jpg",
+  "updatedAt": "2026-06-29T12:04:27.016Z",
+  "attributionText": "Photo by markaharper1 via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lophorina_superba_-Papua_New_Guinea-4.jpg\">markaharper1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lophorina_superba_-Papua_New_Guinea-4.jpg",
+    "creatorName": "markaharper1",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:04:27.016Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/superb-bird-of-paradise/thumbnails/superb-bird-of-paradise-habitat-01-400.webp",
+    "original": "/images/animals/superb-bird-of-paradise/web/superb-bird-of-paradise-habitat-01-1200.webp"
+  }
+}

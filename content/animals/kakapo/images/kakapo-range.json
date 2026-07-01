@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-range",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-range",
+  "fileName": "kakapo-range-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-range-01-1200.webp",
+  "width": 640,
+  "height": 480,
+  "alt": "Pura, a young kakapo exploring the protected terrain of Codfish Island",
+  "caption": "Today, surviving populations are heavily managed and restricted to predator-free offshore sanctuary islands.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Codfish Island",
+  "acquisitionNotes": "Curated range photo highlighting island sanctuary ecosystem. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6d/Strigops_habroptilus_1.jpg",
+  "updatedAt": "2026-06-29T11:55:58.670Z",
+  "attributionText": "Photo by Mnolf via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_1.jpg\">Mnolf</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_1.jpg",
+    "creatorName": "Mnolf",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:58.670Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-range-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-range-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-range-01-1200.webp"
+  }
+}

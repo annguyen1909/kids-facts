@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-core-habitat",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-core-habitat",
+  "fileName": "cassowary-core-habitat-01-1200.webp",
+  "alt": "A Cassowary navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1517,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Southern_Cassowary_(Casuarius_casuarius)_(9741540559).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_Cassowary_(Casuarius_casuarius)_(9741540559).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:58.012Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/56/Southern_Cassowary_%28Casuarius_casuarius%29_%289741540559%29.jpg",
+  "updatedAt": "2026-06-26T08:15:58.012Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-core-habitat-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-core-habitat-01-1200.webp"
+  }
+}

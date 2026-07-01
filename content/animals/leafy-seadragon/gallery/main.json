@@ -1,0 +1,22 @@
+{
+  "id": "leafy-seadragon-gallery-main",
+  "animalSlug": "leafy-seadragon",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Leafy Seadragon Photo Gallery",
+  "metaTitle": "Leafy Seadragon Photo Gallery",
+  "metaDescription": "Browse a leafy seadragon photo gallery with wildlife photos.",
+  "intro": "Explore leafy seadragon photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "leafy-seadragon-hero",
+    "leafy-seadragon-habitat",
+    "leafy-seadragon-diet",
+    "leafy-seadragon-baby",
+    "leafy-seadragon-family",
+    "leafy-seadragon-range",
+    "leafy-seadragon-size",
+    "leafy-seadragon-closeup",
+    "leafy-seadragon-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T07:15:57.401Z"
+}

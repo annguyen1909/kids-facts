@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-habitat",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-habitat",
+  "fileName": "archerfish-habitat-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "Banded archerfish navigating through submerged mangrove roots and aquatic flora",
+  "caption": "They inhabit mangrove estuaries, brackish swamps, and pristine jungle rivers surrounded by overhanging vegetation.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Brackish water exhibit",
+  "acquisitionNotes": "Breathtaking 4847x3236 habitat photograph demonstrating mangrove root perching behavior. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1f/Toxotes_jaculatrix_-_9313.jpg",
+  "updatedAt": "2026-06-29T11:54:56.269Z",
+  "attributionText": "Photo by Amada44 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9313.jpg\">Amada44</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_-_9313.jpg",
+    "creatorName": "Amada44",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:56.269Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-habitat-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-habitat-01-1200.webp"
+  }
+}

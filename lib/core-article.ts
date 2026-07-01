@@ -38,11 +38,22 @@ export function matchSectionConfig(title: string): SectionConfig {
   }
 
   if (
+    normalized.includes("color") ||
+    normalized.includes("colour") ||
+    normalized.includes("marking") ||
+    normalized.includes("appearance")
+  ) {
+    return { imageType: "closeup", coreRole: "closeup" };
+  }
+
+  if (
     normalized.includes("together") ||
     normalized.includes("pride") ||
     normalized.includes("families") ||
     normalized.includes("family") ||
     normalized.includes("herd") ||
+    normalized.includes("horde") ||
+    normalized.includes("social") ||
     normalized.includes("pods") ||
     normalized.includes("pod") ||
     normalized.includes("behave") ||

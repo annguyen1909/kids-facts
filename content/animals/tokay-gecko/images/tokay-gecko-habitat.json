@@ -1,0 +1,39 @@
+{
+  "id": "tokay-gecko-habitat",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-habitat",
+  "fileName": "tokay-gecko-habitat-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
+  "alt": "Tokay gecko climbing on tropical tree bark in the jungle",
+  "caption": "In the wild, Tokay geckos live in tropical rainforests across South and Southeast Asia.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Malaysia",
+  "acquisitionNotes": "Manually verified tokay gecko image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6c/Tokay_gecko_in_the_Perhentians.jpg",
+  "updatedAt": "2026-06-25T15:13:12.267Z",
+  "attributionText": "Photo by Jpatokal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_gecko_in_the_Perhentians.jpg\">Jpatokal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_gecko_in_the_Perhentians.jpg",
+    "creatorName": "Jpatokal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:12.267Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-habitat-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-habitat-01-1200.webp"
+  }
+}

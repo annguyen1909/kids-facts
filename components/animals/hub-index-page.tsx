@@ -45,17 +45,23 @@ export function HubIndexPage({
         eyebrow={label}
         title={title}
         intro={intro}
+        coverImage={
+          type === "habitats" 
+            ? "/images/animals/african-elephant/web/elephant-habitat-01-1200.webp"
+            : "/images/animals/snake/web/snake-diet-01-1200.webp"
+        }
       />
 
       <section className="section-band section-band--flush-top">
-        <div className="section-shell">
-          <div className="grid gap-2.5 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div className="section-shell max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pb-20">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 lg:gap-10 animate-on-scroll-fast mt-8">
             {clusters.map((cluster) => (
               <HubClusterCard
                 key={cluster.slug}
                 cluster={cluster}
                 type={type}
                 featuredAnimal={featuredByCluster.get(cluster.slug)}
+                variant="featured"
               />
             ))}
           </div>

@@ -2,10 +2,10 @@
   "id": "meerkat-core-family",
   "animalSlug": "meerkat",
   "slug": "meerkat-core-family",
-  "fileName": "Meerkat stare.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Meerkat_stare.jpg",
-  "width": 4029,
-  "height": 3022,
+  "fileName": "meerkat-core-family-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Meerkat standing upright on sentry duty",
   "caption": "Sentry meerkats whistle alarms when hawks or other predators approach.",
   "attributionText": "Photo by Francis C. Franklin via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:02:53.894Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Southern Africa",
-  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Core article image curated separately from the meerkat gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Meerkat_stare.jpg",
+  "updatedAt": "2026-06-25T15:02:53.894Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-core-family-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-core-family-01-1200.webp"
+  }
 }

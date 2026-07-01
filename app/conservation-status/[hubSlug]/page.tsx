@@ -4,6 +4,8 @@ import { HubPage } from "@/components/animals/hub-page";
 import { getAllHubs, resolveHubRoute } from "@/lib/content";
 import { buildHubMetadata } from "@/lib/metadata";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllHubs()
     .filter((hub) => hub.type === "conservation-status")

@@ -2,10 +2,10 @@
   "id": "platypus-core-baby",
   "animalSlug": "platypus",
   "slug": "platypus-core-baby",
-  "fileName": "Ornithorhynchus anatinus 326485230.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ornithorhynchus_anatinus_326485230.jpg",
-  "width": 2048,
-  "height": 1122,
+  "fileName": "platypus-core-baby-01-1200.webp",
+  "src": "/images/animals/platypus/web/platypus-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 657,
   "alt": "Young platypus in shallow river water",
   "caption": "Puggles nurse from milk patches on the mother's belly because platypuses have no teats.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Core article image curated separately from the platypus gallery set.",
-  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "acquisitionNotes": "Core article image curated separately from the platypus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f8/Ornithorhynchus_anatinus_326485230.jpg",
+  "updatedAt": "2026-06-25T15:07:14.304Z",
   "attributionText": "Photo by Wairambar Rainforest via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus_326485230.jpg\">Wairambar Rainforest</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:06.111Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:14.304Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/platypus/web/platypus-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/platypus/thumbnails/platypus-core-baby-01-400.webp",
+    "original": "/images/animals/platypus/web/platypus-core-baby-01-1200.webp"
   }
 }

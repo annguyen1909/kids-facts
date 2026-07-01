@@ -1,0 +1,38 @@
+{
+  "id": "swan-core-range",
+  "animalSlug": "swan",
+  "slug": "swan-core-range",
+  "fileName": "swan-core-range-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 801,
+  "alt": "A Mute Swan traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Feel free to use my photos, but please mention me as the author and if you want send me a message . or ( rufre@lenz-nenning.at ) via Wikimedia Commons, CC BY-SA 3.0 at",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cygnus_olor,_nests_with_eggs,_H%C3%B6ckerschwan_mit_Nest.JPG\">Feel free to use my photos, but please mention me as the author and if you want send me a message . or ( rufre@lenz-nenning.at )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/at/deed.en\">CC BY-SA 3.0 at</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cygnus_olor,_nests_with_eggs,_H%C3%B6ckerschwan_mit_Nest.JPG",
+    "creatorName": "Feel free to use my photos, but please mention me as the author and if you want send me a message . or ( rufre@lenz-nenning.at )",
+    "licenseName": "CC BY-SA 3.0 at",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:04.552Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/23/Cygnus_olor%2C_nests_with_eggs%2C_H%C3%B6ckerschwan_mit_Nest.JPG",
+  "updatedAt": "2026-06-25T15:12:04.552Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-core-range-01-400.webp",
+    "original": "/images/animals/swan/web/swan-core-range-01-1200.webp"
+  }
+}

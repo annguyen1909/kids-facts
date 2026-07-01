@@ -1,0 +1,38 @@
+{
+  "id": "leafcutter-ant-size",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-size",
+  "fileName": "leafcutter-ant-size-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-size-01-1200.webp",
+  "width": 1152,
+  "height": 2048,
+  "alt": "Winged leafcutter ant queen standing on a dry leaf",
+  "caption": "A queen leafcutter ant is much larger than the worker ants that gather leaves.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Court Harding via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atta_cephalotes_287873666.jpg\">Court Harding</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atta_cephalotes_287873666.jpg",
+    "creatorName": "Court Harding",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:01:00.907Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified leafcutter-ant image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Atta_cephalotes_287873666.jpg",
+  "updatedAt": "2026-06-25T15:01:00.907Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-size-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-size-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-size-01-1200.webp"
+  }
+}

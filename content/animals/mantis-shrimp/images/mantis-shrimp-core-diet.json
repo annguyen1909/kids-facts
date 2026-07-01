@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-core-diet",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-core-diet",
+  "fileName": "mantis-shrimp-core-diet-01-1200.webp",
+  "alt": "A Mantis Shrimp finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Mantis Shrimp.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "attributionText": "Photo by Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané) via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Squille_multicolore_(Odontodactylus_scyllarus)_(Ifremer_00619-73081_-_29065).jpg\">Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Squille_multicolore_(Odontodactylus_scyllarus)_(Ifremer_00619-73081_-_29065).jpg",
+    "creatorName": "Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:03.395Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Squille_multicolore_%28Odontodactylus_scyllarus%29_%28Ifremer_00619-73081_-_29065%29.jpg",
+  "updatedAt": "2026-06-26T08:17:03.395Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-core-diet-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-diet-01-1200.webp"
+  }
+}

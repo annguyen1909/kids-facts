@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-diet",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-diet",
+  "fileName": "kingfisher-diet-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Common Kingfisher finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Common Kingfisher.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Luca Casale via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg\">Luca Casale</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg",
+    "creatorName": "Luca Casale",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:28.127Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Alcedo_atthis_-_Riserve_naturali_e_aree_contigue_della_fascia_fluviale_del_Po.jpg",
+  "updatedAt": "2026-06-25T14:59:28.127Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-diet-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-diet-01-1200.webp"
+  }
+}

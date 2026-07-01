@@ -2,10 +2,10 @@
   "id": "platypus-core-range",
   "animalSlug": "platypus",
   "slug": "platypus-core-range",
-  "fileName": "Ornithorhynchus anatinus 159364023.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ornithorhynchus_anatinus_159364023.jpg",
-  "width": 2048,
-  "height": 975,
+  "fileName": "platypus-core-range-01-1200.webp",
+  "src": "/images/animals/platypus/web/platypus-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 571,
   "alt": "Platypus in an Australian freshwater stream",
   "caption": "Pollution, drought, and habitat damage threaten platypus populations in some rivers.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Core article image curated separately from the platypus gallery set.",
-  "updatedAt": "2026-06-24T09:30:06.111Z",
+  "acquisitionNotes": "Core article image curated separately from the platypus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fc/Ornithorhynchus_anatinus_159364023.jpg",
+  "updatedAt": "2026-06-25T15:07:17.141Z",
   "attributionText": "Photo by Tim via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ornithorhynchus_anatinus_159364023.jpg\">Tim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:06.111Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:17.141Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/platypus/web/platypus-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/platypus/thumbnails/platypus-core-range-01-400.webp",
+    "original": "/images/animals/platypus/web/platypus-core-range-01-1200.webp"
   }
 }

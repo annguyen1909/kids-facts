@@ -1,0 +1,38 @@
+{
+  "id": "leafcutter-ant-family",
+  "animalSlug": "leafcutter-ant",
+  "slug": "leafcutter-ant-family",
+  "fileName": "leafcutter-ant-family-01-1200.webp",
+  "src": "/images/animals/leafcutter-ant/web/leafcutter-ant-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A group of leafcutter ants carrying leaf pieces together",
+  "caption": "Leafcutter ant colonies can contain millions of workers, each carrying leaf pieces up to 50 times their own body weight.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6782922753).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leaf-cutter_Ant_(Atta_cephalotes)_(6782922753).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:44.421Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified leafcutter-ant image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Leaf-cutter_Ant_%28Atta_cephalotes%29_%286782922753%29.jpg",
+  "updatedAt": "2026-06-25T15:00:44.421Z",
+  "srcSet": {
+    "web1200": "/images/animals/leafcutter-ant/web/leafcutter-ant-family-01-1200.webp",
+    "thumbnail400": "/images/animals/leafcutter-ant/thumbnails/leafcutter-ant-family-01-400.webp",
+    "original": "/images/animals/leafcutter-ant/web/leafcutter-ant-family-01-1200.webp"
+  }
+}

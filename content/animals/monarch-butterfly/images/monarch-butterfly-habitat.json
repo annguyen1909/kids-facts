@@ -1,0 +1,39 @@
+{
+  "id": "monarch-butterfly-habitat",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-habitat",
+  "fileName": "monarch-butterfly-habitat-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 857,
+  "alt": "Monarch butterfly in a summer meadow feeding on a purple coneflower",
+  "caption": "Monarchs live in meadows, prairies, and gardens where they can find wildflowers and milkweed.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified monarch butterfly image for habitat. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b5/Monarch_Butterfly_Danaus_plexippus_on_Echinacea_purpurea_2800px.jpg",
+  "updatedAt": "2026-06-25T15:03:16.524Z",
+  "attributionText": "Photo by Photo by and (c)2007 Derek Ramsey ( Ram-Man ) via Wikimedia Commons, GFDL 1.2",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_on_Echinacea_purpurea_2800px.jpg\">Photo by and (c)2007 Derek Ramsey ( Ram-Man )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_Butterfly_Danaus_plexippus_on_Echinacea_purpurea_2800px.jpg",
+    "creatorName": "Photo by and (c)2007 Derek Ramsey ( Ram-Man )",
+    "licenseName": "GFDL 1.2",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:03:16.524Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-habitat-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-habitat-01-1200.webp"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Jaguar (Panthera onca palustris) male Rio Negro 2.JPG",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Jaguar in the wild",
+    "caption": "The Jaguar is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Jaguar (Panthera onca palustris) male Three Brothers River 2.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Jaguar navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Jaguar head shot-edit2.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Jaguar finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Jaguar.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Chapultepec Zoo - Jaguar (02).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Jaguar showing early development",
+    "caption": "Baby Jaguars must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Jaguar (Panthera onca palustris) female Piquiri River 2.JPG",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Jaguars interacting with each other",
+    "caption": "While often solitary, some Jaguars interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Panthera onca.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Jaguar traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Parque Estadual Encontro das Águas Thomas-Fuhrmann (2023- 01) Jaguar - Panthera onca swimming.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Jaguar",
+    "caption": "The size of a Jaguar can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:009 Female jaguar in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Jaguar",
+    "caption": "A close-up view reveals the intricate details of a Jaguar's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Onça do Pantanal.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Jaguar showing a unique behavior or adaptation",
+    "caption": "Did you know that the Jaguar has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:011 Jaguar drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Jaguar navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Jaguar (Panthera onca palustris) male Three Brothers River.JPG",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Jaguar finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Jaguar.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Jaguar head shot.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Jaguars interacting with each other",
+    "caption": "While often solitary, some Jaguars interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:015 Jaguar walking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Jaguar showing early development",
+    "caption": "Baby Jaguars must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Jaguar (Panthera onca palustris) male Rio Negro.JPG",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Jaguar traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-core-diet",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-core-diet",
+  "fileName": "peregrine-falcon-core-diet-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-diet-01-1200.webp",
+  "width": 1085,
+  "height": 723,
+  "alt": "A peregrine falcon on a post looking around after feeding",
+  "caption": "They require high-protein diets to maintain their high-energy flight style.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Netherlands",
+  "attributionText": "Photo by Michel Langeveld via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falco_peregrinus_122816425.jpg\">Michel Langeveld</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_122816425.jpg",
+    "creatorName": "Michel Langeveld",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:00.906Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/41/Falco_peregrinus_122816425.jpg",
+  "updatedAt": "2026-06-25T15:07:00.906Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-core-diet-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-diet-01-1200.webp"
+  }
+}

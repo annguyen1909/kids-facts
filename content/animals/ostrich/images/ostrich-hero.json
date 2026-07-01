@@ -1,33 +1,38 @@
 {
   "id": "ostrich-hero",
-  "animalSlug": "ostrich",
   "slug": "ostrich-hero",
-  "fileName": "Struthio camelus portrait Whipsnade Zoo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Struthio_camelus_portrait_Whipsnade_Zoo.jpg",
-  "width": 2736,
-  "height": 3648,
-  "alt": "Common ostrich with long neck and large dark eyes",
-  "caption": "Ostriches are the largest birds on Earth and cannot fly.",
-  "attributionText": "Photo by William Warby via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_portrait_Whipsnade_Zoo.jpg\">William Warby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
-  "source": {
-    "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Struthio_camelus_portrait_Whipsnade_Zoo.jpg",
-    "creatorName": "William Warby",
-    "licenseName": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
-  },
-  "imageType": "hero",
+  "animalSlug": "ostrich",
+  "fileName": "ostrich-hero-01-1200.webp",
   "galleryTopics": [
     "hero"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Whipsnade, United Kingdom",
-  "acquisitionNotes": "Manually curated ostrich hero image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z"
+  "imageType": "hero",
+  "updatedAt": "2026-06-28T09:19:00.527Z",
+  "src": "/images/animals/ostrich/web/ostrich-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-hero-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-hero-01-1200.webp"
+  },
+  "alt": "Common ostrich standing in open grassland at Masai Mara, Kenya",
+  "caption": "Ostriches are the largest birds on Earth and live on African grasslands and savannas.",
+  "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Masai_Mara_National_Reserve_17_-_common_ostrich_(Struthio_camelus).jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masai_Mara_National_Reserve_17_-_common_ostrich_(Struthio_camelus).jpg",
+    "creatorName": "Thomas Fuhrmann",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:19:00.527Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Masai Mara, Kenya",
+  "acquisitionNotes": "Wild safari hero — full bird visible in open savanna, landscape orientation. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a2/Masai_Mara_National_Reserve_17_-_common_ostrich_%28Struthio_camelus%29.jpg"
 }

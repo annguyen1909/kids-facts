@@ -2,10 +2,10 @@
   "id": "crocodile-fun-fact",
   "animalSlug": "crocodile",
   "slug": "crocodile-fun-fact",
-  "fileName": "Nile crocodile eggs.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Nile_crocodile_eggs.jpg",
-  "width": 1812,
-  "height": 1577,
+  "fileName": "crocodile-fun-fact-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1044,
   "alt": "Nile crocodile eggs in a nest",
   "caption": "The temperature of the nest can help decide whether hatchlings are male or female.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Africa",
-  "acquisitionNotes": "Manually curated crocodile fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "acquisitionNotes": "Manually curated crocodile fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1f/Nile_crocodile_eggs.jpg",
+  "updatedAt": "2026-06-25T14:51:47.809Z",
   "attributionText": "Photo by Kevin Walsh from Oxford, England via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Nile_crocodile_eggs.jpg\">Kevin Walsh from Oxford, England</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:47.809Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-fun-fact-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-fun-fact-01-1200.webp"
   }
 }

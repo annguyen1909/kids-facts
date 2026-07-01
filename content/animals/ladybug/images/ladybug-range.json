@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-range",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-range",
+  "fileName": "ladybug-range-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-range-01-1200.webp",
+  "width": 1200,
+  "height": 936,
+  "alt": "A ladybug climbing on green plant leaves",
+  "caption": "The seven-spotted ladybug is native to Europe and Asia, and was introduced to North America.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Portugal",
+  "attributionText": "Photo by Alvesgaspar via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Coccinella_February_2013-1.jpg\">Alvesgaspar</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coccinella_February_2013-1.jpg",
+    "creatorName": "Alvesgaspar",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:34.927Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4a/Coccinella_February_2013-1.jpg",
+  "updatedAt": "2026-06-25T15:00:34.927Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-range-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-range-01-1200.webp"
+  }
+}

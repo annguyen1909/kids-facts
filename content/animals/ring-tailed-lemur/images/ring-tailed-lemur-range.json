@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-range",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-range",
+  "fileName": "ring-tailed-lemur-range-01-1200.webp",
+  "alt": "Small group of ring-tailed lemurs walking on the ground at Berenty, Madagascar",
+  "caption": "Lemurs spend much of their time on the ground, traveling across their forest home in southern Madagascar.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Berenty Reserve, Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-range-01-1200.webp",
+  "width": 1200,
+  "height": 755,
+  "attributionText": "Photo by Alex Dunkel ( Maky ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lemur_catta_003.jpg\">Alex Dunkel ( Maky )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemur_catta_003.jpg",
+    "creatorName": "Alex Dunkel ( Maky )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:27.461Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/68/Lemur_catta_003.jpg",
+  "updatedAt": "2026-06-28T09:59:27.461Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-range-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-range-01-1200.webp"
+  }
+}

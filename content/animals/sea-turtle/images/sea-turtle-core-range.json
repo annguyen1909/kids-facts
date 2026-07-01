@@ -2,10 +2,10 @@
   "id": "sea-turtle-core-range",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-core-range",
-  "fileName": "Baby Green Sea Turtle. (11180225963).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Baby_Green_Sea_Turtle._%2811180225963%29.jpg",
-  "width": 2400,
-  "height": 1646,
+  "fileName": "sea-turtle-core-range-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 823,
   "alt": "Green sea turtle hatchling on a nesting beach",
   "caption": "Green sea turtles are listed as Endangered because of fishing, pollution, and habitat loss.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Tropical beach",
-  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Baby_Green_Sea_Turtle._%2811180225963%29.jpg",
+  "updatedAt": "2026-06-25T15:10:51.169Z",
   "attributionText": "Photo by Bernard Spragg. NZ from Christchurch, New Zealand via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_Green_Sea_Turtle._(11180225963).jpg\">Bernard Spragg. NZ from Christchurch, New Zealand</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Baby_Green_Sea_Turtle._(11180225963).jpg\">Bernard Spragg. NZ from Christchurch, New Zealand</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_Green_Sea_Turtle._(11180225963).jpg",
     "creatorName": "Bernard Spragg. NZ from Christchurch, New Zealand",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:51.169Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-core-range-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-core-range-01-1200.webp"
   }
 }

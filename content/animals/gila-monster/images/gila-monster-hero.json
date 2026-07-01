@@ -1,0 +1,38 @@
+{
+  "id": "gila-monster-hero",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-hero",
+  "fileName": "gila-monster-hero-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-hero-01-1200.webp",
+  "width": 1200,
+  "height": 712,
+  "alt": "A beautiful portrait of a Gila Monster in the wild",
+  "caption": "The Gila Monster is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Theo Kruse / Burgers' Zoo via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gila_monster_(Heloderma_suspectum).jpg\">Theo Kruse / Burgers' Zoo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gila_monster_(Heloderma_suspectum).jpg",
+    "creatorName": "Theo Kruse / Burgers' Zoo",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:39.375Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified gila-monster image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ca/Gila_monster_%28Heloderma_suspectum%29.jpg",
+  "updatedAt": "2026-06-25T14:55:39.375Z",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-hero-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-hero-01-1200.webp"
+  }
+}

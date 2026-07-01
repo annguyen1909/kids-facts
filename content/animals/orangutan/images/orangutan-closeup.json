@@ -2,10 +2,10 @@
   "id": "orangutan-closeup",
   "animalSlug": "orangutan",
   "slug": "orangutan-closeup",
-  "fileName": "Pongo pygmaeus in Ouwehands Dierenpark 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg",
-  "width": 2684,
-  "height": 3474,
+  "fileName": "orangutan-closeup-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1553,
   "alt": "Close-up of an orangutan face with thoughtful expression",
   "caption": "Orangutans have expressive faces and use many sounds and gestures to communicate.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Rhenen, Netherlands",
-  "acquisitionNotes": "Manually curated orangutan close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Manually curated orangutan close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1c/Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg",
+  "updatedAt": "2026-06-25T15:04:13.757Z",
   "attributionText": "Photo by FakirNL via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pongo_pygmaeus_in_Ouwehands_Dierenpark_01.jpg\">FakirNL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:13.757Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-closeup-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-closeup-01-1200.webp"
   }
 }

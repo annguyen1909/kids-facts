@@ -1,0 +1,38 @@
+{
+  "id": "ring-tailed-lemur-diet",
+  "animalSlug": "ring-tailed-lemur",
+  "slug": "ring-tailed-lemur-diet",
+  "fileName": "ring-tailed-lemur-diet-01-1200.webp",
+  "alt": "Ring-tailed lemur feeding on tamarind leaves in a Madagascar forest",
+  "caption": "Lemurs are omnivores, but they mostly eat fruit and leaves, especially from tamarind trees.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Tsimanampetsotsa, Madagascar",
+  "src": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Frank Vassen from Brussels, Belgium via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ring-tailed_Lemur_(Lemur_catta)_feeding_on_tamarind_leaves,_Tsimanampetsotsa,_Madagascar_(4309672928).jpg\">Frank Vassen from Brussels, Belgium</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ring-tailed_Lemur_(Lemur_catta)_feeding_on_tamarind_leaves,_Tsimanampetsotsa,_Madagascar_(4309672928).jpg",
+    "creatorName": "Frank Vassen from Brussels, Belgium",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:59:14.993Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ring-tailed-lemur image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1f/Ring-tailed_Lemur_%28Lemur_catta%29_feeding_on_tamarind_leaves%2C_Tsimanampetsotsa%2C_Madagascar_%284309672928%29.jpg",
+  "updatedAt": "2026-06-28T09:59:14.993Z",
+  "srcSet": {
+    "web1200": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ring-tailed-lemur/thumbnails/ring-tailed-lemur-diet-01-400.webp",
+    "original": "/images/animals/ring-tailed-lemur/web/ring-tailed-lemur-diet-01-1200.webp"
+  }
+}

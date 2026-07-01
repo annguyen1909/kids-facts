@@ -1,0 +1,38 @@
+{
+  "id": "praying-mantis-habitat",
+  "animalSlug": "praying-mantis",
+  "slug": "praying-mantis-habitat",
+  "fileName": "praying-mantis-habitat-01-1200.webp",
+  "src": "/images/animals/praying-mantis/web/praying-mantis-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "alt": "Praying mantis blending in with dry grasses in its natural grassland habitat",
+  "caption": "They live in warm grasslands, meadows, and gardens where they can easily blend in.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Krems ad Donau, Austria",
+  "attributionText": "Photo by Isiwal via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Krems_ad_Donau_Rehberg_Europaschutzgebiet_Kamp-und_Kremstal_Mantis-5549.jpg\">Isiwal</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krems_ad_Donau_Rehberg_Europaschutzgebiet_Kamp-und_Kremstal_Mantis-5549.jpg",
+    "creatorName": "Isiwal",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:16.089Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified praying-mantis image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Krems_ad_Donau_Rehberg_Europaschutzgebiet_Kamp-und_Kremstal_Mantis-5549.jpg",
+  "updatedAt": "2026-06-25T15:08:16.089Z",
+  "srcSet": {
+    "web1200": "/images/animals/praying-mantis/web/praying-mantis-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/praying-mantis/thumbnails/praying-mantis-habitat-01-400.webp",
+    "original": "/images/animals/praying-mantis/web/praying-mantis-habitat-01-1200.webp"
+  }
+}

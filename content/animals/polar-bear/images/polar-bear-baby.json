@@ -2,10 +2,10 @@
   "id": "polar-bear-baby",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-baby",
-  "fileName": "Ursus maritimus Polar bear with cub 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ursus_maritimus_Polar_bear_with_cub_2.jpg",
-  "width": 2954,
-  "height": 1980,
+  "fileName": "polar-bear-baby-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-baby-01-1200.webp",
+  "width": 1200,
+  "height": 804,
   "alt": "Polar bear mother with small cub on snow",
   "caption": "Polar bear cubs are born in winter dens and stay with their mother for years.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Arctic",
-  "acquisitionNotes": "Manually curated polar bear cub image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "acquisitionNotes": "Manually curated polar bear cub image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/30/Ursus_maritimus_Polar_bear_with_cub_2.jpg",
+  "updatedAt": "2026-06-25T15:07:35.716Z",
   "attributionText": "Photo by Schliebe, Scott via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg\">Schliebe, Scott</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg\">Schliebe, Scott</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg",
     "creatorName": "Schliebe, Scott",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ursus_maritimus_Polar_bear_with_cub_2.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:35.716Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-baby-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-baby-01-1200.webp"
   }
 }

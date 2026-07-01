@@ -1,0 +1,38 @@
+{
+  "id": "capybara-range",
+  "animalSlug": "capybara",
+  "slug": "capybara-range",
+  "fileName": "capybara-range-01-1200.webp",
+  "alt": "A Capybara traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/capybara/web/capybara-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:028_Capybara_and_Pink_Ip%C3%AA_trees_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:028_Capybara_and_Pink_Ip%C3%AA_trees_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:55.221Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/90/028_Capybara_and_Pink_Ip%C3%AA_trees_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-26T08:15:55.221Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-range-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-range-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-core-family",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-core-family",
+  "fileName": "spotted-hyena-core-family-01-1200.webp",
+  "alt": "Adult spotted hyena beside a young cub in the wild",
+  "caption": "Young hyenas learn their clan's ranks and rules by watching the adults around them.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Kruger National Park, South Africa",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Spotted_Hyaenas_(Crocuta_crocuta)_adult_and_cub_..._(33224607536).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_Hyaenas_(Crocuta_crocuta)_adult_and_cub_..._(33224607536).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:19.471Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Spotted_Hyaenas_%28Crocuta_crocuta%29_adult_and_cub_..._%2833224607536%29.jpg",
+  "updatedAt": "2026-06-28T09:46:19.471Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-core-family-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-core-family-01-1200.webp"
+  }
+}

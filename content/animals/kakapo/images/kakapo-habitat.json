@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-habitat",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-habitat",
+  "fileName": "kakapo-habitat-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-habitat-01-1200.webp",
+  "width": 640,
+  "height": 480,
+  "alt": "Kakapo blending seamlessly into lush green ferns and forest floor flora",
+  "caption": "Their speckled moss-green plumage provides flawless camouflage amongst the dense native flora of New Zealand.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Codfish Island, New Zealand",
+  "acquisitionNotes": "Curated habitat image displaying legendary camouflage adaptations. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/13/Strigops_habroptilus%2C_camouflage.jpg",
+  "updatedAt": "2026-06-29T11:55:54.417Z",
+  "attributionText": "Photo by Mnolf via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Strigops_habroptilus,_camouflage.jpg\">Mnolf</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strigops_habroptilus,_camouflage.jpg",
+    "creatorName": "Mnolf",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:54.417Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-habitat-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-habitat-01-1200.webp"
+  }
+}

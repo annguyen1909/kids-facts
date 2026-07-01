@@ -2,10 +2,10 @@
   "id": "sloth-fun-fact",
   "animalSlug": "sloth",
   "slug": "sloth-fun-fact",
-  "fileName": "Bradypus.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bradypus.jpg",
-  "width": 1536,
-  "height": 2048,
+  "fileName": "sloth-fun-fact-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Three-toed sloth hanging upside down from a tree",
   "caption": "Sloths descend to the ground only about once a week to defecate.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated sloth fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Manually curated sloth fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/18/Bradypus.jpg",
+  "updatedAt": "2026-06-25T15:11:29.433Z",
   "attributionText": "Photo by Stefan Laube ( Tauchgurke ) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus.jpg\">Stefan Laube ( Tauchgurke )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus.jpg\">Stefan Laube ( Tauchgurke )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradypus.jpg",
     "creatorName": "Stefan Laube ( Tauchgurke )",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bradypus.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:29.433Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-fun-fact-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-fun-fact-01-1200.webp"
   }
 }

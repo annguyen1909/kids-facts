@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-closeup",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-closeup",
+  "fileName": "tokay-gecko-closeup-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 843,
+  "alt": "Macro close-up of the underside of gecko feet showing micro-ribs and lamellae pads",
+  "caption": "Geckos have millions of microscopic hairs on their toes that allow them to stick to glass ceilings!",
+  "attributionText": "Photo by Matteo Gabaglio via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gecko%27s_secret_power_-_Matteo_Gabaglio.jpg\">Matteo Gabaglio</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gecko%27s_secret_power_-_Matteo_Gabaglio.jpg",
+    "creatorName": "Matteo Gabaglio",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:05.944Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Switzerland",
+  "acquisitionNotes": "Manually verified tokay gecko image for closeup. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/eb/Gecko%27s_secret_power_-_Matteo_Gabaglio.jpg",
+  "updatedAt": "2026-06-25T15:13:05.944Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-closeup-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-closeup-01-1200.webp"
+  }
+}

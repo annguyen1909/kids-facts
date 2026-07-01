@@ -2,10 +2,10 @@
   "id": "angelfish-core-family",
   "animalSlug": "angelfish",
   "slug": "angelfish-core-family",
-  "fileName": "Pomacanthus imperator 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pomacanthus_imperator_1.jpg",
-  "width": 2592,
-  "height": 1944,
+  "fileName": "angelfish-core-family-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Adult emperor angelfish on a reef ledge",
   "caption": "Pairs may stay together on the same reef for years.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Tropical reef",
-  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set.",
-  "updatedAt": "2026-06-24T10:39:20.375Z",
+  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/36/Pomacanthus_imperator_1.jpg",
+  "updatedAt": "2026-06-25T14:48:48.078Z",
   "attributionText": "Photo by Emőke Dénes via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pomacanthus_imperator_1.jpg\">Emőke Dénes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:48.078Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-core-family-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-core-family-01-1200.webp"
   }
 }

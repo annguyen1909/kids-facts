@@ -1,0 +1,38 @@
+{
+  "id": "manta-ray-diet",
+  "animalSlug": "manta-ray",
+  "slug": "manta-ray-diet",
+  "fileName": "manta-ray-diet-01-1200.webp",
+  "src": "/images/animals/manta-ray/web/manta-ray-diet-01-1200.webp",
+  "width": 864,
+  "height": 648,
+  "alt": "A Manta Ray finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Manta Ray.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by jon hanson from london, UK via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand3.jpg\">jon hanson from london, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manta_birostris-Thailand3.jpg",
+    "creatorName": "jon hanson from london, UK",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:28.359Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manta-ray image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Manta_birostris-Thailand3.jpg",
+  "updatedAt": "2026-06-25T15:02:28.359Z",
+  "srcSet": {
+    "web1200": "/images/animals/manta-ray/web/manta-ray-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/manta-ray/thumbnails/manta-ray-diet-01-400.webp",
+    "original": "/images/animals/manta-ray/web/manta-ray-diet-01-1200.webp"
+  }
+}

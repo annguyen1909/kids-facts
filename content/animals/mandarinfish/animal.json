@@ -1,0 +1,158 @@
+{
+  "id": "animal-mandarinfish",
+  "slug": "mandarinfish",
+  "name": "Mandarinfish",
+  "commonNames": [
+    "Mandarinfish",
+    "Mandarin Dragonet",
+    "Green Mandarinfish"
+  ],
+  "scientificName": "Synchiropus splendidus",
+  "summary": "The mandarinfish is a spectacularly vibrant, small marine dragonet endemic to the sheltered coral reefs of the western Pacific. World-famous for its psychedelic blue, orange, and green patterns, it is one of the only known vertebrates in the world to produce true cellular blue pigment rather than structural color.",
+  "heroTitle": "Mandarinfish Facts",
+  "metaTitle": "Mandarinfish Facts | Vibrant Coral Reef Dragonet & Photos",
+  "metaDescription": "Explore mandarinfish facts with high-quality photos, tropical coral reef habitat, true cellular blue pigment mechanism, benthic copepod diet, and mating dance.",
+  "searchIntents": [
+    "mandarinfish facts",
+    "mandarinfish true blue pigment",
+    "what do mandarinfish eat",
+    "where do mandarinfish live",
+    "how big is a mandarinfish",
+    "mandarinfish mating dance"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Callionymidae",
+    "genus": "Synchiropus",
+    "species": "S. splendidus"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "small"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "Asia",
+    "Oceania"
+  ],
+  "countries": [
+    "Philippines",
+    "Indonesia",
+    "Australia",
+    "Malaysia",
+    "Papua New Guinea",
+    "Micronesia",
+    "Taiwan",
+    "Palau",
+    "Solomon Islands",
+    "Vanuatu"
+  ],
+  "biomes": [
+    "coral reef",
+    "sheltered lagoon",
+    "coastal rubble flat"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "benthic copepods",
+    "amphipods",
+    "polychaete worms",
+    "small gastropods",
+    "harpacticoid copepods"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years",
+    "captivity": "5 to 10 years (highly demanding dietary needs)"
+  },
+  "size": {
+    "lengthMin": "0.2 feet",
+    "lengthMax": "0.3 feet"
+  },
+  "weight": {
+    "min": "0.02 pounds",
+    "max": "0.05 pounds"
+  },
+  "speed": "Agile benthic hoverer; flutters modified pectoral fins to navigate coral heads",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "synchronized twilight rise",
+    "continuous benthic pecking",
+    "male dorsal fin flaring",
+    "toxic mucus secreting",
+    "sheltered crevice lodging"
+  ],
+  "adaptations": [
+    "cyanophore chromatophores producing true cellular blue pigment",
+    "thick toxic mucus coating instead of scales to deter predators",
+    "protrusible tubular mouth for vacuuming micro-invertebrates",
+    "specialized pectoral fins acting like hummingbird wings",
+    "prominent textured eyes for acute benthic micro-vision"
+  ],
+  "predators": [
+    "large scorpionfish",
+    "moray eels",
+    "sharks",
+    "humans (aquarium trade collection)"
+  ],
+  "prey": [
+    "benthic copepods",
+    "harpacticoid amphipods",
+    "marine worms",
+    "small ostracods"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Broadcast spawned eggs hatch into drifting pelagic larvae within 24 hours",
+    "offspringCount": "Up to 200 pelagic eggs released per twilight spawning ascent"
+  },
+  "funFacts": [
+    "Mandarinfish are among the only known vertebrates in the world to produce true cellular blue pigment; while other blue animals use structural crystal reflection, mandarinfish possess specialized pigment cells called cyanophores.",
+    "They are completely scaleless; instead, their bodies are wrapped in a thick, noxious coating of mucus that makes them taste absolutely terrible to predators and protects them from skin parasites.",
+    "Their common name originates from their spectacular, intricate patterns, which resemble the silken robes worn by imperial Chinese mandarins.",
+    "Each evening at exact twilight, mating pairs perform a mesmerizing synchronized dance, floating belly-to-belly upward into the water column to broadcast spawn before darting back into the reef.",
+    "Mandarinfish possess highly modified pectoral fins that they flutter continuously like hummingbird wings to hover perfectly stationary above coral heads while inspecting crevices.",
+    "Their eyes are highly mobile and operate independently, allowing them to track microscopic prey moving across coral rock with exceptional binocular precision."
+  ],
+  "faq": [
+    {
+      "question": "What is a mandarinfish?",
+      "answer": "The mandarinfish is a spectacularly colorful, small marine dragonet endemic to the western Pacific, world-famous for its psychedelic blue, orange, and green patterns."
+    },
+    {
+      "question": "Where do mandarinfish live?",
+      "answer": "They inhabit sheltered coral reefs, shallow lagoons, and silty rubble flats throughout the Coral Triangle and western Pacific, especially in the Philippines and Indonesia."
+    },
+    {
+      "question": "What do mandarinfish eat?",
+      "answer": "They are active micro-carnivores whose diet consists entirely of tiny benthic invertebrates, specifically harpacticoid copepods, amphipods, and small marine worms."
+    },
+    {
+      "question": "Why is the blue on a mandarinfish so special?",
+      "answer": "Almost all blue animals in nature rely on optical illusion and light scattering to appear blue; the mandarinfish, however, possesses actual blue pigment-containing cells called cyanophores."
+    },
+    {
+      "question": "Do mandarinfish have scales?",
+      "answer": "No, mandarinfish are entirely scaleless and protect their delicate skin by secreting a thick, bad-tasting, toxic mucus coating."
+    },
+    {
+      "question": "How do mandarinfish mate?",
+      "answer": "At twilight, a male and female pair align belly-to-belly and slowly float upward from the reef into open water, releasing eggs and sperm at the peak of their ascent before diving back down."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "moorish-idol",
+    "seahorse"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "mandarinfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

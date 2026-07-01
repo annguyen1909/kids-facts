@@ -1,0 +1,38 @@
+{
+  "id": "puffin-core-range",
+  "animalSlug": "puffin",
+  "slug": "puffin-core-range",
+  "fileName": "puffin-core-range-01-1200.webp",
+  "alt": "An Atlantic Puffin flying over the ocean during migration",
+  "caption": "Atlantic Puffins spend the winter months at sea, returning to coastal cliffs in the spring to nest.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "North Atlantic Ocean",
+  "src": "/images/animals/puffin/web/puffin-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 806,
+  "attributionText": "Photo by Taken by Thomas Gansow via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_in_flight.jpg\">Taken by Thomas Gansow</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_in_flight.jpg",
+    "creatorName": "Taken by Thomas Gansow",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:17:23.520Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ec/Atlantic_Puffin_in_flight.jpg",
+  "updatedAt": "2026-06-26T08:17:23.520Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-core-range-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-core-range-01-1200.webp"
+  }
+}

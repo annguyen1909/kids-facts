@@ -2,10 +2,10 @@
   "id": "great-white-shark-family",
   "animalSlug": "great-white-shark",
   "slug": "great-white-shark-family",
-  "fileName": "Great White Shark (Carcharodon carcharias) (32532118720).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Great_White_Shark_%28Carcharodon_carcharias%29_%2832532118720%29.jpg",
-  "width": 5472,
-  "height": 3648,
+  "fileName": "great-white-shark-family-01-1200.webp",
+  "src": "/images/animals/great-white-shark/web/great-white-shark-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Great white shark swimming through blue water",
   "caption": "Great white sharks are mostly solitary and usually do not stay in family groups.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "South Africa",
-  "acquisitionNotes": "Manually curated great white shark behavior image for the family-style slot.",
-  "updatedAt": "2026-06-23T06:50:52.764Z",
+  "acquisitionNotes": "Manually curated great white shark behavior image for the family-style slot. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3e/Great_White_Shark_%28Carcharodon_carcharias%29_%2832532118720%29.jpg",
+  "updatedAt": "2026-06-25T14:56:45.547Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_White_Shark_(Carcharodon_carcharias)_(32532118720).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.764Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:45.547Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/great-white-shark/web/great-white-shark-family-01-1200.webp",
+    "thumbnail400": "/images/animals/great-white-shark/thumbnails/great-white-shark-family-01-400.webp",
+    "original": "/images/animals/great-white-shark/web/great-white-shark-family-01-1200.webp"
   }
 }

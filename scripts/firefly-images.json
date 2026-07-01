@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Photinus pyralis Firefly 3.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Firefly in the wild",
+    "caption": "The Firefly is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Photinus pyralis 179780353.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Firefly navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Photinus pyralis Firefly 2.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Firefly finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Firefly.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Photinus pyralis 1.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Firefly showing early development",
+    "caption": "Baby Fireflys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Photinus pyralis Firefly.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Fireflys interacting with each other",
+    "caption": "While often solitary, some Fireflys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Eastern firefly (Photinus pyralis), June 2025, Virginia.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Firefly traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Photinus pyralis.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Firefly",
+    "caption": "The size of a Firefly can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Photinus pyralis Firefly 4.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Firefly",
+    "caption": "A close-up view reveals the intricate details of a Firefly's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Photinus pyralis Firefly glowing.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Firefly showing a unique behavior or adaptation",
+    "caption": "Did you know that the Firefly has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Firefly - Photinus pyralis, Woodbridge, Virginia.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Firefly navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Lightning Bug - Photinus pyralis, Woodbridge, Virginia.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Firefly finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Firefly.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Photinus pyralis SERC 05-28-15 (18215657861).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Fireflys interacting with each other",
+    "caption": "While often solitary, some Fireflys interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Active Site of Photinus pyralis luciferase.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Firefly showing early development",
+    "caption": "Baby Fireflys must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Common Eastern firefly (41298775405).jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Firefly traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

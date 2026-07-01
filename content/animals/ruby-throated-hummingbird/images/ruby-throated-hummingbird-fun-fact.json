@@ -1,0 +1,38 @@
+{
+  "id": "ruby-throated-hummingbird-fun-fact",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-fun-fact",
+  "fileName": "ruby-throated-hummingbird-fun-fact-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 768,
+  "alt": "Ruby-throated hummingbird hovering with blurred wings showing flight dynamics",
+  "caption": "Hummingbirds beat their wings up to 80 times per second, allowing them to fly backwards and upside down!",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Central Park, New York",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/86/Ruby-throated_hummingbird_in_Central_Park_%2854139%29.jpg",
+  "updatedAt": "2026-06-25T15:10:11.019Z",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_in_Central_Park_(54139).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_in_Central_Park_(54139).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:11.019Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-fun-fact-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-fun-fact-01-1200.webp"
+  }
+}

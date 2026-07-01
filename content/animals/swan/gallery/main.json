@@ -1,0 +1,22 @@
+{
+  "id": "swan-gallery-main",
+  "animalSlug": "swan",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Mute Swan Photo Gallery",
+  "metaTitle": "Mute Swan Photo Gallery",
+  "metaDescription": "Browse a mute swan photo gallery with wildlife photos.",
+  "intro": "Explore mute swan photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "swan-hero",
+    "swan-habitat",
+    "swan-diet",
+    "swan-baby",
+    "swan-family",
+    "swan-range",
+    "swan-size",
+    "swan-closeup",
+    "swan-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

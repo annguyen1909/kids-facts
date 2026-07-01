@@ -2,10 +2,10 @@
   "id": "salmon-closeup",
   "animalSlug": "salmon",
   "slug": "salmon-closeup",
-  "fileName": "Salmo salar, by 'n vismark in Pretoria, a.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Salmo_salar%2C_by_%27n_vismark_in_Pretoria%2C_a.jpg",
-  "width": 3888,
-  "height": 2592,
+  "fileName": "salmon-closeup-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close-up of an adult Atlantic salmon in clear water",
   "caption": "Salmon can smell their home river from far out in the ocean.",
   "imageType": "closeup",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Pretoria, South Africa",
-  "acquisitionNotes": "Replaced unclear cropped specimen with a sharp close-up photo.",
-  "updatedAt": "2026-06-24T14:30:25.424Z",
+  "acquisitionNotes": "Replaced unclear cropped specimen with a sharp close-up photo. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e9/Salmo_salar%2C_by_%27n_vismark_in_Pretoria%2C_a.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e9/Salmo_salar%2C_by_%27n_vismark_in_Pretoria%2C_a.jpg",
+  "updatedAt": "2026-06-26T19:16:06.180Z",
   "attributionText": "Photo by JMK via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar%2C_by_'n_vismark_in_Pretoria%2C_a.jpg\">JMK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Salmo_salar,_by_%27n_vismark_in_Pretoria,_a.jpg\">JMK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar%2C_by_'n_vismark_in_Pretoria%2C_a.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salmo_salar,_by_%27n_vismark_in_Pretoria,_a.jpg",
     "creatorName": "JMK",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T14:30:25.424Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:16:06.180Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-closeup-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-closeup-01-1200.webp"
   }
 }

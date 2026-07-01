@@ -1,0 +1,22 @@
+{
+  "id": "giant-anteater-gallery-main",
+  "animalSlug": "giant-anteater",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Giant Anteater Photo Gallery",
+  "metaTitle": "Giant Anteater Photo Gallery",
+  "metaDescription": "Browse a giant anteater photo gallery with wildlife photos.",
+  "intro": "Explore giant anteater photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "giant-anteater-hero",
+    "giant-anteater-habitat",
+    "giant-anteater-diet",
+    "giant-anteater-baby",
+    "giant-anteater-family",
+    "giant-anteater-range",
+    "giant-anteater-size",
+    "giant-anteater-closeup",
+    "giant-anteater-fun-fact"
+  ],
+  "updatedAt": "2026-06-28T09:42:12.188Z"
+}

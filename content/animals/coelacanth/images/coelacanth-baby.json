@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-baby",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-baby",
+  "fileName": "coelacanth-baby-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-baby-01-1200.webp",
+  "width": 1200,
+  "height": 720,
+  "alt": "Developing coelacanth pup/embryo attached to its large yolk sac",
+  "caption": "Coelacanths are ovoviviparous; developing pups grow inside the mother attached to large yolk sacs before live birth.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Muséum national d'histoire naturelle, Paris",
+  "acquisitionNotes": "Manually curated juvenile coelacanth image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/Latimeria_chalumnae_embryo.jpg",
+  "updatedAt": "2026-06-29T07:22:12.142Z",
+  "attributionText": "Photo by This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0 via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae_embryo.jpg\">This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae_embryo.jpg",
+    "creatorName": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:12.142Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-baby-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-baby-01-1200.webp"
+  }
+}

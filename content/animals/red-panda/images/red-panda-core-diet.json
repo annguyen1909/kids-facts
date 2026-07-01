@@ -2,23 +2,23 @@
   "id": "red-panda-core-diet",
   "animalSlug": "red-panda",
   "slug": "red-panda-core-diet",
-  "fileName": "1280px-Red_panda_feeding_on_bamboo,_Bratislava,_Jan_2023.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ailurus_fulgens_fulgens_feeding_on_bamboo_leaves.jpg",
-  "width": 3456,
-  "height": 2304,
+  "fileName": "red-panda-core-diet-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red panda feeding on bamboo leaves in mountain forest habitat",
   "caption": "Red pandas eat mostly bamboo leaves and shoots, plus fruit and eggs.",
-  "attributionText": "Photo by Mathias Appel via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_fulgens_feeding_on_bamboo_leaves.jpg\">Mathias Appel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "attributionText": "Photo by Soggy Pandas via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_panda_feeding_on_bamboo,_Bratislava,_Jan_2023.jpg\">Soggy Pandas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_fulgens_feeding_on_bamboo_leaves.jpg",
-    "creatorName": "Mathias Appel",
-    "licenseName": "CC0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_panda_feeding_on_bamboo,_Bratislava,_Jan_2023.jpg",
+    "creatorName": "Soggy Pandas",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:09:25.131Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -27,7 +27,12 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Mountain forest, Asia",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "location": "Bratislava, Slovakia",
+  "acquisitionNotes": "Core article diet image — verified Commons file. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Red_panda_feeding_on_bamboo%2C_Bratislava%2C_Jan_2023.jpg",
+  "updatedAt": "2026-06-25T15:09:25.131Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-core-diet-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-core-diet-01-1200.webp"
+  }
 }

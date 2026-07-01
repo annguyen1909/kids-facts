@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-fun-fact",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-fun-fact",
+  "fileName": "moorish-idol-fun-fact-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Moorish idol displaying its extraordinary long, elegant white dorsal pennant",
+  "caption": "The moorish idol is the sole living member of the family Zanclidae and is famously difficult to keep in aquariums due to its highly specialized diet.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "French Polynesia",
+  "acquisitionNotes": "Curated fun-fact image showcasing long dorsal pennant in French Polynesia. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/Zanclus_cornutus_390617486.jpg",
+  "updatedAt": "2026-06-29T12:24:10.371Z",
+  "attributionText": "Photo by Matt Muir via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_390617486.jpg\">Matt Muir</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_390617486.jpg",
+    "creatorName": "Matt Muir",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:24:10.371Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-fun-fact-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-fun-fact-01-1200.webp"
+  }
+}

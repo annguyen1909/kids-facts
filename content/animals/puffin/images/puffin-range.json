@@ -1,0 +1,38 @@
+{
+  "id": "puffin-range",
+  "animalSlug": "puffin",
+  "slug": "puffin-range",
+  "fileName": "puffin-range-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-range-01-1200.webp",
+  "width": 1200,
+  "height": 1387,
+  "alt": "A Atlantic Puffin traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Jakub Hałun via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Fratercula_arctica,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_1152_1838.jpg\">Jakub Hałun</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fratercula_arctica,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_1152_1838.jpg",
+    "creatorName": "Jakub Hałun",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:47.614Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Fratercula_arctica%2C_Borgarfj%C3%B6r%C3%B0ur_eystri%2C_Iceland%2C_20240717_1152_1838.jpg",
+  "updatedAt": "2026-06-25T15:08:47.614Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-range-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-range-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-range-01-1200.webp"
+  }
+}

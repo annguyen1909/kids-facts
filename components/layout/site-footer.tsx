@@ -1,4 +1,6 @@
+import Image from "next/image";
 import Link from "next/link";
+import { PrivacySettingsControl } from "@/components/layout/privacy-settings-control";
 import { siteConfig } from "@/lib/site-config";
 
 const footerGroups = [
@@ -32,23 +34,49 @@ const footerGroups = [
 
 export function SiteFooter() {
   return (
-    <footer className="mt-20 border-t border-[rgba(23,49,39,0.08)] bg-[var(--forest-deep)] text-white">
-      <div className="section-shell py-14">
-        <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr_0.8fr]">
-          <div>
-            <div className="eyebrow eyebrow--dark">{siteConfig.name}</div>
-            <h2 className="mt-5 max-w-lg text-3xl font-extrabold tracking-tight">
+    <footer className="relative isolate mt-20 bg-[var(--surface)] text-[var(--foreground)] transition-colors duration-300">
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-x-0 -top-16 h-16"
+        style={{
+          background: `
+            linear-gradient(
+              180deg,
+              transparent 0%,
+              color-mix(in srgb, var(--surface) 44%, transparent) 42%,
+              color-mix(in srgb, var(--surface) 82%, transparent) 74%,
+              var(--surface) 100%
+            )
+          `,
+        }}
+      />
+      <div className="section-shell py-12">
+        <div className="grid gap-10 lg:grid-cols-[1.4fr_0.8fr_0.8fr_0.8fr]">
+          <div className="flex flex-col">
+            <div className="flex items-center gap-3">
+              <Image
+                src="/brand/logo-mark.svg"
+                alt=""
+                width={40}
+                height={40}
+                className="rounded-full shadow-[0_4px_20px_rgba(42,107,82,0.08)] ring-1 ring-[var(--line)] transition-transform duration-500 hover:scale-105"
+              />
+              <span className="text-xl font-serif font-bold tracking-tight text-[var(--forest-deep)]">
+                {siteConfig.name}
+              </span>
+            </div>
+            <h2 className="mt-6 max-w-lg text-xl font-serif leading-[1.4] sm:text-[1.35rem] text-[var(--foreground)]">
               A digital encyclopedia built for readers of every age — at home, in class, or on the go.
             </h2>
-            <p className="mt-4 max-w-xl text-base leading-8 text-[rgba(255,255,255,0.72)]">
+            <p className="mt-4 max-w-xl text-sm leading-[1.8] text-[var(--muted)] font-light">
               Explore wildlife through large images, quick facts, and habitat and diet trails that
               keep you moving from one discovery to the next.
             </p>
           </div>
 
           {footerGroups.map((group) => (
-            <div key={group.title}>
-              <h3 className="text-sm font-semibold uppercase tracking-[0.08em] text-[var(--warm-soft)]">
+            <div key={group.title} className="flex flex-col">
+              <h3 className="text-[0.7rem] font-semibold uppercase tracking-widest text-[var(--forest)]/70">
                 {group.title}
               </h3>
               <ul className="mt-5 space-y-3">
@@ -56,7 +84,7 @@ export function SiteFooter() {
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="text-sm text-[rgba(255,255,255,0.78)] transition-colors hover:text-white"
+                      className="inline-flex items-center text-[0.85rem] font-light text-[var(--muted)] transition-colors duration-300 hover:text-[var(--forest-deep)]"
                     >
                       {link.label}
                     </Link>
@@ -67,21 +95,25 @@ export function SiteFooter() {
           ))}
         </div>
 
-        <div className="mt-12 flex flex-col gap-4 border-t border-white/10 pt-8 sm:flex-row sm:items-center sm:justify-between">
-          <p className="text-sm text-[rgba(255,255,255,0.62)]">
+        <div className="mt-16 flex flex-col gap-5 border-t border-[var(--line)]/50 pt-8 sm:flex-row sm:items-center sm:justify-between">
+          <p className="text-sm font-light text-[var(--muted)]/80">
             © {new Date().getFullYear()} {siteConfig.organizationName}. All rights reserved.
           </p>
-          <div className="flex flex-wrap gap-x-5 gap-y-2 text-sm">
-            <Link href="/privacy" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+          <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm font-light">
+            <Link href="/privacy" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
               Privacy
             </Link>
-            <Link href="/terms" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+            <Link href="/terms" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
               Terms
             </Link>
-            <Link href="/contact" className="text-[rgba(255,255,255,0.78)] hover:text-white">
+            <Link href="/contact" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
               Contact
             </Link>
           </div>
+        </div>
+
+        <div className="mt-6">
+          <PrivacySettingsControl compact />
         </div>
       </div>
     </footer>

@@ -113,7 +113,7 @@ export default function AboutPage() {
         </p>
       </InfoSection>
 
-      <div className="info-page__cta rounded-[1.75rem] bg-[var(--forest)] px-6 py-7 text-white shadow-[0_28px_60px_rgba(42,107,82,0.22)] sm:px-8 sm:py-8">
+      <div className="info-page__cta rounded-[1.75rem] bg-[var(--forest-surface)] px-6 py-7 text-white shadow-[0_28px_60px_rgba(42,107,82,0.22)] sm:px-8 sm:py-8">
         <p className="eyebrow eyebrow--dark">Start exploring</p>
         <h2 className="mt-3 text-2xl font-extrabold tracking-tight sm:text-3xl">
           Ready to explore your next animal page?

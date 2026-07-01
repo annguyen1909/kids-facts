@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-range",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-range",
+  "fileName": "mandarinfish-range-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Mandarinfish thriving in the rich marine environment of Lembeh, Indonesia",
+  "caption": "Their native range spans the pristine coral triangles of the western Pacific, from the Ryukyu Islands down to Australia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Lembeh, Indonesia",
+  "acquisitionNotes": "High-resolution 4608x3456 regional range photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/23/Mandarinfish_%28Synchiropus_splendidus%29_%2816057996190%29.jpg",
+  "updatedAt": "2026-06-29T11:59:05.390Z",
+  "attributionText": "Photo by Rickard Zerpe via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandarinfish_(Synchiropus_splendidus)_(16057996190).jpg\">Rickard Zerpe</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandarinfish_(Synchiropus_splendidus)_(16057996190).jpg",
+    "creatorName": "Rickard Zerpe",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:59:05.390Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-range-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-range-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-range-01-1200.webp"
+  }
+}

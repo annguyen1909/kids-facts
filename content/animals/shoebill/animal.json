@@ -1,0 +1,151 @@
+{
+  "id": "animal-shoebill",
+  "slug": "shoebill",
+  "name": "Shoebill",
+  "commonNames": [
+    "Shoebill",
+    "Shoebill Stork",
+    "Whale-headed Stork",
+    "Shoe-billed Stork"
+  ],
+  "scientificName": "Balaeniceps rex",
+  "summary": "The shoebill is a massive, solitary bird endemic to the dense freshwater swamps of tropical East Africa. Known for its powerful, clog-shaped bill and statue-like stalking patience, it hunts lungfish and snakes in dense papyrus marshes.",
+  "heroTitle": "Shoebill Facts",
+  "metaTitle": "Shoebill Facts | Swamp Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Explore shoebill facts with high-quality photos, swamp habitat, lungfish diet, statue-like hunting behavior, and life cycle information.",
+  "searchIntents": [
+    "shoebill facts",
+    "what do shoebills eat",
+    "where do shoebills live",
+    "how big is a shoebill stork",
+    "can shoebills fly",
+    "why are shoebills endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Pelecaniformes",
+    "family": "Balaenicipitidae",
+    "genus": "Balaeniceps",
+    "species": "B. rex"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "large"
+  ],
+  "habitat": "wetland",
+  "continents": [
+    "Africa"
+  ],
+  "countries": [
+    "Uganda",
+    "South Sudan",
+    "Democratic Republic of the Congo",
+    "Zambia",
+    "Tanzania"
+  ],
+  "biomes": [
+    "freshwater",
+    "wetland",
+    "papyrus swamp"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "lungfish",
+    "tilapia",
+    "water snakes",
+    "frogs",
+    "baby crocodiles"
+  ],
+  "lifespan": {
+    "wild": "35 to 50 years",
+    "captivity": "Up to 50 years"
+  },
+  "size": {
+    "lengthMin": "3.5 feet",
+    "lengthMax": "5 feet"
+  },
+  "weight": {
+    "min": "9 pounds",
+    "max": "15 pounds"
+  },
+  "speed": "Strong but slow flier, capable of soaring on thermals",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "motionless stalking",
+    "solitary hunting",
+    "bill clattering",
+    "gular fluttering",
+    "thermal soaring"
+  ],
+  "adaptations": [
+    "massive hooked bill",
+    "long unwebbed toes for walking on floating vegetation",
+    "wide binocular vision",
+    "urohidrosis for cooling",
+    "large broad wings"
+  ],
+  "predators": [
+    "crocodiles",
+    "humans"
+  ],
+  "prey": [
+    "lungfish",
+    "water snakes",
+    "catfish",
+    "frogs"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for about 30 days",
+    "offspringCount": "1 to 3 eggs per clutch (typically only one chick survives)"
+  },
+  "funFacts": [
+    "Shoebills look like storks but are genetically much closer to pelicans and herons.",
+    "Their massive bill is the third-longest among all living birds and features a razor-sharp hook at the tip.",
+    "They can stand perfectly motionless for hours waiting for a lungfish to surface for air.",
+    "Shoebills communicate by clattering their giant bills together, producing a sound similar to a machine gun.",
+    "To survive the intense African heat, shoebills practice urohidrosis, defecating on their legs to cool down via evaporation.",
+    "Older chicks often practice siblicide, where the dominant chick forces its younger sibling out of the nest."
+  ],
+  "faq": [
+    {
+      "question": "What is a shoebill?",
+      "answer": "A shoebill is a large, iconic stork-like bird found in African wetlands, easily recognized by its massive shoe-shaped bill."
+    },
+    {
+      "question": "Where do shoebills live?",
+      "answer": "Shoebills live in vast freshwater marshes and dense papyrus swamps in tropical East Africa, particularly in Uganda and South Sudan."
+    },
+    {
+      "question": "What do shoebills eat?",
+      "answer": "Shoebills are strict carnivores whose diet consists primarily of lungfish, though they also eat tilapia, water snakes, frogs, and small juvenile crocodiles."
+    },
+    {
+      "question": "Can shoebills fly?",
+      "answer": "Yes, despite their massive size and heavy bills, shoebills are strong fliers and frequently soar on thermal currents with their necks pulled back."
+    },
+    {
+      "question": "Are shoebills dangerous to humans?",
+      "answer": "No, shoebills are generally docile and wary around humans, though their powerful bills command respect in close quarters."
+    },
+    {
+      "question": "Why are shoebills endangered?",
+      "answer": "Shoebills are listed as Vulnerable due to habitat destruction, wetland drainage for agriculture, pollution, and the illegal trade of chicks."
+    }
+  ],
+  "relatedAnimals": [
+    "eagle",
+    "penguin",
+    "ostrich"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "shoebill-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

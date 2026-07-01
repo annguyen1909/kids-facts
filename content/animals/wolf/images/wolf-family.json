@@ -2,10 +2,10 @@
   "id": "wolf-family",
   "animalSlug": "wolf",
   "slug": "wolf-family",
-  "fileName": "Aerial view of arctic wolf pack in snow canis lupus.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
-  "width": 2401,
-  "height": 1563,
+  "fileName": "wolf-family-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-family-01-1200.webp",
+  "width": 1200,
+  "height": 781,
   "alt": "Wolf pack traveling together across snowy Arctic landscape",
   "caption": "Wolves live in packs, usually led by a breeding pair and their offspring.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Arctic Canada",
-  "acquisitionNotes": "Manually curated wolf pack image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Manually curated wolf pack image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/05/Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
+  "updatedAt": "2026-06-25T15:14:47.609Z",
   "attributionText": "Photo by U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg\">U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg\">U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
     "creatorName": "U.S. Fish and Wildlife Service",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_arctic_wolf_pack_in_snow_canis_lupus.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:47.609Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-family-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-family-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-family-01-1200.webp"
   }
 }

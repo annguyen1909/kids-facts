@@ -1,0 +1,38 @@
+{
+  "id": "luna-moth-core-baby",
+  "animalSlug": "luna-moth",
+  "slug": "luna-moth-core-baby",
+  "fileName": "luna-moth-core-baby-01-1200.webp",
+  "src": "/images/animals/luna-moth/web/luna-moth-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 1019,
+  "alt": "A young or baby Luna Moth showing early development",
+  "caption": "Baby Luna Moths must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Andy Reago &amp; Chrissy McClarren via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:-_7758_%E2%80%93_Actias_luna_%E2%80%93_Luna_Moth_(47945194142).jpg\">Andy Reago &amp; Chrissy McClarren</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:-_7758_%E2%80%93_Actias_luna_%E2%80%93_Luna_Moth_(47945194142).jpg",
+    "creatorName": "Andy Reago &amp; Chrissy McClarren",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:02:02.866Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified luna-moth image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/41/-_7758_%E2%80%93_Actias_luna_%E2%80%93_Luna_Moth_%2847945194142%29.jpg",
+  "updatedAt": "2026-06-25T15:02:02.866Z",
+  "srcSet": {
+    "web1200": "/images/animals/luna-moth/web/luna-moth-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/luna-moth/thumbnails/luna-moth-core-baby-01-400.webp",
+    "original": "/images/animals/luna-moth/web/luna-moth-core-baby-01-1200.webp"
+  }
+}

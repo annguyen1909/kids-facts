@@ -2,10 +2,10 @@
   "id": "zebra-fun-fact",
   "animalSlug": "zebra",
   "slug": "zebra-fun-fact",
-  "fileName": "Zebra running Ngorongoro.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Zebra_running_Ngorongoro.jpg",
-  "width": 1992,
-  "height": 1328,
+  "fileName": "zebra-fun-fact-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Zebra running fast across open ground",
   "caption": "A zebra can run fast and change direction quickly when escaping danger.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Ngorongoro, Tanzania",
-  "acquisitionNotes": "Manually curated zebra fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Manually curated zebra fun-fact image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/49/Zebra_running_Ngorongoro.jpg",
+  "updatedAt": "2026-06-25T15:15:16.449Z",
   "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebra_running_Ngorongoro.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebra_running_Ngorongoro.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zebra_running_Ngorongoro.jpg",
     "creatorName": "Muhammad Mahdi Karim",
     "licenseName": "GFDL 1.2",
-    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:16.449Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-fun-fact-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-fun-fact-01-1200.webp"
   }
 }

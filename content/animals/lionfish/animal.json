@@ -1,0 +1,157 @@
+{
+  "id": "animal-lionfish",
+  "slug": "lionfish",
+  "name": "Red Lionfish",
+  "commonNames": [
+    "Red Lionfish",
+    "Lionfish",
+    "Common lionfish",
+    "Devil firefish"
+  ],
+  "scientificName": "Pterois volitans",
+  "summary": "Red lionfish are striped reef fish with long fan-like fins and venomous spines. They are native to the Indo-Pacific and are also famous for becoming invasive in the western Atlantic and Caribbean.",
+  "heroTitle": "Red Lionfish Facts",
+  "metaTitle": "Lionfish Facts | Venomous Spines, Diet & Photos",
+  "metaDescription": "Discover red lionfish facts with photos, reef habitat, venomous spines, hunting behavior, and invasive range.",
+  "searchIntents": [
+    "lionfish facts",
+    "red lionfish facts",
+    "what do lionfish eat",
+    "where do lionfish live",
+    "are lionfish venomous",
+    "why are lionfish invasive"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Scorpaeniformes",
+    "family": "Scorpaenidae",
+    "genus": "Pterois",
+    "species": "P. volitans"
+  },
+  "classificationLabels": [
+    "fish",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Asia",
+    "Australia",
+    "North America"
+  ],
+  "countries": [
+    "Indonesia",
+    "Philippines",
+    "Japan",
+    "Australia",
+    "United States",
+    "Bahamas",
+    "Mexico"
+  ],
+  "biomes": [
+    "marine",
+    "coral reef",
+    "mangrove"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "small fish",
+    "shrimp",
+    "crabs",
+    "juvenile reef animals"
+  ],
+  "lifespan": {
+    "wild": "10 to 15 years",
+    "captivity": "Up to 15 years in aquariums"
+  },
+  "size": {
+    "lengthMin": "10 inches",
+    "lengthMax": "15 inches"
+  },
+  "weight": {
+    "min": "1 pound",
+    "max": "3 pounds"
+  },
+  "speed": "Slow swimmer with very fast feeding strikes",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "ambush hunting",
+    "night activity",
+    "hovering near reef cover",
+    "fin flaring",
+    "frequent spawning"
+  ],
+  "adaptations": [
+    "venomous spines",
+    "striped warning colors",
+    "wide pectoral fins for cornering prey",
+    "expandable stomach",
+    "suction feeding"
+  ],
+  "predators": [
+    "groupers",
+    "moray eels",
+    "sharks",
+    "humans"
+  ],
+  "prey": [
+    "small fish",
+    "shrimp",
+    "crabs"
+  ],
+  "reproduction": {
+    "offspringName": "larva",
+    "gestationOrIncubation": "Eggs hatch in about 1 to 2 days",
+    "offspringCount": "Thousands of eggs in floating egg masses"
+  },
+  "funFacts": [
+    "Lionfish use their broad fins to herd prey into tight spaces before striking.",
+    "Their spines are venomous, but the fish do not attack people on purpose.",
+    "A female lionfish can spawn many times in a year.",
+    "Lionfish can swallow prey surprisingly large for their body size.",
+    "In the Atlantic, lionfish have spread quickly because they have few natural enemies there.",
+    "The red-and-white stripes warn other animals to stay away."
+  ],
+  "faq": [
+    {
+      "question": "What is a lionfish?",
+      "answer": "A lionfish is a reef fish with long fins, bold stripes, and venomous spines. This page focuses on the red lionfish."
+    },
+    {
+      "question": "Where do lionfish live?",
+      "answer": "Red lionfish are native to the Indo-Pacific, but they also live as an invasive species in the Caribbean, Gulf of Mexico, and western Atlantic."
+    },
+    {
+      "question": "What do lionfish eat?",
+      "answer": "They are carnivores that eat small fish, shrimp, crabs, and other young reef animals."
+    },
+    {
+      "question": "Are lionfish venomous?",
+      "answer": "Yes. Their long spines carry venom that can cause a very painful sting."
+    },
+    {
+      "question": "Why are lionfish considered invasive?",
+      "answer": "In the Atlantic they reproduce fast, eat many native reef fish, and face fewer predators than they do in their natural Indo-Pacific range."
+    },
+    {
+      "question": "Are lionfish endangered?",
+      "answer": "No. Red lionfish are generally listed as Least Concern, but in some places the bigger problem is that they threaten other reef animals."
+    }
+  ],
+  "relatedAnimals": [
+    "clownfish",
+    "angelfish",
+    "pufferfish"
+  ],
+  "comparisonCandidates": [
+    "pufferfish"
+  ],
+  "galleryIds": [
+    "lionfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "habitat": "ocean"
+}

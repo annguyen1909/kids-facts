@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-core-diet",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-core-diet",
+  "fileName": "spotted-hyena-core-diet-01-1200.webp",
+  "alt": "Spotted hyena feeding on small prey remains in the grass",
+  "caption": "Strong jaws and teeth let a hyena eat meat and crack bones other animals leave behind.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Kruger National Park, South Africa",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 996,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Spotted_Hyaena_(Crocuta_crocuta)_eating_some_bird_remains_..._(51858022174).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spotted_Hyaena_(Crocuta_crocuta)_eating_some_bird_remains_..._(51858022174).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:50:27.068Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3e/Spotted_Hyaena_%28Crocuta_crocuta%29_eating_some_bird_remains_..._%2851858022174%29.jpg",
+  "updatedAt": "2026-06-28T09:50:27.068Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-core-diet-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-core-diet-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "cicada-habitat",
+  "animalSlug": "cicada",
+  "slug": "cicada-habitat",
+  "fileName": "cicada-habitat-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Cicada navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by peterwchen via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-female_ovipositing.jpg\">peterwchen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim-female_ovipositing.jpg",
+    "creatorName": "peterwchen",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:51:12.459Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/82/Magicicada_septendecim-female_ovipositing.jpg",
+  "updatedAt": "2026-06-25T14:51:12.459Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-habitat-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-habitat-01-1200.webp"
+  }
+}

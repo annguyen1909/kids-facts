@@ -2,10 +2,10 @@
   "id": "hippopotamus-core-habitat",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-core-habitat",
-  "fileName": "Hippopotamus Rwindi 18.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_18.jpg",
-  "width": 2369,
-  "height": 1572,
+  "fileName": "hippopotamus-core-habitat-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 796,
   "alt": "Hippopotamus resting in muddy river water",
   "caption": "Rivers, lakes, and wetlands give hippos water to cool off and escape the hot sun.",
   "attributionText": "Photo by Ad Meskens via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:12:09.452Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Rwindi, Democratic Republic of the Congo",
-  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_18.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Hippopotamus_Rwindi_18.jpg",
+  "updatedAt": "2026-06-26T19:12:09.452Z",
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-core-habitat-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-core-habitat-01-1200.webp"
+  }
 }

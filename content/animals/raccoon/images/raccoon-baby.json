@@ -2,10 +2,10 @@
   "id": "raccoon-baby",
   "animalSlug": "raccoon",
   "slug": "raccoon-baby",
-  "fileName": "Racoon family blackwater nwr 7.8.22 DSC 9334.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Racoon_family_blackwater_nwr_7.8.22_DSC_9334.jpg",
-  "width": 5568,
-  "height": 3712,
+  "fileName": "raccoon-baby-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Young raccoon kits with an adult raccoon",
   "caption": "Baby raccoons called kits are born in spring and stay with their mother.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Maryland, USA",
-  "acquisitionNotes": "Manually curated raccoon kit image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Manually curated raccoon kit image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4d/Racoon_family_blackwater_nwr_7.8.22_DSC_9334.jpg",
+  "updatedAt": "2026-06-25T15:08:49.889Z",
   "attributionText": "Photo by lwolfartist via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Racoon_family_blackwater_nwr_7.8.22_DSC_9334.jpg\">lwolfartist</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:49.889Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-baby-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-baby-01-1200.webp"
   }
 }

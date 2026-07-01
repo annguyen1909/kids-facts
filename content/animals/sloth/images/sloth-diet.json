@@ -2,10 +2,10 @@
   "id": "sloth-diet",
   "animalSlug": "sloth",
   "slug": "sloth-diet",
-  "fileName": "Three toed sloth (Bradypus variegatus) (5332568388).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Three_toed_sloth_%28Bradypus_variegatus%29_%285332568388%29.jpg",
-  "width": 2592,
-  "height": 3872,
+  "fileName": "sloth-diet-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1793,
   "alt": "Three-toed sloth feeding on leaves in a tree",
   "caption": "Sloths eat leaves, buds, and tender shoots from rainforest trees.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated sloth diet image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Manually curated sloth diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/09/Three_toed_sloth_%28Bradypus_variegatus%29_%285332568388%29.jpg",
+  "updatedAt": "2026-06-25T15:11:28.474Z",
   "attributionText": "Photo by Dallas Krentzel via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Three_toed_sloth_(Bradypus_variegatus)_(5332568388).jpg\">Dallas Krentzel</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:28.474Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-diet-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-diet-01-1200.webp"
   }
 }

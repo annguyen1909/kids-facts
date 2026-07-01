@@ -2,10 +2,10 @@
   "id": "koala-core-baby",
   "animalSlug": "koala",
   "slug": "koala-core-baby",
-  "fileName": "Koala and joey in Petrie Koala Corridor.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Koala_and_joey_in_Petrie_Koala_Corridor.JPG",
-  "width": 3648,
-  "height": 2736,
+  "fileName": "koala-core-baby-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Young koala joey riding on its mother's back",
   "caption": "After leaving the pouch, joeys cling to their mother's back while learning to climb.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Petrie, Queensland, Australia",
-  "acquisitionNotes": "Core article image curated separately from the koala gallery set.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Core article image curated separately from the koala gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c4/Koala_and_joey_in_Petrie_Koala_Corridor.JPG",
+  "updatedAt": "2026-06-25T14:59:36.051Z",
   "attributionText": "Photo by Lawrence \"Lemming\" Dixon via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_and_joey_in_Petrie_Koala_Corridor.JPG\">Lawrence \"Lemming\" Dixon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:36.051Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-core-baby-01-400.webp",
+    "original": "/images/animals/koala/web/koala-core-baby-01-1200.webp"
   }
 }

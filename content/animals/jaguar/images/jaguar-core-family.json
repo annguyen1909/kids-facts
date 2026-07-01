@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-core-family",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-core-family",
+  "fileName": "jaguar-core-family-01-1200.webp",
+  "alt": "A group of Jaguars interacting with each other",
+  "caption": "While often solitary, some Jaguars interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 980,
+  "attributionText": "Photo by en:User:Cburnett via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_head_shot.jpg\">en:User:Cburnett</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_head_shot.jpg",
+    "creatorName": "en:User:Cburnett",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:17.472Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f6/Jaguar_head_shot.jpg",
+  "updatedAt": "2026-06-26T08:11:17.472Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-core-family-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-core-family-01-1200.webp"
+  }
+}

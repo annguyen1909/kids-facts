@@ -1,0 +1,38 @@
+{
+  "id": "honeybee-size",
+  "animalSlug": "honeybee",
+  "slug": "honeybee-size",
+  "fileName": "honeybee-size-01-1200.webp",
+  "src": "/images/animals/honeybee/web/honeybee-size-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "alt": "A beekeeper in a white protective suit holding a wooden hive frame covered in bees",
+  "caption": "A worker honey bee is tiny, measuring about half an inch (1.2 cm) long.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Estonia",
+  "acquisitionNotes": "Manually verified honeybee image for size. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cc/Beekeeping_in_a_bee_suit_while_holding_a_honeycomb_from_a_beehive.jpg",
+  "updatedAt": "2026-06-25T14:58:28.240Z",
+  "attributionText": "Photo by Matthew T Rader via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Beekeeping_in_a_bee_suit_while_holding_a_honeycomb_from_a_beehive.jpg\">Matthew T Rader</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beekeeping_in_a_bee_suit_while_holding_a_honeycomb_from_a_beehive.jpg",
+    "creatorName": "Matthew T Rader",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:28.240Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/honeybee/web/honeybee-size-01-1200.webp",
+    "thumbnail400": "/images/animals/honeybee/thumbnails/honeybee-size-01-400.webp",
+    "original": "/images/animals/honeybee/web/honeybee-size-01-1200.webp"
+  }
+}

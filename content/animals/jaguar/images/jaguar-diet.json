@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-diet",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-diet",
+  "fileName": "jaguar-diet-01-1200.webp",
+  "alt": "A Jaguar finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Jaguar.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-diet-01-1200.webp",
+  "width": 1200,
+  "height": 980,
+  "attributionText": "Photo by Cburnett at English Wikipedia via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Jaguar_head_shot-edit2.jpg\">Cburnett at English Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jaguar_head_shot-edit2.jpg",
+    "creatorName": "Cburnett at English Wikipedia",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:22.942Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c9/Jaguar_head_shot-edit2.jpg",
+  "updatedAt": "2026-06-26T08:11:22.942Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-diet-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-diet-01-1200.webp"
+  }
+}

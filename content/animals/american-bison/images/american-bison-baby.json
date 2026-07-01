@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-baby",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-baby",
+  "fileName": "american-bison-baby-01-1200.webp",
+  "alt": "Reddish-brown American bison calf standing on a grassy ridge",
+  "caption": "Newborn bison calves are orange-red, which is why people nickname them 'red dogs.'",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "United States",
+  "src": "/images/animals/american-bison/web/american-bison-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Eric Kilby via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_Calf_on_a_Ridge.jpg\">Eric Kilby</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_Calf_on_a_Ridge.jpg",
+    "creatorName": "Eric Kilby",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:12.618Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1c/Bison_Calf_on_a_Ridge.jpg",
+  "updatedAt": "2026-06-28T09:54:12.618Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-baby-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-baby-01-1200.webp"
+  }
+}

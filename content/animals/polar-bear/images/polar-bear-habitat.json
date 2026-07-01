@@ -2,10 +2,10 @@
   "id": "polar-bear-habitat",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-habitat",
-  "fileName": "Polar Bear AdF.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Polar_Bear_AdF.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "polar-bear-habitat-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Polar bear standing on frozen sea ice",
   "caption": "Polar bears depend on Arctic sea ice to travel and hunt seals.",
   "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:45.676Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Arctic sea ice",
-  "acquisitionNotes": "Manually curated polar bear habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Manually curated polar bear habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3d/Polar_Bear_AdF.jpg",
+  "updatedAt": "2026-06-25T15:07:45.676Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-habitat-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-habitat-01-1200.webp"
+  }
 }

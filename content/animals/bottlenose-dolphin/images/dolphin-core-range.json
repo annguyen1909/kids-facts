@@ -2,23 +2,23 @@
   "id": "dolphin-core-range",
   "animalSlug": "bottlenose-dolphin",
   "slug": "dolphin-core-range",
-  "fileName": "Dalian_Liaoning_China_Laohutan-Ocean-Park-03.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bottlenose_Dolphin.JPG",
-  "width": 2048,
-  "height": 1536,
-  "alt": "Bottlenose dolphin swimming in open coastal waters",
-  "caption": "Bottlenose dolphins live in warm coastal waters and open oceans worldwide.",
-  "attributionText": "Photo by NASA via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin.JPG\">NASA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin.JPG\">Public domain</a>",
+  "fileName": "dolphin-core-range-01-1200.webp",
+  "src": "/images/animals/bottlenose-dolphin/web/dolphin-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "alt": "Bottlenose dolphins swimming at Amity Point",
+  "caption": "These dolphins are found in temperate and tropical seas on almost every continent.",
+  "attributionText": "Photo by Mark Gillow via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphins,_Amity_Point,_Stradbroke_Island,_2021.jpg\">Mark Gillow</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin.JPG",
-    "creatorName": "NASA",
-    "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphin.JPG",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bottlenose_Dolphins,_Amity_Point,_Stradbroke_Island,_2021.jpg",
+    "creatorName": "Mark Gillow",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-07-01T12:33:41.844Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -27,7 +27,12 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Open ocean",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "location": "Stradbroke Island, Australia",
+  "acquisitionNotes": "Core article range image — replaced painting with real photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dd/Bottlenose_Dolphins%2C_Amity_Point%2C_Stradbroke_Island%2C_2021.jpg",
+  "updatedAt": "2026-07-01T12:33:41.844Z",
+  "srcSet": {
+    "web1200": "/images/animals/bottlenose-dolphin/web/dolphin-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/bottlenose-dolphin/thumbnails/dolphin-core-range-01-400.webp",
+    "original": "/images/animals/bottlenose-dolphin/web/dolphin-core-range-01-1200.webp"
+  }
 }

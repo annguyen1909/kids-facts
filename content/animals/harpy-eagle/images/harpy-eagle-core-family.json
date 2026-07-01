@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-core-family",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-core-family",
+  "alt": "Harpy eagle perched attentively in the high canopy of Panama",
+  "caption": "Parents provide extended care for their single chick, feeding the juvenile for over a year post-fledging.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Pijibasal, Darien Gap, Panama",
+  "fileName": "harpy-eagle-core-family-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 957,
+  "attributionText": "Photo by gailhampshire from Cradley, Malvern, U.K via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-_Harpy_Eagle._(41760126880).jpg\">gailhampshire from Cradley, Malvern, U.K</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpia_harpyja_-_Harpy_Eagle._(41760126880).jpg",
+    "creatorName": "gailhampshire from Cradley, Malvern, U.K",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:26.824Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-quality wild shot depicting family territorial maintenance. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/Harpia_harpyja_-_Harpy_Eagle._%2841760126880%29.jpg",
+  "updatedAt": "2026-06-29T11:55:26.824Z",
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-core-family-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-core-family-01-1200.webp"
+  }
+}

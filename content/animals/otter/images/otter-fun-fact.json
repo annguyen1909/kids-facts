@@ -2,10 +2,10 @@
   "id": "otter-fun-fact",
   "animalSlug": "otter",
   "slug": "otter-fun-fact",
-  "fileName": "Savvy with tools (15092573950).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Savvy_with_tools_%2815092573950%29.jpg",
-  "width": 1503,
-  "height": 1059,
+  "fileName": "otter-fun-fact-01-1200.webp",
+  "src": "/images/animals/otter/web/otter-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 846,
   "alt": "Sea otter using a rock tool while floating",
   "caption": "Sea otters are famous for using rocks to crack open hard shells.",
   "imageType": "fun-fact",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Coastal waters",
-  "acquisitionNotes": "Manually curated otter fun-fact image with verified sea otter identification.",
-  "updatedAt": "2026-06-23T06:50:50.035Z",
+  "acquisitionNotes": "Manually curated otter fun-fact image with verified sea otter identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Savvy_with_tools_%2815092573950%29.jpg",
+  "updatedAt": "2026-06-25T15:05:16.243Z",
   "attributionText": "Photo by Pacific Southwest Region USFWS from Sacramento, US via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Savvy_with_tools_(15092573950).jpg\">Pacific Southwest Region USFWS from Sacramento, US</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Savvy_with_tools_(15092573950).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Savvy_with_tools_(15092573950).jpg\">Pacific Southwest Region USFWS from Sacramento, US</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Savvy_with_tools_(15092573950).jpg",
     "creatorName": "Pacific Southwest Region USFWS from Sacramento, US",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Savvy_with_tools_(15092573950).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T06:50:50.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:16.243Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/otter/web/otter-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/otter/thumbnails/otter-fun-fact-01-400.webp",
+    "original": "/images/animals/otter/web/otter-fun-fact-01-1200.webp"
   }
 }

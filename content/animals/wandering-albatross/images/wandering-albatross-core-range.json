@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-core-range",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-core-range",
+  "alt": "A beautiful wandering albatross sitting peacefully on South Georgia",
+  "caption": "International treaties and bycatch mitigation measures in global fisheries are crucial to halting the decline of these magnificent oceanic wanderers.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Prion Island, South Georgia",
+  "fileName": "wandering-albatross-core-range-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Godot13 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_03.jpg\">Godot13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_03.jpg",
+    "creatorName": "Godot13",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:07.872Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Breathtaking 6250x4167 core conservation wrap-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3b/SGI-2016-South_Georgia_%28Prion_Island%29%E2%80%93Wandering_albatross_%28Diomedea_exulans%29_03.jpg",
+  "updatedAt": "2026-06-29T12:06:07.872Z",
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-core-range-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-core-range-01-1200.webp"
+  }
+}

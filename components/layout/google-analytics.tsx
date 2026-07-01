@@ -1,9 +1,14 @@
+"use client";
+
 import Script from "next/script";
+import { useConsentStatus } from "@/lib/consent";
 import { siteConfig } from "@/lib/site-config";
 
 export function GoogleAnalytics() {
   const measurementId = siteConfig.gaMeasurementId;
-  if (!measurementId) return null;
+  const consent = useConsentStatus();
+
+  if (!measurementId || consent !== "accepted") return null;
 
   return (
     <>

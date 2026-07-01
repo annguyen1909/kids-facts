@@ -1,0 +1,38 @@
+{
+  "id": "kingfisher-hero",
+  "animalSlug": "kingfisher",
+  "slug": "kingfisher-hero",
+  "fileName": "kingfisher-hero-01-1200.webp",
+  "src": "/images/animals/kingfisher/web/kingfisher-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "A beautiful portrait of a Common Kingfisher in the wild",
+  "caption": "The Common Kingfisher is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Andreas Trepte via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg\">Andreas Trepte</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg",
+    "creatorName": "Andreas Trepte",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:59:30.989Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified kingfisher image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cc/Common_Kingfisher_Alcedo_atthis.jpg",
+  "updatedAt": "2026-06-25T14:59:30.989Z",
+  "srcSet": {
+    "web1200": "/images/animals/kingfisher/web/kingfisher-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/kingfisher/thumbnails/kingfisher-hero-01-400.webp",
+    "original": "/images/animals/kingfisher/web/kingfisher-hero-01-1200.webp"
+  }
+}

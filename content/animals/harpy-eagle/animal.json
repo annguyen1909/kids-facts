@@ -1,0 +1,156 @@
+{
+  "id": "animal-harpy-eagle",
+  "slug": "harpy-eagle",
+  "name": "Harpy Eagle",
+  "commonNames": [
+    "Harpy Eagle",
+    "American Harpy Eagle",
+    "Royal-hawk"
+  ],
+  "scientificName": "Harpia harpyja",
+  "summary": "The harpy eagle is a legendary apex predator of the Neotropical rainforest canopy. Renowned for its massive talons, distinctive double crest, and incredible maneuverability, it hunts arboreal mammals like sloths and monkeys in the pristine jungles of Central and South America.",
+  "heroTitle": "Harpy Eagle Facts",
+  "metaTitle": "Harpy Eagle Facts | Rainforest Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Explore harpy eagle facts with high-quality photos, rainforest canopy habitat, monkey and sloth diet, hunting behavior, and life cycle information.",
+  "searchIntents": [
+    "harpy eagle facts",
+    "what do harpy eagles eat",
+    "where do harpy eagles live",
+    "how big is a harpy eagle",
+    "harpy eagle size comparison",
+    "why are harpy eagles endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Harpia",
+    "species": "H. harpyja"
+  },
+  "classificationLabels": [
+    "bird",
+    "carnivore",
+    "large"
+  ],
+  "habitat": "rainforest",
+  "continents": [
+    "North America",
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Panama",
+    "Ecuador",
+    "Peru",
+    "Colombia",
+    "Venezuela",
+    "Guyana",
+    "Suriname",
+    "French Guiana",
+    "Belize"
+  ],
+  "biomes": [
+    "tropical rainforest",
+    "lowland forest canopy"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "sloths",
+    "capuchin monkeys",
+    "howler monkeys",
+    "iguana",
+    "macaws",
+    "porcupines"
+  ],
+  "lifespan": {
+    "wild": "25 to 35 years",
+    "captivity": "Up to 40 years"
+  },
+  "size": {
+    "lengthMin": "2.8 feet",
+    "lengthMax": "3.5 feet"
+  },
+  "weight": {
+    "min": "9 pounds",
+    "max": "20 pounds"
+  },
+  "speed": "Agile canopy flier capable of reaching speeds up to 50 mph during hunting dives",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "canopy perching",
+    "acoustic scanning",
+    "territorial defense",
+    "monogamous pairing",
+    "apex ambushing"
+  ],
+  "adaptations": [
+    "talons larger than a grizzly bear's claws",
+    "short broad wings for navigating dense forest branches",
+    "facial disc of feathers to direct sound to ears",
+    "reversible outer toe for grasping large prey",
+    "massive hooked beak"
+  ],
+  "predators": [
+    "humans"
+  ],
+  "prey": [
+    "three-toed sloths",
+    "two-toed sloths",
+    "capuchin monkeys",
+    "howler monkeys",
+    "spider monkeys"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "Eggs incubate for about 56 days",
+    "offspringCount": "1 to 2 eggs per clutch (typically only one chick is raised to maturity)"
+  },
+  "funFacts": [
+    "Harpy eagles possess rear talons that can reach up to 5 inches (13 cm) in length—larger than the claws of a grizzly bear.",
+    "Their grip strength can exert a bone-crushing pressure of over 500 pounds per square inch.",
+    "They use a specialized facial disc of feathers, similar to an owl, to focus sounds of moving prey directly into their ears.",
+    "Females are significantly larger than males, often weighing up to twice as much.",
+    "Harpy eagle pairs construct massive stick nests high in emergent canopy trees like the kapok, which they reuse and rebuild over many years.",
+    "Despite their immense size, they are incredibly agile and can fly silently through the dense forest canopy to ambush unsuspecting monkeys."
+  ],
+  "faq": [
+    {
+      "question": "What is a harpy eagle?",
+      "answer": "The harpy eagle is one of the world's largest and most powerful eagles, native to the tropical rainforests of Central and South America."
+    },
+    {
+      "question": "Where do harpy eagles live?",
+      "answer": "Harpy eagles inhabit pristine lowland tropical rainforests, typically remaining in the upper forest canopy across the Neotropics, especially in the Amazon basin."
+    },
+    {
+      "question": "What do harpy eagles eat?",
+      "answer": "They are apex carnivores whose diet consists primarily of tree-dwelling mammals like sloths and monkeys, though they also capture iguanas, large birds, and porcupines."
+    },
+    {
+      "question": "How strong is a harpy eagle?",
+      "answer": "Incredibly strong; their massive talons can exert over 500 pounds per square inch of crushing pressure, allowing them to instantly dispatch prey weighing over 15 pounds."
+    },
+    {
+      "question": "Are harpy eagles dangerous to humans?",
+      "answer": "In the wild, harpy eagles generally avoid humans and do not view them as prey, though they will fiercely defend their nests if a human approaches too closely."
+    },
+    {
+      "question": "Why are harpy eagles endangered?",
+      "answer": "Harpy eagles are listed as Vulnerable due to widespread deforestation, fragmentation of their specialized rainforest canopy habitat, and illegal poaching."
+    }
+  ],
+  "relatedAnimals": [
+    "eagle",
+    "owl",
+    "peregrine-falcon"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "harpy-eagle-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

@@ -2,10 +2,10 @@
   "id": "zebra-core-range",
   "animalSlug": "zebra",
   "slug": "zebra-core-range",
-  "fileName": "Zebras Ngorongoro Crater.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Zebras_Ngorongoro_Crater.jpg",
-  "width": 2039,
-  "height": 1359,
+  "fileName": "zebra-core-range-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Zebras spread across a broad crater grassland",
   "caption": "Wild zebra herds need connected grasslands so they can keep moving with the seasons.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Ngorongoro Crater, Tanzania",
-  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Zebras_Ngorongoro_Crater.jpg",
+  "updatedAt": "2026-06-25T15:15:14.355Z",
   "attributionText": "Photo by Muhammad Mahdi Karim via Wikimedia Commons, GFDL 1.2",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebras_Ngorongoro_Crater.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://www.gnu.org/licenses/old-licenses/fdl-1.2.html\">GFDL 1.2</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zebras_Ngorongoro_Crater.jpg\">Muhammad Mahdi Karim</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">GFDL 1.2</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zebras_Ngorongoro_Crater.jpg",
     "creatorName": "Muhammad Mahdi Karim",
     "licenseName": "GFDL 1.2",
-    "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:14.355Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-core-range-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-core-range-01-1200.webp"
   }
 }

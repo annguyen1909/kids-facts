@@ -1,0 +1,42 @@
+{
+  "id": "peacock-core-range",
+  "animalSlug": "peacock",
+  "slug": "peacock-core-range",
+  "fileName": "peacock-core-range-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1721,
+  "alt": "A Peacock traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Martin Falbisoner via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_Peacock,_Palmitos_Park,_May_2018.jpg\">Martin Falbisoner</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Peacock,_Palmitos_Park,_May_2018.jpg",
+    "creatorName": "Martin Falbisoner",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:24.623Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fe/White_Peacock%2C_Palmitos_Park%2C_May_2018.jpg",
+  "updatedAt": "2026-06-25T15:06:24.623Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_Peacock,_Palmitos_Park,_May_2018.jpg",
+  "creatorName": "Martin Falbisoner",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-core-range-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-core-range-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "manatee-diet",
+  "animalSlug": "manatee",
+  "slug": "manatee-diet",
+  "fileName": "manatee-diet-01-1200.webp",
+  "alt": "A Manatee finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Manatee.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/manatee/web/manatee-diet-01-1200.webp",
+  "width": 490,
+  "height": 383,
+  "attributionText": "Photo by from http://www.csc.noaa.gov/benthic/resources/gallery/life/manatee.htm via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Manatee.jpg\">from http://www.csc.noaa.gov/benthic/resources/gallery/life/manatee.htm</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manatee.jpg",
+    "creatorName": "from http://www.csc.noaa.gov/benthic/resources/gallery/life/manatee.htm",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:16:26.669Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified manatee image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/Manatee.jpg",
+  "updatedAt": "2026-06-26T08:16:26.669Z",
+  "srcSet": {
+    "web1200": "/images/animals/manatee/web/manatee-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/manatee/thumbnails/manatee-diet-01-400.webp",
+    "original": "/images/animals/manatee/web/manatee-diet-01-1200.webp"
+  }
+}

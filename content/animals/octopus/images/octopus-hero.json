@@ -1,33 +1,38 @@
 {
   "id": "octopus-hero",
-  "animalSlug": "octopus",
   "slug": "octopus-hero",
-  "fileName": "Octopus vulgaris Merculiano.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Octopus_vulgaris_Merculiano.jpg",
-  "width": 1800,
-  "height": 2000,
-  "alt": "Common octopus with curled arms and large eyes",
-  "caption": "The common octopus is a clever sea animal with eight flexible arms.",
-  "attributionText": "Photo by Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg\">Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg\">Public domain</a>",
-  "source": {
-    "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
-    "creatorName": "Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)",
-    "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
-    "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T10:39:21.349Z",
-    "reviewedBy": "editor@kidsfacts.local"
-  },
-  "imageType": "hero",
+  "animalSlug": "octopus",
+  "fileName": "octopus-hero-01-1200.webp",
   "galleryTopics": [
     "hero"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "Mediterranean Sea",
-  "acquisitionNotes": "Manually curated common octopus hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:21.349Z"
+  "imageType": "hero",
+  "updatedAt": "2026-06-26T19:14:10.200Z",
+  "src": "/images/animals/octopus/web/octopus-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "srcSet": {
+    "web1200": "/images/animals/octopus/web/octopus-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/octopus/thumbnails/octopus-hero-01-400.webp",
+    "original": "/images/animals/octopus/web/octopus-hero-01-1200.webp"
+  },
+  "alt": "Common octopus with curled arms and large eyes underwater",
+  "caption": "The common octopus is a clever sea animal with eight flexible arms.",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-31,_DD_108.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-31,_DD_108.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:14:10.200Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Arrábida, Portugal",
+  "acquisitionNotes": "Promoted to hero for clearer animal-card thumbnail. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f8/Pulpo_com%C3%BAn_%28Octopus_vulgaris%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-31%2C_DD_108.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f8/Pulpo_com%C3%BAn_%28Octopus_vulgaris%29%2C_Parque_natural_de_la_Arr%C3%A1bida%2C_Portugal%2C_2020-07-31%2C_DD_108.jpg"
 }

@@ -79,7 +79,9 @@ export default function TermsPage() {
         <p>
           The site may show advertising or affiliate links to help cover running costs. We aim to
           keep ads away from the main reading flow where possible. Purchases through affiliate links
-          may earn us a small commission at no extra cost to you.
+          may earn us a small commission at no extra cost to you. Optional ad scripts only load
+          after a visitor allows them in{" "}
+          <Link href="/privacy#privacy-settings">Privacy settings</Link>.
         </p>
       </InfoSection>
 

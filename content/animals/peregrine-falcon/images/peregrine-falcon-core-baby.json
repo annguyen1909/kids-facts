@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-core-baby",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-core-baby",
+  "fileName": "peregrine-falcon-core-baby-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 738,
+  "alt": "A young peregrine falcon chick learning to stand in its rocky nest",
+  "caption": "Chicks grow rapidly and are ready to fly about 40 days after hatching.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Russia",
+  "attributionText": "Photo by Vladimir Kharuk via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Falco_peregrinus_143426659.jpg\">Vladimir Kharuk</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_143426659.jpg",
+    "creatorName": "Vladimir Kharuk",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:50.389Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_143426659.jpg",
+  "updatedAt": "2026-06-25T15:06:50.389Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-core-baby-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-core-baby-01-1200.webp"
+  }
+}

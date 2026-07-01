@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-closeup",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-closeup",
+  "fileName": "coelacanth-closeup-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-closeup-01-1200.webp",
+  "width": 800,
+  "height": 600,
+  "alt": "Close-up of a coelacanth's head showing its specialized rostral organ and scales",
+  "caption": "Their snout contains a unique electrosensory rostral organ used to detect the faint electrical signals of prey.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Natural History Museum, London",
+  "acquisitionNotes": "Manually curated coelacanth close-up image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Ha_-_Latimeria_chalumnae_1.jpg",
+  "updatedAt": "2026-06-29T07:22:12.399Z",
+  "attributionText": "Photo by Emőke Dénes via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ha_-_Latimeria_chalumnae_1.jpg\">Emőke Dénes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ha_-_Latimeria_chalumnae_1.jpg",
+    "creatorName": "Emőke Dénes",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:12.399Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-closeup-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-closeup-01-1200.webp"
+  }
+}

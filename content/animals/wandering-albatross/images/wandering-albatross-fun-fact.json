@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-fun-fact",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-fun-fact",
+  "fileName": "wandering-albatross-fun-fact-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Wandering albatross coasting beautifully just inches above the turbulent ocean swell",
+  "caption": "They masterfully utilize dynamic soaring, extracting energy from wind shear boundaries above ocean waves to travel incredible distances virtually effortlessly.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Tasmania",
+  "acquisitionNotes": "Curated fun-fact dynamic soaring behavior image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/aa/Diomedea_exulans_-_SE_Tasmania.jpg",
+  "updatedAt": "2026-06-29T12:06:05.157Z",
+  "attributionText": "Photo by JJ Harrison ( https://www.jjharrison.com.au/ ) via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Diomedea_exulans_-_SE_Tasmania.jpg\">JJ Harrison ( https://www.jjharrison.com.au/ )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_-_SE_Tasmania.jpg",
+    "creatorName": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:05.157Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-fun-fact-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-fun-fact-01-1200.webp"
+  }
+}

@@ -2,8 +2,8 @@
   "id": "giant-panda-closeup",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-closeup",
-  "fileName": "giant-panda-closeup-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Panda_closeup.jpg",
+  "fileName": "giant-panda-closeup-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-closeup-01-1200.webp",
   "width": 1180,
   "height": 1016,
   "alt": "Close-up of a giant panda face with black eye patches and white fur",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "China",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Panda_closeup.jpg",
+  "updatedAt": "2026-06-25T14:55:10.496Z",
   "attributionText": "Photo by Jcwf via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_closeup.jpg\">Jcwf</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:10.496Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-closeup-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-closeup-01-1200.webp"
   }
 }

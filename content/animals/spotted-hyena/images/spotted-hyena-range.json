@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-range",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-range",
+  "fileName": "spotted-hyena-range-01-1200.webp",
+  "alt": "Spotted hyena on the open grassland of the Masai Mara, Kenya",
+  "caption": "Spotted hyenas range widely across sub-Saharan Africa, from East Africa to the south.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Masai Mara, Kenya",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_reserva_natural_Mas%C3%A1i_Mara,_Kenia,_2024-05-19,_DD_52.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hiena_manchada_(Crocuta_crocuta),_reserva_natural_Mas%C3%A1i_Mara,_Kenia,_2024-05-19,_DD_52.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:32.544Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/Hiena_manchada_%28Crocuta_crocuta%29%2C_reserva_natural_Mas%C3%A1i_Mara%2C_Kenia%2C_2024-05-19%2C_DD_52.jpg",
+  "updatedAt": "2026-06-28T09:46:32.544Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-range-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-range-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-range-01-1200.webp"
+  }
+}

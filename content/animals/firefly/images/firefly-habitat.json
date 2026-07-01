@@ -1,0 +1,38 @@
+{
+  "id": "firefly-habitat",
+  "animalSlug": "firefly",
+  "slug": "firefly-habitat",
+  "fileName": "firefly-habitat-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 899,
+  "alt": "A Firefly navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by beewonder via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_179780353.jpg\">beewonder</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_179780353.jpg",
+    "creatorName": "beewonder",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T14:53:10.187Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/66/Photinus_pyralis_179780353.jpg",
+  "updatedAt": "2026-06-25T14:53:10.187Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-habitat-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-habitat-01-1200.webp"
+  }
+}

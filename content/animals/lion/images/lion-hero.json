@@ -2,30 +2,28 @@
   "id": "lion-hero",
   "animalSlug": "lion",
   "slug": "lion-hero",
-  "fileName": "lion-male-resting-rock.webp",
+  "fileName": "lion-hero-01-1200.webp",
   "originalFileName": "lion-male-resting-rock-source.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+  "src": "/images/animals/lion/web/lion-hero-01-1200.webp",
   "srcSet": {
-    "original": "/images/animals/lion/original/lion-hero-01.jpg",
-    "web1600": "/images/animals/lion/web/lion-hero-01-1600.webp",
     "web1200": "/images/animals/lion/web/lion-hero-01-1200.webp",
-    "web800": "/images/animals/lion/web/lion-hero-01-800.webp",
-    "thumbnail400": "/images/animals/lion/thumbnails/lion-hero-01-400.webp"
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-hero-01-400.webp",
+    "original": "/images/animals/lion/web/lion-hero-01-1200.webp"
   },
-  "width": 1920,
-  "height": 1280,
+  "width": 1200,
+  "height": 900,
   "alt": "Male African lion resting on a rock in Namibia",
   "caption": "A male lion rests on a rock while scanning the savanna around him.",
-  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionText": "Photo by Kevin Pluck via Wikimedia Commons, CC BY 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg",
-    "creatorName": "Yathin S Krishnappa",
-    "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creatorName": "Kevin Pluck",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:27.526Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -35,6 +33,7 @@
     "gallery"
   ],
   "location": "Savanna",
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+  "updatedAt": "2026-06-25T15:01:27.526Z",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg\">Kevin Pluck</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>"
 }

@@ -2,10 +2,10 @@
   "id": "penguin-hero",
   "animalSlug": "penguin",
   "slug": "penguin-hero",
-  "fileName": "2007 Snow-Hill-Island Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
-  "width": 2735,
-  "height": 1429,
+  "fileName": "penguin-hero-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-hero-01-1200.webp",
+  "width": 1200,
+  "height": 627,
   "alt": "Emperor penguin standing on snowy ice at Snow Hill Island, Antarctica",
   "caption": "Emperor penguins are the tallest penguin species and live in Antarctica.",
   "imageType": "hero",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Snow Hill Island, Antarctica",
-  "acquisitionNotes": "Manually curated emperor penguin hero image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated emperor penguin hero image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ac/2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+  "updatedAt": "2026-06-25T15:06:46.358Z",
   "attributionText": "Photo by Denis Luyten via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg\">Denis Luyten</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg\">Denis Luyten</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
     "creatorName": "Denis Luyten",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:2007_Snow-Hill-Island_Luyten-De-Hauwere-Emperor-Penguin-02.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:46.358Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-hero-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-hero-01-1200.webp"
   }
 }

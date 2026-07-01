@@ -2,23 +2,23 @@
   "id": "pufferfish-hero",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-hero",
-  "fileName": "Botete negro (Arothron meleagris), Cabo Pulmo, Baja California, México, 2024-12-19, DD 09.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Botete_negro_%28Arothron_meleagris%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_09.jpg",
-  "width": 5285,
-  "height": 3523,
+  "fileName": "pufferfish-hero-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Guinea fowl pufferfish swimming over a coral reef",
   "caption": "Guinea fowl pufferfish are colorful reef fish that can puff up when threatened.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_09.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_09.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris)%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_09.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botete_negro_(Arothron_meleagris),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_09.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:29.961Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Cabo Pulmo, Mexico",
-  "acquisitionNotes": "Manually curated guinea fowl pufferfish hero image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:10.621Z"
+  "acquisitionNotes": "Manually curated guinea fowl pufferfish hero image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5c/Botete_negro_%28Arothron_meleagris%29%2C_Cabo_Pulmo%2C_Baja_California%2C_M%C3%A9xico%2C_2024-12-19%2C_DD_09.jpg",
+  "updatedAt": "2026-06-25T15:08:29.961Z",
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-hero-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-hero-01-1200.webp"
+  }
 }

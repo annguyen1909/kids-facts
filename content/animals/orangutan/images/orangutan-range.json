@@ -2,23 +2,23 @@
   "id": "orangutan-range",
   "animalSlug": "orangutan",
   "slug": "orangutan-range",
-  "fileName": "Orangutan Kalimantan.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Orangutan_Kalimantan.jpg",
-  "width": 2400,
-  "height": 1590,
-  "alt": "Orangutan in Bornean forest habitat",
-  "caption": "Wild Bornean orangutans live only on Borneo in Malaysia and Indonesia.",
-  "attributionText": "Photo by Ridwan0810 via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg\">Ridwan0810</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "fileName": "orangutan-range-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-range-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "alt": "Bornean orangutan resting in a tree nest in rainforest habitat",
+  "caption": "Orangutans live only on the islands of Borneo and Sumatra in Southeast Asia.",
+  "attributionText": "Photo by Joeavison1 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg\">Joeavison1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg",
-    "creatorName": "Ridwan0810",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg",
+    "creatorName": "Joeavison1",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:24.240Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Kalimantan, Borneo",
-  "acquisitionNotes": "Manually curated orangutan range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z"
+  "acquisitionNotes": "Gallery range image — unique from hero image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/48/Bornean_Orangutan_in_nest.jpg",
+  "updatedAt": "2026-06-25T15:04:24.240Z",
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-range-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-range-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-range-01-1200.webp"
+  }
 }

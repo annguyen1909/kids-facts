@@ -2,10 +2,10 @@
   "id": "moose-core-baby",
   "animalSlug": "moose",
   "slug": "moose-core-baby",
-  "fileName": "Alces alces (juvenile).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Alces_alces_%28juvenile%29.jpg",
-  "width": 2476,
-  "height": 1831,
+  "fileName": "moose-core-baby-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 887,
   "alt": "Juvenile moose without full antlers yet",
   "caption": "Young moose grow quickly on their mother's rich milk.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Europe",
-  "acquisitionNotes": "Core article image curated separately from the moose gallery set.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Core article image curated separately from the moose gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f1/Alces_alces_%28juvenile%29.jpg",
+  "updatedAt": "2026-06-25T15:03:23.433Z",
   "attributionText": "Photo by Michael Gäbler via Wikimedia Commons, CC BY 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alces_alces_(juvenile).jpg\">Michael Gäbler</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:23.433Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-core-baby-01-400.webp",
+    "original": "/images/animals/moose/web/moose-core-baby-01-1200.webp"
   }
 }

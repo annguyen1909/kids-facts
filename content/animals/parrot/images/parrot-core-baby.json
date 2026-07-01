@@ -2,10 +2,10 @@
   "id": "parrot-core-baby",
   "animalSlug": "parrot",
   "slug": "parrot-core-baby",
-  "fileName": "Ara-Zoo-Muenster-2013-02.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ara-Zoo-Muenster-2013-02.jpg",
-  "width": 4203,
-  "height": 2922,
+  "fileName": "parrot-core-baby-01-1200.webp",
+  "src": "/images/animals/parrot/web/parrot-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 834,
   "alt": "Young scarlet macaw with shorter tail feathers",
   "caption": "Young macaws stay with their parents until they learn to find food alone.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Münster, Germany",
-  "acquisitionNotes": "Core article image curated separately from the parrot gallery set.",
-  "updatedAt": "2026-06-24T12:39:09.537Z",
+  "acquisitionNotes": "Core article image curated separately from the parrot gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f2/Ara-Zoo-Muenster-2013-02.jpg",
+  "updatedAt": "2026-06-25T15:05:49.816Z",
   "attributionText": "Photo by Tuxyso via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ara-Zoo-Muenster-2013-02.jpg\">Tuxyso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:39:09.537Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:05:49.816Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/parrot/web/parrot-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/parrot/thumbnails/parrot-core-baby-01-400.webp",
+    "original": "/images/animals/parrot/web/parrot-core-baby-01-1200.webp"
   }
 }

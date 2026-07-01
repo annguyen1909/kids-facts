@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-range",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-range",
+  "fileName": "cassowary-range-01-1200.webp",
+  "alt": "A Cassowary traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-range-01-1200.webp",
+  "width": 1200,
+  "height": 1406,
+  "attributionText": "Photo by 22Kartika via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary_or_Kasuari_(Casuarius_casuarius).jpg\">22Kartika</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary_or_Kasuari_(Casuarius_casuarius).jpg",
+    "creatorName": "22Kartika",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:12.144Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6b/Double-wattled_Cassowary_or_Kasuari_%28Casuarius_casuarius%29.jpg",
+  "updatedAt": "2026-06-26T08:16:12.144Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-range-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-range-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-range-01-1200.webp"
+  }
+}

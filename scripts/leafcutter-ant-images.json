@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize 4.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Leafcutter Ant in the wild",
+    "caption": "The Leafcutter Ant is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Leafcutter Ant navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize 2.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Leafcutter Ant finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Leafcutter Ant.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize 5.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Leafcutter Ant showing early development",
+    "caption": "Baby Leafcutter Ants must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Atta cephalotes-pjt.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Leafcutter Ants interacting with each other",
+    "caption": "While often solitary, some Leafcutter Ants interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Leaf-cutting ant.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Leafcutter Ant traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Atta cephalotes 287873666.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Leafcutter Ant",
+    "caption": "The size of a Leafcutter Ant can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize 3.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Leafcutter Ant",
+    "caption": "A close-up view reveals the intricate details of a Leafcutter Ant's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Leaf cutter ants arp.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Leafcutter Ant showing a unique behavior or adaptation",
+    "caption": "Did you know that the Leafcutter Ant has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Leaf-cutter ant (Atta cephalotes) Belize 6.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Leafcutter Ant navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Leaf-cutter Ant (Atta cephalotes) (6788328005).jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Leafcutter Ant finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Leafcutter Ant.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Leaf-cutter Ant (Atta cephalotes) (6782922753).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Leafcutter Ants interacting with each other",
+    "caption": "While often solitary, some Leafcutter Ants interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Leaf-cutter Ant (Atta cephalotes) major worker ... (35979485914).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Leafcutter Ant showing early development",
+    "caption": "Baby Leafcutter Ants must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Atta cephalotes 0zz.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Leafcutter Ant traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

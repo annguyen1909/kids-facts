@@ -2,10 +2,10 @@
   "id": "chimpanzee-family",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-family",
-  "fileName": "Chimpanzee, Ol Pejeta Conservancy, Kenya (32450419367).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_%2832450419367%29.jpg",
-  "width": 3965,
-  "height": 2753,
+  "fileName": "chimpanzee-family-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-family-01-1200.webp",
+  "width": 1200,
+  "height": 833,
   "alt": "Group of chimpanzees together in open habitat",
   "caption": "Chimpanzees live in communities that share food patches and travel routes.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Ol Pejeta Conservancy, Kenya",
-  "acquisitionNotes": "Manually curated chimpanzee group image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Manually curated chimpanzee group image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7c/Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_%2832450419367%29.jpg",
+  "updatedAt": "2026-06-25T14:50:44.912Z",
   "attributionText": "Photo by Ray in Manila via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_(32450419367).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee,_Ol_Pejeta_Conservancy,_Kenya_(32450419367).jpg\">Ray in Manila</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimpanzee%2C_Ol_Pejeta_Conservancy%2C_Kenya_(32450419367).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimpanzee,_Ol_Pejeta_Conservancy,_Kenya_(32450419367).jpg",
     "creatorName": "Ray in Manila",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:44.912Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-family-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-family-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-family-01-1200.webp"
   }
 }

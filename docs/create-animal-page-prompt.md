@@ -5,7 +5,7 @@ Chỉ nhập tên **một lần** — ngay sau `Animal:` trong block bên dướ
 ```
 Animal: Panda
 
-Tạo trang animal hoàn chỉnh cho repo kids-facts — cùng quy trình và chất lượng như tiger, red-panda, giant-panda.
+Tạo trang animal hoàn chỉnh cho repo wildlifedb — cùng quy trình và chất lượng như tiger, red-panda, giant-panda.
 
 Đọc tên loài từ dòng "Animal:" duy nhất ở trên. Tự suy ra slug, scientific name (GBIF), family/diet hub links.
 

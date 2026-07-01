@@ -51,7 +51,7 @@ export function InfoSection({
           </div>
         ) : null}
         <div className="min-w-0 flex-1">
-          <h2 className="info-section__title text-xl font-extrabold tracking-tight text-[var(--forest-deep)] sm:text-2xl">
+          <h2 className="info-section__title font-serif text-2xl tracking-tight text-[var(--forest-deep)] sm:text-3xl">
             {title}
           </h2>
           <div className="info-section__body prose prose-compact mt-3">{children}</div>
@@ -119,7 +119,7 @@ export function InfoFeatureCard({
       >
         <Icon className="h-5 w-5" aria-hidden />
       </div>
-      <h3 className="mt-4 text-lg font-extrabold tracking-tight text-[var(--forest-deep)]">
+      <h3 className="mt-4 font-serif text-xl tracking-tight text-[var(--forest-deep)]">
         {title}
       </h3>
       <p className="mt-2 text-sm leading-7 text-[var(--muted)] sm:text-base">{description}</p>

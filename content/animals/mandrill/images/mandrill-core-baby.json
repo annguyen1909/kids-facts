@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-core-baby",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-core-baby",
+  "fileName": "mandrill-core-baby-01-1200.webp",
+  "alt": "A young or baby Mandrill showing early development",
+  "caption": "Baby Mandrills must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by FakirNL via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_in_Ouwehands_Dierenpark_01.jpg\">FakirNL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_in_Ouwehands_Dierenpark_01.jpg",
+    "creatorName": "FakirNL",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:45.052Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/10/Mandrillus_sphinx_in_Ouwehands_Dierenpark_01.jpg",
+  "updatedAt": "2026-06-26T08:16:45.052Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-core-baby-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-core-baby-01-1200.webp"
+  }
+}

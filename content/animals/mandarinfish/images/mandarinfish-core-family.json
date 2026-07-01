@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-core-family",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-core-family",
+  "alt": "A pair of mandarinfish performing their beautiful dusk mating ascent in Anilao",
+  "caption": "Their synchronized dusk rise allows them to release eggs and sperm directly into outgoing currents, safely away from benthic reef predators.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Anilao, Philippines",
+  "fileName": "mandarinfish-core-family-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Peces_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_231.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peces_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_231.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:58:18.372Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Breathtaking 4474x4474 core family dusk spawning photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Peces_mandar%C3%ADn_%28Synchiropus_splendidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_231.jpg",
+  "updatedAt": "2026-06-29T11:58:18.372Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-core-family-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-core-family-01-1200.webp"
+  }
+}

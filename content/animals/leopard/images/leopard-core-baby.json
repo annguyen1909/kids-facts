@@ -2,10 +2,10 @@
   "id": "leopard-core-baby",
   "animalSlug": "leopard",
   "slug": "leopard-core-baby",
-  "fileName": "Leopard (Panthera pardus) cub (13925185824).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Leopard_%28Panthera_pardus%29_cub_%2813925185824%29.jpg",
-  "width": 4000,
-  "height": 3000,
+  "fileName": "leopard-core-baby-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Small leopard cub looking out from cover",
   "caption": "Cubs learn to stalk and climb over about two years before living on their own.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African wildlife reserve",
-  "acquisitionNotes": "Core article image curated separately from the leopard gallery set.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Core article image curated separately from the leopard gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/19/Leopard_%28Panthera_pardus%29_cub_%2813925185824%29.jpg",
+  "updatedAt": "2026-06-25T15:01:04.735Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus)_cub_(13925185824).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:04.735Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-core-baby-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-core-baby-01-1200.webp"
   }
 }

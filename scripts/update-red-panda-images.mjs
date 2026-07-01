@@ -153,7 +153,7 @@ for (const [slug, data] of Object.entries(updates)) {
       licenseUrl: data.licenseUrl,
       requiresAttribution: true,
       downloadedAt: timestamp,
-      reviewedBy: "editor@kidsfacts.local",
+      reviewedBy: "editor@wildlifedb.local",
     },
     acquisitionNotes: "Manually verified red panda image with correct species identification.",
     updatedAt: timestamp,

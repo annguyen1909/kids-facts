@@ -2,10 +2,10 @@
   "id": "raccoon-range",
   "animalSlug": "raccoon",
   "slug": "raccoon-range",
-  "fileName": "Procyon lotor (Common raccoon).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Procyon_lotor_%28Common_raccoon%29.jpg",
-  "width": 1254,
-  "height": 941,
+  "fileName": "raccoon-range-01-1200.webp",
+  "src": "/images/animals/raccoon/web/raccoon-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Common raccoon in natural woodland habitat",
   "caption": "Raccoons live from Canada and the United States south into Central America.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated raccoon range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:23.392Z",
+  "acquisitionNotes": "Manually curated raccoon range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fe/Procyon_lotor_%28Common_raccoon%29.jpg",
+  "updatedAt": "2026-06-25T15:09:02.026Z",
   "attributionText": "Photo by Cary Bass-Deschênes via Wikimedia Commons, CC BY 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Procyon_lotor_(Common_raccoon).jpg\">Cary Bass-Deschênes</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:23.392Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:02.026Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/raccoon/web/raccoon-range-01-1200.webp",
+    "thumbnail400": "/images/animals/raccoon/thumbnails/raccoon-range-01-400.webp",
+    "original": "/images/animals/raccoon/web/raccoon-range-01-1200.webp"
   }
 }

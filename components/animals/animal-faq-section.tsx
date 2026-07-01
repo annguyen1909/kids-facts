@@ -14,28 +14,30 @@ export function AnimalFaqSection({
   const extra = items.slice(PRIMARY_FAQ_COUNT);
 
   return (
-    <div className="rounded-[1.75rem] border border-[var(--line)] bg-white/95 px-5 py-7 shadow-[var(--shadow)] backdrop-blur-sm sm:px-8">
-      <p className="eyebrow eyebrow--light">Common questions</p>
-      <h2 className="section-title mt-3 text-[var(--forest-deep)]">
+    <div className="group overflow-hidden rounded-[2rem] bg-white p-8 sm:p-12 shadow-xl ring-1 ring-black/5 transition-all hover:shadow-2xl">
+      <span className="inline-flex rounded-full bg-[var(--forest-deep)]/10 px-3 py-1 text-[0.65rem] font-bold uppercase tracking-widest text-[var(--forest-deep)] ring-1 ring-inset ring-[var(--forest-deep)]/20 mb-4">
+        Common Questions
+      </span>
+      <h2 className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-[var(--forest-deep)]">
         FAQ about {animalName}
       </h2>
-      <p className="mt-2 max-w-xl text-base leading-7 text-[var(--muted)]">
+      <p className="mt-4 max-w-xl text-base sm:text-lg leading-relaxed text-[var(--muted)]">
         Select a question to reveal the answer.
       </p>
 
-      <div className="mt-5">
+      <div className="mt-8 border-y border-[var(--line)]">
         <Accordion items={primary} />
       </div>
 
       {extra.length > 0 ? (
-        <details className="group mt-4 overflow-hidden rounded-[1.25rem] border border-[var(--line)] bg-[var(--surface)]">
-          <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-5 py-4 text-lg font-bold text-[var(--forest-deep)] marker:content-none">
-            <span>Show {extra.length} more questions</span>
-            <span className="rounded-full bg-[rgba(36,83,65,0.08)] px-2.5 py-1 text-sm font-bold uppercase tracking-[0.08em] text-[var(--forest)]">
+        <details className="group/details mt-6 overflow-hidden rounded-[1.5rem] bg-[var(--surface-strong)]/10 ring-1 ring-black/5">
+          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-5 text-lg font-bold text-[var(--forest-deep)] marker:content-none transition-colors hover:bg-[var(--surface-strong)]/20">
+            <span className="font-serif tracking-tight">Show {extra.length} more questions</span>
+            <span className="rounded-full bg-white px-4 py-1.5 text-xs font-bold uppercase tracking-widest text-[var(--forest-deep)] shadow-sm ring-1 ring-black/10 group-open/details:bg-[var(--forest-deep)] group-open/details:text-white transition-colors">
               Expand
             </span>
           </summary>
-          <div className="border-t border-[var(--line)] px-3 pb-3 pt-1">
+          <div className="px-4 pb-4 pt-2">
             <Accordion items={extra} />
           </div>
         </details>

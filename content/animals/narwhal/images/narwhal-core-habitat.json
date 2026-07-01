@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-core-habitat",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-core-habitat",
+  "fileName": "narwhal-core-habitat-01-1200.webp",
+  "alt": "A Narwhal navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-core-habitat-01-1200.webp",
+  "width": 653,
+  "height": 283,
+  "attributionText": "Photo by Frederick W. True via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:FMIB_34111_Monodon_monoceros_Linne_Narwhal.jpeg\">Frederick W. True</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FMIB_34111_Monodon_monoceros_Linne_Narwhal.jpeg",
+    "creatorName": "Frederick W. True",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:06:05.469Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/FMIB_34111_Monodon_monoceros_Linne_Narwhal.jpeg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/FMIB_34111_Monodon_monoceros_Linne_Narwhal.jpeg",
+  "updatedAt": "2026-06-26T19:06:05.469Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-core-habitat-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-core-habitat-01-1200.webp"
+  }
+}

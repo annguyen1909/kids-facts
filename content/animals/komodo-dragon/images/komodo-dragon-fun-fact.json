@@ -2,10 +2,10 @@
   "id": "komodo-dragon-fun-fact",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-fun-fact",
-  "fileName": "KomodoDragon TreeCamouflage.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/KomodoDragon_TreeCamouflage.jpg",
-  "width": 2304,
-  "height": 3072,
+  "fileName": "komodo-dragon-fun-fact-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Young Komodo dragon camouflaged among tree branches",
   "caption": "Young Komodo dragons often climb trees and blend in until they grow large enough to live on the ground.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Komodo National Park, Indonesia",
-  "acquisitionNotes": "Manually curated Komodo dragon fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/22/KomodoDragon_TreeCamouflage.jpg",
+  "updatedAt": "2026-06-25T15:00:04.753Z",
   "attributionText": "Photo by Danadi Sutjianto via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:KomodoDragon_TreeCamouflage.jpg\">Danadi Sutjianto</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:00:04.753Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-fun-fact-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-fun-fact-01-1200.webp"
   }
 }

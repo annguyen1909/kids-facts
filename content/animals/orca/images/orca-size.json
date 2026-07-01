@@ -2,10 +2,10 @@
   "id": "orca-size",
   "animalSlug": "orca",
   "slug": "orca-size",
-  "fileName": "Killer Whale (Orcinus orca) (16686617207).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Killer_Whale_%28Orcinus_orca%29_%2816686617207%29.jpg",
-  "width": 3509,
-  "height": 2184,
+  "fileName": "orca-size-01-1200.webp",
+  "src": "/images/animals/orca/web/orca-size-01-1200.webp",
+  "width": 1200,
+  "height": 747,
   "alt": "Full-body orca showing its long streamlined shape",
   "caption": "Large male orcas can grow much longer than most other dolphins.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Open ocean",
-  "acquisitionNotes": "Manually curated orca size image with verified species identification.",
-  "updatedAt": "2026-06-23T06:50:52.279Z",
+  "acquisitionNotes": "Manually curated orca size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/Killer_Whale_%28Orcinus_orca%29_%2816686617207%29.jpg",
+  "updatedAt": "2026-06-25T15:04:40.529Z",
   "attributionText": "Photo by Gregory \"Slobirdr\" Smith via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Killer_Whale_(Orcinus_orca)_(16686617207).jpg\">Gregory \"Slobirdr\" Smith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T06:50:52.279Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:40.529Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orca/web/orca-size-01-1200.webp",
+    "thumbnail400": "/images/animals/orca/thumbnails/orca-size-01-400.webp",
+    "original": "/images/animals/orca/web/orca-size-01-1200.webp"
   }
 }

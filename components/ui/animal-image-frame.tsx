@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { getDisplayImageSrc, isWikimediaCommonsUrl } from "@/lib/images";
+import { getAnimalImageForDisplay } from "@/lib/images";
 import { cn } from "@/lib/utils";
 
 type FrameAspect = "hero" | "card" | "banner" | "square" | "gallery";
@@ -9,7 +9,7 @@ const aspectClasses: Record<FrameAspect, string> = {
   card: "aspect-[3/2]",
   banner: "aspect-[2/1]",
   square: "aspect-square",
-  gallery: "aspect-[4/3]",
+  gallery: "aspect-[4/5]",
 };
 
 type AnimalImageFrameProps = {
@@ -21,6 +21,8 @@ type AnimalImageFrameProps = {
   sizes?: string;
   className?: string;
   imageClassName?: string;
+  objectPosition?: string;
+  updatedAt?: string;
 };
 
 export function AnimalImageFrame({
@@ -32,8 +34,10 @@ export function AnimalImageFrame({
   sizes = "100vw",
   className,
   imageClassName,
+  objectPosition,
+  updatedAt,
 }: AnimalImageFrameProps) {
-  const displaySrc = getDisplayImageSrc(src);
+  const display = getAnimalImageForDisplay({ src, alt, objectPosition, updatedAt });
 
   return (
     <div
@@ -45,16 +49,20 @@ export function AnimalImageFrame({
       )}
     >
       <Image
-        src={displaySrc}
-        alt={alt}
+        src={display.src}
+        alt={display.alt}
         fill
         priority={priority}
         sizes={sizes}
-        unoptimized={isWikimediaCommonsUrl(src)}
+        unoptimized={display.unoptimized}
+        referrerPolicy="no-referrer"
         className={cn(
-          fit === "contain" ? "object-contain object-center" : "object-cover object-center",
+          fit === "contain" ? "object-contain" : "object-cover",
+          fit === "contain" && !display.objectPosition && "object-center",
+          !fit && !display.objectPosition && "object-center",
           imageClassName,
         )}
+        style={display.objectPosition ? { objectPosition: display.objectPosition } : undefined}
       />
     </div>
   );

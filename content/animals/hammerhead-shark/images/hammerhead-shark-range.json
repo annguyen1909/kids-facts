@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-range",
+  "animalSlug": "hammerhead-shark",
+  "slug": "hammerhead-shark-range",
+  "fileName": "hammerhead-shark-range-01-1200.webp",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-range-01-1200.webp",
+  "width": 1200,
+  "height": 798,
+  "alt": "A Great Hammerhead Shark traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Jake Mohan from Minneapolis, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Great_hammerhead_georgia.jpg\">Jake Mohan from Minneapolis, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_hammerhead_georgia.jpg",
+    "creatorName": "Jake Mohan from Minneapolis, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:21:05.059Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hammerhead-shark image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Great_hammerhead_georgia.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Great_hammerhead_georgia.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Great_hammerhead_georgia.jpg",
+  "updatedAt": "2026-06-26T19:21:05.059Z",
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-range-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-range-01-1200.webp"
+  }
+}

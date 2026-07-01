@@ -1,0 +1,22 @@
+{
+  "id": "jaguar-gallery-main",
+  "animalSlug": "jaguar",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Jaguar Photo Gallery",
+  "metaTitle": "Jaguar Photo Gallery",
+  "metaDescription": "Browse jaguar photos showing rosette spots, rainforest habitat, cubs, swimming, and hunting in the Amazon and Pantanal.",
+  "intro": "Explore jaguars through photos organized for learning, image search, and classroom observation—from cubs and rosette patterns to hunting in South American wetlands.",
+  "imageSlugs": [
+    "jaguar-hero",
+    "jaguar-habitat",
+    "jaguar-diet",
+    "jaguar-baby",
+    "jaguar-family",
+    "jaguar-range",
+    "jaguar-size",
+    "jaguar-closeup",
+    "jaguar-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

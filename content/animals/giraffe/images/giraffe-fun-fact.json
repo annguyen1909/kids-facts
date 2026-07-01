@@ -2,10 +2,10 @@
   "id": "giraffe-fun-fact",
   "animalSlug": "giraffe",
   "slug": "giraffe-fun-fact",
-  "fileName": "Giraffes (Giraffa camelopardalis) male \"necking\" at sunrise ... (31609576873).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Giraffes_%28Giraffa_camelopardalis%29_male_%22necking%22_at_sunrise_..._%2831609576873%29.jpg",
-  "width": 4864,
-  "height": 3648,
+  "fileName": "giraffe-fun-fact-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Two male giraffes swinging their necks in a contest",
   "caption": "Male giraffes sometimes compete by swinging their necks in contests called necking.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated giraffe fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "acquisitionNotes": "Manually curated giraffe fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Giraffes_%28Giraffa_camelopardalis%29_male_%22necking%22_at_sunrise_..._%2831609576873%29.jpg",
+  "updatedAt": "2026-06-25T14:56:05.379Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_male_%22necking%22_at_sunrise_..._(31609576873).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:05.379Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-fun-fact-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-fun-fact-01-1200.webp"
   }
 }

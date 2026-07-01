@@ -2,11 +2,11 @@
   "id": "ostrich-core-range",
   "animalSlug": "ostrich",
   "slug": "ostrich-core-range",
-  "fileName": "Struthio camelus (Kunene).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Struthio_camelus_%28Kunene%29.jpg",
-  "width": 3427,
-  "height": 2569,
-  "alt": "Ostrich in semi-arid African landscape",
+  "fileName": "ostrich-core-range-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Ostrich in semi-arid Kunene landscape with sparse vegetation",
   "caption": "Habitat loss and fencing have reduced ostrich numbers in some areas.",
   "imageType": "range",
   "galleryTopics": [
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Kunene, Namibia",
-  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
+  "acquisitionNotes": "Core article range — semi-arid landscape, unique from gallery Namibia photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Struthio_camelus_%28Kunene%29.jpg",
+  "updatedAt": "2026-06-28T09:18:56.395Z",
   "attributionText": "Photo by Hans Hillewaert via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Struthio_camelus_(Kunene).jpg\">Hans Hillewaert</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:56.395Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-core-range-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-core-range-01-1200.webp"
   }
 }

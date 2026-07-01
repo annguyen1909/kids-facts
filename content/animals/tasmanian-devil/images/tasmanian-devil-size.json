@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-size",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-size",
+  "fileName": "tasmanian-devil-size-01-1200.webp",
+  "alt": "A photo showing the size of a Tasmanian Devil",
+  "caption": "The size of a Tasmanian Devil can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-size-01-1200.webp",
+  "width": 1200,
+  "height": 1525,
+  "attributionText": "Photo by Ymblanter via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Healesville_Sarcophilus_harrisii_in_Healesville_Sanctuary_01.jpg\">Ymblanter</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Healesville_Sarcophilus_harrisii_in_Healesville_Sanctuary_01.jpg",
+    "creatorName": "Ymblanter",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:53.626Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5a/Healesville_Sarcophilus_harrisii_in_Healesville_Sanctuary_01.jpg",
+  "updatedAt": "2026-06-26T08:17:53.626Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-size-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-size-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-size-01-1200.webp"
+  }
+}

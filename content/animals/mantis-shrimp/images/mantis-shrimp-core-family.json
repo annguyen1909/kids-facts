@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-core-family",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-core-family",
+  "fileName": "mantis-shrimp-core-family-01-1200.webp",
+  "alt": "A group of Mantis Shrimps interacting with each other",
+  "caption": "While often solitary, some Mantis Shrimps interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 864,
+  "attributionText": "Photo by Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané) via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Squille_multicolore_(Odontodactylus_scyllarus)_(Ifremer_00619-73081_-_29066).jpg\">Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané)</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Squille_multicolore_(Odontodactylus_scyllarus)_(Ifremer_00619-73081_-_29066).jpg",
+    "creatorName": "Jerome Paillet (IFREMER, Laboratoire d'Océanographie Physique et Spatiale, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané)",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:04.117Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8d/Squille_multicolore_%28Odontodactylus_scyllarus%29_%28Ifremer_00619-73081_-_29066%29.jpg",
+  "updatedAt": "2026-06-26T08:17:04.117Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-core-family-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-core-family-01-1200.webp"
+  }
+}

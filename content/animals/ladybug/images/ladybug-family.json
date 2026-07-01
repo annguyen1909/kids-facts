@@ -1,0 +1,38 @@
+{
+  "id": "ladybug-family",
+  "animalSlug": "ladybug",
+  "slug": "ladybug-family",
+  "fileName": "ladybug-family-01-1200.webp",
+  "src": "/images/animals/ladybug/web/ladybug-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A ladybug and a bumblebee feeding on the same purple thistle flower",
+  "caption": "Ladybugs are solitary, but they often gather in large groups in autumn to stay warm.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Germany",
+  "attributionText": "Photo by Helge Busch-Paulick via Wikimedia Commons, CC BY-SA 3.0 de",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bombus_terrestris_and_Coccinella_septempunctata_on_Cirsium_vulgare_A_2010-08-02_HPB.jpg\">Helge Busch-Paulick</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.en\">CC BY-SA 3.0 de</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bombus_terrestris_and_Coccinella_septempunctata_on_Cirsium_vulgare_A_2010-08-02_HPB.jpg",
+    "creatorName": "Helge Busch-Paulick",
+    "licenseName": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:00:31.767Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ladybug image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e4/Bombus_terrestris_and_Coccinella_septempunctata_on_Cirsium_vulgare_A_2010-08-02_HPB.jpg",
+  "updatedAt": "2026-06-25T15:00:31.767Z",
+  "srcSet": {
+    "web1200": "/images/animals/ladybug/web/ladybug-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ladybug/thumbnails/ladybug-family-01-400.webp",
+    "original": "/images/animals/ladybug/web/ladybug-family-01-1200.webp"
+  }
+}

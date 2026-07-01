@@ -1,0 +1,38 @@
+{
+  "id": "capybara-family",
+  "animalSlug": "capybara",
+  "slug": "capybara-family",
+  "fileName": "capybara-family-01-1200.webp",
+  "alt": "Capybara sitting on a muddy riverbank beside calm water",
+  "caption": "Capybaras stay close to rivers and ponds where they can swim to escape danger.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/capybara/web/capybara-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:046_Capybara_by_the_river_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:046_Capybara_by_the_river_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:46.765Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/53/046_Capybara_by_the_river_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-26T08:15:46.765Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-family-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-family-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-family-01-1200.webp"
+  }
+}

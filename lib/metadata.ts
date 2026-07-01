@@ -53,7 +53,9 @@ export function buildPageMetadata(input: {
   title: string;
   description: string;
   path: string;
+  canonicalPath?: string;
   image?: string;
+  robots?: Metadata["robots"];
 }): Metadata {
   const imageUrl = getAbsoluteUrl(input.image ?? siteConfig.defaultOgImage);
 
@@ -61,8 +63,9 @@ export function buildPageMetadata(input: {
     title: input.title,
     description: input.description,
     alternates: {
-      canonical: input.path,
+      canonical: input.canonicalPath ?? input.path,
     },
+    robots: input.robots,
     openGraph: {
       type: "website",
       title: input.title,

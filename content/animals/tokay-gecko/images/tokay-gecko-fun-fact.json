@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-fun-fact",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-fun-fact",
+  "fileName": "tokay-gecko-fun-fact-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-fun-fact-01-1200.webp",
+  "width": 525,
+  "height": 700,
+  "alt": "Close-up of a Tokay gecko's colorful face and vertical pupils",
+  "caption": "Tokay geckos have excellent night vision, with eyes that are 350 times more sensitive than humans!",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified tokay gecko image for fun-fact. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/Tokay.jpg",
+  "updatedAt": "2026-06-25T15:13:09.833Z",
+  "attributionText": "Photo by Nick Hobgood via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay.jpg\">Nick Hobgood</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay.jpg",
+    "creatorName": "Nick Hobgood",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:09.833Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-fun-fact-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-fun-fact-01-1200.webp"
+  }
+}

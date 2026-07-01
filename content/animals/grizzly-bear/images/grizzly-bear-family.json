@@ -2,10 +2,10 @@
   "id": "grizzly-bear-family",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-family",
-  "fileName": "Mother Grizzly Bear & Cute Cub (48847665751).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mother_Grizzly_Bear_%26_Cute_Cub_%2848847665751%29.jpg",
-  "width": 5168,
-  "height": 3445,
+  "fileName": "grizzly-bear-family-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Mother grizzly bear with cub in wild habitat",
   "caption": "Mother grizzlies fiercely protect their cubs while teaching them to find food.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated grizzly bear family image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:00.723Z",
+  "acquisitionNotes": "Manually curated grizzly bear family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/61/Mother_Grizzly_Bear_%26_Cute_Cub_%2848847665751%29.jpg",
+  "updatedAt": "2026-06-25T14:57:04.848Z",
   "attributionText": "Photo by Larry Lamsa via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mother_Grizzly_Bear_%26_Cute_Cub_(48847665751).jpg\">Larry Lamsa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:57:04.848Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-family-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-family-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-family-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-closeup",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-closeup",
+  "fileName": "american-bison-closeup-01-1200.webp",
+  "alt": "Close-up of an American bison's head, horns, and shaggy hair",
+  "caption": "A thick mane and curved horns protect the bison's head during pushing contests.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "United States",
+  "src": "/images/animals/american-bison/web/american-bison-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 813,
+  "attributionText": "Photo by Ray Rauch, U.S. Fish and Wildlife Service via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_head_with_horns.jpg\">Ray Rauch, U.S. Fish and Wildlife Service</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_head_with_horns.jpg",
+    "creatorName": "Ray Rauch, U.S. Fish and Wildlife Service",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:10.955Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f4/Bison_head_with_horns.jpg",
+  "updatedAt": "2026-06-28T09:54:10.955Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-closeup-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-closeup-01-1200.webp"
+  }
+}

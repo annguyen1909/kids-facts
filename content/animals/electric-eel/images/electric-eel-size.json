@@ -1,0 +1,38 @@
+{
+  "id": "electric-eel-size",
+  "animalSlug": "electric-eel",
+  "slug": "electric-eel-size",
+  "fileName": "electric-eel-size-01-1200.webp",
+  "src": "/images/animals/electric-eel/web/electric-eel-size-01-1200.webp",
+  "width": 1000,
+  "height": 536,
+  "alt": "A photo showing the size of a Electric Eel",
+  "caption": "The size of a Electric Eel can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_8zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electrophorus_electricus_8zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:20:04.177Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified electric-eel image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6d/Electrophorus_electricus_8zz.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6d/Electrophorus_electricus_8zz.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6d/Electrophorus_electricus_8zz.jpg",
+  "updatedAt": "2026-06-26T19:20:04.177Z",
+  "srcSet": {
+    "web1200": "/images/animals/electric-eel/web/electric-eel-size-01-1200.webp",
+    "thumbnail400": "/images/animals/electric-eel/thumbnails/electric-eel-size-01-400.webp",
+    "original": "/images/animals/electric-eel/web/electric-eel-size-01-1200.webp"
+  }
+}

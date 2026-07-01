@@ -2,10 +2,10 @@
   "id": "crocodile-core-family",
   "animalSlug": "crocodile",
   "slug": "crocodile-core-family",
-  "fileName": "Day 58 Nile Crocodile (Crocodylus niloticus) female leaving the shore, probably to lay eggs ... ... (53335409696).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Day_58_Nile_Crocodile_%28Crocodylus_niloticus%29_female_leaving_the_shore%2C_probably_to_lay_eggs_..._..._%2853335409696%29.jpg",
-  "width": 5191,
-  "height": 3460,
+  "fileName": "crocodile-core-family-01-1200.webp",
+  "src": "/images/animals/crocodile/web/crocodile-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Female Nile crocodile leaving shore near nesting area",
   "caption": "Females guard nests and may carry hatchlings to the water in their jaws.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Africa",
-  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set.",
-  "updatedAt": "2026-06-24T10:01:15.558Z",
+  "acquisitionNotes": "Core article image curated separately from the crocodile gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/90/Day_58_Nile_Crocodile_%28Crocodylus_niloticus%29_female_leaving_the_shore%2C_probably_to_lay_eggs_..._..._%2853335409696%29.jpg",
+  "updatedAt": "2026-06-25T14:51:41.836Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Day_58_Nile_Crocodile_(Crocodylus_niloticus)_female_leaving_the_shore%2C_probably_to_lay_eggs_..._..._(53335409696).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Day_58_Nile_Crocodile_(Crocodylus_niloticus)_female_leaving_the_shore,_probably_to_lay_eggs_..._..._(53335409696).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Day_58_Nile_Crocodile_(Crocodylus_niloticus)_female_leaving_the_shore%2C_probably_to_lay_eggs_..._..._(53335409696).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Day_58_Nile_Crocodile_(Crocodylus_niloticus)_female_leaving_the_shore,_probably_to_lay_eggs_..._..._(53335409696).jpg",
     "creatorName": "Bernard DUPONT from FRANCE",
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:41.836Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-core-family-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-core-family-01-1200.webp"
   }
 }

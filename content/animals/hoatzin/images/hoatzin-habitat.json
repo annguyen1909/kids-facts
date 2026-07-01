@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-habitat",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-habitat",
+  "fileName": "hoatzin-habitat-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Hoatzin perched gracefully in the dense overhanging vegetation of the Beni River",
+  "caption": "They inhabit pristine tropical rainforests, mangrove estuaries, and trees overhanging slow-moving Amazonian rivers.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Beni River, Bolivia",
+  "acquisitionNotes": "Curated hoatzin habitat view in native Amazonian jungle foliage. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3b/Opisthocomus_hoazin.jpg",
+  "updatedAt": "2026-06-29T12:23:52.981Z",
+  "attributionText": "Photo by Linda De Volder via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin.jpg\">Linda De Volder</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin.jpg",
+    "creatorName": "Linda De Volder",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:52.981Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-habitat-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-habitat-01-1200.webp"
+  }
+}

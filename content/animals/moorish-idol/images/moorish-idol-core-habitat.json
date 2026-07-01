@@ -1,0 +1,38 @@
+{
+  "id": "moorish-idol-core-habitat",
+  "animalSlug": "moorish-idol",
+  "slug": "moorish-idol-core-habitat",
+  "alt": "Beautiful moorish idol hovering gracefully above a vibrant coral garden",
+  "caption": "Maintaining healthy, unpolluted coral reefs is essential to supporting the complex food webs moorish idols rely upon.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "French Polynesia",
+  "fileName": "moorish-idol-core-habitat-01-1200.webp",
+  "src": "/images/animals/moorish-idol/web/moorish-idol-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Matt Muir via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_390617589.jpg\">Matt Muir</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanclus_cornutus_390617589.jpg",
+    "creatorName": "Matt Muir",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:24:01.340Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-quality core habitat shot showcasing excellent clarity and coral greenery. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b2/Zanclus_cornutus_390617589.jpg",
+  "updatedAt": "2026-06-29T12:24:01.340Z",
+  "srcSet": {
+    "web1200": "/images/animals/moorish-idol/web/moorish-idol-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/moorish-idol/thumbnails/moorish-idol-core-habitat-01-400.webp",
+    "original": "/images/animals/moorish-idol/web/moorish-idol-core-habitat-01-1200.webp"
+  }
+}

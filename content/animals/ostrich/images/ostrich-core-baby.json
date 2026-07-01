@@ -2,11 +2,11 @@
   "id": "ostrich-core-baby",
   "animalSlug": "ostrich",
   "slug": "ostrich-core-baby",
-  "fileName": "Autruche d'Afrique (Struthio camelus) (1).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Autruche_d%27Afrique_%28Struthio_camelus%29_%281%29.jpg",
-  "width": 3648,
-  "height": 5472,
-  "alt": "Young ostrich with striped down feathers",
+  "fileName": "ostrich-core-baby-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Juvenile ostrich walking through dry Kalahari grassland",
   "caption": "Chicks have striped feathers that help them hide in tall grass.",
   "imageType": "baby",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Africa",
-  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by Gzen92 via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Autruche_d'Afrique_(Struthio_camelus)_(1).jpg\">Gzen92</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "location": "Kalahari, Namibia",
+  "acquisitionNotes": "Core article juvenile — wild Kalahari landscape, unique from gallery chick photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1d/104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-28T09:18:54.957Z",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autruche_d'Afrique_(Struthio_camelus)_(1).jpg",
-    "creatorName": "Gzen92",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:54.957Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-core-baby-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-core-baby-01-1200.webp"
   }
 }

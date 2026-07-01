@@ -2,23 +2,23 @@
   "id": "orangutan-family",
   "animalSlug": "orangutan",
   "slug": "orangutan-family",
-  "fileName": "Orangutan with infant.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Orangutan_with_infant.jpg",
-  "width": 1733,
-  "height": 1300,
+  "fileName": "orangutan-family-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Adult orangutan with a young infant close by",
   "caption": "Mother orangutans carry and protect infants as they move through the canopy.",
   "attributionText": "Photo by Brett Jordan via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_with_infant.jpg\">Brett Jordan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_with_infant.jpg\">Brett Jordan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_with_infant.jpg",
     "creatorName": "Brett Jordan",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:19.642Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Manually curated orangutan family image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z"
+  "acquisitionNotes": "Manually curated orangutan family image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Orangutan_with_infant.jpg",
+  "updatedAt": "2026-06-25T15:04:19.642Z",
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-family-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-family-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-family-01-1200.webp"
+  }
 }

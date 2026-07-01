@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-core-range",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-core-range",
+  "alt": "Stately hoatzin perching peacefully in the Chuchini ecological sanctuary in Bolivia",
+  "caption": "Protecting Amazonian river corridors from deforestation is critical to ensuring these breathtaking living fossils continue to thrive.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Beni, Bolivia",
+  "fileName": "hoatzin-core-range-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by DanielGuzmanDuchen via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pava_serere_(Opisthocomus_hoazin).jpg\">DanielGuzmanDuchen</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pava_serere_(Opisthocomus_hoazin).jpg",
+    "creatorName": "DanielGuzmanDuchen",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:48.465Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core range and conservation overview photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f6/Pava_serere_%28Opisthocomus_hoazin%29.jpg",
+  "updatedAt": "2026-06-29T12:23:48.465Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-core-range-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-core-range-01-1200.webp"
+  }
+}

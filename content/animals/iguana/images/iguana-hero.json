@@ -1,0 +1,38 @@
+{
+  "id": "iguana-hero",
+  "animalSlug": "iguana",
+  "slug": "iguana-hero",
+  "fileName": "iguana-hero-01-1200.webp",
+  "src": "/images/animals/iguana/web/iguana-hero-01-1200.webp",
+  "width": 1200,
+  "height": 797,
+  "alt": "A beautiful portrait of a Green Iguana in the wild",
+  "caption": "The Green Iguana is a highly adapted species with unique behaviors.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Unknown",
+  "attributionText": "Photo by Rjcastillo via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Iguana_V.jpg\">Rjcastillo</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iguana_V.jpg",
+    "creatorName": "Rjcastillo",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:58:53.848Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified iguana image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7f/Iguana_V.jpg",
+  "updatedAt": "2026-06-25T14:58:53.848Z",
+  "srcSet": {
+    "web1200": "/images/animals/iguana/web/iguana-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/iguana/thumbnails/iguana-hero-01-400.webp",
+    "original": "/images/animals/iguana/web/iguana-hero-01-1200.webp"
+  }
+}

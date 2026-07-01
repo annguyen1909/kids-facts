@@ -2,23 +2,23 @@
   "id": "red-panda-range",
   "animalSlug": "red-panda",
   "slug": "red-panda-range",
-  "fileName": "red-panda-range.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
-  "width": 9323,
-  "height": 6215,
+  "fileName": "red-panda-range-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red panda in the Himalayan mountains",
   "caption": "Red pandas are native to cool mountain forests in the eastern Himalayas and nearby China.",
   "attributionText": "Photo by Sunuwargr via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg\">Sunuwargr</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg\">Sunuwargr</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda,_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
     "creatorName": "Sunuwargr",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:44:18.785Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:38.428Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Himalayas",
-  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
-  "updatedAt": "2026-06-21T16:44:18.785Z"
+  "acquisitionNotes": "Manually verified red panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fd/Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+  "updatedAt": "2026-06-25T15:09:38.428Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-range-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-range-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-range-01-1200.webp"
+  }
 }

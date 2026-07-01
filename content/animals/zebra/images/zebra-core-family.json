@@ -2,10 +2,10 @@
   "id": "zebra-core-family",
   "animalSlug": "zebra",
   "slug": "zebra-core-family",
-  "fileName": "Plains Zebras (Equus quagga) (52491934482).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Plains_Zebras_%28Equus_quagga%29_%2852491934482%29.jpg",
-  "width": 5472,
-  "height": 3648,
+  "fileName": "zebra-core-family-01-1200.webp",
+  "src": "/images/animals/zebra/web/zebra-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Several zebras standing together as a herd",
   "caption": "Herd living helps zebras protect foals and react quickly to danger.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Core article image curated separately from the zebra gallery set.",
-  "updatedAt": "2026-06-23T05:02:33.994Z",
+  "acquisitionNotes": "Core article image curated separately from the zebra gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5d/Plains_Zebras_%28Equus_quagga%29_%2852491934482%29.jpg",
+  "updatedAt": "2026-06-25T15:15:12.558Z",
   "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Plains_Zebras_(Equus_quagga)_(52491934482).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:33.994Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:12.558Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/zebra/web/zebra-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/zebra/thumbnails/zebra-core-family-01-400.webp",
+    "original": "/images/animals/zebra/web/zebra-core-family-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "peacock-range",
+  "animalSlug": "peacock",
+  "slug": "peacock-range",
+  "fileName": "peacock-range-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-range-01-1200.webp",
+  "width": 1200,
+  "height": 895,
+  "alt": "A Peacock traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Wilfredor via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pavo_Real_Venezolano.jpg\">Wilfredor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavo_Real_Venezolano.jpg",
+    "creatorName": "Wilfredor",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:06:29.714Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for range. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6f/Pavo_Real_Venezolano.jpg",
+  "updatedAt": "2026-06-25T15:06:29.714Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-range-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-range-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-range-01-1200.webp"
+  }
+}

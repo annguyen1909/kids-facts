@@ -2,10 +2,10 @@
   "id": "eagle-closeup",
   "animalSlug": "eagle",
   "slug": "eagle-closeup",
-  "fileName": "Bald Eagle Head sq.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bald_Eagle_Head_sq.jpg",
-  "width": 3000,
-  "height": 3000,
+  "fileName": "eagle-closeup-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Close-up bald eagle head with white feathers and yellow hooked beak",
   "caption": "A bald eagle's sharp hooked beak and keen eyes help it spot prey from far away.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "North America",
-  "acquisitionNotes": "Manually curated bald eagle close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Manually curated bald eagle close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/67/Bald_Eagle_Head_sq.jpg",
+  "updatedAt": "2026-06-25T14:52:18.787Z",
   "attributionText": "Photo by Martin Falbisoner via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_Eagle_Head_sq.jpg\">Martin Falbisoner</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:18.787Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-closeup-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-closeup-01-1200.webp"
   }
 }

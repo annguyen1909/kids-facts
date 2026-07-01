@@ -1,0 +1,131 @@
+{
+  "id": "animal-toucan",
+  "slug": "toucan",
+  "name": "Toucan",
+  "commonNames": [
+    "Toucan",
+    "Toco Toucan",
+    "Common Toucan",
+    "Giant Toucan"
+  ],
+  "scientificName": "Ramphastos toco",
+  "summary": "The toucan is an iconic tropical bird famous for its massive, colorful bill. Despite its large size, their hollow beak is incredibly lightweight and helps them reach hanging fruits, stay cool in the heat, and scare off forest rivals.",
+  "heroTitle": "Toucan Facts",
+  "metaTitle": "Toucan Facts | Habitat, Diet, Bill & Photos",
+  "metaDescription": "Toucan facts for kids with photos, tropical habitat, diet, behavior, and bill secrets on one easy-to-read page.",
+  "searchIntents": [
+    "toucan facts",
+    "what do toucans eat",
+    "where do toucans live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Piciformes",
+    "family": "Ramphastidae",
+    "genus": "Ramphastos",
+    "species": "R. toco"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "South America"
+  ],
+  "countries": [
+    "Brazil",
+    "Argentina",
+    "Bolivia",
+    "Paraguay",
+    "Suriname",
+    "Guyana"
+  ],
+  "biomes": [
+    "tropical-forest",
+    "savanna"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "Figs",
+    "Guavas",
+    "Insects",
+    "Frogs",
+    "Small lizards",
+    "Bird eggs"
+  ],
+  "lifespan": {
+    "wild": "12 to 20 years"
+  },
+  "size": {
+    "lengthMin": "55 cm",
+    "lengthMax": "63 cm"
+  },
+  "weight": {
+    "min": "500 g",
+    "max": "850 g"
+  },
+  "speed": "Awkward short flight, hop-jumper",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "calling loudly",
+    "tossing fruit to eat",
+    "roosting in tree hollows",
+    "bill wrestling"
+  ],
+  "adaptations": [
+    "massive colorful beak",
+    "hollow lightweight beak structure",
+    "zygodactyl feet for climbing",
+    "special tongue for handling food"
+  ],
+  "predators": [
+    "Jaguars",
+    "Coatis",
+    "Large eagles",
+    "Monkeys",
+    "Snakes"
+  ],
+  "prey": [
+    "Insects",
+    "Frogs",
+    "Lizards",
+    "Eggs"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "16 to 18 days",
+    "offspringCount": "2 to 4 eggs"
+  },
+  "funFacts": [
+    "A toucan's beak can be up to 8 inches (20 cm) long, making up one-third of the bird's total length!",
+    "Even though it looks heavy, a toucan's beak is actually very light because it is hollow and made of keratin—the same stuff as our fingernails.",
+    "Toucans use their giant bills to regulate their body temperature by pumping blood into the bill to release heat!",
+    "Toucans sleep by tucking their giant beaks under their wings and folding their tails forward to become small balls.",
+    "They have special two-toes-forward and two-toes-back feet (zygodactyl feet) that help them grip and hop along tree branches.",
+    "Toucans do not fly long distances; they prefer to hop from branch to branch in the forest canopy."
+  ],
+  "faq": [
+    {
+      "question": "What is a toucan?",
+      "answer": "A toucan is a tropical bird famous for its giant, brightly colored beak and black and white feathers. They are native to South American rainforests."
+    },
+    {
+      "question": "Why is a toucan's beak so big?",
+      "answer": "Toucans use their long beaks to reach fruit on thin branches that wouldn't support their weight, to peel skin off fruit, to control their body heat, and to attract mates."
+    },
+    {
+      "question": "What do toucans eat?",
+      "answer": "Toucans are omnivores. They eat mainly tropical fruits like figs and berries, but they will also catch insects, frogs, small lizards, and steal eggs from other birds."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "toucan-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

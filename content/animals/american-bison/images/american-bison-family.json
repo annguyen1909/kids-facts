@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-family",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-family",
+  "fileName": "american-bison-family-01-1200.webp",
+  "alt": "Adult American bison standing beside its young calf",
+  "caption": "Mother bison stay close to their calves and raise them inside a large protective herd.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "United States",
+  "src": "/images/animals/american-bison/web/american-bison-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by usfs_Eastern_Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_with_calf_(32840476796).jpg\">usfs_Eastern_Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_with_calf_(32840476796).jpg",
+    "creatorName": "usfs_Eastern_Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-28T09:54:15.119Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Bison_with_calf_%2832840476796%29.jpg",
+  "updatedAt": "2026-06-28T09:54:15.119Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-family-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-family-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-family-01-1200.webp"
+  }
+}

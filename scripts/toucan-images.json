@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Toco Toucan in the wild",
+    "caption": "The Toco Toucan is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Toco Toucan (Ramphastos toco) - 48153967707.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Toco Toucan navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Toco toucan (Ramphastos toco) drinking composite.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Toco Toucan finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Toco Toucan.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Toco toucan (Ramphastos toco) in flight composite.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Toco Toucan showing early development",
+    "caption": "Baby Toco Toucans must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Toco toucan (Ramphastos toco) close-up.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Toco Toucans interacting with each other",
+    "caption": "While often solitary, some Toco Toucans interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:167 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Toco Toucan traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:041 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Toco Toucan",
+    "caption": "The size of a Toco Toucan can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:090 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Toco Toucan",
+    "caption": "A close-up view reveals the intricate details of a Toco Toucan's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:110 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Toco Toucan showing a unique behavior or adaptation",
+    "caption": "Did you know that the Toco Toucan has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:138 Toco toucan drinking in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Toco Toucan navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:137 Toco toucan in flight in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Toco Toucan finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Toco Toucan.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Toco toucan in Iguaçu National Park.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Toco Toucans interacting with each other",
+    "caption": "While often solitary, some Toco Toucans interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Toco Toucan (Ramphastos toco) in Papaya Tree (Carica papaya) (28997424215).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Toco Toucan showing early development",
+    "caption": "Baby Toco Toucans must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Toco toucan eating Amazon lava.png",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Toco Toucan traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

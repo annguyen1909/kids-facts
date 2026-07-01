@@ -1,0 +1,38 @@
+{
+  "id": "toucan-habitat",
+  "animalSlug": "toucan",
+  "slug": "toucan-habitat",
+  "fileName": "toucan-habitat-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 769,
+  "alt": "A Toco Toucan navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg\">Bernard DUPONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:36.632Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f8/Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg",
+  "updatedAt": "2026-06-25T15:13:36.632Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-habitat-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-habitat-01-1200.webp"
+  }
+}

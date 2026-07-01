@@ -2,8 +2,8 @@
   "id": "seahorse-fun-fact",
   "animalSlug": "seahorse",
   "slug": "seahorse-fun-fact",
-  "fileName": "Hippocampus erectus 354569132.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Hippocampus_erectus_354569132.jpg",
+  "fileName": "seahorse-fun-fact-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-fun-fact-01-1200.webp",
   "width": 960,
   "height": 720,
   "alt": "Lined seahorse camouflaged among underwater plants",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Manually curated seahorse fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "acquisitionNotes": "Manually curated seahorse fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a2/Hippocampus_erectus_354569132.jpg",
+  "updatedAt": "2026-06-25T15:11:06.747Z",
   "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_354569132.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:06.747Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-fun-fact-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-fun-fact-01-1200.webp"
   }
 }

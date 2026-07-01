@@ -2,32 +2,37 @@
   "id": "crocodile-closeup",
   "animalSlug": "crocodile",
   "slug": "crocodile-closeup",
-  "fileName": "Crocodylus niloticus MHNT REP 204.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Crocodylus_niloticus_MHNT_REP_204.jpg",
-  "width": 3307,
-  "height": 3307,
-  "alt": "Close-up of a Nile crocodile skull and teeth",
-  "caption": "A crocodile's cone-shaped teeth are built for gripping prey, not chewing.",
-  "imageType": "closeup",
+  "fileName": "crocodile-closeup-01-1200.webp",
+  "alt": "A detailed close-up of a Nile crocodile's head showing its powerful jaws and teeth",
+  "caption": "Nile crocodiles have powerful jaws that can exert massive pressure to hold struggling prey.",
   "galleryTopics": [
     "closeup"
   ],
   "featuredOnPages": [
     "gallery"
   ],
-  "location": "France",
-  "acquisitionNotes": "Manually curated crocodile close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:15.558Z",
-  "attributionText": "Photo by Roger Culos via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_204.jpg\">Roger Culos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "imageType": "closeup",
+  "location": "Africa",
+  "src": "/images/animals/crocodile/web/crocodile-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by User:Newt via Wikimedia Commons, CC BY-SA 1.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_head.jpg\">User:Newt</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/1.0\">CC BY-SA 1.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_MHNT_REP_204.jpg",
-    "creatorName": "Roger Culos",
-    "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocodylus_niloticus_head.jpg",
+    "creatorName": "User:Newt",
+    "licenseName": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:15.558Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T08:16:12.753Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified crocodile image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/Crocodylus_niloticus_head.jpg",
+  "updatedAt": "2026-06-26T08:16:12.753Z",
+  "srcSet": {
+    "web1200": "/images/animals/crocodile/web/crocodile-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/crocodile/thumbnails/crocodile-closeup-01-400.webp",
+    "original": "/images/animals/crocodile/web/crocodile-closeup-01-1200.webp"
   }
 }

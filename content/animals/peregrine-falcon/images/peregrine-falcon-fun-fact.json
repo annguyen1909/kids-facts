@@ -1,0 +1,38 @@
+{
+  "id": "peregrine-falcon-fun-fact",
+  "animalSlug": "peregrine-falcon",
+  "slug": "peregrine-falcon-fun-fact",
+  "fileName": "peregrine-falcon-fun-fact-01-1200.webp",
+  "src": "/images/animals/peregrine-falcon/web/peregrine-falcon-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A peregrine falcon in mid-flight diving like a missile",
+  "caption": "When diving for prey, they fold their wings and tuck their legs, acting like an aerodynamic missile.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "India",
+  "attributionText": "Photo by Shiv's fotografia via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:The_Peregrine_Falcon_a_Living_Missile_Bird.jpg\">Shiv's fotografia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Peregrine_Falcon_a_Living_Missile_Bird.jpg",
+    "creatorName": "Shiv's fotografia",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:07:06.726Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peregrine-falcon image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0d/The_Peregrine_Falcon_a_Living_Missile_Bird.jpg",
+  "updatedAt": "2026-06-25T15:07:06.726Z",
+  "srcSet": {
+    "web1200": "/images/animals/peregrine-falcon/web/peregrine-falcon-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/peregrine-falcon/thumbnails/peregrine-falcon-fun-fact-01-400.webp",
+    "original": "/images/animals/peregrine-falcon/web/peregrine-falcon-fun-fact-01-1200.webp"
+  }
+}

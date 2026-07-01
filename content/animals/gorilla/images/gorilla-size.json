@@ -2,10 +2,10 @@
   "id": "gorilla-size",
   "animalSlug": "gorilla",
   "slug": "gorilla-size",
-  "fileName": "Male Gorilla gorilla gorilla Apenheul 2023.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg",
-  "width": 5491,
-  "height": 3627,
+  "fileName": "gorilla-size-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-size-01-1200.webp",
+  "width": 1200,
+  "height": 793,
   "alt": "Large male western lowland gorilla showing powerful build",
   "caption": "Adult male gorillas can weigh over 400 pounds and are much larger than females.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla size image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z",
+  "acquisitionNotes": "Manually curated gorilla size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7a/Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg",
+  "updatedAt": "2026-06-25T14:56:23.069Z",
   "attributionText": "Photo by Tuxyso via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Male_Gorilla_gorilla_gorilla_Apenheul_2023.jpg\">Tuxyso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:23.069Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-size-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-size-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-size-01-1200.webp"
   }
 }

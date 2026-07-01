@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-fun-fact",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-fun-fact",
+  "fileName": "leafy-seadragon-fun-fact-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 821,
+  "alt": "Leafy seadragon drifting effortlessly in the water column like a piece of unattached seaweed",
+  "caption": "Their leaf-like appendages are used entirely for camouflage, not swimming! They steer using tiny, transparent pectoral and dorsal fins.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Oceanarium Lisbon",
+  "acquisitionNotes": "Manually curated leafy seadragon fun-fact image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cf/Leafy_Seadragon_or_Glauert%27s_Seadragon_%28Phycodurus_eques%29%2C_Oceanarium_Lisbon.jpg",
+  "updatedAt": "2026-06-29T07:23:30.114Z",
+  "attributionText": "Photo by Sonse via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_or_Glauert%27s_Seadragon_(Phycodurus_eques),_Oceanarium_Lisbon.jpg\">Sonse</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_or_Glauert%27s_Seadragon_(Phycodurus_eques),_Oceanarium_Lisbon.jpg",
+    "creatorName": "Sonse",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:30.114Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-fun-fact-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-fun-fact-01-1200.webp"
+  }
+}

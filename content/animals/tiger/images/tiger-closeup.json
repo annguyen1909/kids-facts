@@ -2,23 +2,23 @@
   "id": "tiger-closeup",
   "animalSlug": "tiger",
   "slug": "tiger-closeup",
-  "fileName": "tiger-closeup.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg",
-  "width": 2112,
-  "height": 1408,
+  "fileName": "tiger-closeup-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Close-up of an Amur tiger eye and face with whiskers and stripes",
   "caption": "A tiger's whiskers, sharp teeth, and night vision help it hunt in forest shadows.",
-  "attributionText": "Photo by Keven Law via Wikimedia Commons, CC BY-SA 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg\">Keven Law</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC BY-SA 2.0</a>",
+  "attributionText": "Photo by Photo (c)2007 Derek and Julie Ramsey ( Ram-Man ) edit by Chris_huh . via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg\">Photo (c)2007 Derek and Julie Ramsey ( Ram-Man ) edit by Chris_huh .</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg",
-    "creatorName": "Keven Law",
-    "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:58:28.827Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "creatorName": "Photo (c)2007 Derek and Julie Ramsey ( Ram-Man ) edit by Chris_huh .",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:12:41.127Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
-  "updatedAt": "2026-06-21T16:58:28.827Z"
+  "acquisitionNotes": "Manually verified tiger image with correct species identification. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/25/Amur_Tiger_Panthera_tigris_altaica_Eye_2112px_edit.jpg",
+  "updatedAt": "2026-06-25T15:12:41.127Z",
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-closeup-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-closeup-01-1200.webp"
+  }
 }

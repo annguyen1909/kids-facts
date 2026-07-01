@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-fun-fact",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-fun-fact",
+  "fileName": "jaguar-fun-fact-01-1200.webp",
+  "alt": "A Jaguar showing a unique behavior or adaptation",
+  "caption": "Did you know that the Jaguar has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Leonardo Ramos via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:On%C3%A7a_do_Pantanal.jpg\">Leonardo Ramos</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:On%C3%A7a_do_Pantanal.jpg",
+    "creatorName": "Leonardo Ramos",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:27.746Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fb/On%C3%A7a_do_Pantanal.jpg",
+  "updatedAt": "2026-06-26T08:11:27.746Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-fun-fact-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-fun-fact-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-core-habitat",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-core-habitat",
+  "alt": "Archerfish swimming peacefully amidst beautiful overhanging foliage and roots",
+  "caption": "The preservation of vital mangrove forests and healthy riparian vegetation is essential to support the overhanging insect populations archerfish rely on.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Ouwehands Dierenpark",
+  "fileName": "archerfish-core-habitat-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1234,
+  "attributionText": "Photo by FakirNL via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_in_Ouwehands_Dierenpark.jpg\">FakirNL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_jaculatrix_in_Ouwehands_Dierenpark.jpg",
+    "creatorName": "FakirNL",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:20.578Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "High-resolution core habitat photograph. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7d/Toxotes_jaculatrix_in_Ouwehands_Dierenpark.jpg",
+  "updatedAt": "2026-06-29T11:54:20.578Z",
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-core-habitat-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-core-habitat-01-1200.webp"
+  }
+}

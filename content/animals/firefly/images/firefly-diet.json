@@ -1,0 +1,38 @@
+{
+  "id": "firefly-diet",
+  "animalSlug": "firefly",
+  "slug": "firefly-diet",
+  "fileName": "firefly-diet-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-diet-01-1200.webp",
+  "width": 1035,
+  "height": 1046,
+  "alt": "A Firefly finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Firefly.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by art farmer from evansville indiana, usa via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_2.jpg\">art farmer from evansville indiana, usa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photinus_pyralis_Firefly_2.jpg",
+    "creatorName": "art farmer from evansville indiana, usa",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:08.619Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/81/Photinus_pyralis_Firefly_2.jpg",
+  "updatedAt": "2026-06-25T14:53:08.619Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-diet-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-diet-01-1200.webp"
+  }
+}

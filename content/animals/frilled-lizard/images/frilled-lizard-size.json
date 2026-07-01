@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-size",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-size",
+  "fileName": "frilled-lizard-size-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-size-01-1200.webp",
+  "width": 1200,
+  "height": 1647,
+  "alt": "A photo showing the size of a Frilled Lizard",
+  "caption": "The size of a Frilled Lizard can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Karlsruhe, Germany",
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_01.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chlamydosaurus_kingii_01.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:05:10.727Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Moved former hero museum specimen here to keep a distinct size reference image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b9/Chlamydosaurus_kingii_01.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b9/Chlamydosaurus_kingii_01.jpg",
+  "updatedAt": "2026-06-26T19:05:10.727Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-size-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-size-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-size-01-1200.webp"
+  }
+}

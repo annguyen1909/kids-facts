@@ -2,10 +2,10 @@
   "id": "clownfish-size",
   "animalSlug": "clownfish",
   "slug": "clownfish-size",
-  "fileName": "Amphiprion ocellaris ( Clownfish).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Amphiprion_ocellaris_%28_Clownfish%29.jpg",
-  "width": 1622,
-  "height": 2161,
+  "fileName": "clownfish-size-01-1200.webp",
+  "src": "/images/animals/clownfish/web/clownfish-size-01-1200.webp",
+  "width": 1200,
+  "height": 1599,
   "alt": "Small ocellaris clownfish showing bright orange and white bands",
   "caption": "Ocellaris clownfish grow only about 3 to 4 inches long as adults.",
   "attributionText": "Photo by Nhobgood Nick Hobgood via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:26.704Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:36.237Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "size",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tropical reef",
-  "acquisitionNotes": "Manually curated clownfish size image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:26.704Z"
+  "acquisitionNotes": "Manually curated clownfish size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5e/Amphiprion_ocellaris_%28_Clownfish%29.jpg",
+  "updatedAt": "2026-06-25T14:51:36.237Z",
+  "srcSet": {
+    "web1200": "/images/animals/clownfish/web/clownfish-size-01-1200.webp",
+    "thumbnail400": "/images/animals/clownfish/thumbnails/clownfish-size-01-400.webp",
+    "original": "/images/animals/clownfish/web/clownfish-size-01-1200.webp"
+  }
 }

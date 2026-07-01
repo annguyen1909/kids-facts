@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-core-diet",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-core-diet",
+  "alt": "Shoebill standing patiently in shallow marsh water",
+  "caption": "Lungfish comprise the vast majority of the shoebill's diet in the wild.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Wetland exhibit",
+  "fileName": "shoebill-core-diet-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1807,
+  "attributionText": "Photo by DaraKero_F via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(5024120567).jpg\">DaraKero_F</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(5024120567).jpg",
+    "creatorName": "DaraKero_F",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:21:58.865Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the shoebill gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Balaeniceps_rex_%285024120567%29.jpg",
+  "updatedAt": "2026-06-29T07:21:58.865Z",
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-core-diet-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-core-diet-01-1200.webp"
+  }
+}

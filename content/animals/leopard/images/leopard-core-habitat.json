@@ -2,10 +2,10 @@
   "id": "leopard-core-habitat",
   "animalSlug": "leopard",
   "slug": "leopard-core-habitat",
-  "fileName": "Leopard (Panthera pardus pardus) Kruger 2.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Leopard_%28Panthera_pardus_pardus%29_Kruger_2.jpg",
-  "width": 5071,
-  "height": 3380,
+  "fileName": "leopard-core-habitat-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Leopard moving through bush and grass in Kruger National Park",
   "caption": "Leopards roam forests, woodlands, and savannas from Africa to parts of Asia.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:07.848Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Core article image curated separately from the leopard gallery set.",
-  "updatedAt": "2026-06-24T08:02:52.343Z"
+  "acquisitionNotes": "Core article image curated separately from the leopard gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/Leopard_%28Panthera_pardus_pardus%29_Kruger_2.jpg",
+  "updatedAt": "2026-06-25T15:01:07.848Z",
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-core-habitat-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-core-habitat-01-1200.webp"
+  }
 }

@@ -1,0 +1,42 @@
+{
+  "id": "peacock-core-family",
+  "animalSlug": "peacock",
+  "slug": "peacock-core-family",
+  "fileName": "peacock-core-family-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A group of Peacocks interacting with each other",
+  "caption": "While often solitary, some Peacocks interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Gabriel Castaldini via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Carnavalesco.jpg\">Gabriel Castaldini</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnavalesco.jpg",
+    "creatorName": "Gabriel Castaldini",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:21.202Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d5/Carnavalesco.jpg",
+  "updatedAt": "2026-06-25T15:06:21.202Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carnavalesco.jpg",
+  "creatorName": "Gabriel Castaldini",
+  "licenseName": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-core-family-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-core-family-01-1200.webp"
+  }
+}

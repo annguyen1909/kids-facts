@@ -2,8 +2,8 @@
   "id": "penguin-closeup",
   "animalSlug": "penguin",
   "slug": "penguin-closeup",
-  "fileName": "King Penguin portrait.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/King_Penguin_portrait.jpg",
+  "fileName": "penguin-closeup-01-1200.webp",
+  "src": "/images/animals/penguin/web/penguin-closeup-01-1200.webp",
   "width": 1087,
   "height": 1172,
   "alt": "Close-up king penguin face with orange neck patch and black head",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Falkland Islands",
-  "acquisitionNotes": "Manually curated penguin close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T07:33:33.464Z",
+  "acquisitionNotes": "Manually curated penguin close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/60/King_Penguin_portrait.jpg",
+  "updatedAt": "2026-06-25T15:06:31.792Z",
   "attributionText": "Photo by Mark Dickson via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:King_Penguin_portrait.jpg\">Mark Dickson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T07:33:33.464Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:06:31.792Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/penguin/web/penguin-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/penguin/thumbnails/penguin-closeup-01-400.webp",
+    "original": "/images/animals/penguin/web/penguin-closeup-01-1200.webp"
   }
 }

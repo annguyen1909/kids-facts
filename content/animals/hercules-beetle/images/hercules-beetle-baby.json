@@ -1,0 +1,38 @@
+{
+  "id": "hercules-beetle-baby",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-baby",
+  "fileName": "hercules-beetle-baby-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-baby-01-1200.webp",
+  "width": 1200,
+  "height": 727,
+  "alt": "Dynastes hercules — Herkuleskäfer Blatthornkäfer ( Scarabaeidae ). Jardín de las Mariposas, Monteverde Cloud Forest Reserve , Cordillera de Tilarán, Puntarenas Province , Costa Rica.",
+  "caption": "Dynastes hercules — Herkuleskäfer Blatthornkäfer ( Scarabaeidae ). Jardín de las Mariposas, Monteverde Cloud Forest Reserve , Cordillera de Tilarán, Puntarenas Province , Costa Rica.",
+  "attributionText": "Photo by Franz Xaver via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dynastes_hercules.jpg\">Franz Xaver</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules.jpg",
+    "creatorName": "Franz Xaver",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:26.652Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Imported — verify editorially",
+  "acquisitionNotes": "Imported automatically from Wikimedia Commons. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/Dynastes_hercules.jpg",
+  "updatedAt": "2026-06-25T14:57:26.652Z",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-baby-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-baby-01-1200.webp"
+  }
+}

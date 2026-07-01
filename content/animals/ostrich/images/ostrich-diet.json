@@ -2,32 +2,37 @@
   "id": "ostrich-diet",
   "animalSlug": "ostrich",
   "slug": "ostrich-diet",
-  "fileName": "Avestruz alta.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Avestruz_alta.jpg",
-  "width": 2592,
-  "height": 3872,
-  "alt": "Ostrich foraging on the ground for food",
-  "caption": "Ostriches eat plants, seeds, insects, and small animals they find on the ground.",
-  "imageType": "diet",
+  "fileName": "ostrich-diet-01-1200.webp",
+  "alt": "Ostrich bending down to peck at plants on open ground",
+  "caption": "Ostriches eat seeds, grasses, flowers, and insects they find while foraging.",
   "galleryTopics": [
     "diet"
   ],
   "featuredOnPages": [
     "gallery"
   ],
+  "imageType": "diet",
   "location": "Africa",
-  "acquisitionNotes": "Manually curated ostrich diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by Museum of Veterinary Anatomy FMVZ USP via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Avestruz_alta.jpg\">Museum of Veterinary Anatomy FMVZ USP</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "src": "/images/animals/ostrich/web/ostrich-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Kenogenic via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_feeding.jpg\">Kenogenic</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avestruz_alta.jpg",
-    "creatorName": "Museum of Veterinary Anatomy FMVZ USP",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_feeding.jpg",
+    "creatorName": "Kenogenic",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:56.602Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Wild foraging shot — full body visible while feeding. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4f/Ostrich_feeding.jpg",
+  "updatedAt": "2026-06-28T09:18:56.602Z",
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-diet-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "id": "manatee-gallery-main",
+  "animalSlug": "manatee",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Manatee Photo Gallery",
+  "metaTitle": "Manatee Photo Gallery",
+  "metaDescription": "Browse a manatee photo gallery with wildlife images of sea cows, calves, seagrass grazing, warm springs, and Florida coastal habitat.",
+  "intro": "Explore manatees through photos organized for learning, image search, and classroom observation—from grazing in seagrass meadows and warming in Florida springs to mother and calf pairs.",
+  "imageSlugs": [
+    "manatee-hero",
+    "manatee-habitat",
+    "manatee-diet",
+    "manatee-baby",
+    "manatee-family",
+    "manatee-range",
+    "manatee-size",
+    "manatee-closeup",
+    "manatee-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

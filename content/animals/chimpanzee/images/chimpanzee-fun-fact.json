@@ -2,10 +2,10 @@
   "id": "chimpanzee-fun-fact",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-fun-fact",
-  "fileName": "Chimpanzee Gombe Tanzania.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chimpanzee_Gombe_Tanzania.jpg",
-  "width": 3024,
-  "height": 4032,
+  "fileName": "chimpanzee-fun-fact-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Chimpanzee sitting in forest holding food",
   "caption": "Chimpanzees use sticks and other tools to reach insects and honey.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Gombe, Tanzania",
-  "acquisitionNotes": "Manually curated chimpanzee fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Manually curated chimpanzee fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0b/Chimpanzee_Gombe_Tanzania.jpg",
+  "updatedAt": "2026-06-25T14:50:47.124Z",
   "attributionText": "Photo by AmyAbroad via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee_Gombe_Tanzania.jpg\">AmyAbroad</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:47.124Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-fun-fact-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-fun-fact-01-1200.webp"
   }
 }

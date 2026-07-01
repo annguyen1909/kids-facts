@@ -2,23 +2,23 @@
   "id": "grizzly-bear-core-habitat",
   "animalSlug": "grizzly-bear",
   "slug": "grizzly-bear-core-habitat",
-  "fileName": "Brown Bears Exploring Their Habitat.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Brown_Bears_Exploring_Their_Habitat.jpg",
-  "width": 3000,
-  "height": 4000,
+  "fileName": "grizzly-bear-core-habitat-01-1200.webp",
+  "src": "/images/animals/grizzly-bear/web/grizzly-bear-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Brown bears moving through forest and meadow habitat",
   "caption": "River valleys and berry patches are important feeding areas for grizzlies.",
   "attributionText": "Photo by FunnehFun via Wikimedia Commons, CC0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown_Bears_Exploring_Their_Habitat.jpg\">FunnehFun</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\">CC0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown_Bears_Exploring_Their_Habitat.jpg\">FunnehFun</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brown_Bears_Exploring_Their_Habitat.jpg",
     "creatorName": "FunnehFun",
     "licenseName": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T09:39:00.723Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:57:00.045Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "North America",
-  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set.",
-  "updatedAt": "2026-06-24T09:39:00.723Z"
+  "acquisitionNotes": "Core article image curated separately from the grizzly bear gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/55/Brown_Bears_Exploring_Their_Habitat.jpg",
+  "updatedAt": "2026-06-25T14:57:00.045Z",
+  "srcSet": {
+    "web1200": "/images/animals/grizzly-bear/web/grizzly-bear-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/grizzly-bear/thumbnails/grizzly-bear-core-habitat-01-400.webp",
+    "original": "/images/animals/grizzly-bear/web/grizzly-bear-core-habitat-01-1200.webp"
+  }
 }

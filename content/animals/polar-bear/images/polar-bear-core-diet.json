@@ -2,10 +2,10 @@
   "id": "polar-bear-core-diet",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-core-diet",
-  "fileName": "DSC02148 - Polar Bear (44107277964).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/DSC02148_-_Polar_Bear_%2844107277964%29.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "polar-bear-core-diet-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Polar bear moving across sea ice while hunting",
   "caption": "They wait by seal breathing holes or break into snow dens to catch prey.",
   "attributionText": "Photo by Dennis G. Jarvis via Wikimedia Commons, CC BY-SA 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:07:41.451Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Arctic",
-  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set.",
-  "updatedAt": "2026-06-24T08:52:49.161Z"
+  "acquisitionNotes": "Core article image curated separately from the polar bear gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/99/DSC02148_-_Polar_Bear_%2844107277964%29.jpg",
+  "updatedAt": "2026-06-25T15:07:41.451Z",
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-core-diet-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-core-diet-01-1200.webp"
+  }
 }

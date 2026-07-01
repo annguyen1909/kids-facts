@@ -1,0 +1,22 @@
+{
+  "id": "honeybee-gallery-main",
+  "animalSlug": "honeybee",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Western Honey Bee Photo Gallery",
+  "metaTitle": "Western Honey Bee Photo Gallery",
+  "metaDescription": "Browse a western honey bee photo gallery with wildlife photos.",
+  "intro": "Explore western honey bee photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "honeybee-hero",
+    "honeybee-habitat",
+    "honeybee-diet",
+    "honeybee-baby",
+    "honeybee-family",
+    "honeybee-range",
+    "honeybee-size",
+    "honeybee-closeup",
+    "honeybee-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T15:29:03.650Z"
+}

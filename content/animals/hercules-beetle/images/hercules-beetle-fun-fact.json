@@ -1,0 +1,38 @@
+{
+  "id": "hercules-beetle-fun-fact",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-fun-fact",
+  "fileName": "hercules-beetle-fun-fact-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 674,
+  "alt": "A Hercules Beetle showing a unique behavior or adaptation",
+  "caption": "Did you know that the Hercules Beetle has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "attributionText": "Photo by Novita Estiti from Tokyo, Japan via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_(1).jpg\">Novita Estiti from Tokyo, Japan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hercules_beetle_(Dynastes_hercules)_-_(1).jpg",
+    "creatorName": "Novita Estiti from Tokyo, Japan",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:45.009Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified hercules-beetle image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a8/Hercules_beetle_%28Dynastes_hercules%29_-_%281%29.jpg",
+  "updatedAt": "2026-06-25T14:57:45.009Z",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-fun-fact-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-fun-fact-01-1200.webp"
+  }
+}

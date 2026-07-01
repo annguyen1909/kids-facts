@@ -2,10 +2,10 @@
   "id": "giraffe-core-habitat",
   "animalSlug": "giraffe",
   "slug": "giraffe-core-habitat",
-  "fileName": "Kulinda 03.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kulinda_03.jpg",
-  "width": 2160,
-  "height": 3840,
+  "fileName": "giraffe-core-habitat-01-1200.webp",
+  "src": "/images/animals/giraffe/web/giraffe-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 2133,
   "alt": "Giraffe standing in sunny dry woodland habitat",
   "caption": "Giraffes do best where trees are spaced out across open woodland and savanna.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "African savanna woodland",
-  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.575Z",
+  "acquisitionNotes": "Core article image curated separately from the giraffe gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Kulinda_03.jpg",
+  "updatedAt": "2026-06-25T14:55:49.230Z",
   "attributionText": "Photo by Japheth Kulinda via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kulinda_03.jpg\">Japheth Kulinda</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.575Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:49.230Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giraffe/web/giraffe-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/giraffe/thumbnails/giraffe-core-habitat-01-400.webp",
+    "original": "/images/animals/giraffe/web/giraffe-core-habitat-01-1200.webp"
   }
 }

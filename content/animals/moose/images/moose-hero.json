@@ -2,10 +2,10 @@
   "id": "moose-hero",
   "animalSlug": "moose",
   "slug": "moose-hero",
-  "fileName": "Moose in Grand Teton National Park 3 (8007698498).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Moose_in_Grand_Teton_National_Park_3_%288007698498%29.jpg",
-  "width": 4128,
-  "height": 3456,
+  "fileName": "moose-hero-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-hero-01-1200.webp",
+  "width": 1200,
+  "height": 1005,
   "alt": "Bull moose with large antlers standing in a mountain meadow",
   "caption": "Moose are the largest members of the deer family, with bulls carrying huge antlers.",
   "attributionText": "Photo by Tony Hisgett from Birmingham, UK via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:44.781Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Grand Teton, Wyoming",
-  "acquisitionNotes": "Manually curated moose hero image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z"
+  "acquisitionNotes": "Manually curated moose hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fa/Moose_in_Grand_Teton_National_Park_3_%288007698498%29.jpg",
+  "updatedAt": "2026-06-25T15:03:44.781Z",
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-hero-01-400.webp",
+    "original": "/images/animals/moose/web/moose-hero-01-1200.webp"
+  }
 }

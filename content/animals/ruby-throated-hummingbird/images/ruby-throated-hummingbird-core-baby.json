@@ -1,0 +1,38 @@
+{
+  "id": "ruby-throated-hummingbird-core-baby",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-core-baby",
+  "fileName": "ruby-throated-hummingbird-core-baby-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 976,
+  "alt": "Female ruby-throated hummingbird tending to her nest in a tree",
+  "caption": "The female hummingbird sits on her tiny nest, keeping the eggs safe and warm.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "baby",
+  "location": "Aitkin, Minnesota",
+  "attributionText": "Photo by Lorie Shaull via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_on_nest_05.jpg\">Lorie Shaull</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruby-throated_hummingbird_on_nest_05.jpg",
+    "creatorName": "Lorie Shaull",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:00.977Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/92/Ruby-throated_hummingbird_on_nest_05.jpg",
+  "updatedAt": "2026-06-25T15:10:00.977Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-core-baby-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-baby-01-1200.webp"
+  }
+}

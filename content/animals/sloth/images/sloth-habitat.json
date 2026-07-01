@@ -2,8 +2,8 @@
   "id": "sloth-habitat",
   "animalSlug": "sloth",
   "slug": "sloth-habitat",
-  "fileName": "Bradypus variegatus, the Brown-throated Three-toed Sloth (12687597105).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_%2812687597105%29.jpg",
+  "fileName": "sloth-habitat-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-habitat-01-1200.webp",
   "width": 1000,
   "height": 777,
   "alt": "Three-toed sloth hanging from a rainforest tree branch",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Manually curated sloth habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Manually curated sloth habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2a/Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_%2812687597105%29.jpg",
+  "updatedAt": "2026-06-25T15:11:30.666Z",
   "attributionText": "Photo by Dick Culbert from Gibsons, B.C., Canada via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg\">Dick Culbert from Gibsons, B.C., Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bradypus_variegatus,_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg\">Dick Culbert from Gibsons, B.C., Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus%2C_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradypus_variegatus,_the_Brown-throated_Three-toed_Sloth_(12687597105).jpg",
     "creatorName": "Dick Culbert from Gibsons, B.C., Canada",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:30.666Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-habitat-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-habitat-01-1200.webp"
   }
 }

@@ -2,8 +2,8 @@
   "id": "salmon-family",
   "animalSlug": "salmon",
   "slug": "salmon-family",
-  "fileName": "Atlantic salmon parr emerging from streambed.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Atlantic_salmon_parr_emerging_from_streambed.jpg",
+  "fileName": "salmon-family-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-family-01-1200.webp",
   "width": 1182,
   "height": 691,
   "alt": "Young salmon parr in a stream",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North Atlantic",
-  "acquisitionNotes": "Manually curated salmon life-cycle image with verified species identification.",
-  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "acquisitionNotes": "Manually curated salmon life-cycle image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/60/Atlantic_salmon_parr_emerging_from_streambed.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/60/Atlantic_salmon_parr_emerging_from_streambed.jpg",
+  "updatedAt": "2026-06-26T19:17:04.292Z",
   "attributionText": "Photo by E. Peter Steenstra/U. S. Fish and Wildlife Service - Northeast Region via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr_emerging_from_streambed.jpg\">E. Peter Steenstra/U. S. Fish and Wildlife Service - Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr_emerging_from_streambed.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr_emerging_from_streambed.jpg\">E. Peter Steenstra/U. S. Fish and Wildlife Service - Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr_emerging_from_streambed.jpg",
     "creatorName": "E. Peter Steenstra/U. S. Fish and Wildlife Service - Northeast Region",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_parr_emerging_from_streambed.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:17:04.292Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-family-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-family-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-family-01-1200.webp"
   }
 }

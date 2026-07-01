@@ -1,0 +1,42 @@
+{
+  "id": "gila-monster-core-habitat",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-core-habitat",
+  "fileName": "gila-monster-core-habitat-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A Gila Monster navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Michael Wifall from Tucson, USA via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_head_2.jpg\">Michael Wifall from Tucson, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_head_2.jpg",
+    "creatorName": "Michael Wifall from Tucson, USA",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:34.687Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/8f/Heloderma_suspectum_head_2.jpg",
+  "updatedAt": "2026-06-25T14:55:34.687Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_head_2.jpg",
+  "creatorName": "Michael Wifall from Tucson, USA",
+  "licenseName": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-core-habitat-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-core-habitat-01-1200.webp"
+  }
+}

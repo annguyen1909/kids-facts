@@ -2,10 +2,10 @@
   "id": "sea-turtle-diet",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-diet",
-  "fileName": "Green Sea Turtle grazing seagrass.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg",
-  "width": 3367,
-  "height": 2525,
+  "fileName": "sea-turtle-diet-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-diet-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Green sea turtle feeding on seagrass underwater",
   "caption": "Adult green sea turtles mainly eat seagrass and algae.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Tropical ocean",
-  "acquisitionNotes": "Manually curated sea turtle diet image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Manually curated sea turtle diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Green_Sea_Turtle_grazing_seagrass.jpg",
+  "updatedAt": "2026-06-25T15:10:51.480Z",
   "attributionText": "Photo by P.Lindgren via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_grazing_seagrass.jpg\">P.Lindgren</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:51.480Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-diet-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-diet-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "snow-leopard-size",
+  "animalSlug": "snow-leopard",
+  "slug": "snow-leopard-size",
+  "fileName": "snow-leopard-size-01-1200.webp",
+  "alt": "A photo showing the size of a Snow Leopard",
+  "caption": "The size of a Snow Leopard can vary depending on its age and environment.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/snow-leopard/web/snow-leopard-size-01-1200.webp",
+  "width": 1200,
+  "height": 980,
+  "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_uncia_-_Zoo_Karlsruhe_02.jpg\">H. Zell</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_uncia_-_Zoo_Karlsruhe_02.jpg",
+    "creatorName": "H. Zell",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:14:06.857Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified snow-leopard image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/Panthera_uncia_-_Zoo_Karlsruhe_02.jpg",
+  "updatedAt": "2026-06-26T08:14:06.857Z",
+  "srcSet": {
+    "web1200": "/images/animals/snow-leopard/web/snow-leopard-size-01-1200.webp",
+    "thumbnail400": "/images/animals/snow-leopard/thumbnails/snow-leopard-size-01-400.webp",
+    "original": "/images/animals/snow-leopard/web/snow-leopard-size-01-1200.webp"
+  }
+}

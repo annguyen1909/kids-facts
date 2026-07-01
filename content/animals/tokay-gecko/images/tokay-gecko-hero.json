@@ -1,0 +1,38 @@
+{
+  "id": "tokay-gecko-hero",
+  "animalSlug": "tokay-gecko",
+  "slug": "tokay-gecko-hero",
+  "fileName": "tokay-gecko-hero-01-1200.webp",
+  "src": "/images/animals/tokay-gecko/web/tokay-gecko-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Tokay gecko showing its bright blue body with orange spots resting on green leaves",
+  "caption": "Tokay geckos are famous for their colorful blue and orange-spotted skin.",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tokay_Gecko_(Gekko_gecko)_(7109782823).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokay_Gecko_(Gekko_gecko)_(7109782823).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:11.324Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Thailand",
+  "acquisitionNotes": "Manually verified tokay gecko image for hero. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2b/Tokay_Gecko_%28Gekko_gecko%29_%287109782823%29.jpg",
+  "updatedAt": "2026-06-25T15:13:11.324Z",
+  "srcSet": {
+    "web1200": "/images/animals/tokay-gecko/web/tokay-gecko-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/tokay-gecko/thumbnails/tokay-gecko-hero-01-400.webp",
+    "original": "/images/animals/tokay-gecko/web/tokay-gecko-hero-01-1200.webp"
+  }
+}

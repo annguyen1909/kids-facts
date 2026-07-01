@@ -1,0 +1,151 @@
+{
+  "id": "animal-ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird",
+  "name": "Ruby-throated Hummingbird",
+  "commonNames": [
+    "Ruby-throated Hummingbird",
+    "Ruby-throat"
+  ],
+  "scientificName": "Archilochus colubris",
+  "summary": "Ruby-throated hummingbirds are tiny, vibrant birds famous for their shimmering green backs, bright ruby-red throats (on males), and the ability to hover in mid-air and fly backwards. They migrate thousands of miles every year and have an incredibly fast metabolism, requiring constant feeding on flower nectar and small insects.",
+  "heroTitle": "Ruby-throated Hummingbird Facts",
+  "metaTitle": "Ruby-throated Hummingbird Facts | Habitat, Diet, Flight & Photos",
+  "metaDescription": "Discover ruby-throated hummingbird facts with photos, hovering flight, nest building, migratory range, nectar diet, and quick facts. Learn how they fly and live.",
+  "searchIntents": [
+    "ruby-throated hummingbird facts",
+    "what do hummingbirds eat",
+    "hummingbird wings per second",
+    "how big is a hummingbird nest",
+    "where do hummingbirds migrate",
+    "how much does a hummingbird weigh"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Archilochus",
+    "species": "A. colubris"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "continents": [
+    "North America",
+    "Central America"
+  ],
+  "countries": [
+    "United States",
+    "Canada",
+    "Mexico",
+    "Guatemala",
+    "Costa Rica",
+    "Honduras"
+  ],
+  "biomes": [
+    "temperate forest",
+    "tropical forest",
+    "garden"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "flower nectar",
+    "small insects",
+    "spiders",
+    "sap"
+  ],
+  "lifespan": {
+    "wild": "3 to 5 years",
+    "captivity": "Up to 9 years in specialty research aviaries"
+  },
+  "size": {
+    "lengthMin": "2.8 inches",
+    "lengthMax": "3.5 inches"
+  },
+  "weight": {
+    "min": "0.07 ounces",
+    "max": "0.21 ounces"
+  },
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "hovering flight",
+    "backwards flight",
+    "migration",
+    "territorial defense",
+    "nectar feeding"
+  ],
+  "adaptations": [
+    "needle-like beak",
+    "rapid wing beat",
+    "grooved tongue",
+    "iridescent feathers"
+  ],
+  "predators": [
+    "hawks",
+    "cats",
+    "praying mantises",
+    "spiders",
+    "frogs"
+  ],
+  "prey": [
+    "gnats",
+    "flies",
+    "aphids",
+    "spiders"
+  ],
+  "reproduction": {
+    "offspringName": "chick",
+    "gestationOrIncubation": "12 to 14 days",
+    "offspringCount": "Usually 2 eggs"
+  },
+  "funFacts": [
+    "A ruby-throated hummingbird is so small that it can easily fit inside a walnut shell!",
+    "To migrate south for winter, these tiny birds fly non-stop across the Gulf of Mexico—a 500-mile (800 km) journey that takes 20 hours!",
+    "A hummingbird's heart beats up to 1,200 times per second when flying, and they breathe 250 times per minute.",
+    "They are the only birds that can fly backwards, upside down, and hover in place like a helicopter.",
+    "A hummingbird's nest is tiny—about the size of a ping-pong ball—and is held together with sticky spider webs that stretch as the babies grow.",
+    "Hummingbirds must eat half their body weight in sugar every day to keep up their energy."
+  ],
+  "faq": [
+    {
+      "question": "What is a ruby-throated hummingbird?",
+      "answer": "It is a tiny bird known for its glittering green feathers, the male's bright red throat, and its amazing ability to fly in any direction, including backwards."
+    },
+    {
+      "question": "How fast do hummingbirds flap their wings?",
+      "answer": "They flap their wings about 50 to 80 times per second, which makes a buzzing hum sound—that is why they are called hummingbirds!"
+    },
+    {
+      "question": "What do hummingbirds eat?",
+      "answer": "They eat sweet nectar from colorful flowers for quick energy, and they also eat tiny bugs and spiders to get protein."
+    },
+    {
+      "question": "Where do hummingbirds go in the winter?",
+      "answer": "In autumn, they fly south from the United States and Canada to spend the winter in warm places like Mexico and Central America."
+    },
+    {
+      "question": "How big is a hummingbird nest?",
+      "answer": "Their nests are tiny, about the size of a ping-pong ball. The mother bird wraps spider webs around the nest so it can expand as the chicks grow."
+    },
+    {
+      "question": "How much does a ruby-throated hummingbird weigh?",
+      "answer": "They are incredibly light, weighing only about 3 grams, which is lighter than a single sheet of paper or a penny!"
+    }
+  ],
+  "relatedAnimals": [
+    "monarch-butterfly",
+    "honeybee",
+    "tokay-gecko"
+  ],
+  "comparisonCandidates": [
+    "monarch-butterfly"
+  ],
+  "galleryIds": [
+    "ruby-throated-hummingbird-gallery-main"
+  ],
+  "updatedAt": "2026-06-24T15:30:38.000Z",
+  "publishedAt": "2026-06-24T15:30:38.000Z",
+  "habitat": "forest"
+}

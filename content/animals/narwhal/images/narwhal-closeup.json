@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-closeup",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-closeup",
+  "fileName": "narwhal-closeup-01-1200.webp",
+  "alt": "A detailed close-up showing the physical features of a Narwhal",
+  "caption": "A close-up view reveals the intricate details of a Narwhal's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by пресс-служба ПАО \"Газпром нефть\" via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg\">пресс-служба ПАО \"Газпром нефть\"</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+    "creatorName": "пресс-служба ПАО \"Газпром нефть\"",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:06:03.312Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+  "updatedAt": "2026-06-26T19:06:03.312Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-closeup-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-closeup-01-1200.webp"
+  }
+}

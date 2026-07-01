@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-fun-fact",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-fun-fact",
+  "fileName": "hoatzin-fun-fact-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 760,
+  "alt": "Hoatzin displaying its extraordinary wings and spiky crown feathers",
+  "caption": "Because they ferment leaves in their crop, hoatzins produce a strong, manure-like odor, earning them the nickname 'stinkbird' and making them completely inedible to humans.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Amazon rainforest",
+  "acquisitionNotes": "Curated fun-fact image showcasing spiky crest and leaf habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Cigana_%28Opisthocomus_hoazin%29.jpg",
+  "updatedAt": "2026-06-29T12:23:52.166Z",
+  "attributionText": "Photo by AISSE GAERTNER via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cigana_(Opisthocomus_hoazin).jpg\">AISSE GAERTNER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cigana_(Opisthocomus_hoazin).jpg",
+    "creatorName": "AISSE GAERTNER",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:52.166Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-fun-fact-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-fun-fact-01-1200.webp"
+  }
+}

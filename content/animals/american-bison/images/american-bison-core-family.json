@@ -1,0 +1,38 @@
+{
+  "id": "american-bison-core-family",
+  "animalSlug": "american-bison",
+  "slug": "american-bison-core-family",
+  "fileName": "american-bison-core-family-01-1200.webp",
+  "alt": "Group of American bison standing together in a herd",
+  "caption": "Bison are social animals that live in herds, which helps keep the young ones safe.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Parc Omega, Quebec, Canada",
+  "src": "/images/animals/american-bison/web/american-bison-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Cephas via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bison_bison_herd_PO.jpg\">Cephas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bison_bison_herd_PO.jpg",
+    "creatorName": "Cephas",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:54:13.485Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified american-bison image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Bison_bison_herd_PO.jpg",
+  "updatedAt": "2026-06-28T09:54:13.485Z",
+  "srcSet": {
+    "web1200": "/images/animals/american-bison/web/american-bison-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/american-bison/thumbnails/american-bison-core-family-01-400.webp",
+    "original": "/images/animals/american-bison/web/american-bison-core-family-01-1200.webp"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "capybara-size",
+  "animalSlug": "capybara",
+  "slug": "capybara-size",
+  "fileName": "capybara-size-01-1200.webp",
+  "alt": "Full-body capybara resting on short green grass",
+  "caption": "Capybaras are the world's largest rodents and can grow over 4 feet long.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Unknown",
+  "src": "/images/animals/capybara/web/capybara-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Wilfredor via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis,_Rio_de_Janeiro,_Brazil_09.jpg\">Wilfredor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis,_Rio_de_Janeiro,_Brazil_09.jpg",
+    "creatorName": "Wilfredor",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T08:15:56.551Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg",
+  "updatedAt": "2026-06-26T08:15:56.551Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-size-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-size-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-size-01-1200.webp"
+  }
+}

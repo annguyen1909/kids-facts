@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-closeup",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-closeup",
+  "fileName": "wandering-albatross-closeup-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 802,
+  "alt": "Incredible close-up of a wandering albatross's head, sharp hooked beak, and prominent external nostril tubes",
+  "caption": "As members of the Procellariiformes (tubesnoses), they possess highly specialized external nasal tubes used for excreting excess ocean salt and detecting prey via scent.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Prion Island, South Georgia",
+  "acquisitionNotes": "Spectacular high-resolution close-up of tubenose bill structure and facial features. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fd/SGI-2016-South_Georgia_%28Prion_Island%29%E2%80%93Wandering_albatross_%28Diomedea_exulans%29_08_%28cropped%29.jpg",
+  "updatedAt": "2026-06-29T12:05:37.366Z",
+  "attributionText": "Photo by Godot13 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_08_(cropped).jpg\">Godot13</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Prion_Island)%E2%80%93Wandering_albatross_(Diomedea_exulans)_08_(cropped).jpg",
+    "creatorName": "Godot13",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:37.366Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-closeup-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-closeup-01-1200.webp"
+  }
+}

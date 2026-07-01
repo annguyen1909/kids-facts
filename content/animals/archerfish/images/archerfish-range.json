@@ -1,0 +1,38 @@
+{
+  "id": "archerfish-range",
+  "animalSlug": "archerfish",
+  "slug": "archerfish-range",
+  "fileName": "archerfish-range-01-1200.webp",
+  "src": "/images/animals/archerfish/web/archerfish-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Archerfish thriving in the rich brackish estuaries of Southeast Asia",
+  "caption": "Their extensive natural range covers the coastal estuaries and rivers of India, Southeast Asia, the Philippines, and northern Australia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Southeast Asian estuary",
+  "acquisitionNotes": "High-quality photograph representing Indo-Pacific mangrove distribution. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/76/Toxotes_chatareus_95651676.jpg",
+  "updatedAt": "2026-06-29T11:54:58.480Z",
+  "attributionText": "Photo by Abu Hamas via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Toxotes_chatareus_95651676.jpg\">Abu Hamas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toxotes_chatareus_95651676.jpg",
+    "creatorName": "Abu Hamas",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:54:58.480Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/archerfish/web/archerfish-range-01-1200.webp",
+    "thumbnail400": "/images/animals/archerfish/thumbnails/archerfish-range-01-400.webp",
+    "original": "/images/animals/archerfish/web/archerfish-range-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "rhinoceros-core-baby",
   "animalSlug": "rhinoceros",
   "slug": "rhinoceros-core-baby",
-  "fileName": "White rhinoceros (Ceratotherium simum) juvenile Kruger.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/White_rhinoceros_%28Ceratotherium_simum%29_juvenile_Kruger.jpg",
-  "width": 3380,
-  "height": 2253,
+  "fileName": "rhinoceros-core-baby-01-1200.webp",
+  "src": "/images/animals/rhinoceros/web/rhinoceros-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Juvenile white rhinoceros in Kruger habitat",
   "caption": "Calves grow quickly but keep their horn stubs small for the first years of life.",
   "imageType": "baby",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.739Z",
+  "acquisitionNotes": "Core article image curated separately from the rhinoceros gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/White_rhinoceros_%28Ceratotherium_simum%29_juvenile_Kruger.jpg",
+  "updatedAt": "2026-06-25T15:09:44.870Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:White_rhinoceros_(Ceratotherium_simum)_juvenile_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.739Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:44.870Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/rhinoceros/web/rhinoceros-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/rhinoceros/thumbnails/rhinoceros-core-baby-01-400.webp",
+    "original": "/images/animals/rhinoceros/web/rhinoceros-core-baby-01-1200.webp"
   }
 }

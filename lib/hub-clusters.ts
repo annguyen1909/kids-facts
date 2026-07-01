@@ -1,5 +1,5 @@
 import { formatDisplayLabel } from "@/lib/format-display";
-import { getHabitatLabel, isCanonicalHabitatSlug } from "@/lib/canonical-habitats";
+import { getHabitatLabel, resolvePublishableHabitatSlug } from "@/lib/canonical-habitats";
 import type { AnimalRecord, HubRecord, HubType } from "@/lib/types";
 
 export function toHubSlug(label: string): string {
@@ -11,7 +11,7 @@ export function toHubSlug(label: string): string {
 }
 
 export function isPublishableHabitatSlug(label: string): boolean {
-  return isCanonicalHabitatSlug(label.trim().toLowerCase());
+  return resolvePublishableHabitatSlug(label) !== undefined;
 }
 
 export function isPublishableDietLabel(label: string): boolean {
@@ -71,15 +71,12 @@ export function buildHabitatClusters(animals: AnimalRecord[]): HubCluster[] {
   const bySlug = new Map<string, { label: string; animals: AnimalRecord[] }>();
 
   for (const animal of animals) {
-    const habitat = animal.core.habitat.trim().toLowerCase();
-    if (!isPublishableHabitatSlug(habitat)) continue;
+    const habitatSlug = resolvePublishableHabitatSlug(animal.core.habitat);
+    if (!habitatSlug) continue;
 
-    const slug = toHubSlug(habitat);
-    if (!slug) continue;
-
-    const entry = bySlug.get(slug) ?? { label: getHabitatLabel(habitat), animals: [] };
+    const entry = bySlug.get(habitatSlug) ?? { label: getHabitatLabel(habitatSlug), animals: [] };
     entry.animals.push(animal);
-    bySlug.set(slug, entry);
+    bySlug.set(habitatSlug, entry);
   }
 
   return sortClusters(
@@ -150,8 +147,7 @@ export function mergeHubWithCluster(editorial: HubRecord, cluster: HubCluster): 
 }
 
 export function getHabitatSlug(animal: AnimalRecord): string | undefined {
-  const habitat = animal.core.habitat.trim().toLowerCase();
-  return isPublishableHabitatSlug(habitat) ? toHubSlug(habitat) : undefined;
+  return resolvePublishableHabitatSlug(animal.core.habitat);
 }
 
 /** @deprecated Use getHabitatSlug */

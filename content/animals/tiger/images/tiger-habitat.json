@@ -2,23 +2,23 @@
   "id": "tiger-habitat",
   "animalSlug": "tiger",
   "slug": "tiger-habitat",
-  "fileName": "tiger-habitat.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg",
-  "width": 4057,
-  "height": 2705,
+  "fileName": "tiger-habitat-01-1200.webp",
+  "src": "/images/animals/tiger/web/tiger-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Bengal tiger standing in dry forest habitat at Tadoba Andhari Tiger Reserve, India",
   "caption": "Wild tigers live in forests, grasslands, and wetlands across Asia.",
-  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionText": "Photo by Stephenekka via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg\">Stephenekka</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_Tidoba_20150306.jpg",
-    "creatorName": "Yathin S Krishnappa",
+    "creatorName": "Stephenekka",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:58:28.827Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:12:49.028Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Tadoba Andhari Tiger Reserve, India",
-  "acquisitionNotes": "Manually verified tiger image with correct species identification.",
-  "updatedAt": "2026-06-21T16:58:28.827Z"
+  "acquisitionNotes": "Manually verified tiger image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Panthera_tigris_tigris_Tidoba_20150306.jpg",
+  "updatedAt": "2026-06-25T15:12:49.028Z",
+  "srcSet": {
+    "web1200": "/images/animals/tiger/web/tiger-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/tiger/thumbnails/tiger-habitat-01-400.webp",
+    "original": "/images/animals/tiger/web/tiger-habitat-01-1200.webp"
+  }
 }

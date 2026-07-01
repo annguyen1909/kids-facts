@@ -2,10 +2,10 @@
   "id": "clownfish-hero",
   "animalSlug": "clownfish",
   "slug": "clownfish-hero",
-  "fileName": "Amphiprion ocellaris (Clown anemonefish) Nemo.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Amphiprion_ocellaris_%28Clown_anemonefish%29_Nemo.jpg",
-  "width": 2000,
-  "height": 1500,
+  "fileName": "clownfish-hero-01-1200.webp",
+  "src": "/images/animals/clownfish/web/clownfish-hero-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Ocellaris clownfish swimming beside its sea anemone host",
   "caption": "Ocellaris clownfish are small, colorful reef fish famous for living with sea anemones.",
   "attributionText": "Photo by Nhobgood Nick Hobgood via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:26.704Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:28.449Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tropical reef",
-  "acquisitionNotes": "Manually curated ocellaris clownfish hero image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:26.704Z"
+  "acquisitionNotes": "Manually curated ocellaris clownfish hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Amphiprion_ocellaris_%28Clown_anemonefish%29_Nemo.jpg",
+  "updatedAt": "2026-06-25T14:51:28.449Z",
+  "srcSet": {
+    "web1200": "/images/animals/clownfish/web/clownfish-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/clownfish/thumbnails/clownfish-hero-01-400.webp",
+    "original": "/images/animals/clownfish/web/clownfish-hero-01-1200.webp"
+  }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-closeup",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-closeup",
+  "fileName": "mandarinfish-closeup-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
+  "alt": "Spectacular close-up of a mandarinfish's face, big watchful eyes, and neon blue facial lines",
+  "caption": "Their large, prominent eyes are highly adapted for hunting tiny, fast-moving micro-invertebrates in dim twilight waters.",
+  "imageType": "closeup",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Anilao, Philippines",
+  "acquisitionNotes": "Exquisite close-up of facial morphology and large twilight-adapted eyes. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Pez_mandar%C3%ADn_%28Synchiropus_splendidus%29%2C_Anilao%2C_Filipinas%2C_2023-08-24%2C_DD_234.jpg",
+  "updatedAt": "2026-06-29T11:56:04.289Z",
+  "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_234.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pez_mandar%C3%ADn_(Synchiropus_splendidus),_Anilao,_Filipinas,_2023-08-24,_DD_234.jpg",
+    "creatorName": "Diego Delso",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:56:04.289Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-closeup-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-closeup-01-1200.webp"
+  }
+}

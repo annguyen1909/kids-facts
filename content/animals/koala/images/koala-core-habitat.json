@@ -2,10 +2,10 @@
   "id": "koala-core-habitat",
   "animalSlug": "koala",
   "slug": "koala-core-habitat",
-  "fileName": "Australia Cairns Koala.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Australia_Cairns_Koala.jpg",
-  "width": 1231,
-  "height": 1536,
+  "fileName": "koala-core-habitat-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 1497,
   "alt": "Koala resting among eucalyptus branches",
   "caption": "Eucalyptus trees provide food, shade, and safe perches high above the ground.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Cairns, Australia",
-  "acquisitionNotes": "Core article image curated separately from the koala gallery set.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Core article image curated separately from the koala gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/ad/Australia_Cairns_Koala.jpg",
+  "updatedAt": "2026-06-25T14:59:38.687Z",
   "attributionText": "Photo by Guillaume Blanchard at French Wikipedia via Wikimedia Commons, CC BY-SA 1.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Australia_Cairns_Koala.jpg\">Guillaume Blanchard at French Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/1.0\">CC BY-SA 1.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 1.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:38.687Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-core-habitat-01-400.webp",
+    "original": "/images/animals/koala/web/koala-core-habitat-01-1200.webp"
   }
 }

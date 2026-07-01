@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-core-baby",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-core-baby",
+  "alt": "An adolescent hoatzin sharing a branch near an Amazonian riverbank",
+  "caption": "If a predator attacks the nest, chicks drop into the water below, swim away, and later use their wing claws to climb back up the tree.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Colombia",
+  "fileName": "hoatzin-core-baby-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "attributionText": "Photo by Alejandro Bayer Tamayo from Armenia, Colombia via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_%26_Chloroceryle_amazona_(14251759732).jpg\">Alejandro Bayer Tamayo from Armenia, Colombia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_%26_Chloroceryle_amazona_(14251759732).jpg",
+    "creatorName": "Alejandro Bayer Tamayo from Armenia, Colombia",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:41.014Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core juvenile development and escape mechanism image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Opisthocomus_hoazin_%26_Chloroceryle_amazona_%2814251759732%29.jpg",
+  "updatedAt": "2026-06-29T12:23:41.014Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-core-baby-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-core-baby-01-1200.webp"
+  }
+}

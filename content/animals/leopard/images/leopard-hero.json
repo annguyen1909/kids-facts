@@ -2,10 +2,10 @@
   "id": "leopard-hero",
   "animalSlug": "leopard",
   "slug": "leopard-hero",
-  "fileName": "Leopard (Panthera pardus pardus) Kruger.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg",
-  "width": 5189,
-  "height": 3460,
+  "fileName": "leopard-hero-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Adult African leopard walking through dry grassland",
   "caption": "Leopards are spotted wild cats that hunt alone across Africa and Asia.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:13.938Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "hero",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Manually curated leopard hero image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z"
+  "acquisitionNotes": "Manually curated leopard hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/56/Leopard_%28Panthera_pardus_pardus%29_Kruger.jpg",
+  "updatedAt": "2026-06-25T15:01:13.938Z",
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-hero-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-hero-01-1200.webp"
+  }
 }

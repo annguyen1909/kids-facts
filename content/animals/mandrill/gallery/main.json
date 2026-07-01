@@ -1,0 +1,22 @@
+{
+  "id": "mandrill-gallery-main",
+  "animalSlug": "mandrill",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Mandrill Photo Gallery",
+  "metaTitle": "Mandrill Photo Gallery",
+  "metaDescription": "Browse a mandrill photo gallery with wildlife images of colorful male faces, infants, foraging, hordes, rainforest habitat, and Central African wildlife.",
+  "intro": "Explore mandrills through photos organized for learning, image search, and classroom observation—from the brilliant blue and red faces of dominant males to mother and infant pairs in the Central African rainforest.",
+  "imageSlugs": [
+    "mandrill-hero",
+    "mandrill-habitat",
+    "mandrill-diet",
+    "mandrill-baby",
+    "mandrill-family",
+    "mandrill-range",
+    "mandrill-size",
+    "mandrill-closeup",
+    "mandrill-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

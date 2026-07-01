@@ -1,0 +1,38 @@
+{
+  "id": "cassowary-closeup",
+  "animalSlug": "cassowary",
+  "slug": "cassowary-closeup",
+  "fileName": "cassowary-closeup-01-1200.webp",
+  "alt": "A detailed close-up showing the physical features of a Cassowary",
+  "caption": "A close-up view reveals the intricate details of a Cassowary's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/cassowary/web/cassowary-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1694,
+  "attributionText": "Photo by en:User:Cburnett via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary.jpg\">en:User:Cburnett</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Double-wattled_Cassowary.jpg",
+    "creatorName": "en:User:Cburnett",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:52.135Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cassowary image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5d/Double-wattled_Cassowary.jpg",
+  "updatedAt": "2026-06-26T08:15:52.135Z",
+  "srcSet": {
+    "web1200": "/images/animals/cassowary/web/cassowary-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/cassowary/thumbnails/cassowary-closeup-01-400.webp",
+    "original": "/images/animals/cassowary/web/cassowary-closeup-01-1200.webp"
+  }
+}

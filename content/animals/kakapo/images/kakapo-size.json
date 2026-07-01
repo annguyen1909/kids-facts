@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-size",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-size",
+  "fileName": "kakapo-size-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "High-resolution museum specimen demonstrating the heavy, large build of the flightless kakapo",
+  "caption": "The kakapo is the world's heaviest living parrot, with large males weighing over 4 kilograms (9 lbs).",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Auckland Museum Collections",
+  "acquisitionNotes": "Pristine museum archival image demonstrating physical bulk and skeletal robusticity. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b8/Strigops_habroptilus_%2848720196077%29.jpg",
+  "updatedAt": "2026-06-29T11:58:10.973Z",
+  "attributionText": "Photo by Auckland Museum Collections from Auckland, Aotearoa New Zealand via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_(48720196077).jpg\">Auckland Museum Collections from Auckland, Aotearoa New Zealand</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strigops_habroptilus_(48720196077).jpg",
+    "creatorName": "Auckland Museum Collections from Auckland, Aotearoa New Zealand",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:58:10.973Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-size-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-size-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-size-01-1200.webp"
+  }
+}

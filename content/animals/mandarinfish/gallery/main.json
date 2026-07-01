@@ -1,0 +1,22 @@
+{
+  "id": "mandarinfish-gallery-main",
+  "animalSlug": "mandarinfish",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Mandarinfish Photo Gallery",
+  "metaTitle": "Mandarinfish Photo Gallery",
+  "metaDescription": "Browse a mandarinfish photo gallery with wildlife photos.",
+  "intro": "Explore mandarinfish photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "mandarinfish-hero",
+    "mandarinfish-habitat",
+    "mandarinfish-diet",
+    "mandarinfish-baby",
+    "mandarinfish-family",
+    "mandarinfish-range",
+    "mandarinfish-size",
+    "mandarinfish-closeup",
+    "mandarinfish-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:26.810Z"
+}

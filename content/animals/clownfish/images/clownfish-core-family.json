@@ -2,10 +2,10 @@
   "id": "clownfish-core-family",
   "animalSlug": "clownfish",
   "slug": "clownfish-core-family",
-  "fileName": "Clowns et oeufs à Mayotte.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Clowns_et_oeufs_%C3%A0_Mayotte.jpg",
-  "width": 4000,
-  "height": 3000,
+  "fileName": "clownfish-core-family-01-1200.webp",
+  "src": "/images/animals/clownfish/web/clownfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Clownfish guarding eggs laid on reef rock",
   "caption": "Males fan the eggs with their fins to keep them clean and oxygenated.",
   "attributionText": "Photo by Frédéric Ducarme Valued image This image has been assessed under the valued image criteria and is considered the most valued image on Commons within the scope: Amphiprion latifasciatus breeding. . You can see its nomination here . via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:26.704Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:23.174Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Mayotte",
-  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set.",
-  "updatedAt": "2026-06-24T09:22:26.704Z"
+  "acquisitionNotes": "Core article image curated separately from the clownfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/Clowns_et_oeufs_%C3%A0_Mayotte.jpg",
+  "updatedAt": "2026-06-25T14:51:23.174Z",
+  "srcSet": {
+    "web1200": "/images/animals/clownfish/web/clownfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/clownfish/thumbnails/clownfish-core-family-01-400.webp",
+    "original": "/images/animals/clownfish/web/clownfish-core-family-01-1200.webp"
+  }
 }

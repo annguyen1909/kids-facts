@@ -2,8 +2,8 @@
   "id": "wolf-core-family",
   "animalSlug": "wolf",
   "slug": "wolf-core-family",
-  "fileName": "Canis lupus Parc des Loups 002.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Canis_lupus_Parc_des_Loups_002.jpg",
+  "fileName": "wolf-core-family-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-core-family-01-1200.webp",
   "width": 682,
   "height": 512,
   "alt": "Two wolves standing together in woodland",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "France",
-  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/97/Canis_lupus_Parc_des_Loups_002.jpg",
+  "updatedAt": "2026-06-25T15:14:45.574Z",
   "attributionText": "Photo by Jairo S. Feris Delgado ( ia:User:Jasef ) via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_Parc_des_Loups_002.jpg\">Jairo S. Feris Delgado ( ia:User:Jasef )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_Parc_des_Loups_002.jpg\">Jairo S. Feris Delgado ( ia:User:Jasef )</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canis_lupus_Parc_des_Loups_002.jpg",
     "creatorName": "Jairo S. Feris Delgado ( ia:User:Jasef )",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:45.574Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-core-family-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-core-family-01-1200.webp"
   }
 }

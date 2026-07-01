@@ -2,12 +2,12 @@
   "id": "cheetah-closeup",
   "animalSlug": "cheetah",
   "slug": "cheetah-closeup",
-  "fileName": "Australia Zoo cheetah face closeup.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Australia_Zoo_cheetah_face_closeup.jpg",
-  "width": 1904,
-  "height": 1374,
-  "alt": "Close-up cheetah face with dark tear marks",
-  "caption": "Dark tear marks help reduce glare while a cheetah watches prey in bright light.",
+  "fileName": "cheetah-closeup-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 866,
+  "alt": "Close-up of a wild cheetah's face showing distinctive black tear stripes",
+  "caption": "The cheetah's tear stripes reduce glare from the sun, helping it spot prey across open grasslands.",
   "imageType": "closeup",
   "galleryTopics": [
     "closeup"
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Australia Zoo",
-  "acquisitionNotes": "Manually curated cheetah close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:36.035Z",
+  "acquisitionNotes": "Manually curated cheetah close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3d/Australia_Zoo_cheetah_face_closeup.jpg",
+  "updatedAt": "2026-06-25T14:50:16.972Z",
   "attributionText": "Photo by Benchill via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Australia_Zoo_cheetah_face_closeup.jpg\">Benchill</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:16.972Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-closeup-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-closeup-01-1200.webp"
   }
 }

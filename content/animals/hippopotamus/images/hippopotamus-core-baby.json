@@ -2,10 +2,10 @@
   "id": "hippopotamus-core-baby",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-core-baby",
-  "fileName": "Hippopotamus Rwindi 20.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hippopotamus_Rwindi_20.jpg",
-  "width": 2263,
-  "height": 1554,
+  "fileName": "hippopotamus-core-baby-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 824,
   "alt": "Young hippopotamus near adults in river water",
   "caption": "Calves are born in water and must surface quickly to breathe.",
   "attributionText": "Photo by Ad Meskens via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:12:07.058Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Rwindi, Democratic Republic of the Congo",
-  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "acquisitionNotes": "Core article image curated separately from the hippopotamus gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/Hippopotamus_Rwindi_20.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ce/Hippopotamus_Rwindi_20.jpg",
+  "updatedAt": "2026-06-26T19:12:07.058Z",
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-core-baby-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-core-baby-01-1200.webp"
+  }
 }

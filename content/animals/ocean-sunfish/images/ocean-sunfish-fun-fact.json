@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-fun-fact",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-fun-fact",
+  "fileName": "ocean-sunfish-fun-fact-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 960,
+  "alt": "Ocean sunfish displaying its unique clavus pseudo-tail",
+  "caption": "Instead of a regular tail fin, sunfish have a rounded, rudder-like clavus and swim by flapping their massive dorsal and anal fins.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Oceanario de Lisbon",
+  "acquisitionNotes": "Manually curated ocean sunfish fun-fact image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7c/MolaMola_Lisboa20051020_Modified.jpg",
+  "updatedAt": "2026-06-29T07:22:50.570Z",
+  "attributionText": "Photo by Nol Aders, modifications by PaladinWhite via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:MolaMola_Lisboa20051020_Modified.jpg\">Nol Aders, modifications by PaladinWhite</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MolaMola_Lisboa20051020_Modified.jpg",
+    "creatorName": "Nol Aders, modifications by PaladinWhite",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:50.570Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-fun-fact-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-fun-fact-01-1200.webp"
+  }
+}

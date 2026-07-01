@@ -5,10 +5,8 @@ import { createPortal } from "react-dom";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { AnimalImageFrame } from "@/components/ui/animal-image-frame";
-import { getDisplayImageSrc, isWikimediaCommonsUrl } from "@/lib/images";
+import { getAnimalImageForDisplay } from "@/lib/images";
 import type { AnimalImage, AnimalImageKind } from "@/lib/types";
-
-const LIGHTBOX_WIDTH = 1280;
 
 const GALLERY_TYPE_ACCENTS: Record<AnimalImageKind, { bg: string; fg: string }> = {
   hero: { bg: "#ede9fe", fg: "#7c3aed" },
@@ -123,17 +121,11 @@ function GalleryLightbox({
   onTouchStart: (event: TouchEvent<HTMLDivElement>) => void;
   onTouchEnd: (event: TouchEvent<HTMLDivElement>) => void;
 }) {
-  const [mounted, setMounted] = useState(false);
   const image = images[activeIndex];
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
-
-  if (!mounted || !image) return null;
+  if (typeof document === "undefined" || !image) return null;
 
   const label = IMAGE_TYPE_LABELS[image.imageType] ?? image.imageType;
-  const displaySrc = getDisplayImageSrc(image.src, LIGHTBOX_WIDTH);
+  const display = getAnimalImageForDisplay(image);
 
   return createPortal(
     <div
@@ -163,11 +155,12 @@ function GalleryLightbox({
       >
         <div className="relative min-h-[min(62vh,640px)] flex-1 overflow-hidden rounded-[1.25rem] bg-black/30">
           <Image
-            key={displaySrc}
-            src={displaySrc}
-            alt={image.alt}
+            key={display.src}
+            src={display.src}
+            alt={display.alt}
             fill
-            unoptimized={isWikimediaCommonsUrl(image.src)}
+            unoptimized={display.unoptimized}
+            referrerPolicy="no-referrer"
             className="object-contain"
             sizes="100vw"
             priority
@@ -220,54 +213,53 @@ export function AnimalGallery({
     <>
       <section
         id={sectionId}
-        className="overflow-hidden rounded-[1.75rem] border border-[var(--line)] bg-white shadow-[var(--shadow)] scroll-mt-24"
+        className="group overflow-hidden rounded-[2rem] bg-white shadow-xl ring-1 ring-black/5 scroll-mt-24"
       >
-        <div className="border-b border-[var(--line)] px-5 py-5 sm:px-7 sm:py-6">
-          <p className="eyebrow eyebrow--light">Photo gallery</p>
-          <h2 className="section-title mt-3 text-[var(--forest-deep)]">{title}</h2>
+        <div className="border-b border-[var(--line)] px-8 py-8 sm:px-12 sm:py-10 bg-[var(--surface-strong)]/20">
+          <span className="inline-flex rounded-full bg-[var(--forest-deep)]/10 px-3 py-1 text-[0.65rem] font-bold uppercase tracking-widest text-[var(--forest-deep)] ring-1 ring-inset ring-[var(--forest-deep)]/20 mb-4">
+            Photo Gallery
+          </span>
+          <h2 className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-[var(--forest-deep)]">{title}</h2>
           {intro ? (
-            <p className="mt-2 max-w-2xl text-base leading-7 text-[var(--muted)] sm:text-lg">{intro}</p>
+            <p className="mt-4 max-w-2xl text-base leading-relaxed text-[var(--muted)] sm:text-lg">{intro}</p>
           ) : null}
         </div>
 
-        <div className="gallery-grid p-4 sm:p-6">
-          <p className="mb-5 text-base text-[var(--muted)]">
-            Click any photo to view it larger. {safeImages.length} images.
+        <div className="p-8 sm:p-12">
+          <p className="mb-8 text-sm sm:text-base font-medium text-[var(--muted)]">
+            Click any photo to view it larger. {safeImages.length} images available.
           </p>
 
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
             {safeImages.map((image, index) => {
               const label = IMAGE_TYPE_LABELS[image.imageType] ?? image.imageType;
-              const accent = GALLERY_TYPE_ACCENTS[image.imageType] ?? GALLERY_TYPE_ACCENTS.gallery;
-              const tiltClass = `gallery-card--tilt-${(index % 3) + 1}`;
 
               return (
                 <button
                   key={image.id}
                   type="button"
                   onClick={() => openLightbox(index)}
-                  className={`gallery-card gallery-card--${image.imageType} ${tiltClass} group text-left`}
-                  style={
-                    {
-                      "--gallery-accent-bg": accent.bg,
-                      "--gallery-accent-fg": accent.fg,
-                    } as CSSProperties
-                  }
+                  className="group/card relative block w-full overflow-hidden rounded-[1.5rem] bg-[var(--surface-strong)] ring-1 ring-black/5 shadow-md hover:shadow-2xl hover:-translate-y-1 transition-all duration-500 break-inside-avoid text-left"
                 >
-                  <div className="gallery-card__tape" aria-hidden />
-                  <div className="gallery-card__frame">
+                  <div className="relative w-full aspect-auto overflow-hidden">
                     <AnimalImageFrame
                       src={image.src}
                       alt={image.alt}
-                      aspect="card"
-                      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 280px"
-                      className="gallery-card__image pointer-events-none"
+                      updatedAt={image.updatedAt}
+                      aspect="gallery"
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      className="w-full object-cover transition-transform duration-700 group-hover/card:scale-105"
                     />
-                    <div className="gallery-card__shine" aria-hidden />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover/card:opacity-100 transition-opacity duration-500 pointer-events-none" />
                   </div>
-                  <div className="gallery-card__footer">
-                    <p className="gallery-card__label">{label}</p>
-                    <p className="gallery-card__caption">{image.caption}</p>
+                  
+                  <div className="absolute bottom-0 left-0 right-0 p-6 translate-y-4 opacity-0 group-hover/card:translate-y-0 group-hover/card:opacity-100 transition-all duration-500 pointer-events-none">
+                    <span className="inline-block mb-2 rounded-full bg-white/20 backdrop-blur-md px-3 py-1 text-[0.65rem] font-bold uppercase tracking-widest text-white ring-1 ring-inset ring-white/30">
+                      {label}
+                    </span>
+                    <p className="text-white font-medium line-clamp-2 drop-shadow-md">
+                      {image.caption}
+                    </p>
                   </div>
                 </button>
               );

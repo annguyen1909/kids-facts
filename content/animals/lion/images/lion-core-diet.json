@@ -2,23 +2,23 @@
   "id": "lion-core-diet",
   "animalSlug": "lion",
   "slug": "lion-core-diet",
-  "fileName": "1280px-Asian_lions_feeding_on_kill_-_DPLA_-_6d9e3375652fd9ed496f57e0e996898a.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lioness_at_kill.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-core-diet-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-core-diet-01-1200.webp",
+  "width": 1024,
+  "height": 757,
   "alt": "African lioness feeding at a prey carcass on the savanna",
   "caption": "Lions are carnivores and often feed together after a cooperative hunt.",
-  "attributionText": "Photo by Clément Bardot via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_at_kill.jpg\">Clément Bardot</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionText": "Photo by Hein waschefort via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lioness_at_kill.jpg\">Hein waschefort</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lioness_at_kill.jpg",
-    "creatorName": "Clément Bardot",
+    "creatorName": "Hein waschefort",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T03:28:27.024Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:22.381Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Core article image — verified species, separate from gallery set.",
-  "updatedAt": "2026-06-23T03:28:27.024Z"
+  "acquisitionNotes": "Core article image — verified species, separate from gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a5/Lioness_at_kill.jpg",
+  "updatedAt": "2026-06-25T15:01:22.381Z",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-core-diet-01-400.webp",
+    "original": "/images/animals/lion/web/lion-core-diet-01-1200.webp"
+  }
 }

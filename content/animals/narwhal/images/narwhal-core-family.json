@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-core-family",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-core-family",
+  "fileName": "narwhal-core-family-01-1200.webp",
+  "alt": "A group of Narwhals interacting with each other",
+  "caption": "While often solitary, some Narwhals interact with others of their species.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-core-family-01-1200.webp",
+  "width": 800,
+  "height": 583,
+  "attributionText": "Photo by Conrad Gesner via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Gesner_Narwhal_sea_unicorn.jpg\">Conrad Gesner</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gesner_Narwhal_sea_unicorn.jpg",
+    "creatorName": "Conrad Gesner",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:06:04.619Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/Gesner_Narwhal_sea_unicorn.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/08/Gesner_Narwhal_sea_unicorn.jpg",
+  "updatedAt": "2026-06-26T19:06:04.619Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-core-family-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-core-family-01-1200.webp"
+  }
+}

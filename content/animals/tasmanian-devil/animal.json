@@ -1,0 +1,176 @@
+{
+  "id": "animal-tasmanian-devil",
+  "slug": "tasmanian-devil",
+  "name": "Tasmanian Devil",
+  "commonNames": [
+    "Tassie devil",
+    "devil"
+  ],
+  "scientificName": "Sarcophilus harrisii",
+  "summary": "The Tasmanian devil is the world's largest carnivorous marsupial, found only on the island of Tasmania, Australia. Famous for its bone-crushing bite, eerie screams, and habit of eating carrion whole—bones and all.",
+  "heroTitle": "Tasmanian Devil Facts",
+  "metaTitle": "Tasmanian Devil Facts | Habitat, Diet, Bite & Photos",
+  "metaDescription": "Discover Tasmanian devil facts with photos, bite force, habitat, diet, life cycle, and conservation. Learn where Tasmanian devils live, what they eat, and why they are endangered.",
+  "searchIntents": [
+    "tasmanian devil facts",
+    "what do tasmanian devils eat",
+    "where do tasmanian devils live",
+    "how big is a tasmanian devil",
+    "tasmanian devil bite force",
+    "are tasmanian devils endangered"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Mammalia",
+    "order": "Dasyuromorphia",
+    "family": "Dasyuridae",
+    "genus": "Sarcophilus",
+    "species": "S. harrisii"
+  },
+  "classificationLabels": [
+    "mammal",
+    "marsupial",
+    "carnivore",
+    "medium"
+  ],
+  "continents": [
+    "Australia"
+  ],
+  "countries": [
+    "Australia"
+  ],
+  "biomes": [
+    "temperate forest",
+    "coastal scrubland",
+    "grassland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "wombat",
+    "wallaby",
+    "carrion",
+    "birds",
+    "reptiles",
+    "insects"
+  ],
+  "lifespan": {
+    "wild": "5 to 6 years",
+    "captivity": "Up to 8 years in human care"
+  },
+  "size": {
+    "lengthMin": "20 inches",
+    "lengthMax": "31 inches",
+    "heightMin": "12 inches",
+    "heightMax": "12 inches"
+  },
+  "weight": {
+    "min": "9 pounds",
+    "max": "26 pounds"
+  },
+  "speed": "Up to 15 mph for short distances",
+  "conservationStatus": "Endangered",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "scavenging",
+    "nocturnal foraging",
+    "loud vocalizations",
+    "solitary living",
+    "pouch rearing"
+  ],
+  "adaptations": [
+    "bone-crushing jaws",
+    "wide gape",
+    "strong neck muscles",
+    "thick tail for fat storage",
+    "keen sense of smell"
+  ],
+  "predators": [
+    "humans",
+    "introduced foxes",
+    "large raptors"
+  ],
+  "prey": [
+    "wombat",
+    "wallaby",
+    "carrion",
+    "birds",
+    "reptiles"
+  ],
+  "reproduction": {
+    "offspringName": "joey",
+    "gestationOrIncubation": "About 21 days",
+    "offspringCount": "Up to 30 joeys born; usually 2 to 4 survive in the pouch"
+  },
+  "funFacts": [
+    "A Tasmanian devil's bite is so powerful relative to its body size that it can crush through bone with ease.",
+    "Newborn Tasmanian devil joeys are no bigger than a grain of rice and must crawl into the mother's pouch immediately after birth.",
+    "Tasmanian devils communicate through screams, growls, and yawns that can sound ferocious to predators.",
+    "They can eat up to 40 percent of their own body weight in a single feeding session.",
+    "Tasmanian devils are the only place on Earth where this species lives in the wild—the island of Tasmania.",
+    "A transmissible facial tumor disease called DFTD has killed more than 80 percent of the wild population since the 1990s."
+  ],
+  "faq": [
+    {
+      "question": "What is a Tasmanian devil?",
+      "answer": "A Tasmanian devil is the world's largest carnivorous marsupial. It is a stocky, black-furred animal found only on the island of Tasmania, Australia."
+    },
+    {
+      "question": "Why is the Tasmanian devil called a devil?",
+      "answer": "Early European settlers named it a devil because of its loud, eerie screams and growls heard in the night, along with its aggressive feeding behavior."
+    },
+    {
+      "question": "What do Tasmanian devils eat?",
+      "answer": "Tasmanian devils are carnivores that eat wombats, wallabies, carrion, birds, and reptiles. They often scavenge dead animals and eat bones, fur, and all."
+    },
+    {
+      "question": "Where do Tasmanian devils live?",
+      "answer": "Tasmanian devils live only on the island of Tasmania, off the south coast of Australia. They were once found on mainland Australia but disappeared there thousands of years ago."
+    },
+    {
+      "question": "How strong is a Tasmanian devil's bite?",
+      "answer": "The Tasmanian devil has the strongest bite relative to body size of any living mammal. It can crush bone and devour an entire carcass, leaving almost nothing behind."
+    },
+    {
+      "question": "What is a baby Tasmanian devil called?",
+      "answer": "A baby Tasmanian devil is called a joey. Newborns are tiny—about the size of a grain of rice—and crawl into the mother's pouch to continue developing."
+    },
+    {
+      "question": "How long do Tasmanian devils live?",
+      "answer": "Wild Tasmanian devils usually live 5 to 6 years. In captivity with regular food and veterinary care, they can live up to 8 years."
+    },
+    {
+      "question": "Are Tasmanian devils endangered?",
+      "answer": "Yes. Tasmanian devils are listed as Endangered, mainly because of a contagious facial tumor disease called Devil Facial Tumor Disease (DFTD) that has devastated the wild population."
+    },
+    {
+      "question": "Do Tasmanian devils screech?",
+      "answer": "Yes. Tasmanian devils make loud screeches, growls, and coughs, especially when competing for food. The sounds can seem terrifying at night in the bush."
+    },
+    {
+      "question": "Are Tasmanian devils nocturnal?",
+      "answer": "Yes. Tasmanian devils are mainly active at night when they forage and scavenge for food. During the day they rest in dense bush, logs, or burrows."
+    },
+    {
+      "question": "What is Devil Facial Tumor Disease?",
+      "answer": "Devil Facial Tumor Disease is a contagious cancer spread through biting. It causes tumors on the face that prevent the animal from eating, eventually leading to death."
+    },
+    {
+      "question": "What threatens Tasmanian devils?",
+      "answer": "The biggest threat is Devil Facial Tumor Disease. Other threats include vehicle strikes on roads, habitat loss, and introduced predators such as foxes."
+    }
+  ],
+  "relatedAnimals": [
+    "kangaroo",
+    "koala"
+  ],
+  "comparisonCandidates": [
+    "kangaroo"
+  ],
+  "galleryIds": [
+    "tasmanian-devil-gallery-main"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z",
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "habitat": "forest"
+}

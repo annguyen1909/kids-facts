@@ -1,0 +1,38 @@
+{
+  "id": "whale-shark-core-family",
+  "animalSlug": "whale-shark",
+  "slug": "whale-shark-core-family",
+  "fileName": "whale-shark-core-family-01-1200.webp",
+  "src": "/images/animals/whale-shark/web/whale-shark-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A whale shark gliding silently in the deep blue ocean",
+  "caption": "They are gentle giants and do not pose any danger to humans.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Maldives",
+  "attributionText": "Photo by Adrienne van den Beemt via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Rhincodon_typus_470872328.jpg\">Adrienne van den Beemt</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_470872328.jpg",
+    "creatorName": "Adrienne van den Beemt",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:14:05.362Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified whale-shark image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/66/Rhincodon_typus_470872328.jpg",
+  "updatedAt": "2026-06-25T15:14:05.362Z",
+  "srcSet": {
+    "web1200": "/images/animals/whale-shark/web/whale-shark-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/whale-shark/thumbnails/whale-shark-core-family-01-400.webp",
+    "original": "/images/animals/whale-shark/web/whale-shark-core-family-01-1200.webp"
+  }
+}

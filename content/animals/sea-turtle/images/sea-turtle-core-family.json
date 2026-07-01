@@ -2,10 +2,10 @@
   "id": "sea-turtle-core-family",
   "animalSlug": "sea-turtle",
   "slug": "sea-turtle-core-family",
-  "fileName": "Hatchling Green Turtle (Chelonia mydas) (6161271899).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hatchling_Green_Turtle_%28Chelonia_mydas%29_%286161271899%29.jpg",
-  "width": 2061,
-  "height": 1536,
+  "fileName": "sea-turtle-core-family-01-1200.webp",
+  "src": "/images/animals/sea-turtle/web/sea-turtle-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 894,
   "alt": "Green sea turtle hatchling moving across sand",
   "caption": "Females return to sandy beaches to lay eggs, often near where they hatched.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Tropical beach",
-  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set.",
-  "updatedAt": "2026-06-24T09:05:13.697Z",
+  "acquisitionNotes": "Core article image curated separately from the sea turtle gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/42/Hatchling_Green_Turtle_%28Chelonia_mydas%29_%286161271899%29.jpg",
+  "updatedAt": "2026-06-25T15:10:38.458Z",
   "attributionText": "Photo by Thomas Brown via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hatchling_Green_Turtle_(Chelonia_mydas)_(6161271899).jpg\">Thomas Brown</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:13.697Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:38.458Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sea-turtle/web/sea-turtle-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/sea-turtle/thumbnails/sea-turtle-core-family-01-400.webp",
+    "original": "/images/animals/sea-turtle/web/sea-turtle-core-family-01-1200.webp"
   }
 }

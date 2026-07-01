@@ -2,10 +2,10 @@
   "id": "flamingo-range",
   "animalSlug": "flamingo",
   "slug": "flamingo-range",
-  "fileName": "Greater Flamingos. Phoenicopterus ruber - Flickr - gailhampshire.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Greater_Flamingos._Phoenicopterus_ruber_-_Flickr_-_gailhampshire.jpg",
-  "width": 3144,
-  "height": 1872,
+  "fileName": "flamingo-range-01-1200.webp",
+  "src": "/images/animals/flamingo/web/flamingo-range-01-1200.webp",
+  "width": 1200,
+  "height": 715,
   "alt": "American flamingos in a large coastal flock",
   "caption": "American flamingos live in the Caribbean, Galápagos, and northern South America.",
   "attributionText": "Photo by gailhampshire from Cradley, Malvern, U.K via Wikimedia Commons, CC BY 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:39.301Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Caribbean",
-  "acquisitionNotes": "Manually curated flamingo range image with verified species identification.",
-  "updatedAt": "2026-06-24T12:34:29.048Z"
+  "acquisitionNotes": "Manually curated flamingo range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Greater_Flamingos._Phoenicopterus_ruber_-_Flickr_-_gailhampshire.jpg",
+  "updatedAt": "2026-06-25T14:53:39.301Z",
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-range-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-range-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-range-01-1200.webp"
+  }
 }

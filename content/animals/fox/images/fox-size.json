@@ -2,10 +2,10 @@
   "id": "fox-size",
   "animalSlug": "fox",
   "slug": "fox-size",
-  "fileName": "Vulpes vulpes Mallnitz 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vulpes_vulpes_Mallnitz_01.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "fox-size-01-1200.webp",
+  "src": "/images/animals/fox/web/fox-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red fox standing in alpine meadow showing body size",
   "caption": "Red foxes are much smaller than wolves but share sharp senses and quick reflexes.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Mallnitz, Austria",
-  "acquisitionNotes": "Manually curated fox size image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "acquisitionNotes": "Manually curated fox size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/Vulpes_vulpes_Mallnitz_01.jpg",
+  "updatedAt": "2026-06-25T14:53:53.135Z",
   "attributionText": "Photo by Uoaei1 via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_Mallnitz_01.jpg\">Uoaei1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:54.051Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:53.135Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/fox/web/fox-size-01-1200.webp",
+    "thumbnail400": "/images/animals/fox/thumbnails/fox-size-01-400.webp",
+    "original": "/images/animals/fox/web/fox-size-01-1200.webp"
   }
 }

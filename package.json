@@ -1,5 +1,5 @@
 {
-  "name": "kids-facts",
+  "name": "wildlifedb",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,19 +8,29 @@
     "start": "next start",
     "lint": "eslint",
     "content:validate": "tsx scripts/validate-content.ts",
+    "content:validate:local": "tsx scripts/validate-content.ts --local",
     "content:validate-urls": "tsx scripts/validate-image-urls.ts",
+    "content:repair-urls": "node scripts/repair-wikimedia-image-srcs.mjs",
+    "content:check": "npm run content:validate:local && npm run content:validate-urls",
+    "content:check-images": "tsx scripts/check-images.ts",
+    "content:check-image-quality": "tsx scripts/check-image-content.ts",
+    "content:verify-images-ai": "tsx scripts/verify-images-ai.ts",
+    "content:audit-images-commons": "tsx scripts/check-commons-metadata.ts",
+    "content:audit-images-suitability": "tsx scripts/check-image-suitability.ts",
     "new-animal": "tsx scripts/new-animal.ts",
     "create-animal": "tsx scripts/create-animal.ts",
     "import-animal": "tsx scripts/import-animal.ts",
     "import-bulk": "tsx scripts/import-bulk.ts",
     "refresh-animal": "tsx scripts/refresh-animal.ts",
-    "generate-decorations": "tsx scripts/generate-decorations.ts"
+    "generate-decorations": "tsx scripts/generate-decorations.ts",
+    "images:ingest": "tsx scripts/ingest-animal-images.ts"
   },
   "dependencies": {
     "@mdx-js/react": "^3.1.1",
     "@next/mdx": "^16.2.9",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "framer-motion": "^12.42.2",
     "gray-matter": "^4.0.3",
     "lucide-react": "^1.21.0",
     "next": "16.2.9",
@@ -39,6 +49,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
+    "sharp": "^0.35.2",
     "tailwindcss": "^4",
     "tsx": "^4.20.3",
     "typescript": "^5"

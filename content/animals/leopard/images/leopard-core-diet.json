@@ -2,10 +2,10 @@
   "id": "leopard-core-diet",
   "animalSlug": "leopard",
   "slug": "leopard-core-diet",
-  "fileName": "Leopardo (Panthera pardus) devorando un antílope, parque nacional Kruger, Sudáfrica, 2018-07-26, DD 07.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_07.jpg",
-  "width": 4321,
-  "height": 2881,
+  "fileName": "leopard-core-diet-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Leopard feeding on antelope prey on the ground",
   "caption": "Leopards hunt alone, often at night, using stealth and a short powerful attack.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Core article image curated separately from the leopard gallery set.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Core article image curated separately from the leopard gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/59/Leopardo_%28Panthera_pardus%29_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_07.jpg",
+  "updatedAt": "2026-06-25T15:01:04.244Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_07.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope,_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-26,_DD_07.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope%2C_parque_nacional_Kruger%2C_Sud%C3%A1frica%2C_2018-07-26%2C_DD_07.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopardo_(Panthera_pardus)_devorando_un_ant%C3%ADlope,_parque_nacional_Kruger,_Sud%C3%A1frica,_2018-07-26,_DD_07.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:04.244Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-core-diet-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-core-diet-01-1200.webp"
   }
 }

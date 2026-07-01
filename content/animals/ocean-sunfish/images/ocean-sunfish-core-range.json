@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-core-range",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-core-range",
+  "alt": "Ocean sunfish near a Portuguese man o' war on a coastal shore",
+  "caption": "Plastic bags floating in the ocean are easily mistaken for jellyfish, presenting a major lethal ingestion hazard for sunfish.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Galicia, Spain",
+  "fileName": "ocean-sunfish-core-range-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "attributionText": "Photo by Fernando Losada Rodríguez via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Physalia_physalis_y_Mola_mola_(muerto).001_-_Praia_de_Ril_(Burela).jpg\">Fernando Losada Rodríguez</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Physalia_physalis_y_Mola_mola_(muerto).001_-_Praia_de_Ril_(Burela).jpg",
+    "creatorName": "Fernando Losada Rodríguez",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:37.181Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the ocean sunfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Physalia_physalis_y_Mola_mola_%28muerto%29.001_-_Praia_de_Ril_%28Burela%29.jpg",
+  "updatedAt": "2026-06-29T07:22:37.181Z",
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-core-range-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-range-01-1200.webp"
+  }
+}

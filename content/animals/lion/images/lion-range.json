@@ -2,10 +2,10 @@
   "id": "lion-range",
   "animalSlug": "lion",
   "slug": "lion-range",
-  "fileName": "lion-open-country-range.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/African-landscape-lion_%28Unsplash%29.jpg/1920px-African-landscape-lion_%28Unsplash%29.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-range-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Lion in wide African grassland landscape",
   "caption": "Open country shows the kind of spaces wild lions patrol.",
   "credit": "Unsplash",
@@ -19,17 +19,23 @@
     "gallery"
   ],
   "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z",
-  "attributionText": "Photo by Unsplash contributor via Wikimedia Commons, CC0",
+  "updatedAt": "2026-06-25T15:01:31.578Z",
+  "attributionText": "Photo by Bram Vranckx beevee via Wikimedia Commons, CC0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:African-landscape-lion_(Unsplash).jpg",
-    "creatorName": "Unsplash contributor",
+    "creatorName": "Bram Vranckx beevee",
     "licenseName": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:01:31.578Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/98/African-landscape-lion_%28Unsplash%29.jpg",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African-landscape-lion_(Unsplash).jpg\">Bram Vranckx beevee</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-range-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-range-01-400.webp",
+    "original": "/images/animals/lion/web/lion-range-01-1200.webp"
+  }
 }

@@ -2,23 +2,23 @@
   "id": "elephant-diet",
   "animalSlug": "african-elephant",
   "slug": "elephant-diet",
-  "fileName": "African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/African_bush_elephant_%28Loxodonta_africana%29_drinking_Kruger.jpg",
-  "width": 4642,
-  "height": 3094,
+  "fileName": "elephant-diet-01-1200.webp",
+  "src": "/images/animals/african-elephant/web/elephant-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "African bush elephant drinking water with its trunk in Kruger National Park",
   "caption": "An elephant's trunk works like a hose and a hand when it drinks and feeds.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_bush_elephant_(Loxodonta_africana)_drinking_Kruger.jpg",
     "creatorName": "Charles J. Sharp",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T06:03:57.191Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:34.591Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Kruger National Park, South Africa",
-  "acquisitionNotes": "Manually verified African elephant image with correct species identification.",
-  "updatedAt": "2026-06-22T06:03:57.191Z"
+  "acquisitionNotes": "Manually verified African elephant image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/db/African_bush_elephant_%28Loxodonta_africana%29_drinking_Kruger.jpg",
+  "updatedAt": "2026-06-25T14:48:34.591Z",
+  "srcSet": {
+    "web1200": "/images/animals/african-elephant/web/elephant-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/african-elephant/thumbnails/elephant-diet-01-400.webp",
+    "original": "/images/animals/african-elephant/web/elephant-diet-01-1200.webp"
+  }
 }

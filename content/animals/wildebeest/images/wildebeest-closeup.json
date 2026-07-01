@@ -2,10 +2,10 @@
   "id": "wildebeest-closeup",
   "animalSlug": "wildebeest",
   "slug": "wildebeest-closeup",
-  "fileName": "Blue wildebeest (Connochaetes taurinus taurinus) male Namibia.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Blue_wildebeest_%28Connochaetes_taurinus_taurinus%29_male_Namibia.jpg",
-  "width": 3804,
-  "height": 2536,
+  "fileName": "wildebeest-closeup-01-1200.webp",
+  "src": "/images/animals/wildebeest/web/wildebeest-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Close view of a blue wildebeest face and curved horns",
   "caption": "Their curved horns and beard-like mane give wildebeest a rugged look.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Namibia",
-  "acquisitionNotes": "Manually curated wildebeest close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:18.505Z",
+  "acquisitionNotes": "Manually curated wildebeest close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Blue_wildebeest_%28Connochaetes_taurinus_taurinus%29_male_Namibia.jpg",
+  "updatedAt": "2026-06-25T15:14:28.143Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_wildebeest_(Connochaetes_taurinus_taurinus)_male_Namibia.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:18.505Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:28.143Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wildebeest/web/wildebeest-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/wildebeest/thumbnails/wildebeest-closeup-01-400.webp",
+    "original": "/images/animals/wildebeest/web/wildebeest-closeup-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "ruby-throated-hummingbird-core-habitat",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-core-habitat",
+  "fileName": "ruby-throated-hummingbird-core-habitat-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Ruby-throated hummingbird visiting wildflower gardens in an Audubon sanctuary",
+  "caption": "Audubon sanctuaries and gardens with native wildflowers provide ideal habitats.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Pomfret, Connecticut",
+  "attributionText": "Photo by Paul Danese via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_38.jpg\">Paul Danese</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_38.jpg",
+    "creatorName": "Paul Danese",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:05.615Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/38/20240707_ruby_throated_hummingbird_bafflin_sanctuary_PD204642_38.jpg",
+  "updatedAt": "2026-06-25T15:10:05.615Z",
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-core-habitat-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-core-habitat-01-1200.webp"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "animal-swan",
+  "slug": "swan",
+  "name": "Mute Swan",
+  "commonNames": [
+    "Mute Swan",
+    "Swan",
+    "White Swan"
+  ],
+  "scientificName": "Cygnus olor",
+  "summary": "The mute swan is a large, elegant waterbird famous for its pure white feathers, graceful S-shaped neck, and bright orange bill. Living on lakes, ponds, and slow rivers across Europe and Asia, they are known for mating for life and protecting their nests fiercely.",
+  "heroTitle": "Mute Swan Facts",
+  "metaTitle": "Mute Swan Facts | Habitat, Diet, Behavior & Photos",
+  "metaDescription": "Mute swan facts for kids with photos, freshwater habitat, diet, S-shaped neck, cygnet babies, and protective behavior on one easy-to-read page.",
+  "searchIntents": [
+    "mute swan facts",
+    "what do mute swans eat",
+    "where do mute swans live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Aves",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Cygnus",
+    "species": "C. olor"
+  },
+  "classificationLabels": [
+    "bird"
+  ],
+  "habitat": "wetland",
+  "continents": [
+    "Europe",
+    "Asia",
+    "North America"
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Poland",
+    "Denmark",
+    "United States",
+    "Canada",
+    "China",
+    "Russia"
+  ],
+  "biomes": [
+    "wetland",
+    "coastal lagoon",
+    "grassland"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "Pondweed",
+    "Water grasses",
+    "Algae",
+    "Grains",
+    "Water plants"
+  ],
+  "lifespan": {
+    "wild": "10 to 20 years"
+  },
+  "size": {
+    "lengthMin": "140 cm",
+    "lengthMax": "160 cm"
+  },
+  "weight": {
+    "min": "9 kg",
+    "max": "14 kg"
+  },
+  "speed": "Up to 50 mph (80 km/h) flight speed",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Increasing",
+  "behaviors": [
+    "swimming gracefully on water",
+    "hissing and flapping wings to defend territory",
+    "mating for life",
+    "carrying cygnets on their backs",
+    "dipping head underwater to feed"
+  ],
+  "adaptations": [
+    "long flexible S-shaped neck to reach deep plants",
+    "webbed feet for powerful swimming",
+    "waterproof feathers with oil from preen gland",
+    "strong wings for flight and defense",
+    "serrated edges on bill for cutting pondweed"
+  ],
+  "predators": [
+    "Red foxes",
+    "Snapping turtles",
+    "Raccoons",
+    "Dogs"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "cygnet",
+    "gestationOrIncubation": "35 to 42 days",
+    "offspringCount": "5 to 8 eggs"
+  },
+  "funFacts": [
+    "A baby swan is called a cygnet! Cygnets are born with fluffy grey or brown feathers and often ride on their parents' backs while swimming to stay warm and safe.",
+    "Although they are called 'mute' swans, they are not completely silent—they can make snorting, whistling, and loud hissing sounds when they are angry.",
+    "Mute swans are among the heaviest flying birds in the world, with males sometimes weighing up to 30 pounds (14 kg)!",
+    "A pair of swans usually mates for life. They build massive nests of reeds and grasses on the water's edge, which they use year after year.",
+    "When defending their nest or babies, swans will flare their wings, arch their necks, and hiss loudly. They can flap their strong wings to hit predators.",
+    "To feed, swans do not dive underwater; instead, they tilt their bodies forward (up-ending) and use their long necks to reach plants growing on the lake bed."
+  ],
+  "faq": [
+    {
+      "question": "What is a mute swan?",
+      "answer": "A mute swan is a very large, white waterbird belonging to the duck, goose, and swan family, famous for its graceful S-shaped neck and orange beak."
+    },
+    {
+      "question": "Where do mute swans live?",
+      "answer": "They live on freshwater lakes, ponds, slow-moving rivers, and coastal lagoons in Europe, Asia, and North America."
+    },
+    {
+      "question": "What do mute swans eat?",
+      "answer": "They are herbivores that eat mostly underwater plants, pondweed, algae, and grasses, using their long necks to reach plants deep below the surface."
+    }
+  ],
+  "relatedAnimals": [
+    "flamingo",
+    "puffin"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "swan-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

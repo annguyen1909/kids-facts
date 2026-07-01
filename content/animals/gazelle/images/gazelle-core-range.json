@@ -2,10 +2,10 @@
   "id": "gazelle-core-range",
   "animalSlug": "gazelle",
   "slug": "gazelle-core-range",
-  "fileName": "Serengeti National Park 14 - Eudorcas thomsonii - Thomson's gazelle.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson%27s_gazelle.jpg",
-  "width": 5629,
-  "height": 2719,
+  "fileName": "gazelle-core-range-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 580,
   "alt": "Gazelles moving across a broad Serengeti plain",
   "caption": "Wild gazelles need broad grasslands and room to move with the seasons.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Serengeti National Park, Tanzania",
-  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/04/Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson%27s_gazelle.jpg",
+  "updatedAt": "2026-06-25T14:54:53.157Z",
   "attributionText": "Photo by Thomas Fuhrmann via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson's_gazelle.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson%27s_gazelle.jpg\">Thomas Fuhrmann</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson's_gazelle.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti_National_Park_14_-_Eudorcas_thomsonii_-_Thomson%27s_gazelle.jpg",
     "creatorName": "Thomas Fuhrmann",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:53.157Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-core-range-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-core-range-01-1200.webp"
   }
 }

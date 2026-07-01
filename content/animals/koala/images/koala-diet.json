@@ -2,10 +2,10 @@
   "id": "koala-diet",
   "animalSlug": "koala",
   "slug": "koala-diet",
-  "fileName": "Koala Eating (3337014192).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Koala_Eating_%283337014192%29.jpg",
-  "width": 2803,
-  "height": 2371,
+  "fileName": "koala-diet-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1015,
   "alt": "Koala chewing eucalyptus leaves",
   "caption": "Koalas eat almost only eucalyptus leaves, which are tough and low in energy.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Australia",
-  "acquisitionNotes": "Manually curated koala diet image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:12.494Z",
+  "acquisitionNotes": "Manually curated koala diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bf/Koala_Eating_%283337014192%29.jpg",
+  "updatedAt": "2026-06-25T14:59:51.630Z",
   "attributionText": "Photo by Rennett Stowe from USA via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_Eating_(3337014192).jpg\">Rennett Stowe from USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:51.630Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-diet-01-400.webp",
+    "original": "/images/animals/koala/web/koala-diet-01-1200.webp"
   }
 }

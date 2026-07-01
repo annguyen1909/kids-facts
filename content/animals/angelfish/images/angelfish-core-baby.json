@@ -2,8 +2,8 @@
   "id": "angelfish-core-baby",
   "animalSlug": "angelfish",
   "slug": "angelfish-core-baby",
-  "fileName": "Emperor Angelfish, Pomacanthus imperator at Shelenyat Reef, Red Sea, Egypt -SCUBA -UNDERWATER -PICTURES (6443170735).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Emperor_Angelfish%2C_Pomacanthus_imperator_at_Shelenyat_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_%286443170735%29.jpg",
+  "fileName": "angelfish-core-baby-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-core-baby-01-1200.webp",
   "width": 1024,
   "height": 691,
   "alt": "Young emperor angelfish with juvenile color pattern",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Red Sea, Egypt",
-  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set.",
-  "updatedAt": "2026-06-24T10:39:20.375Z",
+  "acquisitionNotes": "Core article image curated separately from the angelfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/de/Emperor_Angelfish%2C_Pomacanthus_imperator_at_Shelenyat_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_%286443170735%29.jpg",
+  "updatedAt": "2026-06-25T14:48:46.247Z",
   "attributionText": "Photo by Derek Keats from Johannesburg, South Africa via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor_Angelfish%2C_Pomacanthus_imperator_at_Shelenyat_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_(6443170735).jpg\">Derek Keats from Johannesburg, South Africa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Pomacanthus_imperator_at_Shelenyat_Reef,_Red_Sea,_Egypt_-SCUBA_-UNDERWATER_-PICTURES_(6443170735).jpg\">Derek Keats from Johannesburg, South Africa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish%2C_Pomacanthus_imperator_at_Shelenyat_Reef%2C_Red_Sea%2C_Egypt_-SCUBA_-UNDERWATER_-PICTURES_(6443170735).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Angelfish,_Pomacanthus_imperator_at_Shelenyat_Reef,_Red_Sea,_Egypt_-SCUBA_-UNDERWATER_-PICTURES_(6443170735).jpg",
     "creatorName": "Derek Keats from Johannesburg, South Africa",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:46.247Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-core-baby-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-core-baby-01-1200.webp"
   }
 }

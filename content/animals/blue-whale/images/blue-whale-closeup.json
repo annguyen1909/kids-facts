@@ -2,8 +2,8 @@
   "id": "blue-whale-closeup",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-closeup",
-  "fileName": "Blue Whale 003 noaa blowholes.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Blue_Whale_003_noaa_blowholes.jpg",
+  "fileName": "blue-whale-closeup-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-closeup-01-1200.webp",
   "width": 800,
   "height": 642,
   "alt": "Close-up of blue whale twin blowholes on top of its head",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "North Pacific Ocean",
-  "acquisitionNotes": "Manually curated blue whale close-up image with verified species identification.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Manually curated blue whale close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/06/Blue_Whale_003_noaa_blowholes.jpg",
+  "updatedAt": "2026-06-25T14:49:08.232Z",
   "attributionText": "Photo by NOAA Fisheries ( TBjornstad 11:21, 18 April 2007 (UTC)) via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_003_noaa_blowholes.jpg\">NOAA Fisheries ( TBjornstad 11:21, 18 April 2007 (UTC))</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_003_noaa_blowholes.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Blue_Whale_003_noaa_blowholes.jpg\">NOAA Fisheries ( TBjornstad 11:21, 18 April 2007 (UTC))</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Whale_003_noaa_blowholes.jpg",
     "creatorName": "NOAA Fisheries ( TBjornstad 11:21, 18 April 2007 (UTC))",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blue_Whale_003_noaa_blowholes.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:08.232Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-closeup-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-closeup-01-1200.webp"
   }
 }

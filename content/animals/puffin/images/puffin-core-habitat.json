@@ -1,0 +1,38 @@
+{
+  "id": "puffin-core-habitat",
+  "animalSlug": "puffin",
+  "slug": "puffin-core-habitat",
+  "fileName": "puffin-core-habitat-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Atlantic Puffin navigating its natural environment",
+  "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Unknown",
+  "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_outside_burrow.jpg\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_outside_burrow.jpg",
+    "creatorName": "Charles J. Sharp",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:39.812Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/c5/Puffin_%28Fratercula_arctica%29_outside_burrow.jpg",
+  "updatedAt": "2026-06-25T15:08:39.812Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-core-habitat-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-core-habitat-01-1200.webp"
+  }
+}

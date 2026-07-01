@@ -1,0 +1,38 @@
+{
+  "id": "shoebill-fun-fact",
+  "animalSlug": "shoebill",
+  "slug": "shoebill-fun-fact",
+  "fileName": "shoebill-fun-fact-01-1200.webp",
+  "src": "/images/animals/shoebill/web/shoebill-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1807,
+  "alt": "Shoebill preening its feathers and displaying its flexible neck",
+  "caption": "To stay cool in the hot sun, shoebills practice urohidrosis and flutter their gular pouch.",
+  "imageType": "fun-fact",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Weltvogelpark Walsrode",
+  "acquisitionNotes": "Manually curated shoebill fun-fact image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/21/Balaeniceps_rex_%28Schuhschnabel_-_Shoebill%29_-_Weltvogelpark_Walsrode_2010-11.jpg",
+  "updatedAt": "2026-06-29T07:22:04.735Z",
+  "attributionText": "Photo by Olaf Oliviero Riemer via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(Schuhschnabel_-_Shoebill)_-_Weltvogelpark_Walsrode_2010-11.jpg\">Olaf Oliviero Riemer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balaeniceps_rex_(Schuhschnabel_-_Shoebill)_-_Weltvogelpark_Walsrode_2010-11.jpg",
+    "creatorName": "Olaf Oliviero Riemer",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:04.735Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/shoebill/web/shoebill-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/shoebill/thumbnails/shoebill-fun-fact-01-400.webp",
+    "original": "/images/animals/shoebill/web/shoebill-fun-fact-01-1200.webp"
+  }
+}

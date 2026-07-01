@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-fun-fact",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-fun-fact",
+  "fileName": "mandrill-fun-fact-01-1200.webp",
+  "alt": "A Mandrill showing a unique behavior or adaptation",
+  "caption": "Did you know that the Mandrill has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Julien Renoult via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_339428130.jpg\">Julien Renoult</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrillus_sphinx_339428130.jpg",
+    "creatorName": "Julien Renoult",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:16:47.301Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mandrill image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Mandrillus_sphinx_339428130.jpg",
+  "updatedAt": "2026-06-26T08:16:47.301Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-fun-fact-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-fun-fact-01-1200.webp"
+  }
+}

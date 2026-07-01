@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-hero",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-hero",
+  "fileName": "coelacanth-hero-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-hero-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Preserved adult coelacanth displaying its unique lobed fins and deep blue armored scales",
+  "caption": "The coelacanth is a legendary deep-sea fish once thought to have gone extinct with the dinosaurs.",
+  "imageType": "hero",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Natural History Museum, Vienna",
+  "acquisitionNotes": "Manually curated coelacanth hero image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9a/Latimeria_chalumnae%2C_taxidermy%2C_Natural_History_Museum%2C_Vienna%2C_Austria%2C_July_2011.jpg",
+  "updatedAt": "2026-06-29T07:22:30.471Z",
+  "attributionText": "Photo by MichalPL via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae,_taxidermy,_Natural_History_Museum,_Vienna,_Austria,_July_2011.jpg\">MichalPL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latimeria_chalumnae,_taxidermy,_Natural_History_Museum,_Vienna,_Austria,_July_2011.jpg",
+    "creatorName": "MichalPL",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:30.471Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-hero-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-hero-01-1200.webp"
+  }
+}

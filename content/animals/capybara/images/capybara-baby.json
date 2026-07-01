@@ -1,0 +1,38 @@
+{
+  "id": "capybara-baby",
+  "animalSlug": "capybara",
+  "slug": "capybara-baby",
+  "fileName": "capybara-baby-01-1200.webp",
+  "alt": "A young capybara pup resting in the grass",
+  "caption": "Capybara pups are precocial, meaning they are born fully furred and able to swim and eat grass within hours.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "South America",
+  "src": "/images/animals/capybara/web/capybara-baby-01-1200.webp",
+  "width": 1200,
+  "height": 882,
+  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Capybara_(Hydrochoerus_hydrachaeris)_young.jpg\">Bernard DUPONT</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capybara_(Hydrochoerus_hydrachaeris)_young.jpg",
+    "creatorName": "Bernard DUPONT",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:15:36.896Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/fe/Capybara_%28Hydrochoerus_hydrachaeris%29_young.jpg",
+  "updatedAt": "2026-06-26T08:15:36.896Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-baby-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-baby-01-1200.webp"
+  }
+}

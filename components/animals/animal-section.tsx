@@ -1,6 +1,7 @@
 import { cn } from "@/lib/utils";
 
 type AnimalSectionProps = {
+  id?: string;
   className?: string;
   innerClassName?: string;
   tight?: boolean;
@@ -8,13 +9,22 @@ type AnimalSectionProps = {
 };
 
 export function AnimalSection({
+  id,
   className,
   innerClassName,
   tight = false,
   children,
 }: AnimalSectionProps) {
   return (
-    <section className={cn(tight ? "animal-section--tight" : "section-band", className)}>
+    <section
+      id={id}
+      className={cn(
+        "animate-on-scroll",
+        tight ? "animal-section--tight" : "section-band",
+        id ? "scroll-mt-28" : undefined,
+        className,
+      )}
+    >
       <div className={cn("section-shell", innerClassName)}>{children}</div>
     </section>
   );

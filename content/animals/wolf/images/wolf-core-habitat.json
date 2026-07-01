@@ -2,23 +2,23 @@
   "id": "wolf-core-habitat",
   "animalSlug": "wolf",
   "slug": "wolf-core-habitat",
-  "fileName": "Canis lupus howling on glacial erratic.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Canis_lupus_howling_on_glacial_erratic.jpg",
-  "width": 2000,
-  "height": 1200,
+  "fileName": "wolf-core-habitat-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 720,
   "alt": "Wolf howling while standing on a rock in wild terrain",
   "caption": "Wolves need large wild areas with prey, water, and room for pack territories.",
   "attributionText": "Photo by Jim Peaco for NPS via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_howling_on_glacial_erratic.jpg\">Jim Peaco for NPS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_howling_on_glacial_erratic.jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Canis_lupus_howling_on_glacial_erratic.jpg\">Jim Peaco for NPS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canis_lupus_howling_on_glacial_erratic.jpg",
     "creatorName": "Jim Peaco for NPS",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Canis_lupus_howling_on_glacial_erratic.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:14:46.231Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "North America",
-  "acquisitionNotes": "Core article image curated separately from the wolf gallery set.",
-  "updatedAt": "2026-06-24T08:52:45.879Z"
+  "acquisitionNotes": "Core article image curated separately from the wolf gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Canis_lupus_howling_on_glacial_erratic.jpg",
+  "updatedAt": "2026-06-25T15:14:46.231Z",
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-core-habitat-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-core-habitat-01-1200.webp"
+  }
 }

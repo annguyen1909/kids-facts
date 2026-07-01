@@ -2,10 +2,10 @@
   "id": "giant-panda-diet",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-diet",
-  "fileName": "giant-panda-diet-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Panda_eating_bamboo_in_Panda_Base.jpg",
-  "width": 3456,
-  "height": 4608,
+  "fileName": "giant-panda-diet-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1600,
   "alt": "Giant panda sitting and chewing fresh bamboo shoots",
   "caption": "Giant pandas eat bamboo for up to 14 hours a day, munching on leaves and shoots.",
   "imageType": "diet",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Chengdu Research Base of Giant Panda Breeding, China",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b8/Panda_eating_bamboo_in_Panda_Base.jpg",
+  "updatedAt": "2026-06-25T14:55:13.707Z",
   "attributionText": "Photo by MspreilsCN via Wikimedia Commons, CC BY 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_eating_bamboo_in_Panda_Base.jpg\">MspreilsCN</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_eating_bamboo_in_Panda_Base.jpg\">MspreilsCN</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panda_eating_bamboo_in_Panda_Base.jpg",
     "creatorName": "MspreilsCN",
     "licenseName": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:55:13.707Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-diet-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-diet-01-1200.webp"
   }
 }

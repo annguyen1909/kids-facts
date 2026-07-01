@@ -1,0 +1,134 @@
+{
+  "id": "animal-dragonfly",
+  "slug": "dragonfly",
+  "name": "Dragonfly",
+  "commonNames": [
+    "Dragonfly",
+    "Emperor Dragonfly",
+    "Blue Emperor"
+  ],
+  "scientificName": "Anax imperator",
+  "summary": "The dragonfly is a spectacular predatory insect that has been flying on Earth since before the dinosaurs. Famous for their incredible flying agility, giant compound eyes, and brilliant colors, they are expert hunters of mosquitoes and other pests.",
+  "heroTitle": "Dragonfly Facts",
+  "metaTitle": "Dragonfly Facts | Habitat, Diet, Life Cycle & Photos",
+  "metaDescription": "Dragonfly facts for kids with photos, pond habitat, diet, life cycle, and behavior on one easy-to-read page.",
+  "searchIntents": [
+    "dragonfly facts",
+    "what do dragonflies eat",
+    "where do dragonflies live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Odonata",
+    "family": "Aeshnidae",
+    "genus": "Anax",
+    "species": "A. imperator"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "wetland",
+  "continents": [
+    "Europe",
+    "Asia",
+    "Africa"
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Germany",
+    "Spain",
+    "Italy",
+    "Netherlands",
+    "South Africa",
+    "Japan",
+    "China"
+  ],
+  "biomes": [
+    "freshwater-wetland"
+  ],
+  "dietType": "Carnivore",
+  "dietItems": [
+    "Mosquitoes",
+    "Flies",
+    "Gnats",
+    "Butterflies",
+    "Moths"
+  ],
+  "lifespan": {
+    "wild": "1 to 2 months (as adults)"
+  },
+  "size": {
+    "lengthMin": "7 cm",
+    "lengthMax": "8 cm"
+  },
+  "weight": {
+    "min": "1 g",
+    "max": "2 g"
+  },
+  "speed": "Up to 30 mph (48 km/h)",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "aerial hunting",
+    "hovering",
+    "territorial patrols",
+    "mating in flight"
+  ],
+  "adaptations": [
+    "360-degree vision",
+    "independent wing movement",
+    "basket-like legs for catching prey",
+    "rapid acceleration"
+  ],
+  "predators": [
+    "Birds",
+    "Frogs",
+    "Spiders",
+    "Fish (for larvae)",
+    "Water beetles"
+  ],
+  "prey": [
+    "Mosquitoes",
+    "Flies",
+    "Midges",
+    "Moths",
+    "Other dragonflies"
+  ],
+  "reproduction": {
+    "offspringName": "nymph",
+    "gestationOrIncubation": "1 to 3 weeks",
+    "offspringCount": "Up to 1,500 eggs"
+  },
+  "funFacts": [
+    "Dragonflies are prehistoric insects, having flown on Earth since before the dinosaurs!",
+    "They are incredibly fast and agile fliers, capable of hovering, flying backwards, and even upside down.",
+    "A dragonfly has nearly 360-degree vision, with two giant compound eyes containing up to 30,000 lenses each.",
+    "They are expert hunters, catching up to 95% of the prey they target in mid-air.",
+    "Baby dragonflies, called nymphs, live underwater for up to 5 years before emerging as flying adults.",
+    "Dragonflies can move each of their four wings independently, allowing them to make sharp turns in a split second."
+  ],
+  "faq": [
+    {
+      "question": "What is a dragonfly?",
+      "answer": "A dragonfly is a large, fast-flying predatory insect known for its long, slender body, two pairs of wings, and giant compound eyes. They are excellent flyers and hunters."
+    },
+    {
+      "question": "Where do dragonflies live?",
+      "answer": "Dragonflies live near freshwater habitats such as ponds, lakes, marshes, and slow-moving streams where they can find plenty of insects to eat."
+    },
+    {
+      "question": "What do dragonflies eat?",
+      "answer": "They are carnivores that eat other flying insects, including mosquitoes, flies, gnats, butterflies, and moths. They catch their food in the air using their legs."
+    }
+  ],
+  "relatedAnimals": [],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "dragonfly-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

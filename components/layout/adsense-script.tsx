@@ -1,8 +1,15 @@
+"use client";
+
 import Script from "next/script";
+import { useConsentStatus } from "@/lib/consent";
 import { siteConfig } from "@/lib/site-config";
 
 export function AdSenseScript() {
-  if (!siteConfig.adsEnabled || !siteConfig.adsenseClientId) return null;
+  const consent = useConsentStatus();
+
+  if (!siteConfig.adsEnabled || !siteConfig.adsenseClientId || consent !== "accepted") {
+    return null;
+  }
 
   return (
     <Script

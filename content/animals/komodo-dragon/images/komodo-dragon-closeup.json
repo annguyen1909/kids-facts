@@ -2,10 +2,10 @@
   "id": "komodo-dragon-closeup",
   "animalSlug": "komodo-dragon",
   "slug": "komodo-dragon-closeup",
-  "fileName": "Komodo dragon with tongue.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Komodo_dragon_with_tongue.jpg",
-  "width": 4749,
-  "height": 3234,
+  "fileName": "komodo-dragon-closeup-01-1200.webp",
+  "src": "/images/animals/komodo-dragon/web/komodo-dragon-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 817,
   "alt": "Close-up of a Komodo dragon head with forked tongue extended",
   "caption": "A Komodo dragon uses its forked tongue to pick up scents from the air and ground.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Cincinnati Zoo, United States",
-  "acquisitionNotes": "Manually curated Komodo dragon close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T02:55:48.501Z",
+  "acquisitionNotes": "Manually curated Komodo dragon close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9d/Komodo_dragon_with_tongue.jpg",
+  "updatedAt": "2026-06-25T14:59:56.690Z",
   "attributionText": "Photo by Mark Dumont via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Komodo_dragon_with_tongue.jpg\">Mark Dumont</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T02:55:48.501Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:56.690Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/komodo-dragon/web/komodo-dragon-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/komodo-dragon/thumbnails/komodo-dragon-closeup-01-400.webp",
+    "original": "/images/animals/komodo-dragon/web/komodo-dragon-closeup-01-1200.webp"
   }
 }

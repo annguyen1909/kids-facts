@@ -2,23 +2,23 @@
   "id": "pufferfish-core-range",
   "animalSlug": "pufferfish",
   "slug": "pufferfish-core-range",
-  "fileName": "Guineafowl Puffer,Arothron meleagris, dark form, Ecuador, Galapagos.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Guineafowl_Puffer%2CArothron_meleagris%2C_dark_form%2C_Ecuador%2C_Galapagos.jpg",
-  "width": 5456,
-  "height": 3632,
+  "fileName": "pufferfish-core-range-01-1200.webp",
+  "src": "/images/animals/pufferfish/web/pufferfish-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 799,
   "alt": "Guinea fowl pufferfish in Galápagos reef waters",
   "caption": "Many pufferfish also carry toxins that make them dangerous to eat.",
   "attributionText": "Photo by Guido and Carrara family via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Guineafowl_Puffer%2CArothron_meleagris%2C_dark_form%2C_Ecuador%2C_Galapagos.jpg\">Guido and Carrara family</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Guineafowl_Puffer,Arothron_meleagris,_dark_form,_Ecuador,_Galapagos.jpg\">Guido and Carrara family</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guineafowl_Puffer%2CArothron_meleagris%2C_dark_form%2C_Ecuador%2C_Galapagos.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guineafowl_Puffer,Arothron_meleagris,_dark_form,_Ecuador,_Galapagos.jpg",
     "creatorName": "Guido and Carrara family",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:10.621Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:25.698Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Galápagos Islands, Ecuador",
-  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set.",
-  "updatedAt": "2026-06-24T10:01:10.621Z"
+  "acquisitionNotes": "Core article image curated separately from the pufferfish gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/12/Guineafowl_Puffer%2CArothron_meleagris%2C_dark_form%2C_Ecuador%2C_Galapagos.jpg",
+  "updatedAt": "2026-06-25T15:08:25.698Z",
+  "srcSet": {
+    "web1200": "/images/animals/pufferfish/web/pufferfish-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/pufferfish/thumbnails/pufferfish-core-range-01-400.webp",
+    "original": "/images/animals/pufferfish/web/pufferfish-core-range-01-1200.webp"
+  }
 }

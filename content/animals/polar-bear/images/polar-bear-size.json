@@ -2,10 +2,10 @@
   "id": "polar-bear-size",
   "animalSlug": "polar-bear",
   "slug": "polar-bear-size",
-  "fileName": "DSC02179 - Polar Bear (43016685980).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/DSC02179_-_Polar_Bear_%2843016685980%29.jpg",
-  "width": 6000,
-  "height": 4000,
+  "fileName": "polar-bear-size-01-1200.webp",
+  "src": "/images/animals/polar-bear/web/polar-bear-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Large polar bear standing on sea ice showing its massive size",
   "caption": "Adult male polar bears can weigh over 1,500 pounds.",
   "imageType": "size",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Arctic",
-  "acquisitionNotes": "Manually curated polar bear size image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:49.161Z",
+  "acquisitionNotes": "Manually curated polar bear size image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d1/DSC02179_-_Polar_Bear_%2843016685980%29.jpg",
+  "updatedAt": "2026-06-25T15:08:01.586Z",
   "attributionText": "Photo by Dennis G. Jarvis via Wikimedia Commons, CC BY-SA 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:DSC02179_-_Polar_Bear_(43016685980).jpg\">Dennis G. Jarvis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:49.161Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:08:01.586Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/polar-bear/web/polar-bear-size-01-1200.webp",
+    "thumbnail400": "/images/animals/polar-bear/thumbnails/polar-bear-size-01-400.webp",
+    "original": "/images/animals/polar-bear/web/polar-bear-size-01-1200.webp"
   }
 }

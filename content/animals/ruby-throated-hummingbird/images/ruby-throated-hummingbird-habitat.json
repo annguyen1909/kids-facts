@@ -1,0 +1,39 @@
+{
+  "id": "ruby-throated-hummingbird-habitat",
+  "animalSlug": "ruby-throated-hummingbird",
+  "slug": "ruby-throated-hummingbird-habitat",
+  "fileName": "ruby-throated-hummingbird-habitat-01-1200.webp",
+  "src": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 825,
+  "alt": "Male ruby-throated hummingbird perched on top of a garden plant stake",
+  "caption": "Ruby-throated hummingbirds are common in eastern North American forests, orchards, and gardens.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat",
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "United States",
+  "acquisitionNotes": "Manually verified ruby-throated hummingbird image for habitat. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Archilochus_colubris_%28Male%29.jpg",
+  "updatedAt": "2026-06-25T15:10:10.467Z",
+  "attributionText": "Photo by Joe Schneid , Louisville, Kentucky via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Archilochus_colubris_(Male).jpg\">Joe Schneid , Louisville, Kentucky</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archilochus_colubris_(Male).jpg",
+    "creatorName": "Joe Schneid , Louisville, Kentucky",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:10:10.467Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/ruby-throated-hummingbird/thumbnails/ruby-throated-hummingbird-habitat-01-400.webp",
+    "original": "/images/animals/ruby-throated-hummingbird/web/ruby-throated-hummingbird-habitat-01-1200.webp"
+  }
+}

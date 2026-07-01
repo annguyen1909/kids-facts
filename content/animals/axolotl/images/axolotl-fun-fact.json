@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-fun-fact",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-fun-fact",
+  "fileName": "axolotl-fun-fact-01-1200.webp",
+  "alt": "A Axolotl showing a unique behavior or adaptation",
+  "caption": "Did you know that the Axolotl has amazing features that help it survive?",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Amandasofiarana via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg\">Amandasofiarana</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg",
+    "creatorName": "Amandasofiarana",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:18:09.396Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/15/Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg",
+  "updatedAt": "2026-06-26T19:18:09.396Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-fun-fact-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-fun-fact-01-1200.webp"
+  }
+}

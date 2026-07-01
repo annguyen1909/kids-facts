@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-family",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-family",
+  "fileName": "wandering-albatross-family-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-family-01-1200.webp",
+  "width": 1024,
+  "height": 682,
+  "alt": "A bonded pair of wandering albatrosses engaging in an elaborate mutual courtship display",
+  "caption": "Wandering albatrosses mate for life, reinforcing their lifelong bonds through spectacular, synchronized dancing and vocalizing displays.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kerguelen archipelago",
+  "acquisitionNotes": "Curated mutual courtship dancing behavior image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/5b/Kerguelen_-_Diomedea_exulans_-_wooing.jpg",
+  "updatedAt": "2026-06-29T12:06:02.380Z",
+  "attributionText": "Photo by Dimitri Damasceno from Bruxelles, Belgium via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Kerguelen_-_Diomedea_exulans_-_wooing.jpg\">Dimitri Damasceno from Bruxelles, Belgium</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerguelen_-_Diomedea_exulans_-_wooing.jpg",
+    "creatorName": "Dimitri Damasceno from Bruxelles, Belgium",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:06:02.380Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-family-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-family-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-family-01-1200.webp"
+  }
+}

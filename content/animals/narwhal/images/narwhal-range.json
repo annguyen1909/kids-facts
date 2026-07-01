@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-range",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-range",
+  "fileName": "narwhal-range-01-1200.webp",
+  "alt": "A Narwhal traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-range-01-1200.webp",
+  "width": 1200,
+  "height": 680,
+  "attributionText": "Photo by Gazprom neft via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Narwhal_tail_above_surface.jpg\">Gazprom neft</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Narwhal_tail_above_surface.jpg",
+    "creatorName": "Gazprom neft",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:07:02.273Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/be/Narwhal_tail_above_surface.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/be/Narwhal_tail_above_surface.jpg",
+  "updatedAt": "2026-06-26T19:07:02.273Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-range-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-range-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-range-01-1200.webp"
+  }
+}

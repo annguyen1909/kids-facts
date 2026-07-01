@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-core-diet",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-core-diet",
+  "fileName": "axolotl-core-diet-01-1200.webp",
+  "alt": "A Axolotl finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Axolotl.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Brandon Antonio Segura Torres & Priscilla Vieto Bonilla via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Neurulaci%C3%B3n_de_huevo_de_axolote_Ambystoma_Mexicanum.jpg\">Brandon Antonio Segura Torres & Priscilla Vieto Bonilla</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neurulaci%C3%B3n_de_huevo_de_axolote_Ambystoma_Mexicanum.jpg",
+    "creatorName": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:18:06.174Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Neurulaci%C3%B3n_de_huevo_de_axolote_Ambystoma_Mexicanum.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Neurulaci%C3%B3n_de_huevo_de_axolote_Ambystoma_Mexicanum.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/07/Neurulaci%C3%B3n_de_huevo_de_axolote_Ambystoma_Mexicanum.jpg",
+  "updatedAt": "2026-06-26T19:18:06.174Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-core-diet-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-core-diet-01-1200.webp"
+  }
+}

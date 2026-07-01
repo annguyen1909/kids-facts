@@ -1,0 +1,38 @@
+{
+  "id": "puffin-family",
+  "animalSlug": "puffin",
+  "slug": "puffin-family",
+  "fileName": "puffin-family-01-1200.webp",
+  "src": "/images/animals/puffin/web/puffin-family-01-1200.webp",
+  "width": 1200,
+  "height": 857,
+  "alt": "Close-up portrait of an Atlantic puffin with orange bill",
+  "caption": "The colorful outer plates on a puffin's bill become brightest during breeding season.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Andreas Trepte via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Fratercula_arctica.jpg\">Andreas Trepte</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_Puffin_Fratercula_arctica.jpg",
+    "creatorName": "Andreas Trepte",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:08:41.323Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified puffin image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4b/Atlantic_Puffin_Fratercula_arctica.jpg",
+  "updatedAt": "2026-06-25T15:08:41.323Z",
+  "srcSet": {
+    "web1200": "/images/animals/puffin/web/puffin-family-01-1200.webp",
+    "thumbnail400": "/images/animals/puffin/thumbnails/puffin-family-01-400.webp",
+    "original": "/images/animals/puffin/web/puffin-family-01-1200.webp"
+  }
+}

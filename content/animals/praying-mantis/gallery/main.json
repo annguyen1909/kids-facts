@@ -1,0 +1,22 @@
+{
+  "id": "praying-mantis-gallery-main",
+  "animalSlug": "praying-mantis",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Praying Mantis Photo Gallery",
+  "metaTitle": "Praying Mantis Photo Gallery",
+  "metaDescription": "Browse a praying mantis photo gallery with wildlife photos.",
+  "intro": "Explore praying mantis photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "praying-mantis-hero",
+    "praying-mantis-habitat",
+    "praying-mantis-diet",
+    "praying-mantis-baby",
+    "praying-mantis-family",
+    "praying-mantis-range",
+    "praying-mantis-size",
+    "praying-mantis-closeup",
+    "praying-mantis-fun-fact"
+  ],
+  "updatedAt": "2026-06-24T22:50:00.000Z"
+}

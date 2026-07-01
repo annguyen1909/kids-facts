@@ -1,0 +1,38 @@
+{
+  "id": "monarch-butterfly-core-range",
+  "animalSlug": "monarch-butterfly",
+  "slug": "monarch-butterfly-core-range",
+  "fileName": "monarch-butterfly-core-range-01-1200.webp",
+  "src": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Monarch butterfly gliding over a prairie field during migration",
+  "caption": "Migrating monarchs fly across North America toward their overwintering sites.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Minnesota, United States",
+  "attributionText": "Photo by U.S. Fish and Wildlife Service - Midwest Region via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monarch_butterfly_in_flight_(54570450997).jpg\">U.S. Fish and Wildlife Service - Midwest Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_in_flight_(54570450997).jpg",
+    "creatorName": "U.S. Fish and Wildlife Service - Midwest Region",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-25T15:03:13.531Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified monarch butterfly image for range. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d7/Monarch_butterfly_in_flight_%2854570450997%29.jpg",
+  "updatedAt": "2026-06-25T15:03:13.531Z",
+  "srcSet": {
+    "web1200": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/monarch-butterfly/thumbnails/monarch-butterfly-core-range-01-400.webp",
+    "original": "/images/animals/monarch-butterfly/web/monarch-butterfly-core-range-01-1200.webp"
+  }
+}

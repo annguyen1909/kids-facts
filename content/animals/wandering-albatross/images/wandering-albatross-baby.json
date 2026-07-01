@@ -1,0 +1,38 @@
+{
+  "id": "wandering-albatross-baby",
+  "animalSlug": "wandering-albatross",
+  "slug": "wandering-albatross-baby",
+  "fileName": "wandering-albatross-baby-01-1200.webp",
+  "src": "/images/animals/wandering-albatross/web/wandering-albatross-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "High-resolution museum specimen of a large, downy juvenile wandering albatross chick",
+  "caption": "Albatross chicks hatch as massive balls of fluffy white down and are fed rich stomach oil by their parents for nearly a year.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "French National Museum of Natural History",
+  "acquisitionNotes": "Pristine 6000x4500 archival photograph of juvenile chick specimen. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Diomedea_exulans_pullus_Zooth%C3%A8que_MNHN.jpg",
+  "updatedAt": "2026-06-29T12:05:27.052Z",
+  "attributionText": "Photo by Marie-Lan Taÿ Pamart via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Diomedea_exulans_pullus_Zooth%C3%A8que_MNHN.jpg\">Marie-Lan Taÿ Pamart</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_pullus_Zooth%C3%A8que_MNHN.jpg",
+    "creatorName": "Marie-Lan Taÿ Pamart",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:05:27.052Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wandering-albatross/web/wandering-albatross-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/wandering-albatross/thumbnails/wandering-albatross-baby-01-400.webp",
+    "original": "/images/animals/wandering-albatross/web/wandering-albatross-baby-01-1200.webp"
+  }
+}

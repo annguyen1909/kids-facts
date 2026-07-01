@@ -1,0 +1,38 @@
+{
+  "id": "ocean-sunfish-core-family",
+  "animalSlug": "ocean-sunfish",
+  "slug": "ocean-sunfish-core-family",
+  "alt": "Specimen representing the distinctive family Molidae",
+  "caption": "The family Molidae includes several remarkable species of giant sunfishes adapted for oceanic drifting.",
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "location": "Museum of natural history, La Rochelle",
+  "fileName": "ocean-sunfish-core-family-01-1200.webp",
+  "src": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 1486,
+  "attributionText": "Photo by Jebulon via Wikimedia Commons, CC0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mola_mola_stuffed_museum_La_Rochelle.jpg\">Jebulon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mola_mola_stuffed_museum_La_Rochelle.jpg",
+    "creatorName": "Jebulon",
+    "licenseName": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-29T07:22:35.150Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image curated separately from the ocean sunfish gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/33/Mola_mola_stuffed_museum_La_Rochelle.jpg",
+  "updatedAt": "2026-06-29T07:22:35.150Z",
+  "srcSet": {
+    "web1200": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ocean-sunfish/thumbnails/ocean-sunfish-core-family-01-400.webp",
+    "original": "/images/animals/ocean-sunfish/web/ocean-sunfish-core-family-01-1200.webp"
+  }
+}

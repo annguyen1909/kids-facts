@@ -2,8 +2,8 @@
   "id": "seahorse-closeup",
   "animalSlug": "seahorse",
   "slug": "seahorse-closeup",
-  "fileName": "Hippocampus erectus 330048116.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hippocampus_erectus_330048116.jpg",
+  "fileName": "seahorse-closeup-01-1200.webp",
+  "src": "/images/animals/seahorse/web/seahorse-closeup-01-1200.webp",
   "width": 720,
   "height": 960,
   "alt": "Close-up of a lined seahorse face and curled tail",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Western Atlantic",
-  "acquisitionNotes": "Manually curated seahorse close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:05.816Z",
+  "acquisitionNotes": "Manually curated seahorse close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/27/Hippocampus_erectus_330048116.jpg",
+  "updatedAt": "2026-06-25T15:10:59.485Z",
   "attributionText": "Photo by Pauline Walsh Jacobson via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_330048116.jpg\">Pauline Walsh Jacobson</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:05.816Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:10:59.485Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/seahorse/web/seahorse-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/seahorse/thumbnails/seahorse-closeup-01-400.webp",
+    "original": "/images/animals/seahorse/web/seahorse-closeup-01-1200.webp"
   }
 }

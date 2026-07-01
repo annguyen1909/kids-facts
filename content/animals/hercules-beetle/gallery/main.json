@@ -1,0 +1,22 @@
+{
+  "id": "hercules-beetle-gallery-main",
+  "animalSlug": "hercules-beetle",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Hercules Beetle Photo Gallery",
+  "metaTitle": "Hercules Beetle Photo Gallery",
+  "metaDescription": "Browse a hercules-beetle photo gallery with wildlife photos.",
+  "intro": "Explore hercules-beetle photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "hercules-beetle-hero",
+    "hercules-beetle-habitat",
+    "hercules-beetle-diet",
+    "hercules-beetle-baby",
+    "hercules-beetle-family",
+    "hercules-beetle-range",
+    "hercules-beetle-size",
+    "hercules-beetle-closeup",
+    "hercules-beetle-fun-fact"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z"
+}

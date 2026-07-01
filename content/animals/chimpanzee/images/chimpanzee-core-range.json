@@ -2,10 +2,10 @@
   "id": "chimpanzee-core-range",
   "animalSlug": "chimpanzee",
   "slug": "chimpanzee-core-range",
-  "fileName": "Chimpanzee eating in tree - DPLA - af5a812fb08d2de6dfd7dc9f2ab0b5ad.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chimpanzee_eating_in_tree_-_DPLA_-_af5a812fb08d2de6dfd7dc9f2ab0b5ad.jpg",
-  "width": 2399,
-  "height": 3500,
+  "fileName": "chimpanzee-core-range-01-1200.webp",
+  "src": "/images/animals/chimpanzee/web/chimpanzee-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1751,
   "alt": "Chimpanzee feeding high in a forest tree",
   "caption": "Chimpanzees are Endangered because forests are being cleared and fragmented.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set.",
-  "updatedAt": "2026-06-24T09:22:19.326Z",
+  "acquisitionNotes": "Core article image curated separately from the chimpanzee gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1a/Chimpanzee_eating_in_tree_-_DPLA_-_af5a812fb08d2de6dfd7dc9f2ab0b5ad.jpg",
+  "updatedAt": "2026-06-25T14:50:43.275Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Chimpanzee_eating_in_tree_-_DPLA_-_af5a812fb08d2de6dfd7dc9f2ab0b5ad.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:19.326Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:43.275Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/chimpanzee/web/chimpanzee-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/chimpanzee/thumbnails/chimpanzee-core-range-01-400.webp",
+    "original": "/images/animals/chimpanzee/web/chimpanzee-core-range-01-1200.webp"
   }
 }

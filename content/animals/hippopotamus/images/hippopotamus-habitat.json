@@ -2,23 +2,23 @@
   "id": "hippopotamus-habitat",
   "animalSlug": "hippopotamus",
   "slug": "hippopotamus-habitat",
-  "fileName": "Hippo pod edit.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
-  "width": 2160,
-  "height": 1440,
+  "fileName": "hippopotamus-habitat-01-1200.webp",
+  "src": "/images/animals/hippopotamus/web/hippopotamus-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Group of hippos resting together in river water",
   "caption": "Hippos spend much of the day in rivers and lakes to stay cool and safe.",
   "attributionText": "Photo by Paul Maritz via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippo_pod_edit.jpg\">Paul Maritz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Hippo_pod_edit.jpg\">Paul Maritz</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippo_pod_edit.jpg",
     "creatorName": "Paul Maritz",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:55.330Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:13:05.421Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "habitat",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "African river",
-  "acquisitionNotes": "Manually curated hippopotamus habitat image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:55.330Z"
+  "acquisitionNotes": "Manually curated hippopotamus habitat image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a3/Hippo_pod_edit.jpg",
+  "updatedAt": "2026-06-26T19:13:05.421Z",
+  "srcSet": {
+    "web1200": "/images/animals/hippopotamus/web/hippopotamus-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hippopotamus/thumbnails/hippopotamus-habitat-01-400.webp",
+    "original": "/images/animals/hippopotamus/web/hippopotamus-habitat-01-1200.webp"
+  }
 }

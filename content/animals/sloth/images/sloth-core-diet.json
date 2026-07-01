@@ -2,10 +2,10 @@
   "id": "sloth-core-diet",
   "animalSlug": "sloth",
   "slug": "sloth-core-diet",
-  "fileName": "Brown-throated three-toed sloth female.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Brown-throated_three-toed_sloth_female.JPG",
-  "width": 4272,
-  "height": 2848,
+  "fileName": "sloth-core-diet-01-1200.webp",
+  "src": "/images/animals/sloth/web/sloth-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Three-toed sloth reaching for leaves while hanging in a tree",
   "caption": "Leaves are low in calories, so sloths move slowly to save energy.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Central America",
-  "acquisitionNotes": "Core article image curated separately from the sloth gallery set.",
-  "updatedAt": "2026-06-24T09:30:11.989Z",
+  "acquisitionNotes": "Core article image curated separately from the sloth gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e7/Brown-throated_three-toed_sloth_female.JPG",
+  "updatedAt": "2026-06-25T15:11:24.142Z",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Brown-throated_three-toed_sloth_female.JPG\">Charles J. Sharp</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:30:11.989Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:24.142Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/sloth/web/sloth-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/sloth/thumbnails/sloth-core-diet-01-400.webp",
+    "original": "/images/animals/sloth/web/sloth-core-diet-01-1200.webp"
   }
 }

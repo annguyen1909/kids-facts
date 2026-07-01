@@ -2,11 +2,11 @@
   "id": "ostrich-core-family",
   "animalSlug": "ostrich",
   "slug": "ostrich-core-family",
-  "fileName": "104 Juvenile South African ostrich in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
-  "width": 8395,
-  "height": 5597,
-  "alt": "Juvenile ostrich in family group on savanna",
+  "fileName": "ostrich-core-family-01-1200.webp",
+  "src": "/images/animals/ostrich/web/ostrich-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 720,
+  "alt": "Male ostrich watching over small chicks on open ground",
   "caption": "Several adults may help protect a group of chicks.",
   "imageType": "family",
   "galleryTopics": [
@@ -15,19 +15,24 @@
   "featuredOnPages": [
     "core"
   ],
-  "location": "Kalahari, Namibia",
-  "acquisitionNotes": "Core article image curated separately from the ostrich gallery set.",
-  "updatedAt": "2026-06-24T12:41:14.851Z",
-  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "location": "Africa",
+  "acquisitionNotes": "Core article family — male with chicks, unique from gallery hen family photo. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b3/Ostrich_%28Struthio_camelus%29_male_with_chicks_%286511046161%29.jpg",
+  "updatedAt": "2026-06-28T09:18:55.604Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_male_with_chicks_(6511046161).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
-    "creatorName": "Giles Laurent",
-    "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ostrich_(Struthio_camelus)_male_with_chicks_(6511046161).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:14.851Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-28T09:18:55.604Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/ostrich/web/ostrich-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/ostrich/thumbnails/ostrich-core-family-01-400.webp",
+    "original": "/images/animals/ostrich/web/ostrich-core-family-01-1200.webp"
   }
 }

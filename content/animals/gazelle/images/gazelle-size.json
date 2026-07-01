@@ -2,10 +2,10 @@
   "id": "gazelle-size",
   "animalSlug": "gazelle",
   "slug": "gazelle-size",
-  "fileName": "Eudorcas thomsonii -Serengeti National Park, Tanzania-8.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg",
-  "width": 1600,
-  "height": 1067,
+  "fileName": "gazelle-size-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Full-body Thomson's gazelle showing slim legs and horns",
   "caption": "A gazelle's light body and long legs help it sprint and turn quickly.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Serengeti National Park, Tanzania",
-  "acquisitionNotes": "Manually curated gazelle size image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Manually curated gazelle size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0b/Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg",
+  "updatedAt": "2026-06-25T14:54:57.787Z",
   "attributionText": "Photo by Bob via Wikimedia Commons, CC BY 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg\">Bob</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park,_Tanzania-8.jpg\">Bob</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park%2C_Tanzania-8.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eudorcas_thomsonii_-Serengeti_National_Park,_Tanzania-8.jpg",
     "creatorName": "Bob",
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:57.787Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-size-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-size-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-size-01-1200.webp"
   }
 }

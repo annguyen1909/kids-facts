@@ -2,10 +2,10 @@
   "id": "octopus-size",
   "animalSlug": "octopus",
   "slug": "octopus-size",
-  "fileName": "Pulpo común (Octopus vulgaris), Cathedral Cave, Gozo, Malta, 2021-08-23, DD 28.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pulpo_com%C3%BAn_%28Octopus_vulgaris%29%2C_Cathedral_Cave%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_28.jpg",
-  "width": 4012,
-  "height": 2675,
+  "fileName": "octopus-size-01-1200.webp",
+  "src": "/images/animals/octopus/web/octopus-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Common octopus showing arm span against reef rock",
   "caption": "An adult common octopus can spread its arms about 3 feet wide.",
   "imageType": "size",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Gozo, Malta",
-  "acquisitionNotes": "Manually curated octopus size image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:21.349Z",
+  "acquisitionNotes": "Manually curated octopus size image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7d/Pulpo_com%C3%BAn_%28Octopus_vulgaris%29%2C_Cathedral_Cave%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_28.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/7d/Pulpo_com%C3%BAn_%28Octopus_vulgaris%29%2C_Cathedral_Cave%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_28.jpg",
+  "updatedAt": "2026-06-26T19:15:03.884Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris)%2C_Cathedral_Cave%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_28.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Cathedral_Cave,_Gozo,_Malta,_2021-08-23,_DD_28.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris)%2C_Cathedral_Cave%2C_Gozo%2C_Malta%2C_2021-08-23%2C_DD_28.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Cathedral_Cave,_Gozo,_Malta,_2021-08-23,_DD_28.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:21.349Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:15:03.884Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/octopus/web/octopus-size-01-1200.webp",
+    "thumbnail400": "/images/animals/octopus/thumbnails/octopus-size-01-400.webp",
+    "original": "/images/animals/octopus/web/octopus-size-01-1200.webp"
   }
 }

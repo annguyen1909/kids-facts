@@ -1,0 +1,38 @@
+{
+  "id": "mandarinfish-habitat",
+  "animalSlug": "mandarinfish",
+  "slug": "mandarinfish-habitat",
+  "fileName": "mandarinfish-habitat-01-1200.webp",
+  "src": "/images/animals/mandarinfish/web/mandarinfish-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 795,
+  "alt": "Mandarinfish hovering gracefully near a protective branch of coral reef in Malapascua",
+  "caption": "They inhabit sheltered lagoons, inshore reefs, and silty bottom habitats, rarely venturing far from protective coral branches.",
+  "imageType": "habitat",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Malapascua, Philippines",
+  "acquisitionNotes": "Pristine 4928x3264 habitat photograph showcasing natural coral perching behavior. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/91/Malapascua_Mandarin_Fish_%28Synchiropus_splendidus%29.jpg",
+  "updatedAt": "2026-06-29T11:59:11.273Z",
+  "attributionText": "Photo by Sodacan via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Malapascua_Mandarin_Fish_(Synchiropus_splendidus).jpg\">Sodacan</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malapascua_Mandarin_Fish_(Synchiropus_splendidus).jpg",
+    "creatorName": "Sodacan",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:59:11.273Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/mandarinfish/web/mandarinfish-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/mandarinfish/thumbnails/mandarinfish-habitat-01-400.webp",
+    "original": "/images/animals/mandarinfish/web/mandarinfish-habitat-01-1200.webp"
+  }
+}

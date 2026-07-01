@@ -2,10 +2,10 @@
   "id": "orangutan-diet",
   "animalSlug": "orangutan",
   "slug": "orangutan-diet",
-  "fileName": "Orang Utan picking up some fruit (26426082272).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Orang_Utan_picking_up_some_fruit_%2826426082272%29.jpg",
-  "width": 4000,
-  "height": 6000,
+  "fileName": "orangutan-diet-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1800,
   "alt": "Orangutan reaching for fruit in a tree",
   "caption": "Orangutans eat fruit, leaves, bark, and other forest plants.",
   "imageType": "diet",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Manually curated orangutan diet image with verified species identification.",
-  "updatedAt": "2026-06-24T12:32:11.033Z",
+  "acquisitionNotes": "Manually curated orangutan diet image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e2/Orang_Utan_picking_up_some_fruit_%2826426082272%29.jpg",
+  "updatedAt": "2026-06-25T15:04:21.386Z",
   "attributionText": "Photo by Thomas Quine via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orang_Utan_picking_up_some_fruit_(26426082272).jpg\">Thomas Quine</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:21.386Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-diet-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-diet-01-1200.webp"
   }
 }

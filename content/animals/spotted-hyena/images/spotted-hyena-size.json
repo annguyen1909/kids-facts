@@ -1,0 +1,38 @@
+{
+  "id": "spotted-hyena-size",
+  "animalSlug": "spotted-hyena",
+  "slug": "spotted-hyena-size",
+  "fileName": "spotted-hyena-size-01-1200.webp",
+  "alt": "Full body side view of a spotted hyena standing in Etosha",
+  "caption": "Adult spotted hyenas stand about knee-high to a person and can weigh up to 80 kilograms.",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "size",
+  "location": "Etosha National Park, Namibia",
+  "src": "/images/animals/spotted-hyena/web/spotted-hyena-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Crocuta_crocuta_-_Etosha_2015.jpg\">Yathin S Krishnappa</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crocuta_crocuta_-_Etosha_2015.jpg",
+    "creatorName": "Yathin S Krishnappa",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T09:46:34.470Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified spotted-hyena image for size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/29/Crocuta_crocuta_-_Etosha_2015.jpg",
+  "updatedAt": "2026-06-28T09:46:34.470Z",
+  "srcSet": {
+    "web1200": "/images/animals/spotted-hyena/web/spotted-hyena-size-01-1200.webp",
+    "thumbnail400": "/images/animals/spotted-hyena/thumbnails/spotted-hyena-size-01-400.webp",
+    "original": "/images/animals/spotted-hyena/web/spotted-hyena-size-01-1200.webp"
+  }
+}

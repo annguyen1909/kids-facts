@@ -6,11 +6,11 @@ export type BreadcrumbItem = {
   href?: string;
 };
 
-export function Breadcrumbs({ items }: { items: BreadcrumbItem[] }) {
+export function Breadcrumbs({ items, light = false }: { items: BreadcrumbItem[]; light?: boolean }) {
   return (
     <nav
       aria-label="Breadcrumb"
-      className="text-sm text-slate-600"
+      className={`text-sm ${light ? "text-white/70" : "text-[var(--muted)]"}`}
     >
       <ol className="flex flex-wrap items-center gap-2">
         {items.map((item, index) => {
@@ -18,12 +18,19 @@ export function Breadcrumbs({ items }: { items: BreadcrumbItem[] }) {
           return (
             <li key={`${item.label}-${index}`} className="flex items-center gap-2">
               {item.href && !isLast ? (
-                <Link href={item.href} className="hover:text-slate-900">
+                <Link
+                  href={item.href}
+                  className={`rounded-sm transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--sky)] focus-visible:ring-offset-2 ${
+                    light 
+                      ? "text-white/70 hover:text-white" 
+                      : "text-[var(--muted)] hover:text-[var(--forest-deep)]"
+                  }`}
+                >
                   {item.label}
                 </Link>
               ) : (
                 <span
-                  className={isLast ? "font-semibold text-slate-900" : ""}
+                  className={isLast ? `font-semibold ${light ? "text-white drop-shadow-md" : "text-[var(--forest-deep)]"}` : ""}
                   aria-current={isLast ? "page" : undefined}
                 >
                   {item.label}

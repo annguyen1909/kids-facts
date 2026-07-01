@@ -1,0 +1,38 @@
+{
+  "id": "cicada-closeup",
+  "animalSlug": "cicada",
+  "slug": "cicada-closeup",
+  "fileName": "cicada-closeup-01-1200.webp",
+  "src": "/images/animals/cicada/web/cicada-closeup-01-1200.webp",
+  "width": 1000,
+  "height": 501,
+  "alt": "A detailed close-up showing the physical features of a Cicada",
+  "caption": "A close-up view reveals the intricate details of a Cicada's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Photo by David J. Stang via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_53zz.jpg\">Photo by David J. Stang</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magicicada_septendecim_53zz.jpg",
+    "creatorName": "Photo by David J. Stang",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:50:51.955Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified cicada image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/09/Magicicada_septendecim_53zz.jpg",
+  "updatedAt": "2026-06-25T14:50:51.955Z",
+  "srcSet": {
+    "web1200": "/images/animals/cicada/web/cicada-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/cicada/thumbnails/cicada-closeup-01-400.webp",
+    "original": "/images/animals/cicada/web/cicada-closeup-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "lion-family",
   "animalSlug": "lion",
   "slug": "lion-family",
-  "fileName": "lion-pride-resting-together.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lions_%28Panthera_leo%29_pride_..._%2852742147651%29.jpg/1920px-Lions_%28Panthera_leo%29_pride_..._%2852742147651%29.jpg",
-  "width": 1920,
-  "height": 1280,
+  "fileName": "lion-family-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-family-01-1200.webp",
+  "width": 1200,
+  "height": 775,
   "alt": "Lion pride resting together on the savanna",
   "caption": "Prides spend many hours resting together when the day is hot.",
   "credit": "Unsplash",
@@ -19,17 +19,23 @@
     "gallery"
   ],
   "location": "Savanna",
-  "updatedAt": "2026-06-21T00:00:00.000Z",
-  "attributionText": "Photo by Bernard DUPONT via Wikimedia Commons, CC BY-SA 2.0",
+  "updatedAt": "2026-06-25T15:01:27.432Z",
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lions_(Panthera_leo)_pride_..._(52742147651).jpg",
-    "creatorName": "Bernard DUPONT",
+    "creatorName": "Bernard DUPONT from FRANCE",
     "licenseName": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:27.432Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role."
+  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/37/Lions_%28Panthera_leo%29_pride_..._%2852742147651%29.jpg",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lions_(Panthera_leo)_pride_..._(52742147651).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-family-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-family-01-400.webp",
+    "original": "/images/animals/lion/web/lion-family-01-1200.webp"
+  }
 }

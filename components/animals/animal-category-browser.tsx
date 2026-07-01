@@ -3,6 +3,7 @@
 import { useDeferredValue, useMemo, useState } from "react";
 import { Search, X } from "lucide-react";
 import { AnimalCard } from "@/components/animals/animal-card";
+import { SearchEmptyState } from "@/components/animals/search-empty-state";
 import { filterAnimalsBySearchQuery } from "@/lib/animal-search";
 import type { AnimalRecord } from "@/lib/types";
 
@@ -53,23 +54,25 @@ export function AnimalCategoryBrowser({ animals, categoryTitle }: AnimalCategory
         ) : null}
       </div>
 
-      <p
-        className="animal-category-browser__meta"
+      <div
+        className="border-b border-[var(--line)] pb-3 mb-6"
         aria-live="polite"
         aria-atomic="true"
       >
         {hasQuery ? (
-          <>
-            <span className={isFiltering ? "animal-category-browser__meta-pending" : undefined}>
+          <p className="font-serif text-2xl text-[var(--forest-deep)]">
+            <span className={isFiltering ? "opacity-50 transition-opacity" : ""}>
               {filteredAnimals.length} result{filteredAnimals.length === 1 ? "" : "s"}
             </span>
             {" for "}
-            <span className="font-medium text-[var(--forest-deep)]">&ldquo;{trimmedQuery}&rdquo;</span>
-          </>
+            <span className="italic">&ldquo;{trimmedQuery}&rdquo;</span>
+          </p>
         ) : (
-          <span>{animals.length} animal{animals.length === 1 ? "" : "s"}</span>
+          <p className="text-xs font-bold uppercase tracking-widest text-[var(--muted)]">
+            {animals.length} animal{animals.length === 1 ? "" : "s"}
+          </p>
         )}
-      </p>
+      </div>
 
       <div
         className={
@@ -84,18 +87,11 @@ export function AnimalCategoryBrowser({ animals, categoryTitle }: AnimalCategory
       </div>
 
       {hasQuery && filteredAnimals.length === 0 && !isFiltering ? (
-        <div className="animal-category-browser__empty">
-          <p className="text-sm text-[var(--muted)]">
-            No {categoryTitle.toLowerCase()} matched &ldquo;{trimmedQuery}&rdquo;.
-          </p>
-          <button
-            type="button"
-            onClick={() => setQuery("")}
-            className="mt-2 text-sm font-semibold text-[var(--forest)]"
-          >
-            Clear search
-          </button>
-        </div>
+        <SearchEmptyState
+          query={trimmedQuery}
+          context={categoryTitle.toLowerCase()}
+          onClear={() => setQuery("")}
+        />
       ) : null}
 
       {animals.length === 0 ? (

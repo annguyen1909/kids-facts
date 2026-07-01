@@ -1,0 +1,22 @@
+{
+  "id": "walrus-gallery-main",
+  "animalSlug": "walrus",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Walrus Photo Gallery",
+  "metaTitle": "Walrus Photo Gallery",
+  "metaDescription": "Browse a walrus photo gallery with wildlife photos.",
+  "intro": "Explore walrus photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "walrus-hero",
+    "walrus-habitat",
+    "walrus-diet",
+    "walrus-baby",
+    "walrus-family",
+    "walrus-range",
+    "walrus-size",
+    "walrus-closeup",
+    "walrus-fun-fact"
+  ],
+  "updatedAt": "2026-06-28T09:42:11.856Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "leafy-seadragon-diet",
+  "animalSlug": "leafy-seadragon",
+  "slug": "leafy-seadragon-diet",
+  "fileName": "leafy-seadragon-diet-01-1200.webp",
+  "src": "/images/animals/leafy-seadragon/web/leafy-seadragon-diet-01-1200.webp",
+  "width": 1200,
+  "height": 618,
+  "alt": "Leafy seadragon carefully maneuvering its long pipe-like snout to suck in tiny prey",
+  "caption": "Lacking teeth and a stomach, they feed continuously by using their long tubular snouts to suck in tiny mysid shrimp and plankton.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Kelp display",
+  "acquisitionNotes": "Manually curated leafy seadragon diet image. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Leafy_Seadragon_Phycodurus_eques_2500px_PLW_edit.jpg",
+  "updatedAt": "2026-06-29T07:23:28.718Z",
+  "attributionText": "Photo by Photo by and (C)2007 Derek Ramsey ( Ram-Man ); derivative edit by Papa Lima Whiskey via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_Phycodurus_eques_2500px_PLW_edit.jpg\">Photo by and (C)2007 Derek Ramsey ( Ram-Man ); derivative edit by Papa Lima Whiskey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leafy_Seadragon_Phycodurus_eques_2500px_PLW_edit.jpg",
+    "creatorName": "Photo by and (C)2007 Derek Ramsey ( Ram-Man ); derivative edit by Papa Lima Whiskey",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:23:28.718Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leafy-seadragon/web/leafy-seadragon-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/leafy-seadragon/thumbnails/leafy-seadragon-diet-01-400.webp",
+    "original": "/images/animals/leafy-seadragon/web/leafy-seadragon-diet-01-1200.webp"
+  }
+}

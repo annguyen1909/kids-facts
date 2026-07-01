@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-closeup",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-closeup",
+  "fileName": "galapagos-tortoise-closeup-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Close-up of a giant tortoise's wrinkled head and neck, showing its scale-like skin",
+  "caption": "Tortoises have sharp, toothless beaks that they use to bite and tear tough vegetation.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by E bailey via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise,_head_(Chelonoidis_niger_hoodensis).jpg\">E bailey</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise,_head_(Chelonoidis_niger_hoodensis).jpg",
+    "creatorName": "E bailey",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:19.919Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9a/Galapagos_giant_tortoise%2C_head_%28Chelonoidis_niger_hoodensis%29.jpg",
+  "updatedAt": "2026-06-25T14:54:19.919Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-closeup-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-closeup-01-1200.webp"
+  }
+}

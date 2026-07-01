@@ -2,10 +2,10 @@
   "id": "eagle-range",
   "animalSlug": "eagle",
   "slug": "eagle-range",
-  "fileName": "Bald eagle in Alaska 2016-3.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bald_eagle_in_Alaska_2016-3.jpg",
-  "width": 4796,
-  "height": 3747,
+  "fileName": "eagle-range-01-1200.webp",
+  "src": "/images/animals/eagle/web/eagle-range-01-1200.webp",
+  "width": 1200,
+  "height": 937,
   "alt": "Bald eagle perched in snowy Alaskan habitat",
   "caption": "Wild eagles live across North America from Alaska and Canada to the United States.",
   "imageType": "range",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Alaska, United States",
-  "acquisitionNotes": "Manually curated bald eagle range image with verified species identification.",
-  "updatedAt": "2026-06-23T10:36:03.302Z",
+  "acquisitionNotes": "Manually curated bald eagle range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/97/Bald_eagle_in_Alaska_2016-3.jpg",
+  "updatedAt": "2026-06-25T14:52:30.668Z",
   "attributionText": "Photo by Andy Morffew from Itchen Abbas, Hampshire, UK via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bald_eagle_in_Alaska_2016-3.jpg\">Andy Morffew from Itchen Abbas, Hampshire, UK</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T10:36:03.302Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:52:30.668Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/eagle/web/eagle-range-01-1200.webp",
+    "thumbnail400": "/images/animals/eagle/thumbnails/eagle-range-01-400.webp",
+    "original": "/images/animals/eagle/web/eagle-range-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-family",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-family",
+  "fileName": "hoatzin-family-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A social group of hoatzins perching together in the high canopy of Manu National Park",
+  "caption": "Hoatzins are highly social birds that live and nest in collaborative family colonies along riverbanks.",
+  "attributionText": "Photo by Patty Ho from Toronto, Canada via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_-Manu_National_Park,_Peru-8_(2).jpg\">Patty Ho from Toronto, Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opisthocomus_hoazin_-Manu_National_Park,_Peru-8_(2).jpg",
+    "creatorName": "Patty Ho from Toronto, Canada",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:52.093Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "imageType": "family",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Manu National Park, Peru",
+  "acquisitionNotes": "Curated group specimen depicting social bonding and colony roosting. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/2b/Opisthocomus_hoazin_-Manu_National_Park%2C_Peru-8_%282%29.jpg",
+  "updatedAt": "2026-06-29T12:23:52.093Z",
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-family-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-family-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-family-01-1200.webp"
+  }
+}

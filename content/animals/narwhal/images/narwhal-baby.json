@@ -1,0 +1,38 @@
+{
+  "id": "narwhal-baby",
+  "animalSlug": "narwhal",
+  "slug": "narwhal-baby",
+  "fileName": "narwhal-baby-01-1200.webp",
+  "alt": "A young or baby Narwhal showing early development",
+  "caption": "Baby Narwhals must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/narwhal/web/narwhal-baby-01-1200.webp",
+  "width": 1200,
+  "height": 951,
+  "attributionText": "Photo by Dr. Kristin Laidre, Polar Science Center, UW NOAA/OAR/OER via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Monodon_monoceros_pod.jpg\">Dr. Kristin Laidre, Polar Science Center, UW NOAA/OAR/OER</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monodon_monoceros_pod.jpg",
+    "creatorName": "Dr. Kristin Laidre, Polar Science Center, UW NOAA/OAR/OER",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiresAttribution": false,
+    "downloadedAt": "2026-06-26T19:05:13.169Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified narwhal image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Monodon_monoceros_pod.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/94/Monodon_monoceros_pod.jpg",
+  "updatedAt": "2026-06-26T19:05:13.169Z",
+  "srcSet": {
+    "web1200": "/images/animals/narwhal/web/narwhal-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/narwhal/thumbnails/narwhal-baby-01-400.webp",
+    "original": "/images/animals/narwhal/web/narwhal-baby-01-1200.webp"
+  }
+}

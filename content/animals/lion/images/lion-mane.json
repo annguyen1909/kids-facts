@@ -2,32 +2,37 @@
   "id": "lion-mane",
   "animalSlug": "lion",
   "slug": "lion-mane",
-  "fileName": "male-lion-mane-closeup.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
-  "width": 1920,
-  "height": 1280,
-  "alt": "Male lion with a full dark mane",
-  "caption": "A male lion's mane grows fuller with age and signals maturity.",
-  "attributionText": "Photo by Yathin S Krishnappa via Wikimedia Commons, CC BY-SA 3.0",
+  "fileName": "lion-mane-01-1200.webp",
+  "src": "/images/animals/lion/web/lion-mane-01-1200.webp",
+  "width": 1200,
+  "height": 803,
+  "alt": "Close-up of an adult male lion roaring, showing its thick mane",
+  "caption": "A male lion's mane grows darker and fuller with age and good health.",
+  "attributionText": "Photo by Justin Hall from Culver City, USA via Wikimedia Commons, CC BY 2.0",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg",
-    "creatorName": "Yathin S Krishnappa",
-    "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lion,_Mid-Roar.jpg",
+    "creatorName": "Justin Hall from Culver City, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T00:00:00.000Z",
-    "reviewedBy": "content-team"
+    "downloadedAt": "2026-06-25T15:01:29.966Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "closeup",
   "galleryTopics": [
-    "closeup",
-    "fun-fact"
+    "closeup"
   ],
   "featuredOnPages": [
     "gallery"
   ],
   "location": "Savanna",
-  "acquisitionNotes": "Licensed Wikimedia Commons image matched to image role.",
-  "updatedAt": "2026-06-21T00:00:00.000Z"
+  "acquisitionNotes": "Dedicated mane close-up — unique from other lion images. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/47/Lion%2C_Mid-Roar.jpg",
+  "updatedAt": "2026-06-25T15:01:29.966Z",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lion,_Mid-Roar.jpg\">Justin Hall from Culver City, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "srcSet": {
+    "web1200": "/images/animals/lion/web/lion-mane-01-1200.webp",
+    "thumbnail400": "/images/animals/lion/thumbnails/lion-mane-01-400.webp",
+    "original": "/images/animals/lion/web/lion-mane-01-1200.webp"
+  }
 }

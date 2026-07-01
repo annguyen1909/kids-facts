@@ -2,23 +2,23 @@
   "id": "salmon-core-baby",
   "animalSlug": "salmon",
   "slug": "salmon-core-baby",
-  "fileName": "Atlantic salmon in hatchery (4742427244).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atlantic_salmon_in_hatchery_%284742427244%29.jpg",
-  "width": 4000,
-  "height": 3000,
-  "alt": "Young Atlantic salmon in a hatchery tank",
-  "caption": "Hatcheries help restore salmon where wild populations have declined.",
+  "fileName": "salmon-core-baby-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-core-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "Young Atlantic salmon swimming upstream in a river",
+  "caption": "Young salmon, called fry, must navigate rivers and survive predators before reaching the ocean.",
   "attributionText": "Photo by U. S. Fish and Wildlife Service - Northeast Region via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_in_hatchery_(4742427244).jpg\">U. S. Fish and Wildlife Service - Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_in_hatchery_(4742427244).jpg\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Atlantic_salmon_in_hatchery_(4742427244).jpg\">U. S. Fish and Wildlife Service - Northeast Region</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_in_hatchery_(4742427244).jpg",
     "creatorName": "U. S. Fish and Wildlife Service - Northeast Region",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atlantic_salmon_in_hatchery_(4742427244).jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:16:08.157Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "North America",
-  "acquisitionNotes": "Core article image curated separately from the salmon gallery set.",
-  "updatedAt": "2026-06-24T12:39:10.265Z"
+  "acquisitionNotes": "Core article image curated separately from the salmon gallery set. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Atlantic_salmon_in_hatchery_%284742427244%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/7/72/Atlantic_salmon_in_hatchery_%284742427244%29.jpg",
+  "updatedAt": "2026-06-26T19:16:08.157Z",
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-core-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-core-baby-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-core-baby-01-1200.webp"
+  }
 }

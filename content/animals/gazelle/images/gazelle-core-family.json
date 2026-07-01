@@ -2,10 +2,10 @@
   "id": "gazelle-core-family",
   "animalSlug": "gazelle",
   "slug": "gazelle-core-family",
-  "fileName": "Masai Mara.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Mara.JPG",
-  "width": 1536,
-  "height": 1024,
+  "fileName": "gazelle-core-family-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Small group of gazelles scattered across the plain",
   "caption": "Living in groups helps gazelles react quickly when one animal spots danger.",
   "imageType": "family",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Masai Mara, Kenya",
-  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Core article image curated separately from the gazelle gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/da/Masai_Mara.JPG",
+  "updatedAt": "2026-06-25T14:54:49.381Z",
   "attributionText": "Photo by Self via Wikimedia Commons, CC BY-SA 2.5",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Masai_Mara.JPG\">Self</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:49.381Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-core-family-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-core-family-01-1200.webp"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "id": "harpy-eagle-size",
+  "animalSlug": "harpy-eagle",
+  "slug": "harpy-eagle-size",
+  "fileName": "harpy-eagle-size-01-1200.webp",
+  "src": "/images/animals/harpy-eagle/web/harpy-eagle-size-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Harpy eagle showing its immense bulk, robust legs, and massive talons",
+  "caption": "Females are significantly larger than males and possess massive talons capable of exerting immense crushing pressure.",
+  "imageType": "size",
+  "galleryTopics": [
+    "size"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Neotropical display",
+  "acquisitionNotes": "Excellent detailed shot highlighting physical robustness and relative size. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f8/Harpy_Eagle_%28Harpia_harpyja%29.jpg",
+  "updatedAt": "2026-06-29T11:55:43.950Z",
+  "attributionText": "Photo by Brian Gratwicke from DC, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Harpy_Eagle_(Harpia_harpyja).jpg\">Brian Gratwicke from DC, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harpy_Eagle_(Harpia_harpyja).jpg",
+    "creatorName": "Brian Gratwicke from DC, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:43.950Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/harpy-eagle/web/harpy-eagle-size-01-1200.webp",
+    "thumbnail400": "/images/animals/harpy-eagle/thumbnails/harpy-eagle-size-01-400.webp",
+    "original": "/images/animals/harpy-eagle/web/harpy-eagle-size-01-1200.webp"
+  }
+}

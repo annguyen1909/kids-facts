@@ -2,10 +2,10 @@
   "id": "gazelle-baby",
   "animalSlug": "gazelle",
   "slug": "gazelle-baby",
-  "fileName": "Thomson's gazelle with offspring in grass - DPLA - 65906081624bae6d7b4c2772e9d11e59.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Thomson%27s_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg",
-  "width": 1576,
-  "height": 1066,
+  "fileName": "gazelle-baby-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-baby-01-1200.webp",
+  "width": 1200,
+  "height": 812,
   "alt": "Young gazelle fawn beside its mother in grass",
   "caption": "A gazelle fawn often stays low and hidden while the mother keeps watch nearby.",
   "imageType": "baby",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "African savanna",
-  "acquisitionNotes": "Manually curated gazelle baby image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Manually curated gazelle baby image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f5/Thomson%27s_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg",
+  "updatedAt": "2026-06-25T14:54:42.789Z",
   "attributionText": "Photo by Garst, Warren, 1922-2016, photographer via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson's_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson%27s_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg\">Garst, Warren, 1922-2016, photographer</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomson's_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomson%27s_gazelle_with_offspring_in_grass_-_DPLA_-_65906081624bae6d7b4c2772e9d11e59.jpg",
     "creatorName": "Garst, Warren, 1922-2016, photographer",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:42.789Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-baby-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-baby-01-1200.webp"
   }
 }

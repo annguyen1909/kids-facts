@@ -1,0 +1,38 @@
+{
+  "id": "kakapo-baby",
+  "animalSlug": "kakapo",
+  "slug": "kakapo-baby",
+  "fileName": "kakapo-baby-01-1200.webp",
+  "src": "/images/animals/kakapo/web/kakapo-baby-01-1200.webp",
+  "width": 804,
+  "height": 603,
+  "alt": "Conservation ranger holding fluffy young kakapo chicks during a health check",
+  "caption": "Kakapo chicks hatch as vulnerable, fluffy white balls of down and require dedicated maternal and conservation care.",
+  "imageType": "baby",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "New Zealand sanctuary",
+  "acquisitionNotes": "High-quality baby image demonstrating conservation hand-rearing efforts. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b7/Stephen_Bragg_with_kakapo_chicks.jpg",
+  "updatedAt": "2026-06-29T11:55:38.811Z",
+  "attributionText": "Photo by Alastair Morrison/Department of Conservation via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Stephen_Bragg_with_kakapo_chicks.jpg\">Alastair Morrison/Department of Conservation</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Bragg_with_kakapo_chicks.jpg",
+    "creatorName": "Alastair Morrison/Department of Conservation",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T11:55:38.811Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/kakapo/web/kakapo-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/kakapo/thumbnails/kakapo-baby-01-400.webp",
+    "original": "/images/animals/kakapo/web/kakapo-baby-01-1200.webp"
+  }
+}

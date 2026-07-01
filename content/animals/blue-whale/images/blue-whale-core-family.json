@@ -2,10 +2,10 @@
   "id": "blue-whale-core-family",
   "animalSlug": "blue-whale",
   "slug": "blue-whale-core-family",
-  "fileName": "Mirissa, whale watching, blue whale (6917912897).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mirissa%2C_whale_watching%2C_blue_whale_%286917912897%29.jpg",
-  "width": 4272,
-  "height": 2848,
+  "fileName": "blue-whale-core-family-01-1200.webp",
+  "src": "/images/animals/blue-whale/web/blue-whale-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Blue whale gliding through calm ocean water off Mirissa Sri Lanka",
   "caption": "Blue whales are usually solitary but may feed near others where krill swarms are dense.",
   "imageType": "family",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Mirissa, Sri Lanka",
-  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set.",
-  "updatedAt": "2026-06-23T09:22:41.408Z",
+  "acquisitionNotes": "Core article image curated separately from the blue whale gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0f/Mirissa%2C_whale_watching%2C_blue_whale_%286917912897%29.jpg",
+  "updatedAt": "2026-06-25T14:49:11.814Z",
   "attributionText": "Photo by Arian Zwegers via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mirissa%2C_whale_watching%2C_blue_whale_(6917912897).jpg\">Arian Zwegers</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mirissa,_whale_watching,_blue_whale_(6917912897).jpg\">Arian Zwegers</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirissa%2C_whale_watching%2C_blue_whale_(6917912897).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirissa,_whale_watching,_blue_whale_(6917912897).jpg",
     "creatorName": "Arian Zwegers",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T09:22:41.408Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:49:11.814Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/blue-whale/web/blue-whale-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/blue-whale/thumbnails/blue-whale-core-family-01-400.webp",
+    "original": "/images/animals/blue-whale/web/blue-whale-core-family-01-1200.webp"
   }
 }

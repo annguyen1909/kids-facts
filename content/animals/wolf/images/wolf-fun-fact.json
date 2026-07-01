@@ -2,10 +2,10 @@
   "id": "wolf-fun-fact",
   "animalSlug": "wolf",
   "slug": "wolf-fun-fact",
-  "fileName": "Howling wolf 1.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Howling_wolf_1.jpg",
-  "width": 4496,
-  "height": 2997,
+  "fileName": "wolf-fun-fact-01-1200.webp",
+  "src": "/images/animals/wolf/web/wolf-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Wolf howling with head raised toward the sky",
   "caption": "Wolves howl to communicate with pack members across long distances.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually curated wolf fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:45.879Z",
+  "acquisitionNotes": "Manually curated wolf fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/bd/Howling_wolf_1.jpg",
+  "updatedAt": "2026-06-25T15:15:01.029Z",
   "attributionText": "Photo by Kikimora mashenka via Wikimedia Commons, CC BY 4.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Howling_wolf_1.jpg\">Kikimora mashenka</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:45.879Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:15:01.029Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/wolf/web/wolf-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/wolf/thumbnails/wolf-fun-fact-01-400.webp",
+    "original": "/images/animals/wolf/web/wolf-fun-fact-01-1200.webp"
   }
 }

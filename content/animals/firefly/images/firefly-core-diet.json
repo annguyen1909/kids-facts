@@ -1,0 +1,38 @@
+{
+  "id": "firefly-core-diet",
+  "animalSlug": "firefly",
+  "slug": "firefly-core-diet",
+  "fileName": "firefly-core-diet-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1877,
+  "alt": "A Firefly finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Firefly.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Lightning_Bug_-_Photinus_pyralis,_Woodbridge,_Virginia.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lightning_Bug_-_Photinus_pyralis,_Woodbridge,_Virginia.jpg",
+    "creatorName": "Judy Gallagher",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:52:55.073Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/ee/Lightning_Bug_-_Photinus_pyralis%2C_Woodbridge%2C_Virginia.jpg",
+  "updatedAt": "2026-06-25T14:52:55.073Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-core-diet-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-core-diet-01-1200.webp"
+  }
+}

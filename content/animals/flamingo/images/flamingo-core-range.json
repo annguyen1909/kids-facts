@@ -2,10 +2,10 @@
   "id": "flamingo-core-range",
   "animalSlug": "flamingo",
   "slug": "flamingo-core-range",
-  "fileName": "Phoenicopterus ruber, Krefeld (DE) -- 2023 -- 0363.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Phoenicopterus_ruber%2C_Krefeld_%28DE%29_--_2023_--_0363.jpg",
-  "width": 2398,
-  "height": 3598,
+  "fileName": "flamingo-core-range-01-1200.webp",
+  "src": "/images/animals/flamingo/web/flamingo-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1801,
   "alt": "American flamingos in shallow coastal water habitat",
   "caption": "Habitat loss and water pollution threaten flamingo nesting sites.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Krefeld, Germany",
-  "acquisitionNotes": "Core article image curated separately from the flamingo gallery set.",
-  "updatedAt": "2026-06-24T12:34:29.048Z",
+  "acquisitionNotes": "Core article image curated separately from the flamingo gallery set. Re-synced canonical Commons URL. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b9/Phoenicopterus_ruber%2C_Krefeld_%28DE%29_--_2023_--_0363.jpg",
+  "updatedAt": "2026-06-25T14:53:21.398Z",
   "attributionText": "Photo by Anil Öztas via Wikimedia Commons, FAL",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber%2C_Krefeld_(DE)_--_2023_--_0363.jpg\">Anil Öztas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"http://artlibre.org/licence/lal/en\">FAL</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber,_Krefeld_(DE)_--_2023_--_0363.jpg\">Anil Öztas</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">FAL</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber%2C_Krefeld_(DE)_--_2023_--_0363.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phoenicopterus_ruber,_Krefeld_(DE)_--_2023_--_0363.jpg",
     "creatorName": "Anil Öztas",
     "licenseName": "FAL",
-    "licenseUrl": "http://artlibre.org/licence/lal/en",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:34:29.048Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:21.398Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/flamingo/web/flamingo-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/flamingo/thumbnails/flamingo-core-range-01-400.webp",
+    "original": "/images/animals/flamingo/web/flamingo-core-range-01-1200.webp"
   }
 }

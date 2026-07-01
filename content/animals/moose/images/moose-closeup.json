@@ -2,10 +2,10 @@
   "id": "moose-closeup",
   "animalSlug": "moose",
   "slug": "moose-closeup",
-  "fileName": "Alce (Alces alces), Parque nacional y reserva Denali, Alaska, Estados Unidos, 2017-08-30, DD 52.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alce_%28Alces_alces%29%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-30%2C_DD_52.jpg",
-  "width": 2229,
-  "height": 1588,
+  "fileName": "moose-closeup-01-1200.webp",
+  "src": "/images/animals/moose/web/moose-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 855,
   "alt": "Close view of a moose head, nose, and antlers",
   "caption": "Moose have long faces, a dangling upper lip, and excellent hearing.",
   "imageType": "closeup",
@@ -16,18 +16,23 @@
     "gallery"
   ],
   "location": "Denali, Alaska",
-  "acquisitionNotes": "Manually curated moose close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T12:41:11.790Z",
+  "acquisitionNotes": "Manually curated moose close-up image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/46/Alce_%28Alces_alces%29%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-30%2C_DD_52.jpg",
+  "updatedAt": "2026-06-25T15:03:22.372Z",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces)%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-30%2C_DD_52.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces),_Parque_nacional_y_reserva_Denali,_Alaska,_Estados_Unidos,_2017-08-30,_DD_52.jpg\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces)%2C_Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-30%2C_DD_52.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alce_(Alces_alces),_Parque_nacional_y_reserva_Denali,_Alaska,_Estados_Unidos,_2017-08-30,_DD_52.jpg",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:41:11.790Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:22.372Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/moose/web/moose-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/moose/thumbnails/moose-closeup-01-400.webp",
+    "original": "/images/animals/moose/web/moose-closeup-01-1200.webp"
   }
 }

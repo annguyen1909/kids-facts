@@ -1,0 +1,122 @@
+{
+  "id": "animal-cicada",
+  "slug": "cicada",
+  "name": "Cicada",
+  "commonNames": [
+    "Cicada",
+    "Periodical Cicada",
+    "17-year Locust"
+  ],
+  "scientificName": "Magicicada septendecim",
+  "summary": "The periodical cicada is a unique insect famous for its extremely long life cycle, spending 17 years underground as a nymph before emerging in massive numbers to transform into a buzzing adult with red eyes and clear wings.",
+  "heroTitle": "Cicada Facts",
+  "metaTitle": "Cicada Facts | Habitat, Diet, Buzzing Sound & Photos",
+  "metaDescription": "Cicada facts for kids with photos, forest habitat, sap diet, loud buzzing sound, 17-year underground life cycle, and predators on one easy-to-read page.",
+  "searchIntents": [
+    "cicada facts",
+    "what do cicadas eat",
+    "where do cicadas live"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Insecta",
+    "order": "Hemiptera",
+    "family": "Cicadidae",
+    "genus": "Magicicada",
+    "species": "M. septendecim"
+  },
+  "classificationLabels": [
+    "insect"
+  ],
+  "habitat": "forest",
+  "continents": [
+    "North America"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "biomes": [
+    "temperate forest"
+  ],
+  "dietType": "Herbivore",
+  "dietItems": [
+    "Tree sap",
+    "Plant juices",
+    "Root fluid"
+  ],
+  "lifespan": {
+    "wild": "17 years (mostly underground)"
+  },
+  "size": {
+    "lengthMin": "2.4 cm",
+    "lengthMax": "3.3 cm"
+  },
+  "weight": {
+    "min": "1 g",
+    "max": "2 g"
+  },
+  "speed": "Slow flight, loud sound",
+  "conservationStatus": "Least Concern",
+  "populationTrend": "Stable",
+  "behaviors": [
+    "loud singing by males",
+    "emerging from ground in massive swarms",
+    "shedding exoskeleton on tree trunks",
+    "feeding on tree sap",
+    "living underground for 17 years"
+  ],
+  "adaptations": [
+    "special drum-like organs (tymbals) for sound",
+    "strong sucking mouthparts (rostrum)",
+    "clear membrane wings with strong veins",
+    "digging claws on front legs",
+    "synchronized emergence to overwhelm predators"
+  ],
+  "predators": [
+    "Birds",
+    "Squirrels",
+    "Wasps",
+    "Spiders",
+    "Cats and dogs"
+  ],
+  "prey": [],
+  "reproduction": {
+    "offspringName": "nymph",
+    "gestationOrIncubation": "6 to 10 weeks",
+    "offspringCount": "400 to 600 eggs"
+  },
+  "funFacts": [
+    "Periodical cicadas live underground as nymphs for a whopping 17 years, sucking fluid from tree roots, before coming out all at once!",
+    "The loud buzzing sound of cicadas is made only by males, using special vibrating drum-like organs on their stomachs called tymbals to attract females.",
+    "Cicadas are the loudest insects in the world, with their songs reaching up to 100 decibels—as loud as a lawnmower or a chainsaw!",
+    "When they emerge, they leave behind their hollow, crunchy brown skins (exoskeletons) clinging to tree bark and fences.",
+    "By emerging all at once in billions (a strategy called predator satiation), cicadas overwhelm predators, ensuring plenty of them survive to lay eggs.",
+    "Adult cicadas do not chew leaves; they have a needle-like straw mouth that they use to poke into twigs and drink sweet tree sap."
+  ],
+  "faq": [
+    {
+      "question": "What is a periodical cicada?",
+      "answer": "A periodical cicada is an insect famous for spending 17 years living underground as a nymph before emerging in massive swarms to live as a flying adult for a few weeks."
+    },
+    {
+      "question": "Where do periodical cicadas live?",
+      "answer": "They live in the deciduous forests and woodlands of the eastern and central United States."
+    },
+    {
+      "question": "What do cicadas eat?",
+      "answer": "They are herbivores that drink sap. Nymphs drink fluid from tree roots underground, while adults drink sap from tree branches and twigs."
+    }
+  ],
+  "relatedAnimals": [
+    "dragonfly",
+    "honeybee",
+    "ladybug"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "cicada-gallery-main"
+  ],
+  "updatedAt": "2026-06-25T10:00:00.000Z",
+  "publishedAt": "2026-06-25T10:00:00.000Z"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "animal-ocean-sunfish",
+  "slug": "ocean-sunfish",
+  "name": "Ocean Sunfish",
+  "commonNames": [
+    "Ocean Sunfish",
+    "Mola mola",
+    "Common Mola",
+    "Sunfish",
+    "Moonfish"
+  ],
+  "scientificName": "Mola mola",
+  "summary": "The ocean sunfish, or Mola mola, is the heaviest bony fish in the world. With a bizarre, truncated body that looks like a giant swimming head, it frequently basks on its side at the ocean surface to warm up after diving deep to feed on jellyfish.",
+  "heroTitle": "Ocean Sunfish Facts",
+  "metaTitle": "Ocean Sunfish Facts | Basking Habits, Jellyfish Diet & Photos",
+  "metaDescription": "Explore ocean sunfish (Mola mola) facts with spectacular photos, open ocean habitat, jellyfish diet, unique basking behavior, and reproduction details.",
+  "searchIntents": [
+    "ocean sunfish facts",
+    "mola mola fish",
+    "why do sunfish swim sideways",
+    "what do ocean sunfish eat",
+    "how big is an ocean sunfish",
+    "is the ocean sunfish friendly"
+  ],
+  "taxonomy": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Molidae",
+    "genus": "Mola",
+    "species": "M. mola"
+  },
+  "classificationLabels": [
+    "fish",
+    "omnivore",
+    "large"
+  ],
+  "habitat": "ocean",
+  "continents": [
+    "North America",
+    "South America",
+    "Europe",
+    "Africa",
+    "Asia",
+    "Australia"
+  ],
+  "countries": [
+    "United States",
+    "South Africa",
+    "Australia",
+    "Japan",
+    "Portugal",
+    "Spain"
+  ],
+  "biomes": [
+    "marine",
+    "pelagic zone",
+    "open ocean"
+  ],
+  "dietType": "Omnivore",
+  "dietItems": [
+    "jellyfish",
+    "salps",
+    "squid",
+    "small fish",
+    "zooplankton",
+    "algae"
+  ],
+  "lifespan": {
+    "wild": "20 to 25 years",
+    "captivity": "Up to 10 years in specialized aquariums"
+  },
+  "size": {
+    "lengthMin": "6 feet",
+    "lengthMax": "10 feet"
+  },
+  "weight": {
+    "min": "500 pounds",
+    "max": "5000 pounds"
+  },
+  "speed": "Docile cruising swimmer, propelled by flapping tall dorsal and anal fins",
+  "conservationStatus": "Vulnerable",
+  "populationTrend": "Decreasing",
+  "behaviors": [
+    "surface basking",
+    "solitary cruising",
+    "deep foraging dives",
+    "visiting cleaning stations",
+    "water breaching"
+  ],
+  "adaptations": [
+    "loss of true tail fin (replaced by clavus)",
+    "beak-like fused teeth",
+    "huge dorsal and anal fins for sculling",
+    "scaleless leathery skin covered in mucus",
+    "lack of a swim bladder"
+  ],
+  "predators": [
+    "killer whales (orcas)",
+    "great white sharks",
+    "sea lions",
+    "humans"
+  ],
+  "prey": [
+    "jellyfish",
+    "salps",
+    "comb jellies",
+    "zooplankton"
+  ],
+  "reproduction": {
+    "offspringName": "fry",
+    "gestationOrIncubation": "Eggs hatch shortly after external broadcast spawning",
+    "offspringCount": "Up to 300 million eggs per spawning event"
+  },
+  "funFacts": [
+    "Ocean sunfish produce more eggs than any other known vertebrate animal—a single female can release up to 300 million eggs at once.",
+    "Despite their gargantuan adult size of over 4,000 pounds, newly hatched sunfish larvae are tiny, measuring just 2.5 millimeters long!",
+    "Sunfish lack a standard tail fin; instead, their dorsal and anal fins fold around the back to create a rudder-like structure called a clavus.",
+    "They frequently float completely flat on their sides at the ocean surface, a behavior called 'basking' that warms their bodies up after diving into cold, deep water.",
+    "Their thick, leathery skin harbors more than 50 different species of marine parasites, prompting sunfish to seek out kelp gulls and cleaner fish for pest removal.",
+    "Because their teeth are fused into a rigid beak, sunfish cannot fully close their mouths."
+  ],
+  "faq": [
+    {
+      "question": "What is an ocean sunfish?",
+      "answer": "The ocean sunfish, or Mola mola, is a massive, unusual marine fish with a truncated, circular body and tall vertical fins that make it look like a giant swimming head."
+    },
+    {
+      "question": "Where do ocean sunfish live?",
+      "answer": "Ocean sunfish live in the pelagic open water zone of tropical and temperate oceans worldwide, migrating across vast oceanic expanses."
+    },
+    {
+      "question": "What do ocean sunfish eat?",
+      "answer": "They feed primarily on gelatinous marine animals like jellyfish and salps, but also consume squid, small schooling fish, zooplankton, and brittle stars."
+    },
+    {
+      "question": "Why do ocean sunfish float on their sides at the surface?",
+      "answer": "Sunfish bask on their sides at the surface to absorb solar heat after plunging into cold deep ocean waters to hunt, and to allow seabirds to pick parasites off their skin."
+    },
+    {
+      "question": "Are ocean sunfish dangerous to humans?",
+      "answer": "No, ocean sunfish are exceptionally docile and harmless to swimmers and divers, though their massive bulk can cause damage if struck by boats."
+    },
+    {
+      "question": "Why is the ocean sunfish endangered?",
+      "answer": "The Mola mola is listed as Vulnerable due to massive fisheries bycatch in offshore gillnets, boat collisions, and accidental ingestion of floating plastic bags mistaken for jellyfish."
+    }
+  ],
+  "relatedAnimals": [
+    "great-white-shark",
+    "coelacanth",
+    "clownfish"
+  ],
+  "comparisonCandidates": [],
+  "galleryIds": [
+    "ocean-sunfish-gallery-main"
+  ],
+  "updatedAt": "2026-06-29T12:00:00.000Z",
+  "publishedAt": "2026-06-29T12:00:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hammerhead-shark-closeup",
+  "slug": "hammerhead-shark-closeup",
+  "animalSlug": "hammerhead-shark",
+  "fileName": "hammerhead-shark-closeup-01-1200.webp",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "updatedAt": "2026-06-26T19:20:05.000Z",
+  "src": "/images/animals/hammerhead-shark/web/hammerhead-shark-closeup-01-1200.webp",
+  "width": 937,
+  "height": 472,
+  "srcSet": {
+    "web1200": "/images/animals/hammerhead-shark/web/hammerhead-shark-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/hammerhead-shark/thumbnails/hammerhead-shark-closeup-01-400.webp",
+    "original": "/images/animals/hammerhead-shark/web/hammerhead-shark-closeup-01-1200.webp"
+  },
+  "alt": "Great hammerhead shark swimming in clear blue aquarium water",
+  "caption": "The hammer-shaped head gives these sharks excellent binocular vision and sensing ability.",
+  "attributionText": "Photo by Josh Hallett from Winter Haven, FL, USA via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_at_georgia.jpg\">Josh Hallett from Winter Haven, FL, USA</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyrna_mokarran_at_georgia.jpg",
+    "creatorName": "Josh Hallett from Winter Haven, FL, USA",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:20:05.000Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "location": "Georgia Aquarium",
+  "acquisitionNotes": "Distinct close-up gallery image — unique from the family head portrait. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/01/Sphyrna_mokarran_at_georgia.jpg"
+}

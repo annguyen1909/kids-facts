@@ -1,0 +1,38 @@
+{
+  "id": "capybara-fun-fact",
+  "animalSlug": "capybara",
+  "slug": "capybara-fun-fact",
+  "fileName": "capybara-fun-fact-01-1200.webp",
+  "alt": "A Capybara swimming with only its eyes and nostrils above water",
+  "caption": "Capybaras have partially webbed feet, making them excellent swimmers that can remain underwater for up to five minutes.",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Pantanal, Brazil",
+  "src": "/images/animals/capybara/web/capybara-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Bernard DUPONT from FRANCE via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Capybara_(Hydrochoerus_hydrochaeris)_swimming_(28874597390).jpg\">Bernard DUPONT from FRANCE</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capybara_(Hydrochoerus_hydrochaeris)_swimming_(28874597390).jpg",
+    "creatorName": "Bernard DUPONT from FRANCE",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:22:07.997Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified capybara image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/24/Capybara_%28Hydrochoerus_hydrochaeris%29_swimming_%2828874597390%29.jpg",
+  "updatedAt": "2026-06-26T08:22:07.997Z",
+  "srcSet": {
+    "web1200": "/images/animals/capybara/web/capybara-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/capybara/thumbnails/capybara-fun-fact-01-400.webp",
+    "original": "/images/animals/capybara/web/capybara-fun-fact-01-1200.webp"
+  }
+}

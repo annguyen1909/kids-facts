@@ -1,0 +1,38 @@
+{
+  "id": "tasmanian-devil-baby",
+  "animalSlug": "tasmanian-devil",
+  "slug": "tasmanian-devil-baby",
+  "fileName": "tasmanian-devil-baby-01-1200.webp",
+  "alt": "A young or baby Tasmanian Devil showing early development",
+  "caption": "Baby Tasmanian Devils must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/tasmanian-devil/web/tasmanian-devil-baby-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "attributionText": "Photo by James Telford via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_footprints.jpg\">James Telford</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarcophilus_harrisii_footprints.jpg",
+    "creatorName": "James Telford",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:23.815Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified tasmanian-devil image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/e/e5/Sarcophilus_harrisii_footprints.jpg",
+  "updatedAt": "2026-06-26T08:17:23.815Z",
+  "srcSet": {
+    "web1200": "/images/animals/tasmanian-devil/web/tasmanian-devil-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/tasmanian-devil/thumbnails/tasmanian-devil-baby-01-400.webp",
+    "original": "/images/animals/tasmanian-devil/web/tasmanian-devil-baby-01-1200.webp"
+  }
+}

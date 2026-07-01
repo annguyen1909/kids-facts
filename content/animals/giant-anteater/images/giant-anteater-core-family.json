@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-core-family",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-core-family",
+  "fileName": "giant-anteater-core-family-01-1200.webp",
+  "alt": "Mother giant anteater walking while carrying her pup on her back",
+  "caption": "A mother carries and feeds her pup until it is big enough to find food on its own.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 799,
+  "attributionText": "Photo by DiogoKanouté via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_02.jpg\">DiogoKanouté</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_02.jpg",
+    "creatorName": "DiogoKanouté",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:37.108Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/98/Tamandu%C3%A1_bandeira_com_filhote_nas_costas_-_Myrmecophaga_tridactyla_02.jpg",
+  "updatedAt": "2026-06-28T10:16:37.108Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-core-family-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-core-family-01-1200.webp"
+  }
+}

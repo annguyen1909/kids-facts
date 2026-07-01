@@ -2,8 +2,8 @@
   "id": "snake-core-habitat",
   "animalSlug": "snake",
   "slug": "snake-core-habitat",
-  "fileName": "Python regius-- the Royal Python (21376489304).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Python_regius--_the_Royal_Python_%2821376489304%29.jpg",
+  "fileName": "snake-core-habitat-01-1200.webp",
+  "src": "/images/animals/snake/web/snake-core-habitat-01-1200.webp",
   "width": 533,
   "height": 819,
   "alt": "Ball python hidden in shaded ground cover",
@@ -16,8 +16,8 @@
     "core"
   ],
   "location": "Bronx, New York, USA",
-  "acquisitionNotes": "Core article image curated separately from the snake gallery set.",
-  "updatedAt": "2026-06-24T10:01:26.092Z",
+  "acquisitionNotes": "Core article image curated separately from the snake gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/b/b6/Python_regius--_the_Royal_Python_%2821376489304%29.jpg",
+  "updatedAt": "2026-06-25T15:11:51.568Z",
   "attributionText": "Photo by Dick Culbert from Gibsons, B.C., Canada via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Python_regius--_the_Royal_Python_(21376489304).jpg\">Dick Culbert from Gibsons, B.C., Canada</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:26.092Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:11:51.568Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/snake/web/snake-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/snake/thumbnails/snake-core-habitat-01-400.webp",
+    "original": "/images/animals/snake/web/snake-core-habitat-01-1200.webp"
   }
 }

@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Sphyrna mokarran at georgia.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Great Hammerhead Shark in the wild",
+    "caption": "The Great Hammerhead Shark is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Sphyrna mokarran fishing.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Great Hammerhead Shark navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Sphyrna mokarran jaws.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Great Hammerhead Shark finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Great Hammerhead Shark.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Sphyrna mokarran embryos nefsc.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Great Hammerhead Shark showing early development",
+    "caption": "Baby Great Hammerhead Sharks must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Sphyrna mokarran head.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Great Hammerhead Sharks interacting with each other",
+    "caption": "While often solitary, some Great Hammerhead Sharks interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Great hammerhead georgia.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Great Hammerhead Shark traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Sphyrna mokarran lower teeth.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Great Hammerhead Shark",
+    "caption": "The size of a Great Hammerhead Shark can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Sphyrna mokarran camden.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Great Hammerhead Shark",
+    "caption": "A close-up view reveals the intricate details of a Great Hammerhead Shark's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Sphyrna mokarran upper teeth.jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Great Hammerhead Shark showing a unique behavior or adaptation",
+    "caption": "Did you know that the Great Hammerhead Shark has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Sphyrna mokarran 2.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Great Hammerhead Shark navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Sphyrna mokarran at georgia2.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Great Hammerhead Shark finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Great Hammerhead Shark.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Great hammerhead nmfs.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Great Hammerhead Sharks interacting with each other",
+    "caption": "While often solitary, some Great Hammerhead Sharks interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Great hammerhead feeding, Bimini.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Great Hammerhead Shark showing early development",
+    "caption": "Baby Great Hammerhead Sharks must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Great hammerhead2.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Great Hammerhead Shark traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

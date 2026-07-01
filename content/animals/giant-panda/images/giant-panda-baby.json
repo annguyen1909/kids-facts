@@ -2,10 +2,10 @@
   "id": "giant-panda-baby",
   "animalSlug": "giant-panda",
   "slug": "giant-panda-baby",
-  "fileName": "giant-panda-baby-1600.webp",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Panda_Cub_from_Wolong%2C_Sichuan%2C_China.JPG",
-  "width": 1728,
-  "height": 1152,
+  "fileName": "giant-panda-baby-01-1200.webp",
+  "src": "/images/animals/giant-panda/web/giant-panda-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Seven-month-old giant panda cub at Wolong Nature Reserve in Sichuan, China",
   "caption": "Panda cubs are born tiny and pink, growing their black-and-white fur over several weeks.",
   "imageType": "baby",
@@ -17,18 +17,23 @@
     "gallery"
   ],
   "location": "Wolong Nature Reserve, Sichuan, China",
-  "acquisitionNotes": "Manually verified giant panda image with correct species identification.",
-  "updatedAt": "2026-06-21T17:10:50.084Z",
-  "attributionText": "Photo by Sheila Lau via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG\">Sheila Lau</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG\">Public domain</a>",
+  "acquisitionNotes": "Manually verified giant panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/cd/Panda_Cub_from_Wolong%2C_Sichuan%2C_China.JPG",
+  "updatedAt": "2026-06-25T14:54:57.974Z",
+  "attributionText": "Photo by Sheilalau at English Wikipedia via Wikimedia Commons, Public domain",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG\">Sheilalau at English Wikipedia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG",
-    "creatorName": "Sheila Lau",
+    "creatorName": "Sheilalau at English Wikipedia",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Panda_Cub_from_Wolong,_Sichuan,_China.JPG",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-21T17:10:50.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:57.974Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/giant-panda/web/giant-panda-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-panda/thumbnails/giant-panda-baby-01-400.webp",
+    "original": "/images/animals/giant-panda/web/giant-panda-baby-01-1200.webp"
   }
 }

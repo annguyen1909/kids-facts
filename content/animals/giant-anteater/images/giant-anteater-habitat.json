@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-habitat",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-habitat",
+  "fileName": "giant-anteater-habitat-01-1200.webp",
+  "alt": "Giant anteater in tall golden grass on an open grassland",
+  "caption": "Giant anteaters roam grasslands and savannas, sweeping the ground for ant and termite nests.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "habitat",
+  "location": "Serra da Canastra National Park, Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Nortondefeis via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1-bandeira_no_Parque_Nacional_da_Serra_da_Canastra.jpg\">Nortondefeis</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamandu%C3%A1-bandeira_no_Parque_Nacional_da_Serra_da_Canastra.jpg",
+    "creatorName": "Nortondefeis",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:39.548Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for habitat. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d3/Tamandu%C3%A1-bandeira_no_Parque_Nacional_da_Serra_da_Canastra.jpg",
+  "updatedAt": "2026-06-28T10:16:39.548Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-habitat-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-habitat-01-1200.webp"
+  }
+}

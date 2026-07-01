@@ -2,10 +2,10 @@
   "id": "clownfish-baby",
   "animalSlug": "clownfish",
   "slug": "clownfish-baby",
-  "fileName": "Clownfish Eggs (24434634565).jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Clownfish_Eggs_%2824434634565%29.jpg",
-  "width": 4608,
-  "height": 3456,
+  "fileName": "clownfish-baby-01-1200.webp",
+  "src": "/images/animals/clownfish/web/clownfish-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Clownfish eggs laid on a rock near an anemone",
   "caption": "Clownfish lay many tiny eggs that the male guards until they hatch.",
   "attributionText": "Photo by Rickard Zerpe via Wikimedia Commons, CC BY-SA 2.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:26.704Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:51:17.976Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tropical reef",
-  "acquisitionNotes": "Manually curated clownfish eggs image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:26.704Z"
+  "acquisitionNotes": "Manually curated clownfish eggs image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/45/Clownfish_Eggs_%2824434634565%29.jpg",
+  "updatedAt": "2026-06-25T14:51:17.976Z",
+  "srcSet": {
+    "web1200": "/images/animals/clownfish/web/clownfish-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/clownfish/thumbnails/clownfish-baby-01-400.webp",
+    "original": "/images/animals/clownfish/web/clownfish-baby-01-1200.webp"
+  }
 }

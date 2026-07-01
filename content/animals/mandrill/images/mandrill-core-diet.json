@@ -1,0 +1,38 @@
+{
+  "id": "mandrill-core-diet",
+  "animalSlug": "mandrill",
+  "slug": "mandrill-core-diet",
+  "fileName": "mandrill-core-diet-01-1200.webp",
+  "alt": "A mandrill nibbling a flower it is holding in its hand",
+  "caption": "Mandrills forage for fruit, seeds, leaves, and flowers, using their hands to bring food to their mouths.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/mandrill/web/mandrill-core-diet-01-1200.webp",
+  "width": 1165,
+  "height": 1536,
+  "attributionText": "Photo by Brocken Inaglory via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mandrill_and_flower.jpg\">Brocken Inaglory</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mandrill_and_flower.jpg",
+    "creatorName": "Brocken Inaglory",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T17:34:19.281Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Replaced earlier diet image that showed mandrill genitalia (not suitable for a kids' site). Manually verified mandrill feeding image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/20/Mandrill_and_flower.jpg",
+  "updatedAt": "2026-06-26T17:34:19.281Z",
+  "srcSet": {
+    "web1200": "/images/animals/mandrill/web/mandrill-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/mandrill/thumbnails/mandrill-core-diet-01-400.webp",
+    "original": "/images/animals/mandrill/web/mandrill-core-diet-01-1200.webp"
+  }
+}

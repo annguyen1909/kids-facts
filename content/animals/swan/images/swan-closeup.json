@@ -1,0 +1,38 @@
+{
+  "id": "swan-closeup",
+  "animalSlug": "swan",
+  "slug": "swan-closeup",
+  "fileName": "swan-closeup-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 786,
+  "alt": "A detailed close-up showing the physical features of a Mute Swan",
+  "caption": "A close-up view reveals the intricate details of a Mute Swan's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "attributionText": "Photo by Rhododendrites via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Mute_swan_cygnet_pontoon_in_Prospect_Park_(80364).jpg\">Rhododendrites</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mute_swan_cygnet_pontoon_in_Prospect_Park_(80364).jpg",
+    "creatorName": "Rhododendrites",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:00.135Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/2/20/Mute_swan_cygnet_pontoon_in_Prospect_Park_%2880364%29.jpg",
+  "updatedAt": "2026-06-25T15:12:00.135Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-closeup-01-400.webp",
+    "original": "/images/animals/swan/web/swan-closeup-01-1200.webp"
+  }
+}

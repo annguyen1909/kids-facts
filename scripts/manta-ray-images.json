@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Giant Manta AdF.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Manta Ray in the wild",
+    "caption": "The Manta Ray is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Giant oceanic manta ray.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manta Ray navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Manta birostris-Thailand3.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manta Ray finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Manta Ray.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Okinawa Giant oceanic manta ray.png",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Manta Ray showing early development",
+    "caption": "Baby Manta Rays must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Mobula birostris - Australian Museum 2022.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Manta Rays interacting with each other",
+    "caption": "While often solitary, some Manta Rays interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Manta birostris-Thailand.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A giant oceanic manta ray cruising underwater",
+    "caption": "Giant oceanic manta rays travel long distances across deep ocean waters.",
+    "location": "Thailand"
+  },
+  "size": {
+    "fileTitle": "File:Manta birostris feeding.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A massive manta ray feeding, showing its large size relative to surrounding fish",
+    "caption": "Manta rays are the largest rays in the world, with wingspans reaching up to 23 feet.",
+    "location": "Pacific Ocean"
+  },
+  "closeup": {
+    "fileTitle": "File:Manta birostris-Thailand6.jpg",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Manta Ray",
+    "caption": "A close-up view reveals the intricate details of a Manta Ray's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Stamp of Indonesia - 1997 - Colnect 254167 - Giant Oceanic Manta Ray Manta birostris Brain Coral.jpeg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Manta Ray showing a unique behavior or adaptation",
+    "caption": "Did you know that the Manta Ray has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Giant oceanic manta ray with diver.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manta Ray navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Mobula birostris 179661621.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manta Ray finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Manta Ray.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Mobula birostris 180008568.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Manta Rays interacting with each other",
+    "caption": "While often solitary, some Manta Rays interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:Mobula birostris 459064540.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Manta Ray showing early development",
+    "caption": "Baby Manta Rays must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Mobula birostris 459064525.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Manta Ray traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "capybara-gallery-main",
+  "animalSlug": "capybara",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Capybara Photo Gallery",
+  "metaTitle": "Capybara Photo Gallery",
+  "metaDescription": "Browse a capybara photo gallery with wildlife images of herds, swimming, pups, wetland habitat, grazing, and the famous calm capybara with other animals.",
+  "intro": "Explore capybaras through photos organized for learning, image search, and classroom observation—from swimming herds and pups to the iconic capybara resting spot for other animals.",
+  "imageSlugs": [
+    "capybara-hero",
+    "capybara-habitat",
+    "capybara-diet",
+    "capybara-baby",
+    "capybara-family",
+    "capybara-range",
+    "capybara-size",
+    "capybara-closeup",
+    "capybara-fun-fact"
+  ],
+  "updatedAt": "2026-06-26T00:00:00.000Z"
+}

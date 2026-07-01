@@ -2,10 +2,10 @@
   "id": "gorilla-family",
   "animalSlug": "gorilla",
   "slug": "gorilla-family",
-  "fileName": "Gorilla gorilla gorilla - Loro Parque 01.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Gorilla_gorilla_gorilla_-_Loro_Parque_01.jpg",
-  "width": 4000,
-  "height": 2960,
+  "fileName": "gorilla-family-01-1200.webp",
+  "src": "/images/animals/gorilla/web/gorilla-family-01-1200.webp",
+  "width": 1200,
+  "height": 888,
   "alt": "Western lowland gorilla group resting together",
   "caption": "Gorilla families are usually led by one dominant silverback male.",
   "attributionText": "Photo by H. Zell via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:05:05.825Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:56:18.001Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Central Africa",
-  "acquisitionNotes": "Manually curated gorilla family image with verified species identification.",
-  "updatedAt": "2026-06-24T09:05:05.825Z"
+  "acquisitionNotes": "Manually curated gorilla family image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/11/Gorilla_gorilla_gorilla_-_Loro_Parque_01.jpg",
+  "updatedAt": "2026-06-25T14:56:18.001Z",
+  "srcSet": {
+    "web1200": "/images/animals/gorilla/web/gorilla-family-01-1200.webp",
+    "thumbnail400": "/images/animals/gorilla/thumbnails/gorilla-family-01-400.webp",
+    "original": "/images/animals/gorilla/web/gorilla-family-01-1200.webp"
+  }
 }

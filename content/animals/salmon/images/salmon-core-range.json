@@ -2,10 +2,10 @@
   "id": "salmon-core-range",
   "animalSlug": "salmon",
   "slug": "salmon-core-range",
-  "fileName": "Green Lake NFH stocking Atlantic salmon smolts Narraguagus River.png",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png",
-  "width": 1206,
-  "height": 907,
+  "fileName": "salmon-core-range-01-1200.webp",
+  "src": "/images/animals/salmon/web/salmon-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 902,
   "alt": "Atlantic salmon smolts being released into a river",
   "caption": "Dams, pollution, and warming rivers threaten wild salmon in many regions.",
   "imageType": "range",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Maine, USA",
-  "acquisitionNotes": "Core article image curated separately from the salmon gallery set.",
-  "updatedAt": "2026-06-24T12:39:10.265Z",
+  "acquisitionNotes": "Core article image curated separately from the salmon gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/85/Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png",
+  "updatedAt": "2026-06-26T19:17:03.375Z",
   "attributionText": "Photo by Craig Knights/USFWS via Wikimedia Commons, Public domain",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png\">Craig Knights/USFWS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png\">Public domain</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png\">Craig Knights/USFWS</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">Public domain</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png",
     "creatorName": "Craig Knights/USFWS",
     "licenseName": "Public domain",
-    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Green_Lake_NFH_stocking_Atlantic_salmon_smolts_Narraguagus_River.png",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
     "requiresAttribution": false,
-    "downloadedAt": "2026-06-24T12:39:10.265Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-26T19:17:03.375Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/salmon/web/salmon-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/salmon/thumbnails/salmon-core-range-01-400.webp",
+    "original": "/images/animals/salmon/web/salmon-core-range-01-1200.webp"
   }
 }

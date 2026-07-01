@@ -1,0 +1,22 @@
+{
+  "id": "hoatzin-gallery-main",
+  "animalSlug": "hoatzin",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Hoatzin Photo Gallery",
+  "metaTitle": "Hoatzin Photo Gallery",
+  "metaDescription": "Browse a hoatzin photo gallery with wildlife photos.",
+  "intro": "Explore hoatzin photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "hoatzin-hero",
+    "hoatzin-habitat",
+    "hoatzin-diet",
+    "hoatzin-baby",
+    "hoatzin-family",
+    "hoatzin-range",
+    "hoatzin-size",
+    "hoatzin-closeup",
+    "hoatzin-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T12:21:08.691Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "galapagos-tortoise-fun-fact",
+  "animalSlug": "galapagos-tortoise",
+  "slug": "galapagos-tortoise-fun-fact",
+  "fileName": "galapagos-tortoise-fun-fact-01-1200.webp",
+  "src": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Galapagos giant tortoise stretching its long neck to reach leaves",
+  "caption": "Galapagos tortoises are among the longest-lived vertebrates, often living over 100 to 150 years!",
+  "galleryTopics": [
+    "fun-fact"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "fun-fact",
+  "location": "Galapagos Islands, Ecuador",
+  "attributionText": "Photo by Sergei ~ 5of7 via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_(Chelonoidis_nigra)_(5526013597).jpg\">Sergei ~ 5of7</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_(Chelonoidis_nigra)_(5526013597).jpg",
+    "creatorName": "Sergei ~ 5of7",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:54:37.612Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified galapagos-tortoise image for fun-fact. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/Galapagos_giant_tortoise_%28Chelonoidis_nigra%29_%285526013597%29.jpg",
+  "updatedAt": "2026-06-25T14:54:37.612Z",
+  "srcSet": {
+    "web1200": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/galapagos-tortoise/thumbnails/galapagos-tortoise-fun-fact-01-400.webp",
+    "original": "/images/animals/galapagos-tortoise/web/galapagos-tortoise-fun-fact-01-1200.webp"
+  }
+}

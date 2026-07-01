@@ -2,10 +2,10 @@
   "id": "gazelle-habitat",
   "animalSlug": "gazelle",
   "slug": "gazelle-habitat",
-  "fileName": "Thomson Gazelle Ngorongoro 03.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Thomson_Gazelle_Ngorongoro_03.jpg",
-  "width": 3488,
-  "height": 2616,
+  "fileName": "gazelle-habitat-01-1200.webp",
+  "src": "/images/animals/gazelle/web/gazelle-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Gazelle standing in wide grassland habitat",
   "caption": "Open grassland helps gazelles see predators and escape with speed.",
   "imageType": "habitat",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Ngorongoro, Tanzania",
-  "acquisitionNotes": "Manually curated gazelle habitat image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:35.084Z",
+  "acquisitionNotes": "Manually curated gazelle habitat image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6a/Thomson_Gazelle_Ngorongoro_03.jpg",
+  "updatedAt": "2026-06-25T14:54:55.996Z",
   "attributionText": "Photo by Nicor via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Thomson_Gazelle_Ngorongoro_03.jpg\">Nicor</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:35.084Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:54:55.996Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/gazelle/web/gazelle-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/gazelle/thumbnails/gazelle-habitat-01-400.webp",
+    "original": "/images/animals/gazelle/web/gazelle-habitat-01-1200.webp"
   }
 }

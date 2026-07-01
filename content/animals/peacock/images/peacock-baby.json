@@ -1,0 +1,38 @@
+{
+  "id": "peacock-baby",
+  "animalSlug": "peacock",
+  "slug": "peacock-baby",
+  "fileName": "peacock-baby-01-1200.webp",
+  "src": "/images/animals/peacock/web/peacock-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
+  "alt": "A young peachick walking in wild grassland",
+  "caption": "Peachicks hatch with dull brown feathers for camouflage and only grow their spectacular tail feathers at around 3 years old.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Jebulon via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Paonroue.JPG\">Jebulon</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paonroue.JPG",
+    "creatorName": "Jebulon",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:06:03.486Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified peacock image for baby. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/05/Paonroue.JPG",
+  "updatedAt": "2026-06-25T15:06:03.486Z",
+  "srcSet": {
+    "web1200": "/images/animals/peacock/web/peacock-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/peacock/thumbnails/peacock-baby-01-400.webp",
+    "original": "/images/animals/peacock/web/peacock-baby-01-1200.webp"
+  }
+}

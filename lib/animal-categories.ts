@@ -1,6 +1,6 @@
-import { getPublishedAnimals } from "@/lib/content";
+import { getPublishedAnimalCards, getPublishedAnimals } from "@/lib/content";
 import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
-import type { AnimalRecord } from "@/lib/types";
+import type { AnimalCardRecord, AnimalRecord } from "@/lib/types";
 
 type AnimalCategoryDefinition = {
   slug: string;
@@ -72,6 +72,9 @@ export type AnimalCategory = (typeof ANIMAL_CATEGORIES)[number];
 
 export type AnimalCategorySlug = (typeof ANIMAL_CATEGORIES)[number]["slug"];
 
+type CategorizedAnimal = Pick<AnimalRecord, "core">;
+type AnimalWithCategoryImage = Pick<AnimalRecord, "core" | "images">;
+
 const categoryBySlug = new Map<string, AnimalCategory>(
   ANIMAL_CATEGORIES.map((category) => [category.slug, category]),
 );
@@ -90,19 +93,19 @@ export function getCategoryHref(slug: AnimalCategorySlug): string {
   return `/animals/${slug}`;
 }
 
-function taxonomyLabelsForAnimal(animal: AnimalRecord): string[] {
+function taxonomyLabelsForAnimal(animal: CategorizedAnimal): string[] {
   const className = animal.core.taxonomy.class.toLowerCase();
   return TAXONOMY_CLASS_LABELS[className] ?? [];
 }
 
-export function getAnimalCategoryLabels(animal: AnimalRecord): string[] {
+export function getAnimalCategoryLabels<T extends CategorizedAnimal>(animal: T): string[] {
   const fromContent = animal.core.classificationLabels.filter((label) => categoryLabelSet.has(label));
   if (fromContent.length > 0) return fromContent;
 
   return taxonomyLabelsForAnimal(animal);
 }
 
-export function getPrimaryCategoryForAnimal(animal: AnimalRecord): AnimalCategory | undefined {
+export function getPrimaryCategoryForAnimal<T extends CategorizedAnimal>(animal: T): AnimalCategory | undefined {
   const labels = getAnimalCategoryLabels(animal);
 
   for (const category of ANIMAL_CATEGORIES) {
@@ -114,12 +117,12 @@ export function getPrimaryCategoryForAnimal(animal: AnimalRecord): AnimalCategor
   return undefined;
 }
 
-export function animalMatchesCategory(animal: AnimalRecord, category: AnimalCategory): boolean {
+export function animalMatchesCategory<T extends CategorizedAnimal>(animal: T, category: AnimalCategory): boolean {
   const labels = getAnimalCategoryLabels(animal);
   return category.labels.some((label) => labels.includes(label));
 }
 
-function sortAnimalsByName(animals: AnimalRecord[]): AnimalRecord[] {
+function sortAnimalsByName<T extends CategorizedAnimal>(animals: T[]): T[] {
   return [...animals].sort((left, right) => left.core.name.localeCompare(right.core.name));
 }
 
@@ -149,13 +152,33 @@ export function getPublishedAnimalsGroupedByCategory(options?: { includeEmpty?: 
   });
 }
 
+export function getPublishedAnimalCardsGroupedByCategory(options?: { includeEmpty?: boolean }) {
+  const animals = getPublishedAnimalCards();
+  const grouped = new Map<AnimalCategorySlug, AnimalCardRecord[]>(
+    ANIMAL_CATEGORIES.map((category) => [category.slug, []]),
+  );
+
+  for (const animal of animals) {
+    const category = getPrimaryCategoryForAnimal(animal);
+    if (!category) continue;
+    grouped.get(category.slug)?.push(animal);
+  }
+
+  return ANIMAL_CATEGORIES.flatMap((category) => {
+    const categoryAnimals = grouped.get(category.slug) ?? [];
+    if (!options?.includeEmpty && categoryAnimals.length === 0) return [];
+
+    return [{ category, animals: sortAnimalsByName(categoryAnimals) }];
+  });
+}
+
 export function getCategoryTitleForAnimal(animal: AnimalRecord): string | undefined {
   return getPrimaryCategoryForAnimal(animal)?.title;
 }
 
 export function getCategoryCardImage(
   category: AnimalCategory,
-  animals: AnimalRecord[] = getPublishedAnimals(),
+  animals: AnimalWithCategoryImage[] = getPublishedAnimals(),
 ) {
   if ("featuredAnimalSlug" in category && category.featuredAnimalSlug) {
     const animal = animals.find((entry) => entry.core.slug === category.featuredAnimalSlug);

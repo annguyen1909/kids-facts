@@ -2,10 +2,10 @@
   "id": "meerkat-range",
   "animalSlug": "meerkat",
   "slug": "meerkat-range",
-  "fileName": "Meerkat (Suricata suricatta) Tswalu.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg",
-  "width": 3156,
-  "height": 2600,
+  "fileName": "meerkat-range-01-1200.webp",
+  "src": "/images/animals/meerkat/web/meerkat-range-01-1200.webp",
+  "width": 1200,
+  "height": 989,
   "alt": "Meerkat in open southern African savanna",
   "caption": "Meerkats range across Botswana, Namibia, and South Africa.",
   "attributionText": "Photo by Charles J. Sharp via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:39:13.126Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:03:02.904Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tswalu, South Africa",
-  "acquisitionNotes": "Manually curated meerkat range image with verified species identification.",
-  "updatedAt": "2026-06-24T09:39:13.126Z"
+  "acquisitionNotes": "Manually curated meerkat range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg",
+  "updatedAt": "2026-06-25T15:03:02.904Z",
+  "srcSet": {
+    "web1200": "/images/animals/meerkat/web/meerkat-range-01-1200.webp",
+    "thumbnail400": "/images/animals/meerkat/thumbnails/meerkat-range-01-400.webp",
+    "original": "/images/animals/meerkat/web/meerkat-range-01-1200.webp"
+  }
 }

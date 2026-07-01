@@ -1,0 +1,22 @@
+{
+  "id": "secretarybird-gallery-main",
+  "animalSlug": "secretarybird",
+  "galleryType": "main",
+  "slug": "gallery",
+  "title": "Secretarybird Photo Gallery",
+  "metaTitle": "Secretarybird Photo Gallery",
+  "metaDescription": "Browse a secretarybird photo gallery with wildlife photos.",
+  "intro": "Explore secretarybird photos organized for learning and classroom observation.",
+  "imageSlugs": [
+    "secretarybird-hero",
+    "secretarybird-habitat",
+    "secretarybird-diet",
+    "secretarybird-baby",
+    "secretarybird-family",
+    "secretarybird-range",
+    "secretarybird-size",
+    "secretarybird-closeup",
+    "secretarybird-fun-fact"
+  ],
+  "updatedAt": "2026-06-29T11:45:26.000Z"
+}

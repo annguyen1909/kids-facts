@@ -2,23 +2,23 @@
   "id": "orangutan-core-range",
   "animalSlug": "orangutan",
   "slug": "orangutan-core-range",
-  "fileName": "Bornean Orangutan in nest.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bornean_Orangutan_in_nest.jpg",
-  "width": 3200,
-  "height": 2128,
-  "alt": "Bornean orangutan resting in a tree nest",
-  "caption": "Bornean orangutans are Critically Endangered because forests are being cleared for farming.",
-  "attributionText": "Photo by Joeavison1 via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg\">Joeavison1</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "fileName": "orangutan-core-range-01-1200.webp",
+  "src": "/images/animals/orangutan/web/orangutan-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 1652,
+  "alt": "Orangutan in rainforest habitat within its native range",
+  "caption": "Orangutans live only on the islands of Borneo and Sumatra in Southeast Asia.",
+  "attributionText": "Photo by Amy2563 via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Orangutan_animal.jpg\">Amy2563</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bornean_Orangutan_in_nest.jpg",
-    "creatorName": "Joeavison1",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orangutan_animal.jpg",
+    "creatorName": "Amy2563",
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T12:32:11.033Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:04:17.883Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Borneo",
-  "acquisitionNotes": "Core article image curated separately from the orangutan gallery set.",
-  "updatedAt": "2026-06-24T12:32:11.033Z"
+  "acquisitionNotes": "Core article image — unique from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d6/Orangutan_animal.jpg",
+  "updatedAt": "2026-06-25T15:04:17.883Z",
+  "srcSet": {
+    "web1200": "/images/animals/orangutan/web/orangutan-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/orangutan/thumbnails/orangutan-core-range-01-400.webp",
+    "original": "/images/animals/orangutan/web/orangutan-core-range-01-1200.webp"
+  }
 }

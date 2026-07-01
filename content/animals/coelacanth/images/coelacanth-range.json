@@ -1,0 +1,38 @@
+{
+  "id": "coelacanth-range",
+  "animalSlug": "coelacanth",
+  "slug": "coelacanth-range",
+  "fileName": "coelacanth-range-01-1200.webp",
+  "src": "/images/animals/coelacanth/web/coelacanth-range-01-1200.webp",
+  "width": 647,
+  "height": 557,
+  "alt": "Geographic map showing the distribution of Coelacanth species in the Indian Ocean",
+  "caption": "Populations are found primarily near the Comoros Islands, South Africa, Tanzania, and Indonesia.",
+  "imageType": "range",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Indian Ocean",
+  "acquisitionNotes": "Manually curated coelacanth range map. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/f/f3/Latimeria_distribution_RUS.png",
+  "updatedAt": "2026-06-29T07:22:30.801Z",
+  "attributionText": "Photo by Anaxibia via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Latimeria_distribution_RUS.png\">Anaxibia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Latimeria_distribution_RUS.png",
+    "creatorName": "Anaxibia",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T07:22:30.801Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/coelacanth/web/coelacanth-range-01-1200.webp",
+    "thumbnail400": "/images/animals/coelacanth/thumbnails/coelacanth-range-01-400.webp",
+    "original": "/images/animals/coelacanth/web/coelacanth-range-01-1200.webp"
+  }
+}

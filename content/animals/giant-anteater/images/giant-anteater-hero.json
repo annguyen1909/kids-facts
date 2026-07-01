@@ -1,0 +1,38 @@
+{
+  "id": "giant-anteater-hero",
+  "animalSlug": "giant-anteater",
+  "slug": "giant-anteater-hero",
+  "fileName": "giant-anteater-hero-01-1200.webp",
+  "alt": "Giant anteater walking across green grass showing its long snout and bushy tail",
+  "caption": "The giant anteater has a long tube-shaped snout, a shaggy coat, and a huge bushy tail.",
+  "galleryTopics": [
+    "hero"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "hero",
+  "location": "Pantanal, Brazil",
+  "src": "/images/animals/giant-anteater/web/giant-anteater-hero-01-1200.webp",
+  "width": 1200,
+  "height": 921,
+  "attributionText": "Photo by Anagoria via Wikimedia Commons, CC BY 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla,_Pantanal_region,_Brazil_(cropped).jpg\">Anagoria</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla,_Pantanal_region,_Brazil_(cropped).jpg",
+    "creatorName": "Anagoria",
+    "licenseName": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:16:40.033Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified giant-anteater image for hero. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d2/Myrmecophaga_tridactyla%2C_Pantanal_region%2C_Brazil_%28cropped%29.jpg",
+  "updatedAt": "2026-06-28T10:16:40.033Z",
+  "srcSet": {
+    "web1200": "/images/animals/giant-anteater/web/giant-anteater-hero-01-1200.webp",
+    "thumbnail400": "/images/animals/giant-anteater/thumbnails/giant-anteater-hero-01-400.webp",
+    "original": "/images/animals/giant-anteater/web/giant-anteater-hero-01-1200.webp"
+  }
+}

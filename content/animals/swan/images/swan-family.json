@@ -1,0 +1,38 @@
+{
+  "id": "swan-family",
+  "animalSlug": "swan",
+  "slug": "swan-family",
+  "fileName": "swan-family-01-1200.webp",
+  "src": "/images/animals/swan/web/swan-family-01-1200.webp",
+  "width": 1200,
+  "height": 720,
+  "alt": "Two adult mute swans facing each other in shallow water",
+  "caption": "Mute swans often form long-term pairs that stay together through the breeding season.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "family",
+  "location": "Unknown",
+  "attributionText": "Photo by Richard Bartz, Munich Makro Freak via Wikimedia Commons, CC BY-SA 2.5",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Cygnus_olor_flirt_edit.jpg\">Richard Bartz, Munich Makro Freak</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cygnus_olor_flirt_edit.jpg",
+    "creatorName": "Richard Bartz, Munich Makro Freak",
+    "licenseName": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:12:16.698Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified swan image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/33/Cygnus_olor_flirt_edit.jpg",
+  "updatedAt": "2026-06-25T15:12:16.698Z",
+  "srcSet": {
+    "web1200": "/images/animals/swan/web/swan-family-01-1200.webp",
+    "thumbnail400": "/images/animals/swan/thumbnails/swan-family-01-400.webp",
+    "original": "/images/animals/swan/web/swan-family-01-1200.webp"
+  }
+}

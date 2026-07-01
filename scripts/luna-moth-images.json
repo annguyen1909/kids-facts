@@ -1,0 +1,142 @@
+{
+  "hero": {
+    "fileTitle": "File:Actias luna-male.jpg",
+    "imageType": "hero",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A beautiful portrait of a Luna Moth in the wild",
+    "caption": "The Luna Moth is a highly adapted species with unique behaviors.",
+    "location": "Unknown"
+  },
+  "habitat": {
+    "fileTitle": "File:Actias luna female sjh.JPG",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Luna Moth navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "diet": {
+    "fileTitle": "File:Male Luna Moth, Megan McCarty141.jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Luna Moth finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Luna Moth.",
+    "location": "Unknown"
+  },
+  "baby": {
+    "fileTitle": "File:Luna Moth (Actias luna) on foliage.jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A young or baby Luna Moth showing early development",
+    "caption": "Baby Luna Moths must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "family": {
+    "fileTitle": "File:Luna moth front (Actias Luna).jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A group of Luna Moths interacting with each other",
+    "caption": "While often solitary, some Luna Moths interact with others of their species.",
+    "location": "Unknown"
+  },
+  "range": {
+    "fileTitle": "File:Actias luna 120711776.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Luna Moth traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  },
+  "size": {
+    "fileTitle": "File:Luna Moth (Actias Luna) Full.jpg",
+    "imageType": "size",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A photo showing the size of a Luna Moth",
+    "caption": "The size of a Luna Moth can vary depending on its age and environment.",
+    "location": "Unknown"
+  },
+  "closeup": {
+    "fileTitle": "File:Luna Moth (Actias luna).JPG",
+    "imageType": "closeup",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A detailed close-up showing the physical features of a Luna Moth",
+    "caption": "A close-up view reveals the intricate details of a Luna Moth's body.",
+    "location": "Unknown"
+  },
+  "fun-fact": {
+    "fileTitle": "File:Actias luna (luna moth) (17257003162).jpg",
+    "imageType": "fun-fact",
+    "featuredOnPages": [
+      "gallery"
+    ],
+    "alt": "A Luna Moth showing a unique behavior or adaptation",
+    "caption": "Did you know that the Luna Moth has amazing features that help it survive?",
+    "location": "Unknown"
+  },
+  "core-habitat": {
+    "fileTitle": "File:Actias luna 120817753.jpg",
+    "imageType": "habitat",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Luna Moth navigating its natural environment",
+    "caption": "They make their home in diverse habitats where they can find shelter and thrive.",
+    "location": "Unknown"
+  },
+  "core-diet": {
+    "fileTitle": "File:Actias luna – Luna Moth (8289143114).jpg",
+    "imageType": "diet",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Luna Moth finding or consuming food",
+    "caption": "Finding food is a major part of the daily routine for a Luna Moth.",
+    "location": "Unknown"
+  },
+  "core-family": {
+    "fileTitle": "File:Actias luna tail.jpg",
+    "imageType": "family",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A group of Luna Moths interacting with each other",
+    "caption": "While often solitary, some Luna Moths interact with others of their species.",
+    "location": "Unknown"
+  },
+  "core-baby": {
+    "fileTitle": "File:- 7758 – Actias luna – Luna Moth (47945194142).jpg",
+    "imageType": "baby",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A young or baby Luna Moth showing early development",
+    "caption": "Baby Luna Moths must learn to survive and adapt from a young age.",
+    "location": "Unknown"
+  },
+  "core-range": {
+    "fileTitle": "File:Actias luna 120422754.jpg",
+    "imageType": "range",
+    "featuredOnPages": [
+      "core"
+    ],
+    "alt": "A Luna Moth traveling across its geographic range",
+    "caption": "Their geographic range covers various regions suited to their survival.",
+    "location": "Unknown"
+  }
+}

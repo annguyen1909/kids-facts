@@ -1,0 +1,42 @@
+{
+  "id": "hercules-beetle-core-habitat",
+  "animalSlug": "hercules-beetle",
+  "slug": "hercules-beetle-core-habitat",
+  "fileName": "hercules-beetle-core-habitat-01-1200.webp",
+  "src": "/images/animals/hercules-beetle/web/hercules-beetle-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 789,
+  "alt": "Hercules beetle in tropical forest habitat",
+  "caption": "Hercules beetles live in tropical rainforests of Central and South America.",
+  "galleryTopics": [
+    "habitat"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "habitat",
+  "location": "Ecuador",
+  "attributionText": "Photo by Didier Descouens via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Dynastes_hercules_ecuatorianus_MHNT.jpg\">Didier Descouens</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules_ecuatorianus_MHNT.jpg",
+    "creatorName": "Didier Descouens",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:57:43.177Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article habitat image — unique from gallery images. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/0e/Dynastes_hercules_ecuatorianus_MHNT.jpg",
+  "updatedAt": "2026-06-25T14:57:43.177Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dynastes_hercules.jpg",
+  "creatorName": "Franz Xaver",
+  "licenseName": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "srcSet": {
+    "web1200": "/images/animals/hercules-beetle/web/hercules-beetle-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/hercules-beetle/thumbnails/hercules-beetle-core-habitat-01-400.webp",
+    "original": "/images/animals/hercules-beetle/web/hercules-beetle-core-habitat-01-1200.webp"
+  }
+}

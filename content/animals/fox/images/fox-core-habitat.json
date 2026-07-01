@@ -2,10 +2,10 @@
   "id": "fox-core-habitat",
   "animalSlug": "fox",
   "slug": "fox-core-habitat",
-  "fileName": "Ezo Red Fox (Vulpes vulpes schrencki), 2024.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ezo_Red_Fox_%28Vulpes_vulpes_schrencki%29%2C_2024.jpg",
-  "width": 4548,
-  "height": 2558,
+  "fileName": "fox-core-habitat-01-1200.webp",
+  "src": "/images/animals/fox/web/fox-core-habitat-01-1200.webp",
+  "width": 1200,
+  "height": 675,
   "alt": "Red fox standing in snowy northern forest habitat",
   "caption": "Foxes adapt to forests, farms, suburbs, and tundra across the Northern Hemisphere.",
   "imageType": "habitat",
@@ -16,18 +16,23 @@
     "core"
   ],
   "location": "Hokkaido, Japan",
-  "acquisitionNotes": "Core article image curated separately from the fox gallery set.",
-  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "acquisitionNotes": "Core article image curated separately from the fox gallery set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/3/3c/Ezo_Red_Fox_%28Vulpes_vulpes_schrencki%29%2C_2024.jpg",
+  "updatedAt": "2026-06-25T14:53:45.449Z",
   "attributionText": "Photo by MIKI Yoshihito via Wikimedia Commons, CC BY 2.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki)%2C_2024.jpg\">MIKI Yoshihito</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki),_2024.jpg\">MIKI Yoshihito</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki)%2C_2024.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ezo_Red_Fox_(Vulpes_vulpes_schrencki),_2024.jpg",
     "creatorName": "MIKI Yoshihito",
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:54.051Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:45.449Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/fox/web/fox-core-habitat-01-1200.webp",
+    "thumbnail400": "/images/animals/fox/thumbnails/fox-core-habitat-01-400.webp",
+    "original": "/images/animals/fox/web/fox-core-habitat-01-1200.webp"
   }
 }

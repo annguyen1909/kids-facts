@@ -1,0 +1,38 @@
+{
+  "id": "mantis-shrimp-diet",
+  "animalSlug": "mantis-shrimp",
+  "slug": "mantis-shrimp-diet",
+  "fileName": "mantis-shrimp-diet-01-1200.webp",
+  "alt": "A Mantis Shrimp finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Mantis Shrimp.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "src": "/images/animals/mantis-shrimp/web/mantis-shrimp-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Cédric Péneau via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_R%C3%A9union.jpg\">Cédric Péneau</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odontodactylus_scyllarus_R%C3%A9union.jpg",
+    "creatorName": "Cédric Péneau",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:17:17.635Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified mantis-shrimp image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg",
+  "updatedAt": "2026-06-26T08:17:17.635Z",
+  "srcSet": {
+    "web1200": "/images/animals/mantis-shrimp/web/mantis-shrimp-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/mantis-shrimp/thumbnails/mantis-shrimp-diet-01-400.webp",
+    "original": "/images/animals/mantis-shrimp/web/mantis-shrimp-diet-01-1200.webp"
+  }
+}

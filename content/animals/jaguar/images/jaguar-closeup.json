@@ -1,0 +1,38 @@
+{
+  "id": "jaguar-closeup",
+  "animalSlug": "jaguar",
+  "slug": "jaguar-closeup",
+  "fileName": "jaguar-closeup-01-1200.webp",
+  "alt": "A detailed close-up showing the physical features of a Jaguar",
+  "caption": "A close-up view reveals the intricate details of a Jaguar's body.",
+  "galleryTopics": [
+    "closeup"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "closeup",
+  "location": "Unknown",
+  "src": "/images/animals/jaguar/web/jaguar-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:009_Female_jaguar_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:009_Female_jaguar_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T08:11:11.511Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified jaguar image for closeup. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/9/93/009_Female_jaguar_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-26T08:11:11.511Z",
+  "srcSet": {
+    "web1200": "/images/animals/jaguar/web/jaguar-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/jaguar/thumbnails/jaguar-closeup-01-400.webp",
+    "original": "/images/animals/jaguar/web/jaguar-closeup-01-1200.webp"
+  }
+}

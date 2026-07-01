@@ -1,0 +1,38 @@
+{
+  "id": "firefly-core-range",
+  "animalSlug": "firefly",
+  "slug": "firefly-core-range",
+  "fileName": "firefly-core-range-01-1200.webp",
+  "src": "/images/animals/firefly/web/firefly-core-range-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Firefly traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by Melissa McMasters from Memphis, TN, United States via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Common_Eastern_firefly_(41298775405).jpg\">Melissa McMasters from Memphis, TN, United States</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Eastern_firefly_(41298775405).jpg",
+    "creatorName": "Melissa McMasters from Memphis, TN, United States",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:53:08.235Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified firefly image for range. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/d2/Common_Eastern_firefly_%2841298775405%29.jpg",
+  "updatedAt": "2026-06-25T14:53:08.235Z",
+  "srcSet": {
+    "web1200": "/images/animals/firefly/web/firefly-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/firefly/thumbnails/firefly-core-range-01-400.webp",
+    "original": "/images/animals/firefly/web/firefly-core-range-01-1200.webp"
+  }
+}

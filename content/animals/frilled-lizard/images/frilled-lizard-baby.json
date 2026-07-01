@@ -1,0 +1,38 @@
+{
+  "id": "frilled-lizard-baby",
+  "animalSlug": "frilled-lizard",
+  "slug": "frilled-lizard-baby",
+  "fileName": "frilled-lizard-baby-01-1200.webp",
+  "src": "/images/animals/frilled-lizard/web/frilled-lizard-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A young or baby Frilled Lizard showing early development",
+  "caption": "Baby Frilled Lizards must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "attributionText": "Photo by Matt from Melbourne, Australia via Wikimedia Commons, CC BY 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692607976).jpg\">Matt from Melbourne, Australia</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frill-necked_Lizard_(Chlamydosaurus_kingii)_(8692607976).jpg",
+    "creatorName": "Matt from Melbourne, Australia",
+    "licenseName": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:04:08.801Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified frilled-lizard image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4d/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692607976%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/4d/Frill-necked_Lizard_%28Chlamydosaurus_kingii%29_%288692607976%29.jpg",
+  "updatedAt": "2026-06-26T19:04:08.801Z",
+  "srcSet": {
+    "web1200": "/images/animals/frilled-lizard/web/frilled-lizard-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/frilled-lizard/thumbnails/frilled-lizard-baby-01-400.webp",
+    "original": "/images/animals/frilled-lizard/web/frilled-lizard-baby-01-1200.webp"
+  }
+}

@@ -2,10 +2,10 @@
   "id": "fox-fun-fact",
   "animalSlug": "fox",
   "slug": "fox-fun-fact",
-  "fileName": "Red Fox - Vulpes vulpes (juvenile) - 7125303801.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Red_Fox_-_Vulpes_vulpes_%28juvenile%29_-_7125303801.jpg",
-  "width": 1257,
-  "height": 1930,
+  "fileName": "fox-fun-fact-01-1200.webp",
+  "src": "/images/animals/fox/web/fox-fun-fact-01-1200.webp",
+  "width": 1200,
+  "height": 1842,
   "alt": "Playful young red fox in open habitat",
   "caption": "Fox kits practice pouncing and chasing games that later help them hunt.",
   "imageType": "fun-fact",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually curated fox fun-fact image with verified species identification.",
-  "updatedAt": "2026-06-24T08:52:54.051Z",
+  "acquisitionNotes": "Manually curated fox fun-fact image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/d/dc/Red_Fox_-_Vulpes_vulpes_%28juvenile%29_-_7125303801.jpg",
+  "updatedAt": "2026-06-25T14:53:48.929Z",
   "attributionText": "Photo by Judy Gallagher via Wikimedia Commons, CC BY 2.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Red_Fox_-_Vulpes_vulpes_(juvenile)_-_7125303801.jpg\">Judy Gallagher</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:52:54.051Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:53:48.929Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/fox/web/fox-fun-fact-01-1200.webp",
+    "thumbnail400": "/images/animals/fox/thumbnails/fox-fun-fact-01-400.webp",
+    "original": "/images/animals/fox/web/fox-fun-fact-01-1200.webp"
   }
 }

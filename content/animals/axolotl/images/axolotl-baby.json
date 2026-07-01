@@ -1,0 +1,38 @@
+{
+  "id": "axolotl-baby",
+  "animalSlug": "axolotl",
+  "slug": "axolotl-baby",
+  "fileName": "axolotl-baby-01-1200.webp",
+  "alt": "A young or baby Axolotl showing early development",
+  "caption": "Baby Axolotls must learn to survive and adapt from a young age.",
+  "galleryTopics": [
+    "baby"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "imageType": "baby",
+  "location": "Unknown",
+  "src": "/images/animals/axolotl/web/axolotl-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "attributionText": "Photo by Ruben Undheim from Trondheim, Norway via Wikimedia Commons, CC BY-SA 2.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_(6337857516).jpg\">Ruben Undheim from Trondheim, Norway</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_(6337857516).jpg",
+    "creatorName": "Ruben Undheim from Trondheim, Norway",
+    "licenseName": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-26T19:18:05.258Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified axolotl image for baby. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg",
+  "updatedAt": "2026-06-26T19:18:05.258Z",
+  "srcSet": {
+    "web1200": "/images/animals/axolotl/web/axolotl-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/axolotl/thumbnails/axolotl-baby-01-400.webp",
+    "original": "/images/animals/axolotl/web/axolotl-baby-01-1200.webp"
+  }
+}

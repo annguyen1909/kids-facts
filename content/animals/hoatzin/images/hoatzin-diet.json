@@ -1,0 +1,38 @@
+{
+  "id": "hoatzin-diet",
+  "animalSlug": "hoatzin",
+  "slug": "hoatzin-diet",
+  "fileName": "hoatzin-diet-01-1200.webp",
+  "src": "/images/animals/hoatzin/web/hoatzin-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "Hoatzin actively feeding on lush green tree leaves in Colombia",
+  "caption": "As strict folivores, their diet consists almost entirely of tough green leaves, which they digest via foregut fermentation like a cow.",
+  "imageType": "diet",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "gallery"
+  ],
+  "location": "Colombia",
+  "acquisitionNotes": "Action shot showing native leaf-eating dietary behavior in trees. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/1/13/El_hoacin_%28Opisthocomus_hoazin%29.jpg",
+  "updatedAt": "2026-06-29T12:23:48.052Z",
+  "attributionText": "Photo by SIHYTA COL via Wikimedia Commons, CC BY 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:El_hoacin_(Opisthocomus_hoazin).jpg\">SIHYTA COL</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_hoacin_(Opisthocomus_hoazin).jpg",
+    "creatorName": "SIHYTA COL",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-29T12:23:48.052Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/hoatzin/web/hoatzin-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/hoatzin/thumbnails/hoatzin-diet-01-400.webp",
+    "original": "/images/animals/hoatzin/web/hoatzin-diet-01-1200.webp"
+  }
+}

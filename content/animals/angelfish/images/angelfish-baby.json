@@ -2,10 +2,10 @@
   "id": "angelfish-baby",
   "animalSlug": "angelfish",
   "slug": "angelfish-baby",
-  "fileName": "Juv Emperor angelfish at Pao reef dsc04580.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Juv_Emperor_angelfish_at_Pao_reef_dsc04580.jpg",
-  "width": 2048,
-  "height": 1536,
+  "fileName": "angelfish-baby-01-1200.webp",
+  "src": "/images/animals/angelfish/web/angelfish-baby-01-1200.webp",
+  "width": 1200,
+  "height": 900,
   "alt": "Juvenile emperor angelfish with dark blue and white rings",
   "caption": "Young angelfish look very different, with ring patterns instead of stripes.",
   "attributionText": "Photo by Peter Southwood via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:39:20.375Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:48:45.546Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Tropical reef",
-  "acquisitionNotes": "Manually curated juvenile angelfish image with verified species identification.",
-  "updatedAt": "2026-06-24T10:39:20.375Z"
+  "acquisitionNotes": "Manually curated juvenile angelfish image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/4/40/Juv_Emperor_angelfish_at_Pao_reef_dsc04580.jpg",
+  "updatedAt": "2026-06-25T14:48:45.546Z",
+  "srcSet": {
+    "web1200": "/images/animals/angelfish/web/angelfish-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/angelfish/thumbnails/angelfish-baby-01-400.webp",
+    "original": "/images/animals/angelfish/web/angelfish-baby-01-1200.webp"
+  }
 }

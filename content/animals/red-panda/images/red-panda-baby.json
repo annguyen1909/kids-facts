@@ -2,23 +2,23 @@
   "id": "red-panda-baby",
   "animalSlug": "red-panda",
   "slug": "red-panda-baby",
-  "fileName": "red-panda-baby.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Two_Red_Panda_Cubs_in_the_Tree_01.jpg",
-  "width": 8824,
-  "height": 5883,
+  "fileName": "red-panda-baby-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-baby-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Two red panda cubs perched in a tree in Langtang National Park, Nepal",
   "caption": "Red panda cubs stay in the nest and with their mother for months after birth.",
-  "attributionText": "Photo by Sunuwargr via Wikimedia Commons, CC BY-SA 4.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Two_Red_Panda_Cubs_in_the_Tree_01.jpg\">Sunuwargr</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>",
+  "attributionText": "Photo by Original: Ganga Raj Sunuwar Derivative work: UnpetitproleX via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Two_Red_Panda_Cubs_in_the_Tree_01.jpg\">Original: Ganga Raj Sunuwar Derivative work: UnpetitproleX</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Red_Panda_Cubs_in_the_Tree_01.jpg",
-    "creatorName": "Sunuwargr",
+    "creatorName": "Original: Ganga Raj Sunuwar Derivative work: UnpetitproleX",
     "licenseName": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:44:18.785Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:19.705Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "baby",
   "galleryTopics": [
@@ -29,6 +29,11 @@
     "gallery"
   ],
   "location": "Langtang National Park, Nepal",
-  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
-  "updatedAt": "2026-06-21T16:44:18.785Z"
+  "acquisitionNotes": "Manually verified red panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/8/80/Two_Red_Panda_Cubs_in_the_Tree_01.jpg",
+  "updatedAt": "2026-06-25T15:09:19.705Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-baby-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-baby-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-baby-01-1200.webp"
+  }
 }

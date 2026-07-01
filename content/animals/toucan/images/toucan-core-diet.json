@@ -1,0 +1,38 @@
+{
+  "id": "toucan-core-diet",
+  "animalSlug": "toucan",
+  "slug": "toucan-core-diet",
+  "fileName": "toucan-core-diet-01-1200.webp",
+  "src": "/images/animals/toucan/web/toucan-core-diet-01-1200.webp",
+  "width": 1200,
+  "height": 800,
+  "alt": "A Toco Toucan finding or consuming food",
+  "caption": "Finding food is a major part of the daily routine for a Toco Toucan.",
+  "galleryTopics": [
+    "diet"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "diet",
+  "location": "Unknown",
+  "attributionText": "Photo by Giles Laurent via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:137_Toco_toucan_in_flight_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg\">Giles Laurent</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:137_Toco_toucan_in_flight_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+    "creatorName": "Giles Laurent",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T15:13:16.543Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified toucan image for diet. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/6/6e/137_Toco_toucan_in_flight_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg",
+  "updatedAt": "2026-06-25T15:13:16.543Z",
+  "srcSet": {
+    "web1200": "/images/animals/toucan/web/toucan-core-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/toucan/thumbnails/toucan-core-diet-01-400.webp",
+    "original": "/images/animals/toucan/web/toucan-core-diet-01-1200.webp"
+  }
+}

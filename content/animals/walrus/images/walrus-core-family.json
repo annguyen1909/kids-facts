@@ -1,0 +1,38 @@
+{
+  "id": "walrus-core-family",
+  "animalSlug": "walrus",
+  "slug": "walrus-core-family",
+  "fileName": "walrus-core-family-01-1200.webp",
+  "alt": "Many walruses huddled together on an Arctic shore",
+  "caption": "Huddling together keeps walruses warm and helps protect the young in the middle of the herd.",
+  "galleryTopics": [
+    "family"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "family",
+  "location": "Wahlbergøya, Svalbard",
+  "src": "/images/animals/walrus/web/walrus-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 675,
+  "attributionText": "Photo by Andreas Weith via Wikimedia Commons, CC BY-SA 4.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Walrus_(Odobenus_rosmarus)_resting_in_a_crowd_on_Wahlberg%C3%B8ya,_Svalbard_(4).jpg\">Andreas Weith</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walrus_(Odobenus_rosmarus)_resting_in_a_crowd_on_Wahlberg%C3%B8ya,_Svalbard_(4).jpg",
+    "creatorName": "Andreas Weith",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-28T10:03:10.677Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Manually verified walrus image for family. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/05/Walrus_%28Odobenus_rosmarus%29_resting_in_a_crowd_on_Wahlberg%C3%B8ya%2C_Svalbard_%284%29.jpg",
+  "updatedAt": "2026-06-28T10:03:10.677Z",
+  "srcSet": {
+    "web1200": "/images/animals/walrus/web/walrus-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/walrus/thumbnails/walrus-core-family-01-400.webp",
+    "original": "/images/animals/walrus/web/walrus-core-family-01-1200.webp"
+  }
+}

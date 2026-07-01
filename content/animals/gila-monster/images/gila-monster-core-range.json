@@ -1,0 +1,42 @@
+{
+  "id": "gila-monster-core-range",
+  "animalSlug": "gila-monster",
+  "slug": "gila-monster-core-range",
+  "fileName": "gila-monster-core-range-01-1200.webp",
+  "src": "/images/animals/gila-monster/web/gila-monster-core-range-01-1200.webp",
+  "width": 768,
+  "height": 514,
+  "alt": "A Gila Monster traveling across its geographic range",
+  "caption": "Their geographic range covers various regions suited to their survival.",
+  "galleryTopics": [
+    "range"
+  ],
+  "featuredOnPages": [
+    "core"
+  ],
+  "imageType": "range",
+  "location": "Unknown",
+  "attributionText": "Photo by H. van der Ploeg via Wikimedia Commons, CC BY-SA 3.0",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_%27suspectum%27_2.jpg\">H. van der Ploeg</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
+  "source": {
+    "sourceName": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_%27suspectum%27_2.jpg",
+    "creatorName": "H. van der Ploeg",
+    "licenseName": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "requiresAttribution": true,
+    "downloadedAt": "2026-06-25T14:55:34.566Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "acquisitionNotes": "Core article image — unique src, separate from gallery set. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a8/Heloderma_suspectum_%27suspectum%27_2.jpg",
+  "updatedAt": "2026-06-25T14:55:34.566Z",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heloderma_suspectum_%27suspectum%27_2.jpg",
+  "creatorName": "H. van der Ploeg",
+  "licenseName": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "srcSet": {
+    "web1200": "/images/animals/gila-monster/web/gila-monster-core-range-01-1200.webp",
+    "thumbnail400": "/images/animals/gila-monster/thumbnails/gila-monster-core-range-01-400.webp",
+    "original": "/images/animals/gila-monster/web/gila-monster-core-range-01-1200.webp"
+  }
+}

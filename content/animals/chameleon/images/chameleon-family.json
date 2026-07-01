@@ -2,10 +2,10 @@
   "id": "chameleon-family",
   "animalSlug": "chameleon",
   "slug": "chameleon-family",
-  "fileName": "Jemenchamäleon (Chamaeleo calyptratus) Blumengärten Hirschstetten Wien 2014.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jemencham%C3%A4leon_%28Chamaeleo_calyptratus%29_Blumeng%C3%A4rten_Hirschstetten_Wien_2014.jpg",
-  "width": 3330,
-  "height": 2400,
+  "fileName": "chameleon-family-01-1200.webp",
+  "src": "/images/animals/chameleon/web/chameleon-family-01-1200.webp",
+  "width": 1200,
+  "height": 865,
   "alt": "Veiled chameleon among flowers and branches",
   "caption": "Chameleons usually live alone except during breeding season.",
   "attributionText": "Photo by Manfred Werner - Tsui via Wikimedia Commons, CC BY-SA 3.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T10:01:20.803Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:00.231Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Vienna, Austria",
-  "acquisitionNotes": "Manually curated chameleon image with verified species identification.",
-  "updatedAt": "2026-06-24T10:01:20.803Z"
+  "acquisitionNotes": "Manually curated chameleon image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a0/Jemencham%C3%A4leon_%28Chamaeleo_calyptratus%29_Blumeng%C3%A4rten_Hirschstetten_Wien_2014.jpg",
+  "updatedAt": "2026-06-25T14:50:00.231Z",
+  "srcSet": {
+    "web1200": "/images/animals/chameleon/web/chameleon-family-01-1200.webp",
+    "thumbnail400": "/images/animals/chameleon/thumbnails/chameleon-family-01-400.webp",
+    "original": "/images/animals/chameleon/web/chameleon-family-01-1200.webp"
+  }
 }

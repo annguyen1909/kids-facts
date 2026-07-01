@@ -2,10 +2,10 @@
   "id": "leopard-closeup",
   "animalSlug": "leopard",
   "slug": "leopard-closeup",
-  "fileName": "Panthera pardus close up.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg",
-  "width": 1857,
-  "height": 2500,
+  "fileName": "leopard-closeup-01-1200.webp",
+  "src": "/images/animals/leopard/web/leopard-closeup-01-1200.webp",
+  "width": 1200,
+  "height": 1616,
   "alt": "Close-up leopard face with whiskers and golden eyes",
   "caption": "A leopard's sharp vision and whiskers help it hunt at dawn and dusk.",
   "imageType": "closeup",
@@ -16,8 +16,8 @@
     "gallery"
   ],
   "location": "Wildlife habitat",
-  "acquisitionNotes": "Manually curated leopard close-up image with verified species identification.",
-  "updatedAt": "2026-06-24T08:02:52.343Z",
+  "acquisitionNotes": "Manually curated leopard close-up image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/03/Panthera_pardus_close_up.jpg",
+  "updatedAt": "2026-06-25T15:01:02.196Z",
   "attributionText": "Photo by tropicaLiving via Wikimedia Commons, CC BY-SA 3.0",
   "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Panthera_pardus_close_up.jpg\">tropicaLiving</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
@@ -27,7 +27,12 @@
     "licenseName": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T08:02:52.343Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:01:02.196Z",
+    "reviewedBy": "editor@wildlifedb.local"
+  },
+  "srcSet": {
+    "web1200": "/images/animals/leopard/web/leopard-closeup-01-1200.webp",
+    "thumbnail400": "/images/animals/leopard/thumbnails/leopard-closeup-01-400.webp",
+    "original": "/images/animals/leopard/web/leopard-closeup-01-1200.webp"
   }
 }

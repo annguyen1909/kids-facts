@@ -2,23 +2,23 @@
   "id": "red-panda-diet",
   "animalSlug": "red-panda",
   "slug": "red-panda-diet",
-  "fileName": "red-panda-diet.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ailurus_fulgens_eating.JPG",
-  "width": 3400,
-  "height": 3400,
+  "fileName": "red-panda-diet-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-diet-01-1200.webp",
+  "width": 1200,
+  "height": 1200,
   "alt": "Red panda eating bamboo leaves",
   "caption": "Red pandas spend much of their day eating bamboo leaves and shoots.",
   "attributionText": "Photo by Ericj via Wikimedia Commons, CC BY-SA 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_eating.JPG\">Ericj</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_eating.JPG\">Ericj</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ailurus_fulgens_eating.JPG",
     "creatorName": "Ericj",
     "licenseName": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-21T16:44:18.785Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:30.888Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "diet",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Bamboo forest",
-  "acquisitionNotes": "Manually verified red panda image with correct species identification.",
-  "updatedAt": "2026-06-21T16:44:18.785Z"
+  "acquisitionNotes": "Manually verified red panda image with correct species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/c/ca/Ailurus_fulgens_eating.JPG",
+  "updatedAt": "2026-06-25T15:09:30.888Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-diet-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-diet-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-diet-01-1200.webp"
+  }
 }

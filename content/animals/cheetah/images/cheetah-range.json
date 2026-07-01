@@ -2,10 +2,10 @@
   "id": "cheetah-range",
   "animalSlug": "cheetah",
   "slug": "cheetah-range",
-  "fileName": "Cheetah at Sunset.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cheetah_at_Sunset.jpg",
-  "width": 4008,
-  "height": 2671,
+  "fileName": "cheetah-range-01-1200.webp",
+  "src": "/images/animals/cheetah/web/cheetah-range-01-1200.webp",
+  "width": 1200,
+  "height": 799,
   "alt": "Cheetah silhouette in open country at sunset",
   "caption": "Wild cheetahs need wide open landscapes with room to run and hunt.",
   "attributionText": "Photo by Arturo de Frias Marques via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-23T05:02:36.035Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:50:26.246Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Okavango, Botswana",
-  "acquisitionNotes": "Manually curated cheetah range image with verified species identification.",
-  "updatedAt": "2026-06-23T05:02:36.035Z"
+  "acquisitionNotes": "Manually curated cheetah range image with verified species identification. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/5/59/Cheetah_at_Sunset.jpg",
+  "updatedAt": "2026-06-25T14:50:26.246Z",
+  "srcSet": {
+    "web1200": "/images/animals/cheetah/web/cheetah-range-01-1200.webp",
+    "thumbnail400": "/images/animals/cheetah/thumbnails/cheetah-range-01-400.webp",
+    "original": "/images/animals/cheetah/web/cheetah-range-01-1200.webp"
+  }
 }

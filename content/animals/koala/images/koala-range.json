@@ -2,23 +2,23 @@
   "id": "koala-range",
   "animalSlug": "koala",
   "slug": "koala-range",
-  "fileName": "Koala (Phascolarctos cinereus), Sídney, Australia18.JPG",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Koala_%28Phascolarctos_cinereus%29%2C_S%C3%ADdney%2C_Australia18.JPG",
-  "width": 3196,
-  "height": 2355,
+  "fileName": "koala-range-01-1200.webp",
+  "src": "/images/animals/koala/web/koala-range-01-1200.webp",
+  "width": 1200,
+  "height": 884,
   "alt": "Koala in coastal Australian woodland habitat",
   "caption": "Wild koalas live in eastern and southeastern Australia, mainly near eucalyptus forests.",
   "attributionText": "Photo by Diego Delso via Wikimedia Commons, CC BY 3.0",
-  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)%2C_S%C3%ADdney%2C_Australia18.JPG\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
+  "attributionHtml": "Photo by <a href=\"https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus),_S%C3%ADdney,_Australia18.JPG\">Diego Delso</a> via <a href=\"https://commons.wikimedia.org/\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>",
   "source": {
     "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus)%2C_S%C3%ADdney%2C_Australia18.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus),_S%C3%ADdney,_Australia18.JPG",
     "creatorName": "Diego Delso",
     "licenseName": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-24T09:22:12.494Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T14:59:54.534Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "range",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "gallery"
   ],
   "location": "Sydney, Australia",
-  "acquisitionNotes": "Manually curated koala range image with verified species identification.",
-  "updatedAt": "2026-06-24T09:22:12.494Z"
+  "acquisitionNotes": "Manually curated koala range image with verified species identification. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/0/05/Koala_%28Phascolarctos_cinereus%29%2C_S%C3%ADdney%2C_Australia18.JPG",
+  "updatedAt": "2026-06-25T14:59:54.534Z",
+  "srcSet": {
+    "web1200": "/images/animals/koala/web/koala-range-01-1200.webp",
+    "thumbnail400": "/images/animals/koala/thumbnails/koala-range-01-400.webp",
+    "original": "/images/animals/koala/web/koala-range-01-1200.webp"
+  }
 }

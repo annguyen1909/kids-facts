@@ -2,10 +2,10 @@
   "id": "red-panda-core-family",
   "animalSlug": "red-panda",
   "slug": "red-panda-core-family",
-  "fileName": "1280px-Red_Panda_mother_Hydrating_Cub.jpg",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Red_Panda_mother_Hydrating_Cub.jpg/1280px-Red_Panda_mother_Hydrating_Cub.jpg",
-  "width": 1280,
-  "height": 853,
+  "fileName": "red-panda-core-family-01-1200.webp",
+  "src": "/images/animals/red-panda/web/red-panda-core-family-01-1200.webp",
+  "width": 1200,
+  "height": 800,
   "alt": "Red panda mother caring for cub beside branch shelter",
   "caption": "Red panda mothers provide close care while cubs are still small.",
   "attributionText": "Photo by Pujan1024 via Wikimedia Commons, CC BY-SA 4.0",
@@ -17,8 +17,8 @@
     "licenseName": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "requiresAttribution": true,
-    "downloadedAt": "2026-06-22T13:56:51Z",
-    "reviewedBy": "editor@kidsfacts.local"
+    "downloadedAt": "2026-06-25T15:09:27.549Z",
+    "reviewedBy": "editor@wildlifedb.local"
   },
   "imageType": "family",
   "galleryTopics": [
@@ -28,6 +28,11 @@
     "core"
   ],
   "location": "Nepal",
-  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set.",
-  "updatedAt": "2026-06-22T13:56:51Z"
+  "acquisitionNotes": "Core article family image sourced from Wikimedia Commons; kept separate from gallery image set. Re-synced canonical Commons URL. Local WebP ingested from https://upload.wikimedia.org/wikipedia/commons/a/a4/Red_Panda_mother_Hydrating_Cub.jpg",
+  "updatedAt": "2026-06-25T15:09:27.549Z",
+  "srcSet": {
+    "web1200": "/images/animals/red-panda/web/red-panda-core-family-01-1200.webp",
+    "thumbnail400": "/images/animals/red-panda/thumbnails/red-panda-core-family-01-400.webp",
+    "original": "/images/animals/red-panda/web/red-panda-core-family-01-1200.webp"
+  }
 }
