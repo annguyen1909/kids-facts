@@ -57,11 +57,11 @@ export function SiteFooter() {
             <div className="relative flex items-center gap-3">
               <div className="absolute -inset-4 bg-gradient-to-r from-[var(--forest)]/10 via-[var(--sky)]/10 to-[var(--warm)]/10 blur-xl rounded-full opacity-50 animate-pulse" />
               <Image
-                src="/brand/logo-mark.svg"
+                src="/brand/logo-side-nobg.png"
                 alt=""
-                width={40}
-                height={40}
-                className="relative rounded-full shadow-[0_4px_20px_rgba(42,107,82,0.08)] ring-1 ring-[var(--line)] transition-transform duration-500 hover:scale-105"
+                width={56}
+                height={56}
+                className="relative transition-transform duration-500 hover:scale-105 drop-shadow-md"
               />
               <span className="relative text-xl font-serif font-bold tracking-tight text-[var(--forest-deep)]">
                 {siteConfig.name}

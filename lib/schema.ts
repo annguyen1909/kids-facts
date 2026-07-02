@@ -16,7 +16,7 @@ export function buildOrganizationSchema() {
     "@type": "Organization",
     name: siteConfig.organizationName,
     url: siteConfig.url,
-    logo: getAbsoluteUrl("/brand/logo-mark.svg"),
+    logo: getAbsoluteUrl("/brand/logo-side-nobg.png"),
     sameAs: [`https://x.com/${siteConfig.socials.x.replace("@", "")}`],
   };
 }
@@ -111,7 +111,7 @@ export function buildAnimalArticleSchema(
       name: siteConfig.organizationName,
       logo: {
         "@type": "ImageObject",
-        url: getAbsoluteUrl("/brand/logo-mark.svg"),
+        url: getAbsoluteUrl("/brand/logo-side-nobg.png"),
       },
     },
     image: animal.images.map((image) => getAbsoluteUrl(image.src)),

@@ -21,11 +21,11 @@ export function SiteHeader() {
       <div className="section-shell site-header__bar">
         <Link href="/" className="site-header__brand">
           <Image
-            src="/brand/logo-mark.svg"
+            src="/brand/logo-side-nobg.png"
             alt=""
-            width={40}
-            height={40}
-            className="site-header__logo"
+            width={56}
+            height={56}
+            className="site-header__logo drop-shadow-md"
             priority
           />
           <span className="min-w-0">

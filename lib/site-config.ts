@@ -31,8 +31,8 @@ export const siteConfig = {
     readEnv("NEXT_PUBLIC_ADSENSE_CLIENT_ID"),
   ),
   adsenseSlotAnimal: readEnv("NEXT_PUBLIC_ADSENSE_SLOT_ANIMAL"),
-  gaMeasurementId: readEnv("NEXT_PUBLIC_GA_MEASUREMENT_ID"),
-  googleSiteVerification: readEnv("NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION"),
+  gaMeasurementId: "G-6LMM8685GF",
+  googleSiteVerification: "kOQHlVHKaVzwQicjwvBl1Pe7X6KHyRT85nwkMw-AhJk",
   legalLastUpdated: "2026-06-23",
 };
 

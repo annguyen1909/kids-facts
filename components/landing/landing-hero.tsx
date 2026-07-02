@@ -83,7 +83,7 @@ export function LandingHero({
 
           <div className="mt-8 flex flex-wrap gap-4">
             <Link href="/animals">
-              <Button size="lg" className="bg-[var(--forest)] text-white hover:bg-[var(--forest-deep)] hover:shadow-[var(--shadow-glow)] border-none px-8 rounded-full h-12 text-base shimmer-sweep transition-all duration-300">
+              <Button size="lg" className="bg-[var(--forest-surface-deep)] text-white hover:bg-[var(--forest-surface)] hover:shadow-lg border-none px-8 rounded-full h-12 text-base transition-all duration-300">
                 Explore animals
               </Button>
             </Link>
