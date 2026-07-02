@@ -3,10 +3,10 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   pageExtensions: ["ts", "tsx", "mdx"],
+  outputFileTracingExcludes: {
+    "**/*": ["public/**/*", "scripts/**/*", "assets/**/*", "docs/**/*"]
+  },
   experimental: {
-    outputFileTracingExcludes: {
-      "**/*": ["public/**/*", "scripts/**/*", "assets/**/*", "docs/**/*"]
-    },
     mdxRs: true,
     viewTransition: true,
   },
