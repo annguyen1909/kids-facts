@@ -35,6 +35,7 @@ const footerGroups = [
 export function SiteFooter() {
   return (
     <footer className="relative isolate mt-20 bg-[var(--surface)] text-[var(--foreground)] transition-colors duration-300">
+      <div className="absolute top-0 inset-x-0 h-[1px] bg-gradient-to-r from-[var(--forest)]/0 via-[var(--forest)]/50 to-[var(--forest)]/0" />
       <div
         aria-hidden
         className="pointer-events-none absolute inset-x-0 -top-16 h-16"
@@ -53,15 +54,16 @@ export function SiteFooter() {
       <div className="section-shell py-12">
         <div className="grid gap-10 lg:grid-cols-[1.4fr_0.8fr_0.8fr_0.8fr]">
           <div className="flex flex-col">
-            <div className="flex items-center gap-3">
+            <div className="relative flex items-center gap-3">
+              <div className="absolute -inset-4 bg-gradient-to-r from-[var(--forest)]/10 via-[var(--sky)]/10 to-[var(--warm)]/10 blur-xl rounded-full opacity-50 animate-pulse" />
               <Image
                 src="/brand/logo-mark.svg"
                 alt=""
                 width={40}
                 height={40}
-                className="rounded-full shadow-[0_4px_20px_rgba(42,107,82,0.08)] ring-1 ring-[var(--line)] transition-transform duration-500 hover:scale-105"
+                className="relative rounded-full shadow-[0_4px_20px_rgba(42,107,82,0.08)] ring-1 ring-[var(--line)] transition-transform duration-500 hover:scale-105"
               />
-              <span className="text-xl font-serif font-bold tracking-tight text-[var(--forest-deep)]">
+              <span className="relative text-xl font-serif font-bold tracking-tight text-[var(--forest-deep)]">
                 {siteConfig.name}
               </span>
             </div>
@@ -84,7 +86,7 @@ export function SiteFooter() {
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="inline-flex items-center text-[0.85rem] font-light text-[var(--muted)] transition-colors duration-300 hover:text-[var(--forest-deep)]"
+                      className="inline-flex items-center text-[0.85rem] font-light text-[var(--muted)] nav-link-expand hover:text-[var(--forest-deep)]"
                     >
                       {link.label}
                     </Link>
@@ -100,13 +102,13 @@ export function SiteFooter() {
             © {new Date().getFullYear()} {siteConfig.organizationName}. All rights reserved.
           </p>
           <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm font-light">
-            <Link href="/privacy" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
+            <Link href="/privacy" className="text-[var(--muted)]/80 nav-link-expand hover:text-[var(--forest-deep)]">
               Privacy
             </Link>
-            <Link href="/terms" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
+            <Link href="/terms" className="text-[var(--muted)]/80 nav-link-expand hover:text-[var(--forest-deep)]">
               Terms
             </Link>
-            <Link href="/contact" className="text-[var(--muted)]/80 transition-colors duration-300 hover:text-[var(--forest-deep)]">
+            <Link href="/contact" className="text-[var(--muted)]/80 nav-link-expand hover:text-[var(--forest-deep)]">
               Contact
             </Link>
           </div>

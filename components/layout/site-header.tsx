@@ -13,7 +13,7 @@ export function SiteHeader() {
     name: a.core.name,
     category: a.core.taxonomy.class,
     habitat: a.core.habitat,
-    imageSrc: getAnimalImageForDisplay(getAnimalPrimaryImage(a)).src
+    imageSrc: getAnimalImageForDisplay(getAnimalPrimaryImage(a)).src.split('?')[0]
   }));
 
   return (

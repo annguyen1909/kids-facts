@@ -8,7 +8,7 @@ const buttonVariants = cva(
     variants: {
       variant: {
         default:
-          "bg-[var(--forest-surface)] text-white shadow-[0_12px_24px_rgba(61,143,110,0.28)] hover:-translate-y-0.5 hover:bg-[color:color-mix(in_srgb,var(--forest-surface)_86%,white)]",
+          "bg-[var(--forest-surface)] text-white shadow-[0_12px_24px_rgba(61,143,110,0.28)] hover:-translate-y-0.5 hover:shadow-[var(--shadow-glow)] hover:bg-[color:color-mix(in_srgb,var(--forest-surface)_86%,white)] shimmer-sweep",
         secondary:
           "bg-[var(--surface-strong)] text-[var(--forest)] ring-1 ring-[var(--line)] hover:-translate-y-0.5 hover:bg-[var(--surface)]",
         ghost:

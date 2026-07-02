@@ -49,12 +49,12 @@ export function DiscoveryStrip() {
           <Link
             key={path.href}
             href={path.href}
-            className={`discovery-card ${toneClass[path.tone]}`}
+            className={`discovery-card ${toneClass[path.tone]} backdrop-blur-md shadow-[var(--shadow-elevated)] group`}
           >
             <span className="discovery-card__step" aria-hidden="true">
               {String(index + 1).padStart(2, "0")}
             </span>
-            <span className="discovery-card__icon" aria-hidden>
+            <span className="discovery-card__icon transition-transform duration-300 group-hover:-translate-y-1 group-hover:shadow-lg" aria-hidden>
               {index === 0 ? (
                 <Compass className="h-5 w-5" strokeWidth={2.25} />
               ) : (

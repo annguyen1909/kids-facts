@@ -57,7 +57,7 @@ export function LandingHero({
           <p className="eyebrow text-white/70 font-semibold uppercase tracking-widest text-sm mb-4">
             Field Guide Expedition
           </p>
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white leading-[1.1] font-serif">
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.1] font-serif text-transparent bg-clip-text bg-gradient-to-br from-white via-white to-white/50">
             Explore wildlife like a naturalist in the field
           </h1>
           <p className="mt-6 text-lg sm:text-xl leading-relaxed text-white/80 max-w-2xl font-light">
@@ -65,7 +65,7 @@ export function LandingHero({
             moving from one discovery to the next.
           </p>
           
-          <form action="/animals" className="mt-8 relative max-w-md group">
+          <form action="/animals" className="mt-8 relative w-full max-w-md group transition-[max-width] duration-500 ease-out focus-within:max-w-lg">
             <label htmlFor="landing-search" className="sr-only">
               Search animals
             </label>
@@ -83,12 +83,12 @@ export function LandingHero({
 
           <div className="mt-8 flex flex-wrap gap-4">
             <Link href="/animals">
-              <Button size="lg" className="bg-[var(--forest)] text-white hover:bg-[var(--forest-deep)] border-none px-8 rounded-full h-12 text-base">
+              <Button size="lg" className="bg-[var(--forest)] text-white hover:bg-[var(--forest-deep)] hover:shadow-[var(--shadow-glow)] border-none px-8 rounded-full h-12 text-base shimmer-sweep transition-all duration-300">
                 Explore animals
               </Button>
             </Link>
             <Link href={`/animals/${heroAnimal.core.slug}`}>
-              <Button size="lg" variant="secondary" className="bg-white/5 backdrop-blur-sm border-white/20 text-white hover:bg-white/15 hover:text-white rounded-full h-12 text-base">
+              <Button size="lg" variant="secondary" className="bg-white/5 backdrop-blur-sm border-white/20 text-white hover:bg-white/15 hover:text-white rounded-full h-12 text-base transition-all duration-300 hover:shadow-[0_8px_30px_rgba(255,255,255,0.12)]">
                 Read about {heroAnimal.core.name}
               </Button>
             </Link>
@@ -97,7 +97,7 @@ export function LandingHero({
 
         {/* Right Side: Glassmorphic Field Note */}
         <aside 
-          className="w-full lg:w-[420px] shrink-0 bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-6 ambient-glow relative overflow-hidden group/card mt-12 lg:mt-0"
+          className="w-full lg:w-[420px] shrink-0 bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-6 ambient-glow shadow-[var(--shadow-elevated)] relative overflow-hidden group/card mt-12 lg:mt-0 transition-all duration-500 hover:shadow-[var(--shadow-glow)] hover:-translate-y-1"
           style={{ '--ambient-color': 'rgba(122, 168, 196, 0.4)' } as React.CSSProperties}
         >
           <div className="absolute inset-0 bg-gradient-to-br from-white/10 to-transparent opacity-50 pointer-events-none" />
