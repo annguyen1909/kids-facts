@@ -5,7 +5,7 @@ import { PageHeroShell } from "@/components/animals/page-hero-shell";
 import { JsonLd } from "@/components/layout/json-ld";
 import { MdxArticle } from "@/components/mdx/mdx-article";
 import { formatFeaturedPageLabel } from "@/lib/content";
-import { getAbsoluteUrl, getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
+import { getAbsoluteUrl, getAnimalPrimaryImage } from "@/lib/images";
 import { getHubIndexPath, getHubTypeLabel, isNavigableInternalPath } from "@/lib/routes";
 import { buildBreadcrumbSchema, buildHubSchema } from "@/lib/schema";
 import type { AnimalRecord, HubRecord } from "@/lib/types";

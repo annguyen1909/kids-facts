@@ -2,7 +2,6 @@ import type { Metadata, Viewport } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import { AdSenseScript } from "@/components/layout/adsense-script";
 import { CookieConsent } from "@/components/layout/cookie-consent";
-import { ThemeScript } from "@/components/layout/theme-script";
 import { GoogleAnalytics } from "@/components/layout/google-analytics";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";

@@ -22,6 +22,14 @@ export function isPublishableDietLabel(label: string): boolean {
   return !blocked.some((term) => normalized.includes(term));
 }
 
+export function isPublishableFamilyLabel(label: string): boolean {
+  const normalized = label.trim().toLowerCase();
+  if (!normalized) return false;
+
+  const blocked = ["pending", "tbd", "unknown", "unassigned", "review"];
+  return !blocked.some((term) => normalized.includes(term));
+}
+
 export type HubCluster = {
   slug: string;
   label: string;
@@ -42,14 +50,19 @@ function buildCluster(
   slug: string,
   label: string,
   animals: AnimalRecord[],
-  type: "habitats" | "diets",
+  type: "habitats" | "diets" | "families",
 ): HubCluster {
   const displayLabel = formatDisplayLabel(label);
   const name = `${displayLabel} Animals`;
-  const description =
-    type === "diets"
-      ? `Explore ${displayLabel.toLowerCase()} animals with wildlife photos, quick facts, and full animal pages.`
-      : `Discover animals that live in ${displayLabel.toLowerCase()} habitats — photos and facts for curious readers.`;
+  let description: string;
+
+  if (type === "diets") {
+    description = `Explore ${displayLabel.toLowerCase()} animals with wildlife photos, quick facts, and full animal pages.`;
+  } else if (type === "families") {
+    description = `Explore animals in the ${displayLabel} family with wildlife photos, quick facts, and related species pages.`;
+  } else {
+    description = `Discover animals that live in ${displayLabel.toLowerCase()} habitats — photos and facts for curious readers.`;
+  }
 
   return {
     slug,
@@ -120,6 +133,35 @@ export function buildDietClusters(animals: AnimalRecord[]): HubCluster[] {
   );
 }
 
+export function buildFamilyClusters(animals: AnimalRecord[]): HubCluster[] {
+  const bySlug = new Map<string, { label: string; animals: AnimalRecord[] }>();
+
+  for (const animal of animals) {
+    const family = animal.core.taxonomy.family;
+    if (!isPublishableFamilyLabel(family)) continue;
+
+    const slug = toHubSlug(family);
+    if (!slug) continue;
+
+    const entry = bySlug.get(slug) ?? { label: family, animals: [] };
+    if (!entry.animals.some((item) => item.core.slug === animal.core.slug)) {
+      entry.animals.push(animal);
+    }
+    bySlug.set(slug, entry);
+  }
+
+  return sortClusters(
+    [...bySlug.entries()].map(([slug, { label, animals: clusterAnimals }]) =>
+      buildCluster(
+        slug,
+        label,
+        clusterAnimals.sort((a, b) => a.core.name.localeCompare(b.core.name)),
+        "families",
+      ),
+    ),
+  );
+}
+
 export function clusterToHubRecord(cluster: HubCluster, type: HubType): HubRecord {
   return {
     id: `cluster-${type}-${cluster.slug}`,
@@ -156,5 +198,11 @@ export const getPrimaryHabitatSlug = getHabitatSlug;
 export function getDietSlug(animal: AnimalRecord): string | undefined {
   return isPublishableDietLabel(animal.core.dietType)
     ? toHubSlug(animal.core.dietType)
+    : undefined;
+}
+
+export function getFamilySlug(animal: AnimalRecord): string | undefined {
+  return isPublishableFamilyLabel(animal.core.taxonomy.family)
+    ? toHubSlug(animal.core.taxonomy.family)
     : undefined;
 }

@@ -59,9 +59,9 @@ export function SiteFooter() {
               <Image
                 src="/brand/logo-side-nobg.png"
                 alt=""
-                width={56}
-                height={56}
-                className="relative transition-transform duration-500 hover:scale-105 drop-shadow-md"
+                width={610}
+                height={701}
+                className="relative h-14 w-auto transition-transform duration-500 hover:scale-105 drop-shadow-md"
               />
               <span className="relative text-xl font-serif font-bold tracking-tight text-[var(--forest-deep)]">
                 {siteConfig.name}

@@ -40,7 +40,7 @@ export function isNavigableInternalPath(path: string) {
 
   if (staticRoutes.has(normalized)) return true;
   if (normalized.startsWith("/animals/compare")) return siteFeatures.compare;
-  if (normalized.startsWith("/topics/")) return true;
+  if (normalized.startsWith("/topics/")) return siteFeatures.topics;
   if (normalized.startsWith("/animals/")) return true;
   if (normalized.startsWith("/habitats/")) return true;
   if (normalized.startsWith("/diets/")) return true;

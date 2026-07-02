@@ -23,8 +23,8 @@ export function SiteHeader() {
           <Image
             src="/brand/logo-side-nobg.png"
             alt=""
-            width={56}
-            height={56}
+            width={610}
+            height={701}
             className="site-header__logo drop-shadow-md"
             priority
           />

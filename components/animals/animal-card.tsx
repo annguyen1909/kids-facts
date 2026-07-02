@@ -9,7 +9,7 @@ import {
   getCoverObjectPosition,
 } from "@/lib/images";
 import { ConservationStatusBadge } from "@/components/ui/conservation-status-badge";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card } from "@/components/ui/card";
 
 type AnimalCardProps = {
   animal: AnimalCardRecord | AnimalRecord;

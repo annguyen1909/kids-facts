@@ -190,7 +190,7 @@ img {
 }
 
 .site-header__logo {
-  width: 3rem;
+  width: auto;
   height: 3rem;
 }
 
@@ -341,7 +341,7 @@ img {
   }
 
   .site-header__logo {
-    width: 3.5rem;
+    width: auto;
     height: 3.5rem;
   }
 }
@@ -3422,6 +3422,28 @@ html.dark {
   .animate-on-scroll,
   .animate-on-scroll-fast,
   .parallax-bg {
+    animation: none !important;
+  }
+}
+
+/* Page enter transition (replaces framer-motion template) */
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-transition {
+  animation: page-enter 0.35s cubic-bezier(0.21, 0.47, 0.32, 0.98) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-transition {
     animation: none !important;
   }
 }

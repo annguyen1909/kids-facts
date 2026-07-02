@@ -69,7 +69,7 @@ export function AnimalPageHero({
 
         {teaser ? (
           <p className="font-serif text-2xl sm:text-3xl italic text-white/80 mb-6 max-w-3xl leading-relaxed drop-shadow-md">
-            "{teaser}"
+            &ldquo;{teaser}&rdquo;
           </p>
         ) : null}
 

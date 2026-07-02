@@ -16,6 +16,7 @@ import { cleanScientificName } from "@/lib/animals/normalizer";
 import { formatDisplayLabel } from "@/lib/format-display";
 import {
   buildDietClusters,
+  buildFamilyClusters,
   buildHabitatClusters,
   clusterToHubRecord,
   mergeHubWithCluster,
@@ -552,9 +553,12 @@ export function resolveComparisonRoute(
     : null;
 }
 
-function getClusterHubs(type: "habitats" | "diets"): HubCluster[] {
+function getClusterHubs(type: "habitats" | "diets" | "families"): HubCluster[] {
   const animals = getPublishedAnimals();
-  return type === "habitats" ? buildHabitatClusters(animals) : buildDietClusters(animals);
+
+  if (type === "habitats") return buildHabitatClusters(animals);
+  if (type === "diets") return buildDietClusters(animals);
+  return buildFamilyClusters(animals);
 }
 
 export function getHabitatClusters() {
@@ -565,7 +569,14 @@ export function getDietClusters() {
   return getClusterHubs("diets");
 }
 
-function resolveClusterHubRoute(type: "habitats" | "diets", hubSlug: string): ResolvedEntity | null {
+export function getFamilyClusters() {
+  return getClusterHubs("families");
+}
+
+function resolveClusterHubRoute(
+  type: "habitats" | "diets" | "families",
+  hubSlug: string,
+): ResolvedEntity | null {
   const cluster = getClusterHubs(type).find((entry) => entry.slug === hubSlug);
   if (!cluster) return null;
 
@@ -578,7 +589,7 @@ function resolveClusterHubRoute(type: "habitats" | "diets", hubSlug: string): Re
 }
 
 export function resolveHubRoute(type: HubType, hubSlug: string): ResolvedEntity | null {
-  if (type === "habitats" || type === "diets") {
+  if (type === "habitats" || type === "diets" || type === "families") {
     return resolveClusterHubRoute(type, hubSlug);
   }
 
@@ -621,4 +632,8 @@ export function getStaticHabitatHubRoutes() {
 
 export function getStaticDietHubRoutes() {
   return getDietClusters().map((cluster) => ({ hubSlug: cluster.slug }));
+}
+
+export function getStaticFamilyHubRoutes() {
+  return getFamilyClusters().map((cluster) => ({ hubSlug: cluster.slug }));
 }

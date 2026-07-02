@@ -5,6 +5,7 @@ import {
   getPublishedAnimals,
   getHabitatClusters,
   getDietClusters,
+  getFamilyClusters,
 } from "@/lib/content";
 import { getAbsoluteUrl } from "@/lib/images";
 import { isIndexablePath } from "@/lib/routes";
@@ -103,9 +104,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }))
     : [];
 
+  const familyHubPages: MetadataRoute.Sitemap = getFamilyClusters().map((cluster) => ({
+    url: `${siteConfig.url}/families/${cluster.slug}`,
+    changeFrequency: "weekly" as const,
+    priority: 0.7,
+    lastModified: cluster.updatedAt,
+  }));
+
   const editorialHubPages: MetadataRoute.Sitemap = getAllHubs()
     .filter((hub) => {
-      if (hub.type === "habitats" || hub.type === "diets") return false;
+      if (hub.type === "habitats" || hub.type === "diets" || hub.type === "families") {
+        return false;
+      }
       return isIndexablePath(`/${hub.type}/${hub.slug}`);
     })
     .map((hub) => ({
@@ -130,6 +140,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...animalPages,
     ...habitatHubPages,
     ...dietHubPages,
+    ...familyHubPages,
     ...editorialHubPages,
   ];
 }

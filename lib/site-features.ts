@@ -3,7 +3,7 @@ export const siteFeatures = {
   habitats: true,
   diets: true,
   compare: false,
-  topics: false,
+  topics: true,
 } as const;
 
 export const disabledFeatureRobots = {

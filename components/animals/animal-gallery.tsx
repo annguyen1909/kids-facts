@@ -1,25 +1,12 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState, type CSSProperties, type TouchEvent } from "react";
+import { useCallback, useEffect, useMemo, useState, type TouchEvent } from "react";
 import { createPortal } from "react-dom";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 import { AnimalImageFrame } from "@/components/ui/animal-image-frame";
 import { getAnimalImageForDisplay } from "@/lib/images";
 import type { AnimalImage, AnimalImageKind } from "@/lib/types";
-
-const GALLERY_TYPE_ACCENTS: Record<AnimalImageKind, { bg: string; fg: string }> = {
-  hero: { bg: "#ede9fe", fg: "#7c3aed" },
-  habitat: { bg: "#dbeafe", fg: "#2563eb" },
-  diet: { bg: "#dcfce7", fg: "#16a34a" },
-  baby: { bg: "#fce7f3", fg: "#db2777" },
-  family: { bg: "#ffedd5", fg: "#ea580c" },
-  range: { bg: "#ccfbf1", fg: "#0d9488" },
-  size: { bg: "#e0e7ff", fg: "#4f46e5" },
-  closeup: { bg: "#fef9c3", fg: "#ca8a04" },
-  "fun-fact": { bg: "#ffe4e6", fg: "#e11d48" },
-  gallery: { bg: "#f3f4f6", fg: "#4b5563" },
-};
 
 const IMAGE_TYPE_LABELS: Record<AnimalImageKind, string> = {
   hero: "Featured",

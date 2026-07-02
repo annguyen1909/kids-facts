@@ -1,10 +1,8 @@
-import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import type { AnimalRecord } from "@/lib/types";
 import { getRelatedAnimals } from "@/lib/content";
-import { getAnimalImageForDisplay, getAnimalPrimaryImage } from "@/lib/images";
-import { getDietSlug, getHabitatSlug, toHubSlug } from "@/lib/hub-clusters";
+import { getDietSlug, getFamilySlug, getHabitatSlug } from "@/lib/hub-clusters";
 import { createFeaturedUsage, pickUniqueFeaturedAnimals } from "@/lib/unique-featured-animals";
 
 import { AnimalCard } from "@/components/animals/animal-card";
@@ -47,7 +45,7 @@ export function RelatedClusters({ animal }: { animal: AnimalRecord }) {
   const related = getRelatedAnimals(animal);
   const habitatSlug = getHabitatSlug(animal);
   const dietSlug = getDietSlug(animal);
-  const familySlug = toHubSlug(animal.core.taxonomy.family);
+  const familySlug = getFamilySlug(animal);
 
   const clusters: ClusterConfig[] = [
     { title: "Featured picks", animals: related.editorial },

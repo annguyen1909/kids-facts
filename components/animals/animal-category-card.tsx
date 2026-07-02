@@ -18,7 +18,6 @@ export function AnimalCategoryCard({
   category,
   animalCount,
   image,
-  variant = "photo",
   tone = "forest",
 }: AnimalCategoryCardProps) {
   const toneClasses = {

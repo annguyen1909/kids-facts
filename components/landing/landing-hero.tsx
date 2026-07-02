@@ -13,13 +13,6 @@ type LandingHeroProps = {
   heroPanelImage: ReturnType<typeof getAnimalImageForDisplay>;
 };
 
-const quickLinks = [
-  { href: "/animals", label: "All animals" },
-  { href: "#explore-trails", label: "Habitats & diets" },
-  { href: "#featured-topics", label: "Categories" },
-  { href: "#learning-zone", label: "Learning resources" },
-] as const;
-
 export function LandingHero({
   animalCount,
   heroAnimal,
